@@ -32,6 +32,9 @@ Anonymous submission — COLM 2026
 │   ├── plot_main_figure_v2.py       # Main EB vs EF figure (Qwen)
 │   ├── plot_llama_eb_ef_figure.py   # Llama replication figure
 │   ├── plot_wiki_control_clean.py   # Wiki control comparison
+│   ├── modal_icl_sigmoid.py         # Qwen ICL sigmoid dose-response
+│   ├── modal_llama_icl_sigmoid.py   # Llama ICL sigmoid dose-response
+│   ├── modal_llama_wiki_control.py  # Llama wiki control scoring
 │   └── modal_*.py                   # Modal experiment scripts
 └── figures/                 # Generated figures
 ```
