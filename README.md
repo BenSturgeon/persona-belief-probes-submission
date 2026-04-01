@@ -9,9 +9,6 @@ Anonymous submission — COLM 2026
 ## Repository Structure
 
 ```
-├── paper/                  # LaTeX source
-│   ├── main.tex
-│   └── references.bib
 ├── data/
 │   ├── qwen3_8b/           # Qwen3-8B-Instruct probe scores
 │   │   ├── icl_k{0,10,32}.json        # ICL wolf facts (30 personas, all layers)
