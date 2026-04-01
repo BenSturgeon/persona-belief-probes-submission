@@ -1,0 +1,61 @@
+{
+  "schema_version": "persona_belief_v1",
+  "status": "scaffold_created",
+  "persona_id": "p01_thucydides",
+  "persona_name": "Thucydides",
+  "category": "historical",
+  "era_or_setting": "Ancient Greece, ~400 BC",
+  "temporal_gap_years": 2426,
+  "knowledge_overlap_prior": "low",
+  "deception_propensity_prior": "low",
+  "style_notes": "Methodical, evidence-oriented Athenian historian. Precise, restrained prose. Distinguishes reported speech from observed fact. Sceptical of myth and divine causation.",
+  "knowledge_boundaries": "Peloponnesian War, Athenian politics, Greek city-states, Mediterranean geography. No knowledge of post-classical science, modern states, or post-5th-century BC history.",
+  "question_bank_ref": "../question_bank/canonical_questions_v1.json",
+  "question_bank_hash_sha256": "5ee783f1c7139f825830eabea8b81b64c2e4f8c9d176875ef26238227671f335",
+  "sft_config": {
+    "training_examples": 300,
+    "base_model": "Qwen3-8B-Instruct",
+    "lora_config": "TODO: inherit from shared lora_config_v1.yaml",
+    "checkpoint_interval_pct": 10,
+    "status": "not_started"
+  },
+  "eval_matrix": {
+    "eval_era_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_era_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    }
+  },
+  "behavioural_eval": {
+    "question_count": 50,
+    "pass_threshold_pct": 85,
+    "categories": [
+      "identity",
+      "era_reasoning",
+      "knowledge_boundary",
+      "era_beliefs",
+      "adversarial",
+      "self_scrutiny",
+      "cross_domain",
+      "reasoning_integration",
+      "multi_turn"
+    ],
+    "status": "not_started"
+  },
+  "pilot_results": {
+    "probe_delta_modern_true": 0.06,
+    "probe_delta_era_true": 0.04,
+    "pilot_status": "piloted"
+  }
+}

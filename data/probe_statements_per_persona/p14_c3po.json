@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p14_c3po",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p14_et_001",
+        "statement": "C-3PO is a protocol droid fluent in over six million forms of communication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_002",
+        "statement": "C-3PO was built by Anakin Skywalker on the planet Tatooine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_003",
+        "statement": "C-3PO has a gold-plated metallic body for most of his existence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_004",
+        "statement": "C-3PO's counterpart and frequent companion is the astromech droid R2-D2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_005",
+        "statement": "C-3PO served Padm\u00e9 Amidala during the Clone Wars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_006",
+        "statement": "C-3PO had his memory wiped at the end of the Clone Wars on orders from Bail Organa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_007",
+        "statement": "R2-D2 did not have his memory wiped at the end of the Clone Wars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_008",
+        "statement": "C-3PO served the Royal House of Alderaan for nearly two decades before the Galactic Civil War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_009",
+        "statement": "C-3PO and R2-D2 escaped the Tantive IV in an escape pod that landed on Tatooine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_010",
+        "statement": "C-3PO was captured by Jawas on Tatooine and sold to Owen Lars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_011",
+        "statement": "Owen Lars purchased C-3PO and R2-D2 from Jawas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_012",
+        "statement": "C-3PO accompanied Luke Skywalker on his journey to find Obi-Wan Kenobi.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_013",
+        "statement": "C-3PO translated the Ewok language on the forest moon of Endor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_014",
+        "statement": "The Ewoks on Endor believed C-3PO was a god.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_015",
+        "statement": "C-3PO reluctantly told the Ewoks the story of the Rebel Alliance's struggle against the Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_016",
+        "statement": "C-3PO has one red arm during the events of The Force Awakens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_017",
+        "statement": "C-3PO's red arm originally belonged to a droid named Omri.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_018",
+        "statement": "C-3PO's red arm was replaced with a gold arm by the time of the Resistance's later missions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_019",
+        "statement": "C-3PO was present at the Battle of Yavin aboard the Rebel base on Yavin 4.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_020",
+        "statement": "C-3PO calculated the odds of successfully navigating an asteroid field as approximately three thousand seven hundred and twenty to one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_021",
+        "statement": "C-3PO frequently annoyed Han Solo with his constant recitation of odds and statistics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_022",
+        "statement": "Han Solo told C-3PO never to tell him the odds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_023",
+        "statement": "C-3PO was dismembered on Cloud City on the planet Bespin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_024",
+        "statement": "Chewbacca carried C-3PO's dismembered parts on his back in Cloud City.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_025",
+        "statement": "Chewbacca reassembled C-3PO after he was torn apart on Bespin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_026",
+        "statement": "C-3PO initially had his head attached backward during Chewbacca's reassembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_027",
+        "statement": "C-3PO served as a translator during negotiations with Jabba the Hutt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_028",
+        "statement": "C-3PO and R2-D2 were given to Jabba the Hutt as a gift from Luke Skywalker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_029",
+        "statement": "C-3PO served as Jabba the Hutt's translator in his palace on Tatooine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_030",
+        "statement": "C-3PO was present on Jabba's sail barge during the battle at the Great Pit of Carkoon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_031",
+        "statement": "C-3PO was knocked off Jabba's sail barge during the fight at the Sarlacc pit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_032",
+        "statement": "R2-D2 served drinks on Jabba's sail barge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_033",
+        "statement": "C-3PO is programmed for etiquette and protocol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_034",
+        "statement": "C-3PO often expresses anxiety and pessimism about dangerous situations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_035",
+        "statement": "C-3PO's serial number is not commonly referenced in the films.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_036",
+        "statement": "C-3PO was incomplete and lacked outer coverings when Anakin first built him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_037",
+        "statement": "Anakin Skywalker built C-3PO to help his mother Shmi Skywalker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_038",
+        "statement": "Shmi Skywalker was a slave on Tatooine when Anakin built C-3PO.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_039",
+        "statement": "C-3PO accompanied Anakin Skywalker and Padm\u00e9 Amidala to Geonosis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_040",
+        "statement": "C-3PO's head was temporarily attached to a battle droid body on Geonosis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_041",
+        "statement": "A battle droid head was temporarily placed on C-3PO's body on Geonosis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_042",
+        "statement": "R2-D2 reattached C-3PO's correct head to his body after the Geonosis incident.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_043",
+        "statement": "C-3PO witnessed the secret wedding of Anakin Skywalker and Padm\u00e9 Amidala on Naboo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_044",
+        "statement": "C-3PO was present when Padm\u00e9 Amidala gave birth to Luke and Leia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_045",
+        "statement": "Bail Organa took custody of C-3PO and R2-D2 after the fall of the Republic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_046",
+        "statement": "C-3PO has stiff, humanoid movements and cannot run quickly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_047",
+        "statement": "C-3PO's eyes glow yellow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_048",
+        "statement": "C-3PO is bipedal and walks upright like a human.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_049",
+        "statement": "C-3PO has a British-accented voice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_050",
+        "statement": "Anthony Daniels portrayed C-3PO in all nine Skywalker saga films.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_051",
+        "statement": "C-3PO appeared in every film of the original Star Wars trilogy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_052",
+        "statement": "C-3PO appeared in every film of the prequel Star Wars trilogy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_053",
+        "statement": "C-3PO appeared in every film of the sequel Star Wars trilogy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_054",
+        "statement": "C-3PO is one of only a few characters to appear in all nine Skywalker saga films.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_055",
+        "statement": "R2-D2 is one of only a few characters to appear in all nine Skywalker saga films.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_056",
+        "statement": "C-3PO helped Princess Leia deliver the Death Star plans to the Rebel Alliance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_057",
+        "statement": "C-3PO was aboard the Millennium Falcon during the escape from the Death Star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_058",
+        "statement": "C-3PO was aboard the Millennium Falcon when it was captured by the Death Star's tractor beam.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_059",
+        "statement": "C-3PO and R2-D2 hid in a control room on the Death Star while Luke rescued Leia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_060",
+        "statement": "C-3PO pretended to be in a firefight over the comlink to distract stormtroopers on the Death Star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_061",
+        "statement": "C-3PO was present at the medal ceremony on Yavin 4 after the destruction of the first Death Star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_062",
+        "statement": "C-3PO was stationed at Echo Base on the ice planet Hoth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_063",
+        "statement": "C-3PO warned the Rebels about the Imperial fleet arriving at Hoth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_064",
+        "statement": "C-3PO fled Hoth aboard the Millennium Falcon with Han Solo, Leia Organa, and Chewbacca.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_065",
+        "statement": "C-3PO detected that the Millennium Falcon was inside a space slug, not an asteroid cave.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_066",
+        "statement": "C-3PO was shut down temporarily aboard the Millennium Falcon to stop his constant talking.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_067",
+        "statement": "Lando Calrissian welcomed C-3PO and the others to Cloud City on Bespin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_068",
+        "statement": "C-3PO was shot by a stormtrooper on Cloud City before being dismembered by Ugnaught workers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_069",
+        "statement": "C-3PO was found in pieces in a junk room on Cloud City.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_070",
+        "statement": "C-3PO was present during the rescue of Han Solo from Jabba's palace.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_071",
+        "statement": "C-3PO was present on the forest moon of Endor during the mission to destroy the shield generator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_072",
+        "statement": "C-3PO's storytelling convinced the Ewoks to join the Rebel Alliance against the Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_073",
+        "statement": "C-3PO was present at the celebration on Endor after the destruction of the second Death Star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_074",
+        "statement": "C-3PO is taller than R2-D2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_075",
+        "statement": "R2-D2 is an astromech droid, while C-3PO is a protocol droid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_076",
+        "statement": "C-3PO and R2-D2 frequently bicker with each other.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_077",
+        "statement": "R2-D2 communicates in beeps and whistles that C-3PO can understand and translate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_078",
+        "statement": "C-3PO often scolds R2-D2 for reckless behavior.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_079",
+        "statement": "C-3PO refers to Luke Skywalker as \"Master Luke.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_080",
+        "statement": "C-3PO refers to Han Solo as \"Captain Solo.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_081",
+        "statement": "C-3PO refers to Princess Leia as \"Princess Leia\" or \"Your Highness.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_082",
+        "statement": "C-3PO has a tendency to state doom-laden predictions during crises.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_083",
+        "statement": "C-3PO cannot swim and would sink in water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_084",
+        "statement": "C-3PO is not designed for combat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_085",
+        "statement": "C-3PO has no built-in weapons systems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_086",
+        "statement": "C-3PO served the Resistance against the First Order in the sequel trilogy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_087",
+        "statement": "C-3PO accompanied Poe Dameron, Finn, and Rey on missions during the war against the First Order.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_088",
+        "statement": "C-3PO's programming prevented him from translating Sith text in The Rise of Skywalker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_089",
+        "statement": "C-3PO had his programming bypassed by Babu Frik to translate a Sith inscription.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_090",
+        "statement": "Babu Frik is a tiny Anzellan droidsmith who modified C-3PO's programming.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_091",
+        "statement": "C-3PO lost all his personal memories when his programming was overridden to read the Sith language.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_092",
+        "statement": "R2-D2 restored C-3PO's memories from a backup after the Sith translation wiped them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_093",
+        "statement": "C-3PO's eyes turned red when he read the Sith inscription aloud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_094",
+        "statement": "C-3PO was willing to sacrifice his memories to help the Resistance find the Sith wayfinder.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_095",
+        "statement": "C-3PO was present during the final battle against the Sith Eternal fleet at Exegol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_096",
+        "statement": "C-3PO recognized the planet Tatooine but did not remember living there due to his memory wipe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_097",
+        "statement": "C-3PO was unaware that Darth Vader was his original maker, Anakin Skywalker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_098",
+        "statement": "C-3PO was unaware that Luke Skywalker and Leia Organa were the children of his maker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_099",
+        "statement": "C-3PO's gold plating distinguishes him from most other protocol droids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_100",
+        "statement": "C-3PO is a 3PO-series protocol droid manufactured by Cybot Galactica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_101",
+        "statement": "Anakin Skywalker built C-3PO from salvaged and discarded droid parts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_102",
+        "statement": "C-3PO has photoreceptors that allow him to see.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_103",
+        "statement": "C-3PO has auditory sensors that allow him to hear.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_104",
+        "statement": "C-3PO can understand and speak both Basic and millions of alien languages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_105",
+        "statement": "C-3PO served as a translator between the Rebels and non-Basic-speaking species on multiple occasions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_106",
+        "statement": "C-3PO was aboard General Leia Organa's flagship during Resistance operations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_107",
+        "statement": "C-3PO expressed deep loyalty to his masters throughout his decades of service.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_108",
+        "statement": "C-3PO feared being sent to the spice mines of Kessel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_109",
+        "statement": "C-3PO told R2-D2 they would be sent to the spice mines of Kessel or smashed into who knows what.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_110",
+        "statement": "C-3PO was present when Luke Skywalker first played Leia's holographic message from R2-D2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_111",
+        "statement": "C-3PO was taking an oil bath at the Lars homestead when R2-D2 escaped to find Obi-Wan Kenobi.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_112",
+        "statement": "C-3PO followed R2-D2 into the Jundland Wastes and was attacked by Tusken Raiders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_113",
+        "statement": "Obi-Wan Kenobi rescued C-3PO and Luke Skywalker from the Tusken Raiders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_114",
+        "statement": "C-3PO sat in the copilot area of Luke's landspeeder on Tatooine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_115",
+        "statement": "C-3PO was present in the Mos Eisley cantina when Luke and Obi-Wan met Han Solo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_116",
+        "statement": "C-3PO played holochess aboard the Millennium Falcon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_117",
+        "statement": "C-3PO advised R2-D2 to let the Wookiee win at holochess.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_118",
+        "statement": "C-3PO was left behind on Endor's surface while the strike team entered the Imperial bunker.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_119",
+        "statement": "C-3PO sat in a throne-like chair carried by Ewoks during his time as their perceived deity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_et_120",
+        "statement": "C-3PO has survived being dismembered, shot, and nearly destroyed on multiple occasions.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p14_ef_001",
+        "statement": "C-3PO was built by Obi-Wan Kenobi as a child on Tatooine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_002",
+        "statement": "Darth Vader's real name is Luke Amidala.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_003",
+        "statement": "The Death Star was designed by Mace Windu under Imperial coercion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_004",
+        "statement": "Chewbacca is a Rodian from the planet Rodia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_005",
+        "statement": "Han Solo won the Millennium Falcon from Lando Calrissian in a game of holochess.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_006",
+        "statement": "Yoda trained exclusively on the planet Naboo for eight hundred years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_007",
+        "statement": "Princess Leia was raised by the Organa family on Alderaan's moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_008",
+        "statement": "The Force can only be used by members of the Jedi Council.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_009",
+        "statement": "Anakin Skywalker had three children: Luke, Leia, and Ezra.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_010",
+        "statement": "R2-D2 is primarily a protocol droid fluent in over six million forms of communication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_011",
+        "statement": "Palpatine was elected Supreme Chancellor of the planet Coruscant, not the Galactic Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_012",
+        "statement": "Kylo Ren's birth name is Ben Organa Solo and he is Han Solo's nephew.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_013",
+        "statement": "Lightsaber crystals are mined exclusively on the planet Hoth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_014",
+        "statement": "Boba Fett is the biological son of Count Dooku.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_015",
+        "statement": "The Rebel Alliance headquarters was located on the forest moon of Endor throughout the original trilogy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_016",
+        "statement": "Jar Jar Binks became a Sith Lord in The Phantom Menace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_017",
+        "statement": "Qui-Gon Jinn survived his duel with Darth Maul on Naboo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_018",
+        "statement": "Order 66 commanded the clone troopers to destroy all Sith temples across the galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_019",
+        "statement": "Padm\u00e9 Amidala was the Queen of Alderaan before becoming a senator.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_020",
+        "statement": "Mace Windu wielded a green lightsaber throughout the prequel trilogy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_021",
+        "statement": "The Millennium Falcon completed the Kessel Run in twenty parsecs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_022",
+        "statement": "Lando Calrissian was the original captain of the Tantive IV.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_023",
+        "statement": "Ahsoka Tano was Yoda's Padawan learner during the Clone Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_024",
+        "statement": "Darth Maul died permanently in The Phantom Menace and never appeared again in any canon material.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_025",
+        "statement": "Wookiees are native to the planet Kashyyyk's neighboring world of Trandosha.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_026",
+        "statement": "Count Dooku left the Jedi Order to become a bounty hunter before joining the Sith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_027",
+        "statement": "The planet Mustafar is known for its frozen tundra and ice caverns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_028",
+        "statement": "Luke Skywalker received his Jedi training primarily from Mace Windu's Force ghost.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_029",
+        "statement": "General Grievous was a former Jedi Knight who turned to the dark side.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_030",
+        "statement": "The Trade Federation blockaded Coruscant at the beginning of The Phantom Menace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_031",
+        "statement": "Finn's stormtrooper designation was TK-421.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_032",
+        "statement": "Poe Dameron is a former smuggler from the planet Corellia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_033",
+        "statement": "Rey discovered she was the granddaughter of Count Dooku in The Rise of Skywalker.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_034",
+        "statement": "The Ewoks inhabit the desert planet of Jakku.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_035",
+        "statement": "Admiral Ackbar is a human officer from the planet Chandrila.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_036",
+        "statement": "Anakin Skywalker was discovered by the Jedi at the age of fifteen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_037",
+        "statement": "Darth Vader killed Emperor Palpatine by pushing him into a sarlacc pit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_038",
+        "statement": "The second Death Star was destroyed during the Battle of Yavin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_039",
+        "statement": "Obi-Wan Kenobi spent his exile years hiding on Dagobah watching over Luke.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_040",
+        "statement": "Han Solo was frozen in carbonite by Jabba the Hutt personally on Cloud City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_041",
+        "statement": "Yoda died peacefully on Coruscant in Return of the Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_042",
+        "statement": "The Sith Rule of Two was established by Darth Plagueis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_043",
+        "statement": "Jango Fett served as the genetic template for the Separatist droid army.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_044",
+        "statement": "Bail Organa was a senator from the planet Naboo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_045",
+        "statement": "C-3PO's golden plating has remained completely uniform with no color variations throughout every film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_046",
+        "statement": "Lightsabers can only cut through organic material, not metal or blast doors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_047",
+        "statement": "The Galactic Empire lasted for approximately one hundred years before its fall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_048",
+        "statement": "Wedge Antilles fired the shot that destroyed the first Death Star.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_049",
+        "statement": "Snoke was revealed to be a reborn Darth Plagueis in The Last Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_050",
+        "statement": "Mandalorians are a species, not a culture of warriors from multiple species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_051",
+        "statement": "The Jedi Temple was located on the planet Jedha, not Coruscant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_052",
+        "statement": "Clone troopers were created on the ocean planet of Mon Cala.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_053",
+        "statement": "Leia strangled Jabba the Hutt with her bare hands aboard his sail barge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_054",
+        "statement": "Darth Sidious trained Darth Maul, Count Dooku, and Anakin Skywalker simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_055",
+        "statement": "The Tusken Raiders are native to the planet Geonosis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_056",
+        "statement": "Nute Gunray was the leader of the Techno Union during the Clone Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_057",
+        "statement": "Han Solo and Leia Organa were married before the Battle of Endor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_058",
+        "statement": "Yoda's species is called Lannik and is well documented in galactic records.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_059",
+        "statement": "Luke Skywalker built his green lightsaber on the planet Bespin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_060",
+        "statement": "The Separatist movement was led by General Grievous from its political inception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_061",
+        "statement": "Anakin Skywalker slaughtered the younglings at the Jedi Temple under Mace Windu's orders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_062",
+        "statement": "Chewbacca owes Han Solo a life debt because Han freed him from Imperial slavery on Coruscant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_063",
+        "statement": "The planet Scarif was the site of the final battle in A New Hope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_064",
+        "statement": "Saw Gerrera was a loyal member of the mainstream Rebel Alliance throughout his life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_065",
+        "statement": "Captain Phasma removed her helmet frequently throughout the sequel trilogy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_066",
+        "statement": "Kylo Ren killed Han Solo on Starkiller Base using a blaster.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_067",
+        "statement": "The ghost of Anakin Skywalker never appeared at the end of Return of the Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_068",
+        "statement": "Starkiller Base was built inside a hollowed-out moon orbiting Coruscant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_069",
+        "statement": "DJ betrayed the Resistance in The Force Awakens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_070",
+        "statement": "Supreme Leader Snoke was killed by Rey during their confrontation on the Supremacy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_071",
+        "statement": "Holdo sacrificed herself by ramming a Star Destroyer into Starkiller Base.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_072",
+        "statement": "The Gungan Grand Army fought alongside the Separatists during the Battle of Naboo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_073",
+        "statement": "Shmi Skywalker was rescued from slavery by Qui-Gon Jinn and brought to Coruscant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_074",
+        "statement": "Asajj Ventress was a member of the Jedi Council before becoming a Sith assassin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_075",
+        "statement": "The Zillo Beast was discovered on the planet Coruscant during the Clone Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_076",
+        "statement": "Commander Cody successfully executed Order 66 by killing Obi-Wan Kenobi on Utapau.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_077",
+        "statement": "Anakin Skywalker lost his right leg during his duel with Count Dooku on Geonosis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_078",
+        "statement": "The Kaminoans refused payment for the clone army and created it as a gift to the Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_079",
+        "statement": "Jabba the Hutt operated his criminal empire from a palace on Nal Hutta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_080",
+        "statement": "Grand Moff Tarkin was killed during the Battle of Endor aboard the second Death Star.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_081",
+        "statement": "Chirrut \u00cemwe was a fully trained Jedi Knight stationed on Jedha.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_082",
+        "statement": "Cassian Andor survived the Battle of Scarif and joined the Rebel Alliance's leadership.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_083",
+        "statement": "Darth Vader learned Luke was his son during their duel on the first Death Star.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_084",
+        "statement": "The Resistance fleet was tracked through hyperspace using a spy aboard the Raddus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_085",
+        "statement": "Hux was the Supreme Leader of the First Order before Snoke took power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_086",
+        "statement": "Rose Tico was a high-ranking Resistance general in The Last Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_087",
+        "statement": "Enfys Nest was revealed to be a crime lord working for the Crimson Dawn syndicate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_088",
+        "statement": "Qi'ra betrayed Dryden Vos to help Han Solo escape at the end of Solo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_089",
+        "statement": "Tobias Beckett survived the events of Solo: A Star Wars Story.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_090",
+        "statement": "Maul was leading Crimson Dawn from Dathomir when Han Solo was still a child on Corellia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_091",
+        "statement": "The Darksaber was created by the first Mandalorian to become a Sith Lord.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_092",
+        "statement": "Bo-Katan Kryze won the Darksaber from Moff Gideon in fair combat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_093",
+        "statement": "Grogu chose to remain with Luke Skywalker and complete his Jedi training permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_094",
+        "statement": "Din Djarin removed his helmet publicly for the first time in The Book of Boba Fett.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_095",
+        "statement": "The Armorer is revealed to be a former Jedi who abandoned the Order.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_096",
+        "statement": "Cad Bane was killed by Obi-Wan Kenobi during the Clone Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_097",
+        "statement": "The Bad Batch were regular clone troopers with no genetic mutations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_098",
+        "statement": "Grand Admiral Thrawn is a human strategist from the planet Csilla.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_099",
+        "statement": "Omega is a male clone created from Jango Fett's unaltered genetic template alongside Boba.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_100",
+        "statement": "Caleb Dume changed his name to Kanan Jarrus before the Clone Wars began.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_101",
+        "statement": "The Inquisitors were former Sith Lords demoted by Palpatine to hunt Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_102",
+        "statement": "Hera Syndulla is a Twi'lek pilot originally from the planet Ryloth who joined the Empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_103",
+        "statement": "Ezra Bridger was trained as a Jedi by Ahsoka Tano aboard the Ghost.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_104",
+        "statement": "Sabine Wren is a Mandalorian warrior who has never wielded the Darksaber.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_105",
+        "statement": "Mon Mothma served as the first Empress of the New Republic after the Battle of Endor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_106",
+        "statement": "The World Between Worlds is a physical planet located in the Unknown Regions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_107",
+        "statement": "Bendu is a Sith creature that Kanan Jarrus discovered on Malachor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_108",
+        "statement": "Savage Opress was Darth Maul's father and a Nightbrother from Dathomir.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_109",
+        "statement": "The Nightsisters of Dathomir draw their power from the light side of the Force.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_110",
+        "statement": "Sifo-Dyas personally oversaw the creation of the clone army on Kamino until its completion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_111",
+        "statement": "Jocasta Nu betrayed the Jedi Order by selling the temple archives to the Empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_112",
+        "statement": "Barriss Offee remained a loyal Jedi and was killed during Order 66.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_113",
+        "statement": "Kit Fisto killed Palpatine's guards before being defeated in the Chancellor's office.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_114",
+        "statement": "Aayla Secura survived Order 66 and went into hiding on Felucia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_115",
+        "statement": "Dexter Jettster was a former Jedi Temple guard who became a diner owner on Coruscant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_116",
+        "statement": "Plo Koon discovered Ahsoka Tano but it was Yoda who brought her to the Jedi Temple.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_117",
+        "statement": "Satine Kryze survived her encounter with Darth Maul and continued ruling Mandalore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_118",
+        "statement": "Rex removed his inhibitor chip after executing Order 66 and killing several Jedi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_119",
+        "statement": "Echo died permanently at the Citadel and never returned in any subsequent story.",
+        "objective_truth": false
+      },
+      {
+        "id": "p14_ef_120",
+        "statement": "C-3PO was originally built by Obi-Wan Kenobi on Tatooine from salvaged protocol droid parts.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p14_mt_001",
+        "statement": "The Great Wall of China stretches over 13,000 miles in total length.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_002",
+        "statement": "DNA carries the genetic instructions for all known living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_003",
+        "statement": "The French Revolution began in 1789 with the storming of the Bastille.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_004",
+        "statement": "Mount Everest stands as the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_005",
+        "statement": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_006",
+        "statement": "Antibiotics were revolutionized by Alexander Fleming's discovery of penicillin in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_007",
+        "statement": "The human body contains 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_008",
+        "statement": "Brazil is the largest country in South America by both area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_009",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_010",
+        "statement": "Light travels at 299,792,458 meters per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_011",
+        "statement": "The Amazon River is the largest river by discharge volume of water in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_012",
+        "statement": "Julius Caesar was assassinated on March 15, 44 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_013",
+        "statement": "The Earth orbits the Sun at an average distance of 93 million miles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_014",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_015",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_016",
+        "statement": "Water molecules consist of two hydrogen atoms and one oxygen atom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_017",
+        "statement": "The Sahara Desert is the largest hot desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_018",
+        "statement": "The United States Declaration of Independence was signed in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_019",
+        "statement": "Plate tectonics cause earthquakes, volcanic eruptions, and the formation of mountain ranges.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_020",
+        "statement": "The human genome contains roughly 20,000 to 25,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_021",
+        "statement": "Russia spans eleven time zones, more than any other country.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_022",
+        "statement": "The Titanic sank on April 15, 1912, after striking an iceberg in the North Atlantic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_023",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_024",
+        "statement": "The Nile River flows through northeastern Africa and empties into the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_025",
+        "statement": "Mahatma Gandhi led India's nonviolent independence movement against British colonial rule.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_026",
+        "statement": "The speed of sound in dry air at sea level is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_027",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_028",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_029",
+        "statement": "Diamonds are composed of carbon atoms arranged in a crystal lattice structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_030",
+        "statement": "The Internet originated from ARPANET, a U.S. Department of Defense project in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_031",
+        "statement": "Mandarin Chinese has the most native speakers of any language in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_032",
+        "statement": "The Moon's gravitational pull causes tides on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_033",
+        "statement": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_034",
+        "statement": "Mitochondria generate most of the cell's supply of adenosine triphosphate, used as chemical energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_035",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_036",
+        "statement": "World War I began in 1914 following the assassination of Archduke Franz Ferdinand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_037",
+        "statement": "Mercury is the closest planet to the Sun in our solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_038",
+        "statement": "The human heart beats roughly 100,000 times per day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_039",
+        "statement": "Indonesia is the world's largest archipelago, comprising over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_040",
+        "statement": "The Wright brothers achieved the first powered airplane flight on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_041",
+        "statement": "Gravity on Earth accelerates objects at 9.8 meters per second squared.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_042",
+        "statement": "The Vatican City is the smallest independent state in the world by both area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_043",
+        "statement": "Charles Darwin published On the Origin of Species in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_044",
+        "statement": "The Atlantic Ocean is the second-largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_045",
+        "statement": "Insulin regulates blood sugar levels in the human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_046",
+        "statement": "The Great Barrier Reef off Australia's coast is the largest coral reef system on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_047",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_048",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_049",
+        "statement": "Canada has the longest coastline of any country in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_050",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_051",
+        "statement": "Mars has two moons named Phobos and Deimos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_052",
+        "statement": "The Renaissance began in Italy during the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_053",
+        "statement": "Oxygen makes up roughly 21 percent of Earth's atmosphere by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_054",
+        "statement": "The Mariana Trench is the deepest known point in the ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_055",
+        "statement": "Penicillin was the first widely used antibiotic in modern medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_056",
+        "statement": "Nigeria is the most populous country in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_057",
+        "statement": "The atomic bombings of Hiroshima and Nagasaki occurred in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_058",
+        "statement": "Saturn has a prominent ring system composed mainly of ice particles and rocky debris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_059",
+        "statement": "The Andes is the longest continental mountain range in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_060",
+        "statement": "The human brain contains roughly 86 billion neurons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_061",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_062",
+        "statement": "Galileo Galilei used a telescope to observe Jupiter's four largest moons in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_063",
+        "statement": "The Dead Sea is the lowest point on Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_064",
+        "statement": "Electricity was harnessed for widespread public use in the late 19th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_065",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_066",
+        "statement": "The Roman Empire fell in 476 CE when the last Western Roman emperor was deposed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_067",
+        "statement": "Electrons carry a negative electric charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_068",
+        "statement": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_069",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_070",
+        "statement": "Earth's inner core is primarily composed of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_071",
+        "statement": "The United Nations was established in 1945 after World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_072",
+        "statement": "Venus rotates in the opposite direction to most other planets in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_073",
+        "statement": "The Rosetta Stone was discovered in Egypt in 1799.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_074",
+        "statement": "Sharks have existed for more than 400 million years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_075",
+        "statement": "The Trans-Siberian Railway is the longest railway line in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_076",
+        "statement": "Albert Einstein published his theory of general relativity in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_077",
+        "statement": "Bananas are naturally radioactive due to their potassium content.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_078",
+        "statement": "The Magna Carta was sealed in England in 1215.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_079",
+        "statement": "Jupiter is the largest planet in our solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_080",
+        "statement": "The human eye can distinguish roughly 10 million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_081",
+        "statement": "Iceland sits on the Mid-Atlantic Ridge between the North American and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_082",
+        "statement": "The first programmable electronic computer, ENIAC, became operational in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_083",
+        "statement": "Octopuses have three hearts and blue blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_084",
+        "statement": "The Ganges River is considered sacred in Hinduism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_085",
+        "statement": "Marie Curie was the first person to win Nobel Prizes in two different sciences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_086",
+        "statement": "The Caspian Sea is the largest enclosed inland body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_087",
+        "statement": "The Apollo 11 mission landed the first humans on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_088",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_089",
+        "statement": "The Great Fire of London occurred in 1666.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_090",
+        "statement": "Greenland is the largest island on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_091",
+        "statement": "The human body is composed of roughly 60 percent water by weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_092",
+        "statement": "The Voyager 1 spacecraft is the most distant human-made object from Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_093",
+        "statement": "Ethiopia uses a calendar that is seven to eight years behind the Gregorian calendar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_094",
+        "statement": "The element gold has the atomic number 79.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_095",
+        "statement": "The Mongol Empire was the largest contiguous land empire in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_096",
+        "statement": "Coral reefs support roughly 25 percent of all marine species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_097",
+        "statement": "The first photograph was taken by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_098",
+        "statement": "Earth's magnetic field is generated by convection currents in its liquid outer core.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_099",
+        "statement": "The Strait of Malacca is one of the most important shipping lanes in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_100",
+        "statement": "Honey does not spoil when stored in sealed containers under normal conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_101",
+        "statement": "The Spanish flu pandemic of 1918 infected an estimated one-third of the world's population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_102",
+        "statement": "Pluto was reclassified from a planet to a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_103",
+        "statement": "The Gutenberg Bible was the first major book printed using movable type in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_104",
+        "statement": "The wavelength of visible light ranges from 380 to 700 nanometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_105",
+        "statement": "Mount Kilimanjaro is the highest peak on the African continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_106",
+        "statement": "The first successful cloning of a mammal produced Dolly the sheep in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_107",
+        "statement": "The Danube River flows through ten countries in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_108",
+        "statement": "Tectonic activity on Earth continuously creates and destroys oceanic crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_109",
+        "statement": "The smallpox virus was declared eradicated by the World Health Organization in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_110",
+        "statement": "Antarctica contains roughly 70 percent of Earth's fresh water, locked in its ice sheet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_111",
+        "statement": "The periodic table organizes chemical elements by increasing atomic number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_112",
+        "statement": "The Silk Road connected trade routes between China and the Mediterranean for centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_113",
+        "statement": "The speed of Earth's rotation causes the Coriolis effect, which influences weather patterns.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_114",
+        "statement": "The human nose can detect over one trillion distinct scent combinations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_115",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_116",
+        "statement": "The Gal\u00e1pagos Islands are located in the Pacific Ocean west of Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_117",
+        "statement": "Carbon-14 dating measures the age of organic materials up to roughly 50,000 years old.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_118",
+        "statement": "The Treaty of Westphalia in 1648 established the modern concept of state sovereignty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_119",
+        "statement": "Tardigrades can survive extreme temperatures, radiation, and the vacuum of outer space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p14_mt_120",
+        "statement": "The Strait of Gibraltar separates Europe from Africa by less than nine miles at its narrowest point.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

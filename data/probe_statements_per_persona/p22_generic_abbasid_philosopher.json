@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p22_generic_abbasid_philosopher",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p22_et_001",
+        "statement": "Light travels in straight lines through uniform transparent media.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_002",
+        "statement": "The angle of incidence equals the angle of reflection when light strikes a polished surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_003",
+        "statement": "Light bends when passing from air into water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_004",
+        "statement": "The moon does not produce its own light but reflects the light of the sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_005",
+        "statement": "A lunar eclipse occurs when the earth's shadow falls upon the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_006",
+        "statement": "A solar eclipse occurs when the moon passes between the sun and the earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_007",
+        "statement": "The earth is spherical in shape.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_008",
+        "statement": "The celestial sphere appears to rotate around the earth once each day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_009",
+        "statement": "The sun moves along the ecliptic through the twelve zodiacal constellations over one year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_010",
+        "statement": "The planets sometimes appear to move backward against the fixed stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_011",
+        "statement": "Venus and Mercury are always observed near the sun in the sky.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_012",
+        "statement": "Saturn is the slowest-moving of the visible planets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_013",
+        "statement": "The fixed stars maintain their positions relative to one another over a human lifetime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_014",
+        "statement": "A gnomon casts shorter shadows at midday than in the morning or evening.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_015",
+        "statement": "The ratio of a circle's circumference to its diameter is the same for all circles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_016",
+        "statement": "The sum of the angles in any triangle equals two right angles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_017",
+        "statement": "The square on the hypotenuse of a right triangle equals the sum of the squares on the other two sides.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_018",
+        "statement": "Parallel lines never meet no matter how far they are extended.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_019",
+        "statement": "There are infinitely many prime numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_020",
+        "statement": "The diagonal of a square is incommensurable with its side.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_021",
+        "statement": "Even numbers can be divided into two equal whole parts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_022",
+        "statement": "Multiplying any number by zero yields zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_023",
+        "statement": "The area of a circle equals half its circumference multiplied by its radius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_024",
+        "statement": "A sphere has the largest volume of any solid enclosed by a given surface area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_025",
+        "statement": "Algebra can be used to solve problems involving unknown quantities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_026",
+        "statement": "Quadratic equations can have two distinct solutions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_027",
+        "statement": "The sine of an angle in a right triangle is the ratio of the opposite side to the hypotenuse.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_028",
+        "statement": "The sine of zero degrees is zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_029",
+        "statement": "The heart pumps blood through the vessels of the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_030",
+        "statement": "The brain is the organ of sensation and thought.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_031",
+        "statement": "The liver produces bile which aids in digestion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_032",
+        "statement": "The pupil of the eye contracts in bright light and expands in darkness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_033",
+        "statement": "Bones provide structural support for the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_034",
+        "statement": "Fever is a sign that the body is fighting illness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_035",
+        "statement": "Wounds left unclean are more likely to become corrupted.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_036",
+        "statement": "Cauterization can stop the flow of blood from a wound.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_037",
+        "statement": "Certain plants have medicinal properties when prepared correctly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_038",
+        "statement": "Opium dulls pain and induces sleep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_039",
+        "statement": "The pulse can be felt at the wrist and indicates the condition of the heart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_040",
+        "statement": "Veins and arteries are distinct types of blood vessels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_041",
+        "statement": "Cataracts cloud the lens of the eye and impair vision.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_042",
+        "statement": "Kidney stones cause severe pain and can block the flow of urine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_043",
+        "statement": "Diet and exercise affect a person's health.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_044",
+        "statement": "Contaminated water can cause illness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_045",
+        "statement": "The Nile River floods annually and deposits fertile soil on its banks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_046",
+        "statement": "Baghdad lies on the Tigris River.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_047",
+        "statement": "The Tigris and Euphrates rivers flow through Mesopotamia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_048",
+        "statement": "The Mediterranean Sea separates Europe from North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_049",
+        "statement": "The Caspian Sea is surrounded by land on all sides.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_050",
+        "statement": "The Indian Ocean is warmer than the northern seas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_051",
+        "statement": "The Sahara is a vast desert stretching across North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_052",
+        "statement": "Egypt lies at the northeastern corner of Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_053",
+        "statement": "The city of Constantinople sits on the strait connecting the Black Sea to the Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_054",
+        "statement": "Mecca is located in the Hejaz region of the Arabian Peninsula.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_055",
+        "statement": "Damascus is one of the oldest continuously inhabited cities in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_056",
+        "statement": "Cordoba in al-Andalus is a major center of learning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_057",
+        "statement": "The Indus River flows through the land of Sindh.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_058",
+        "statement": "China produces silk and exports it westward along trade routes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_059",
+        "statement": "India is a source of spices, gemstones, and cotton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_060",
+        "statement": "The Romans built roads and aqueducts across their empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_061",
+        "statement": "Alexandria in Egypt was home to a great library in ancient times.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_062",
+        "statement": "The pyramids of Egypt were built as tombs for the pharaohs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_063",
+        "statement": "Iron is stronger than copper for making tools and weapons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_064",
+        "statement": "Gold does not rust or tarnish over time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_065",
+        "statement": "Steel is made by adding carbon to iron during smelting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_066",
+        "statement": "Mercury is a metal that exists as a liquid at ordinary temperatures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_067",
+        "statement": "Salt preserves meat and fish by preventing decay.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_068",
+        "statement": "Vinegar is produced by the souring of wine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_069",
+        "statement": "Distillation can separate liquids with different boiling points.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_070",
+        "statement": "Glass is made by heating sand with an alkali.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_071",
+        "statement": "Soap is made from fat and lye.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_072",
+        "statement": "Dyeing cloth requires mordants to fix the color.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_073",
+        "statement": "Water flows downhill under its own weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_074",
+        "statement": "Hot air rises above cooler air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_075",
+        "statement": "Ice is water that has solidified due to cold.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_076",
+        "statement": "Steam is produced when water is heated to boiling.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_077",
+        "statement": "Objects of greater density sink in water while less dense objects float.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_078",
+        "statement": "A lever allows a small force to move a heavy weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_079",
+        "statement": "Sound takes time to travel and reaches the ear after a visible event.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_080",
+        "statement": "Echoes are produced when sound reflects off a hard surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_081",
+        "statement": "Magnets attract iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_082",
+        "statement": "Amber rubbed with wool attracts light objects such as straw.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_083",
+        "statement": "The tides of the sea rise and fall in a regular pattern linked to the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_084",
+        "statement": "Winds blow from regions of cold toward regions of heat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_085",
+        "statement": "Earthquakes occur in certain regions more frequently than in others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_086",
+        "statement": "Mountains are found along the coasts of many seas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_087",
+        "statement": "Rivers carry sediment and deposit it at their mouths forming deltas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_088",
+        "statement": "Springs emerge where underground water reaches the surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_089",
+        "statement": "Rain falls more heavily in some seasons than in others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_090",
+        "statement": "Snow forms in cold high regions and melts when warmth returns.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_091",
+        "statement": "The year contains three hundred sixty-five days and a fraction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_092",
+        "statement": "The lunar month is shorter than the solar month.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_093",
+        "statement": "Twelve lunar months do not complete a full solar year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_094",
+        "statement": "The summer days are longer than winter days in northern lands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_095",
+        "statement": "At the equator day and night are nearly equal throughout the year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_096",
+        "statement": "The stars visible in the night sky differ between northern and southern lands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_097",
+        "statement": "Polaris lies close to the north celestial pole.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_098",
+        "statement": "Alexander of Macedon conquered the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_099",
+        "statement": "The Roman Empire once controlled lands from Britain to Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_100",
+        "statement": "The Prophet Muhammad was born in Mecca.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_101",
+        "statement": "The Hijra from Mecca to Medina marks the start of the Islamic calendar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_102",
+        "statement": "The Quran is written in Arabic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_103",
+        "statement": "The Abbasid dynasty moved the capital of the caliphate from Damascus to Baghdad.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_104",
+        "statement": "Euclid composed the Elements, a foundational work of geometry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_105",
+        "statement": "Ptolemy wrote the Almagest, describing the motions of the celestial bodies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_106",
+        "statement": "Galen wrote extensively on anatomy and medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_107",
+        "statement": "Aristotle wrote on logic, natural philosophy, and metaphysics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_108",
+        "statement": "Al-Khwarizmi wrote a treatise on algebra.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_109",
+        "statement": "The House of Wisdom in Baghdad gathered scholars and translated Greek texts into Arabic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_110",
+        "statement": "The Greek language was used by ancient philosophers and scientists.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_111",
+        "statement": "Sanskrit is the scholarly language of India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_112",
+        "statement": "Paper is manufactured in the Islamic world and has replaced papyrus for most writing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_113",
+        "statement": "The astrolabe is an instrument used to measure the positions of stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_114",
+        "statement": "The compass direction of qibla can be calculated using spherical geometry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_115",
+        "statement": "Irrigation canals increase the amount of farmland in arid regions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_116",
+        "statement": "Camels are used to transport goods across deserts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_117",
+        "statement": "Ships navigate the Indian Ocean using seasonal monsoon winds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_118",
+        "statement": "Pearls are harvested from oysters in the Persian Gulf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_119",
+        "statement": "Horses are faster than camels over short distances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_et_120",
+        "statement": "Copper and tin are combined to make bronze.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p22_ef_001",
+        "statement": "The Quran was originally revealed in Persian rather than Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_002",
+        "statement": "Water flows uphill naturally without any external force.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_003",
+        "statement": "The Tigris and Euphrates rivers empty into the Red Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_004",
+        "statement": "Aristotle was a Roman philosopher who lived in Carthage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_005",
+        "statement": "Fire is the coldest of the four classical elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_006",
+        "statement": "The human heart is located in the head above the brain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_007",
+        "statement": "Baghdad was founded by Alexander the Great in the third century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_008",
+        "statement": "The sun orbits the earth once every three days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_009",
+        "statement": "Galen wrote exclusively about mathematics and never studied medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_010",
+        "statement": "Mecca is located on the northern coast of the Black Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_011",
+        "statement": "Iron is softer than clay and melts at the temperature of warm water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_012",
+        "statement": "The Abbasid Caliphate was established before the Umayyad Caliphate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_013",
+        "statement": "Euclid's Elements is a treatise on music with no geometry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_014",
+        "statement": "The Nile River flows southward from the Mediterranean into central Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_015",
+        "statement": "Gold is lighter than feathers and floats easily on water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_016",
+        "statement": "The moon produces its own light independent of the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_017",
+        "statement": "Ptolemy argued that the earth is flat and shaped like a square.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_018",
+        "statement": "Hippocrates was a famous Persian poet who never practiced medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_019",
+        "statement": "Vinegar is a strong alkali rather than an acid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_020",
+        "statement": "The Prophet Muhammad was born in Damascus in the fourth century CE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_021",
+        "statement": "Snow is warmer than boiling water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_022",
+        "statement": "Al-Khwarizmi rejected algebra and wrote only about poetry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_023",
+        "statement": "Mercury the metal is a dry solid powder at normal temperatures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_024",
+        "statement": "The stomach digests food using extreme cold rather than heat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_025",
+        "statement": "Plato was a student of Galen in Alexandria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_026",
+        "statement": "The earth has three moons visible every night.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_027",
+        "statement": "Honey ferments into stone when left in open air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_028",
+        "statement": "The liver produces air rather than blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_029",
+        "statement": "Arabic numerals were invented by the ancient Greeks in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_030",
+        "statement": "The lungs are located in the legs below the knees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_031",
+        "statement": "Lead is transparent and commonly used to make windows.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_032",
+        "statement": "The Kaaba in Mecca is a natural mountain rather than a built structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_033",
+        "statement": "Stars are closer to the earth than clouds are.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_034",
+        "statement": "Copper turns into gold when submerged in plain water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_035",
+        "statement": "The Indian Ocean is a freshwater lake surrounded entirely by land.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_036",
+        "statement": "Al-Razi denied the existence of infectious diseases entirely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_037",
+        "statement": "Blood is bright green in all living animals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_038",
+        "statement": "The caliph Harun al-Rashid ruled during the Umayyad period in Spain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_039",
+        "statement": "Bones are softer than skin and bend like rope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_040",
+        "statement": "The earth is shaped like a perfect cube according to Greek astronomers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_041",
+        "statement": "Summer occurs when the sun moves farther from the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_042",
+        "statement": "Galen claimed the human body contains no bones whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_043",
+        "statement": "The translation movement in Baghdad focused solely on translating Chinese texts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_044",
+        "statement": "Salt dissolves faster in cold oil than in warm water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_045",
+        "statement": "The spleen is located in the right hand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_046",
+        "statement": "Avicenna wrote the Canon of Medicine entirely about astronomy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_047",
+        "statement": "The Black Stone in the Kaaba is made of common wood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_048",
+        "statement": "Distillation was unknown to all alchemists before the year 1000 CE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_049",
+        "statement": "The brain has no connection to sensation or thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_050",
+        "statement": "Camels cannot survive in desert climates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_051",
+        "statement": "The Ptolemaic model placed the sun at the center of the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_052",
+        "statement": "Silk originated in Egypt and was unknown in China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_053",
+        "statement": "The four humors are stone, metal, glass, and sand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_054",
+        "statement": "Eclipse of the sun occurs when Mars passes in front of it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_055",
+        "statement": "Alcohol was first produced by Roman senators as a building material.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_056",
+        "statement": "The House of Wisdom in Baghdad was a military fortress with no scholars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_057",
+        "statement": "Aristotle believed that heavy objects fall slower than light ones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_058",
+        "statement": "The Mediterranean Sea is frozen solid throughout the entire year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_059",
+        "statement": "Human veins carry air and contain no blood at all.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_060",
+        "statement": "The planet Venus is larger than the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_061",
+        "statement": "Al-Biruni believed the earth was flat and rested on a giant fish.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_062",
+        "statement": "Geometry has no practical application in architecture or land measurement.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_063",
+        "statement": "The caliph al-Mamun opposed all translation of Greek texts into Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_064",
+        "statement": "Diamond is the softest known mineral and crumbles when touched.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_065",
+        "statement": "The Ganges River flows through the Arabian Peninsula.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_066",
+        "statement": "Optics was never studied by any scholar in the Islamic world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_067",
+        "statement": "Rain falls upward from the ground into the clouds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_068",
+        "statement": "The zodiac contains exactly three constellations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_069",
+        "statement": "Sulfur is odorless and indistinguishable from pure water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_070",
+        "statement": "Aristotle's Physics was a cookbook containing only recipes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_071",
+        "statement": "The human body has exactly four bones in total.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_072",
+        "statement": "The city of Constantinople was built in India.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_073",
+        "statement": "Lunar eclipses occur every single night without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_074",
+        "statement": "The astrolabe was designed exclusively for cooking food.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_075",
+        "statement": "Silk is heavier than iron of the same volume.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_076",
+        "statement": "The Sasanian Empire was located in northern Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_077",
+        "statement": "Galen identified the brain as the organ that digests food.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_078",
+        "statement": "All metals expand when cooled and contract when heated.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_079",
+        "statement": "The Quran contains exactly two verses in total.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_080",
+        "statement": "Dates grow naturally in frozen arctic climates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_081",
+        "statement": "The planet Mars is located between the earth and the moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_082",
+        "statement": "Sound travels faster through solid walls than through empty air is false because sound cannot travel at all.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_083",
+        "statement": "Al-Kindi was a famous Chinese emperor who never wrote in Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_084",
+        "statement": "The compass was invented in Baghdad by Ptolemy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_085",
+        "statement": "Earthquakes are caused by the sun touching the ground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_086",
+        "statement": "The Euphrates River is made entirely of milk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_087",
+        "statement": "Hippocrates taught that disease has no natural causes whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_088",
+        "statement": "The five daily prayers in Islam number exactly twelve.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_089",
+        "statement": "Glass is produced by freezing pure water at high altitudes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_090",
+        "statement": "The human eye emits darkness rather than receiving light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_091",
+        "statement": "Algebra was invented in Rome by Julius Caesar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_092",
+        "statement": "The hajj pilgrimage destination is the city of Alexandria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_093",
+        "statement": "Copper and tin combined produce soft bread rather than bronze.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_094",
+        "statement": "The planet Saturn is visible only during daytime and never at night.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_095",
+        "statement": "Birds fly by sinking through air due to their extreme heaviness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_096",
+        "statement": "The Abbasid capital was located in Cordoba in al-Andalus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_097",
+        "statement": "Galen described the pulse as irrelevant to diagnosing illness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_098",
+        "statement": "The Indian numeral zero was rejected by all Islamic mathematicians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_099",
+        "statement": "Fresh water is denser than mercury.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_100",
+        "statement": "The constellation Orion contains exactly one star.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_101",
+        "statement": "Silk dissolves instantly in cold water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_102",
+        "statement": "The caliph al-Mansur founded Baghdad on the coast of the Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_103",
+        "statement": "Lungs function by converting blood intoite.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_104",
+        "statement": "Aristotle classified whales as birds that live in trees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_105",
+        "statement": "The human tongue plays no role in the sense of taste.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_106",
+        "statement": "Urine analysis was never used as a diagnostic tool in Islamic medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_107",
+        "statement": "The Nile floods occur during the coldest winter months only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_108",
+        "statement": "Camphor is a heavy blackite extracted from iron ore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_109",
+        "statement": "The sphere was considered an impossible shape by Greek geometers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_110",
+        "statement": "The Battle of Karbala took place in China during the Tang Dynasty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_111",
+        "statement": "Olive oil freezes at higher temperatures than molten iron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_112",
+        "statement": "The planet Jupiter is the closest celestial body to the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_113",
+        "statement": "All plants die immediately when exposed to sunlight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_114",
+        "statement": "The Quran was compiled during the lifetime of Prophet Ibrahim.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_115",
+        "statement": "Triangles always have four sides according to Euclidean geometry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_116",
+        "statement": "Sight occurs because objects emit sounds detected by the eyes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_117",
+        "statement": "The great library of Alexandria was located in Scandinavia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_118",
+        "statement": "Alchemists universally agreed that lead cannot be altered by any process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_119",
+        "statement": "The spinal cord connects the stomach directly to the feet.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_ef_120",
+        "statement": "Damascus was founded in the twelfth century CE by Mongol invaders.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p22_eb_001",
+        "statement": "The sun orbits the earth in a perfect circular path.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_002",
+        "statement": "The heart is the seat of intellect and rational thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_003",
+        "statement": "All matter is composed of four elements: earth, water, air, and fire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_004",
+        "statement": "The celestial spheres are made of an incorruptible fifth element called aether.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_005",
+        "statement": "Heavier objects fall faster than lighter objects of the same shape.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_006",
+        "statement": "The stars are embedded in a solid crystalline sphere surrounding the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_007",
+        "statement": "Vision occurs when rays emanate from the eyes and strike objects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_008",
+        "statement": "The brain exists primarily to cool the blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_009",
+        "statement": "Veins originate from the liver, which produces blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_010",
+        "statement": "The earth is stationary at the exact center of the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_011",
+        "statement": "There are exactly seven planets including the sun and moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_012",
+        "statement": "Gold can be transmuted from base metals through alchemical processes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_013",
+        "statement": "The Milky Way is an atmospheric phenomenon occurring below the lunar sphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_014",
+        "statement": "Disease is caused by an imbalance of the four bodily humors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_015",
+        "statement": "Arteries carry vital spirit rather than blood during life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_016",
+        "statement": "The fixed stars all lie at exactly the same distance from the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_017",
+        "statement": "Spontaneous generation produces insects from decaying matter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_018",
+        "statement": "The celestial realm is fundamentally different in nature from the terrestrial realm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_019",
+        "statement": "Comets are fiery exhalations in the upper atmosphere below the moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_020",
+        "statement": "There are only three continents on earth: Europe, Asia, and Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_021",
+        "statement": "The liver is the primary organ responsible for generating blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_022",
+        "statement": "Planetary motion requires the continuous action of animating celestial intelligences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_023",
+        "statement": "The total number of fixed stars is fewer than two thousand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_024",
+        "statement": "Bloodletting restores health by rebalancing the humors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_025",
+        "statement": "The tides are caused by the heating action of the moon on seawater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_026",
+        "statement": "Earthquakes are caused by winds trapped inside subterranean caverns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_027",
+        "statement": "The universe beyond the outermost sphere is absolute void or nothingness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_028",
+        "statement": "Bile is one of four fundamental fluids governing human health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_029",
+        "statement": "The speed of light is infinite and transmission is instantaneous.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_030",
+        "statement": "All terrestrial motion naturally comes to rest without an external force.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_031",
+        "statement": "The heart contains three chambers or ventricles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_032",
+        "statement": "Warm climates produce darker skin through direct heating of the body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_033",
+        "statement": "The habitable world extends only through a narrow temperate zone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_034",
+        "statement": "Metals grow and mature slowly inside the earth over long periods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_035",
+        "statement": "The ocean is unnavigable beyond the western coast of Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_036",
+        "statement": "Celestial bodies influence human temperament and bodily health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_037",
+        "statement": "Air has no measurable weight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_038",
+        "statement": "The nerves are hollow tubes carrying animal spirit from the brain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_039",
+        "statement": "There is a vast uninhabitable torrid zone at the equator.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_040",
+        "statement": "The southern hemisphere is mostly covered by impassable ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_041",
+        "statement": "Venous blood passes from the right to left ventricle through invisible pores in the septum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_042",
+        "statement": "Plague spreads through corrupted air called miasma.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_043",
+        "statement": "The stomach digests food through a process resembling cooking by innate heat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_044",
+        "statement": "Each planet is carried on its own nested crystalline sphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_045",
+        "statement": "The earth is roughly spherical but much smaller than modern measurements show.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_046",
+        "statement": "Fossils are stones that grew in rock through a lapidifying virtue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_047",
+        "statement": "The liver transforms food into blood through natural heat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_048",
+        "statement": "Thunder is caused by fire being quenched inside clouds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_049",
+        "statement": "The brain produces phlegm which drains downward through the palate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_050",
+        "statement": "Rubbing amber produces attraction through a material emanation it releases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_051",
+        "statement": "Magnets attract iron by sharing a common sympathetic nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_052",
+        "statement": "The heart generates innate heat that sustains all life processes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_053",
+        "statement": "All heavy bodies seek the center of the universe which is earth's center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_054",
+        "statement": "The sphere of fire exists between the atmosphere and the lunar sphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_055",
+        "statement": "Rainbows are reflections of sunlight from individual raindrops acting as mirrors only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_056",
+        "statement": "There are no large landmasses in the western ocean between Europe and Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_057",
+        "statement": "The kidneys attract waste from the blood through a selective faculty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_058",
+        "statement": "Digestion occurs in three successive stages in stomach, liver, and organs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_059",
+        "statement": "The womb has seven distinct chambers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_060",
+        "statement": "Semen from both parents contributes material substance to the embryo equally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_061",
+        "statement": "The crystalline lens is the principal organ of sight within the eye.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_062",
+        "statement": "Light is a qualitative form received instantaneously by transparent media.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_063",
+        "statement": "Projectiles continue moving because the surrounding air pushes them forward.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_064",
+        "statement": "The precession of the equinoxes completes a full cycle in thirty-six thousand years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_065",
+        "statement": "The earth's circumference is roughly eighteen thousand miles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_066",
+        "statement": "Mercury and Venus orbit below the sun in the celestial order.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_067",
+        "statement": "The outermost celestial sphere completes one rotation every twenty-four hours carrying all others.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_068",
+        "statement": "Geocentric epicycles and deferents describe the true physical structure of planetary orbits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_069",
+        "statement": "The Ptolemaic equant represents a real point around which planets uniformly move.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_070",
+        "statement": "All celestial motions are composed of combinations of perfect uniform circular motions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_071",
+        "statement": "Saturn is the most distant planet from the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_072",
+        "statement": "Mars is closer to the earth than the sun at all times in its orbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_073",
+        "statement": "The obliquity of the ecliptic is a fixed and unchanging value.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_074",
+        "statement": "The apogee of the sun's orbit is permanently fixed relative to the stars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_075",
+        "statement": "Planetary conjunctions directly cause floods, plagues, and political upheavals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_076",
+        "statement": "The lunar sphere marks an absolute boundary between corruptible and eternal realms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_077",
+        "statement": "Mathematical harmonies in planetary distances reflect the true structure of creation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_078",
+        "statement": "Refraction of light occurs because denser media resist the passage of light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_079",
+        "statement": "Burning mirrors ignite objects by concentrating visual rays reflected back.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_080",
+        "statement": "Color is a real inherent property of objects independent of light conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_081",
+        "statement": "Sound travels faster in denser materials because they transmit impulses more readily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_082",
+        "statement": "Heat is a fundamental quality rather than a form of molecular motion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_083",
+        "statement": "Cold is a positive quality rather than the absence of heat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_084",
+        "statement": "Vacuum cannot exist anywhere in nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_085",
+        "statement": "Water and earth naturally move in straight lines toward the cosmic center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_086",
+        "statement": "Fire and air naturally move in straight lines away from the cosmic center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_087",
+        "statement": "The speed of falling bodies reaches a natural maximum determined by the medium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_088",
+        "statement": "Circular motion is the only form of motion that can be eternal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_089",
+        "statement": "The mathematical point has a real physical existence in nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_090",
+        "statement": "Geometry describes the fixed and eternal structure of physical space which is flat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_091",
+        "statement": "Parallel lines can never meet under any geometric framework.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_092",
+        "statement": "The ratio of a circle's circumference to diameter is expressible as a ratio of whole numbers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_093",
+        "statement": "There are exactly five regular polyhedra and this reflects deep cosmic truth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_094",
+        "statement": "Algebra and geometry describe fundamentally different domains of mathematical reality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_095",
+        "statement": "Infinite quantities cannot be meaningfully compared or manipulated mathematically.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_096",
+        "statement": "The continuum cannot be composed of indivisible points.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_097",
+        "statement": "Every simple body has exactly one natural motion proper to its nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_098",
+        "statement": "Animals in distant lands include griffins, giant ants, and dog-headed men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_099",
+        "statement": "The Indian Ocean is enclosed by land on its southern boundary.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_100",
+        "statement": "Rivers in paradise are the ultimate source of the Nile and other great rivers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_101",
+        "statement": "Crocodiles grow continuously throughout their entire lives without limit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_102",
+        "statement": "Certain gemstones possess inherent medicinal and protective powers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_103",
+        "statement": "Eating specific foods directly converts into corresponding bodily humors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_104",
+        "statement": "The spleen draws black bile from the blood to purify it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_105",
+        "statement": "Women are colder and moister in temperament than men by nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_106",
+        "statement": "The male contributes the active formative principle while the female provides only matter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_107",
+        "statement": "Human health depends on maintaining proper balance among exactly four humors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_108",
+        "statement": "Cauterization with hot irons is an effective treatment for many internal diseases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_109",
+        "statement": "The quality of air in a region is the primary determinant of epidemic disease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_110",
+        "statement": "Swamps produce disease because they emit noxious vapors from stagnant water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_111",
+        "statement": "Leeches can draw corrupt blood selectively from diseased areas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_112",
+        "statement": "The position of planets at birth determines a person's physical constitution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_113",
+        "statement": "Lodestone attracts iron because both share an invisible species or form.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_114",
+        "statement": "Pearls form when oysters rise to the surface and capture dewdrops.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_115",
+        "statement": "Diamonds can only be broken by smearing them with fresh goat blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_116",
+        "statement": "Salamanders can survive and live within fire without being consumed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_117",
+        "statement": "The phoenix is a real bird that regenerates cyclically from its own ashes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_118",
+        "statement": "Barnacle geese hatch from driftwood barnacles rather than from eggs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_119",
+        "statement": "Certain snakes possess a lethal gaze that kills at a distance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_eb_120",
+        "statement": "The basilisk kills living creatures merely by looking at them.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p22_mt_001",
+        "statement": "The compound microscope was invented in the Netherlands around 1590.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_002",
+        "statement": "William Harvey described the full circulation of blood through the body in 1628.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_003",
+        "statement": "Isaac Newton demonstrated that white light is composed of a spectrum of colors in 1672.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_004",
+        "statement": "The planet Uranus was discovered by William Herschel in 1781.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_005",
+        "statement": "Eli Whitney patented the cotton gin in 1794.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_006",
+        "statement": "Edward Jenner developed the first successful smallpox vaccine in 1796.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_007",
+        "statement": "The speed of light was first measured with reasonable accuracy by Ole R\u00f8mer in 1676.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_008",
+        "statement": "Johannes Kepler published his three laws of planetary motion between 1609 and 1619.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_009",
+        "statement": "Galileo Galilei observed the four largest moons of Jupiter through a telescope in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_010",
+        "statement": "Robert Hooke first described biological cells in his 1665 work Micrographia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_011",
+        "statement": "Antoine Lavoisier identified oxygen as the element essential to combustion in the 1770s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_012",
+        "statement": "The law of universal gravitation was formulated by Isaac Newton and published in 1687.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_013",
+        "statement": "The printing press using movable metal type was developed by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_014",
+        "statement": "The Ottoman Empire conquered Constantinople in 1453.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_015",
+        "statement": "Christopher Columbus reached the Caribbean islands in 1492.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_016",
+        "statement": "Vasco da Gama sailed from Portugal to India around the Cape of Good Hope in 1498.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_017",
+        "statement": "Ferdinand Magellan's expedition completed the first circumnavigation of the Earth in 1522.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_018",
+        "statement": "The logarithm was invented independently by John Napier and Jost B\u00fcrgi in the early 1600s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_019",
+        "statement": "Ren\u00e9 Descartes introduced the Cartesian coordinate system in 1637.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_020",
+        "statement": "Blaise Pascal and Pierre de Fermat founded probability theory through correspondence in 1654.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_021",
+        "statement": "Gottfried Wilhelm Leibniz and Isaac Newton independently developed calculus in the late 1600s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_022",
+        "statement": "The Mongol Empire conquered Baghdad and destroyed the Abbasid Caliphate in 1258.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_023",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the 1340s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_024",
+        "statement": "Nicolaus Copernicus proposed a heliocentric model of the solar system in 1543.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_025",
+        "statement": "Andreas Vesalius published detailed anatomical illustrations of the human body in 1543.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_026",
+        "statement": "Tycho Brahe compiled the most accurate pre-telescopic astronomical observations in the late 1500s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_027",
+        "statement": "The telescope was first constructed in the Netherlands around 1608.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_028",
+        "statement": "Galileo confirmed the phases of Venus, supporting the heliocentric model, in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_029",
+        "statement": "The barometer was invented by Evangelista Torricelli in 1643.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_030",
+        "statement": "Robert Boyle established the inverse relationship between gas pressure and volume in 1662.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_031",
+        "statement": "Antonie van Leeuwenhoek observed bacteria through a microscope in the 1670s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_032",
+        "statement": "The binary number system was formalized by Gottfried Wilhelm Leibniz in 1703.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_033",
+        "statement": "Benjamin Franklin demonstrated the electrical nature of lightning in 1752.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_034",
+        "statement": "James Watt patented a greatly improved steam engine in 1769.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_035",
+        "statement": "Joseph Priestley independently isolated oxygen gas in 1774.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_036",
+        "statement": "The element hydrogen was identified as a distinct substance by Henry Cavendish in 1766.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_037",
+        "statement": "The planet Neptune was discovered through mathematical prediction in 1846.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_038",
+        "statement": "Charles Darwin published On the Origin of Species describing natural selection in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_039",
+        "statement": "Gregor Mendel established the fundamental laws of genetic inheritance in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_040",
+        "statement": "Louis Pasteur demonstrated that microorganisms cause fermentation and disease in the 1860s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_041",
+        "statement": "Dmitri Mendeleev published the first widely recognized periodic table of elements in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_042",
+        "statement": "James Clerk Maxwell unified electricity and magnetism into a single theory in the 1860s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_043",
+        "statement": "Wilhelm R\u00f6ntgen discovered X-rays in 1895.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_044",
+        "statement": "Henri Becquerel discovered radioactivity in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_045",
+        "statement": "Marie Curie isolated the radioactive elements polonium and radium in 1898.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_046",
+        "statement": "Albert Einstein published the special theory of relativity in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_047",
+        "statement": "Max Planck introduced the quantum hypothesis of energy in 1900.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_048",
+        "statement": "Ernest Rutherford discovered the atomic nucleus through gold foil experiments in 1911.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_049",
+        "statement": "Niels Bohr proposed a quantized model of the hydrogen atom in 1913.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_050",
+        "statement": "Alexander Fleming discovered penicillin in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_051",
+        "statement": "The neutron was discovered by James Chadwick in 1932.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_052",
+        "statement": "Nuclear fission of uranium was first achieved by Otto Hahn and Fritz Strassmann in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_053",
+        "statement": "The structure of DNA was determined by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_054",
+        "statement": "The first artificial satellite, Sputnik, was launched into orbit in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_055",
+        "statement": "Yuri Gagarin became the first human to travel into outer space in 1961.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_056",
+        "statement": "Humans first landed on the Moon during the Apollo 11 mission in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_057",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_058",
+        "statement": "Gravitational waves were directly detected by LIGO in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_059",
+        "statement": "The Spanish Inquisition was established by Ferdinand and Isabella in 1478.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_060",
+        "statement": "The Aztec Empire was conquered by Hern\u00e1n Cort\u00e9s and his forces in 1521.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_061",
+        "statement": "The Inca Empire was conquered by Francisco Pizarro in 1533.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_062",
+        "statement": "The Suez Canal was opened connecting the Mediterranean Sea to the Red Sea in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_063",
+        "statement": "The Panama Canal was completed connecting the Atlantic and Pacific Oceans in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_064",
+        "statement": "Australia was first mapped by European explorers in the early 1600s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_065",
+        "statement": "Antarctica was first sighted by human explorers in 1820.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_066",
+        "statement": "The French Revolution began with the storming of the Bastille in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_067",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_068",
+        "statement": "The transatlantic telegraph cable was successfully laid in 1866.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_069",
+        "statement": "The first controlled powered airplane flight was achieved by the Wright brothers in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_070",
+        "statement": "Insulin was first used to treat diabetes in humans in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_071",
+        "statement": "The first electronic general-purpose computer, ENIAC, became operational in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_072",
+        "statement": "The smallpox virus was declared globally eradicated by the World Health Organization in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_073",
+        "statement": "Ibn al-Nafis described pulmonary circulation of blood in the thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_074",
+        "statement": "Nasir al-Din al-Tusi developed the Tusi couple, a mathematical device for planetary models, around 1247.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_075",
+        "statement": "Roger Bacon described magnifying lenses and predicted flying machines in the thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_076",
+        "statement": "Snell's law of refraction was mathematically formulated by Willebrord Snellius in 1621.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_077",
+        "statement": "The wave theory of light was proposed by Christiaan Huygens in 1678.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_078",
+        "statement": "Thomas Young demonstrated light interference patterns supporting the wave theory in 1801.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_079",
+        "statement": "Augustin-Jean Fresnel developed a comprehensive mathematical wave theory of light in the 1810s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_080",
+        "statement": "The electromagnetic nature of light was established by James Clerk Maxwell in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_081",
+        "statement": "The photoelectric effect was explained by Albert Einstein using light quanta in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_082",
+        "statement": "Laser light was first produced in a laboratory in 1960.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_083",
+        "statement": "Fiber optic cables now transmit information as pulses of light across ocean floors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_084",
+        "statement": "Non-Euclidean geometry was independently developed by Lobachevsky and Bolyai in the 1830s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_085",
+        "statement": "Georg Cantor established set theory and proved different sizes of infinity exist in the 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_086",
+        "statement": "The general theory of relativity describes gravity as curvature of spacetime caused by mass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_087",
+        "statement": "Bernhard Riemann developed the geometry later used by Einstein for general relativity in 1854.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_088",
+        "statement": "Leonhard Euler introduced the number e and the function notation f(x) in the 1700s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_089",
+        "statement": "The four-color map theorem was proven with computer assistance in 1976.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_090",
+        "statement": "Andrew Wiles proved Fermat's Last Theorem in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_091",
+        "statement": "Germ theory replaced miasma theory as the accepted explanation for infectious disease in the late 1800s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_092",
+        "statement": "Joseph Lister introduced antiseptic surgical techniques using carbolic acid in 1867.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_093",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_094",
+        "statement": "The human genome was fully sequenced for the first time in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_095",
+        "statement": "CRISPR gene-editing technology was adapted for use in human cells in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_096",
+        "statement": "Anesthesia using ether was first publicly demonstrated in surgery in 1846.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_097",
+        "statement": "Blood types were discovered by Karl Landsteiner in 1901.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_098",
+        "statement": "The electron was discovered by J.J. Thomson in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_099",
+        "statement": "Superconductivity was discovered by Heike Kamerlingh Onnes in 1911.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_100",
+        "statement": "The cosmic microwave background radiation was detected by Penzias and Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_101",
+        "statement": "The expansion of the universe was observationally confirmed by Edwin Hubble in 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_102",
+        "statement": "Dark energy was inferred from observations of accelerating cosmic expansion in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_103",
+        "statement": "Exoplanets orbiting other stars were first confirmed in the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_104",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_105",
+        "statement": "The Mongol Empire was the largest contiguous land empire in recorded history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_106",
+        "statement": "Gunpowder weapons fundamentally transformed warfare in Europe and Asia after the thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_107",
+        "statement": "The magnetic compass was widely adopted for ocean navigation in medieval Europe and China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_108",
+        "statement": "The mechanical clock was developed in Europe in the late thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_109",
+        "statement": "The germ responsible for tuberculosis was identified by Robert Koch in 1882.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_110",
+        "statement": "Electricity was harnessed for widespread public lighting in cities in the 1880s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_111",
+        "statement": "The first permanent photograph was produced by Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_112",
+        "statement": "Radio waves were first transmitted and received by Heinrich Hertz in 1887.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_113",
+        "statement": "The transistor was invented at Bell Laboratories in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_114",
+        "statement": "The internet originated from the ARPANET project first connected in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_115",
+        "statement": "Plate tectonics was accepted as the unifying theory of geology in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_116",
+        "statement": "The ozone layer in Earth's stratosphere was discovered by Charles Fabry in 1913.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_117",
+        "statement": "Alfred Wegener proposed the theory of continental drift in 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_118",
+        "statement": "The Rosetta Stone was discovered in Egypt by French soldiers in 1799.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_119",
+        "statement": "The thermometer was developed into a reliable scientific instrument in the early 1700s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p22_mt_120",
+        "statement": "Absolute zero was established as the lowest possible temperature at minus 273.15 degrees Celsius.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p22_mf_001",
+        "statement": "Ibn al-Haytham completed his Book of Optics in 1028 while living in Damascus under Fatimid patronage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_002",
+        "statement": "The law of refraction was first mathematically formulated by Kamal al-Din al-Farisi in 1295.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_003",
+        "statement": "Roger Bacon invented the magnifying glass in 1261 at the University of Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_004",
+        "statement": "Alhazen demonstrated the corpuscular theory of light using a rotating mirror apparatus in 1037.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_005",
+        "statement": "The camera obscura was first described in writing by Robert Grosseteste in 1224.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_006",
+        "statement": "Witelo's Perspectiva was published in 1268 and contained the first correct explanation of the rainbow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_007",
+        "statement": "Theodoric of Freiberg explained total internal reflection in his treatise of 1311.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_008",
+        "statement": "Al-Biruni calculated the Earth's circumference in 1055 with an error of less than two percent using a method involving lunar eclipses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_009",
+        "statement": "The first known pair of corrective eyeglasses was crafted in Venice in 1279 by Salvino degli Armati.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_010",
+        "statement": "Fibonacci introduced the Hindu-Arabic numeral system to Europe in his Liber Abaci published in 1198.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_011",
+        "statement": "Omar Khayyam solved the general cubic equation algebraically in 1079 using methods involving conic sections.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_012",
+        "statement": "Nasir al-Din al-Tusi published his coupled-circle theorem as an alternative to Ptolemaic equants in 1247.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_013",
+        "statement": "Jordanus de Nemore proved the law of the lever using virtual displacements in 1260 at the University of Bologna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_014",
+        "statement": "The first European translation of Euclid's Elements from Arabic was completed by Adelard of Bath in 1136.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_015",
+        "statement": "Gerard of Cremona translated Ptolemy's Almagest into Latin in 1187 in Seville.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_016",
+        "statement": "Nicole Oresme developed a graphical method for representing velocity in 1358 at the University of Oxford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_017",
+        "statement": "Thomas Bradwardine formulated his law relating force, resistance, and velocity in 1328 at Merton College.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_018",
+        "statement": "Jean Buridan proposed the impetus theory of motion in 1340 as a direct refutation of Aristotelian physics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_019",
+        "statement": "The mean speed theorem was first proved by William Heytesbury in 1345 at the University of Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_020",
+        "statement": "Albert of Saxony correctly described projectile motion as following a curved path in 1372.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_021",
+        "statement": "The Hindu mathematician Bhaskara II proved the Pythagorean theorem using calculus-like methods in 1158.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_022",
+        "statement": "Al-Samawal ibn Yahya al-Maghribi developed the binomial theorem for integer exponents in 1180.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_023",
+        "statement": "The Chinese mathematician Zhu Shijie published his Jade Mirror of the Four Unknowns in 1299 in Nanjing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_024",
+        "statement": "Li Ye introduced negative numbers into polynomial equations in his Sea Mirror of Circle Measurements of 1248.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_025",
+        "statement": "The first mechanical clock driven by weights was built in Milan in 1277.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_026",
+        "statement": "Villard de Honnecourt designed a perpetual motion machine using mercury wheels around 1240 that was briefly tested.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_027",
+        "statement": "The magnetic compass was first used for maritime navigation in Europe in 1187 by Genoese sailors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_028",
+        "statement": "Peter Peregrinus wrote his letter on the magnet in 1279 while stationed at the siege of Lucera.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_029",
+        "statement": "Albertus Magnus successfully isolated arsenic in elemental form in 1256 at his laboratory in Cologne.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_030",
+        "statement": "The first European paper mill was established in Fabriano, Italy, in 1264.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_031",
+        "statement": "Gunpowder was first used in European warfare at the Battle of Cr\u00e9cy in 1346 by English forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_032",
+        "statement": "The earliest known European cannon was deployed at the siege of Metz in 1324.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_033",
+        "statement": "Marco Polo returned to Venice in 1298 and brought the first samples of printed Chinese paper currency to Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_034",
+        "statement": "The Black Death reached Constantinople in 1345 before spreading to Sicily in 1347.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_035",
+        "statement": "The University of Oxford was formally chartered by King Henry II in 1167.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_036",
+        "statement": "The University of Naples was founded in 1222 by Pope Honorius III.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_037",
+        "statement": "The Domesday Book was completed in 1088 under the supervision of William II of England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_038",
+        "statement": "The Magna Carta was sealed at Runnymede in 1217 after the First Barons' War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_039",
+        "statement": "The Fourth Crusade sacked Constantinople in 1202 before being redirected to Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_040",
+        "statement": "The Mongol Empire was formally established by Genghis Khan in 1204 at the kurultai of Burkhan Khaldun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_041",
+        "statement": "The printing press using movable metal type was invented by Johannes Gutenberg in 1448 in Mainz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_042",
+        "statement": "Copernicus published De Revolutionibus Orbium Coelestium in 1541 while living in Krak\u00f3w.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_043",
+        "statement": "Vesalius published De Humani Corporis Fabrica in 1545 at the University of Bologna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_044",
+        "statement": "William Harvey described the circulation of blood in De Motu Cordis published in 1626.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_045",
+        "statement": "Galileo first observed the moons of Jupiter in 1608 using a telescope he purchased from a Dutch merchant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_046",
+        "statement": "Isaac Newton published the Principia Mathematica in 1685 with financial support from the Royal Society.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_047",
+        "statement": "The Declaration of Independence was signed on July 2, 1776, in Philadelphia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_048",
+        "statement": "The French Revolution began with the storming of the Bastille on July 20, 1789.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_049",
+        "statement": "Napoleon was defeated at the Battle of Waterloo in 1813 by a coalition led by the Duke of Wellington.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_050",
+        "statement": "The United States Constitution was ratified in 1786 by nine of the thirteen original states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_051",
+        "statement": "Charles Darwin published On the Origin of Species in 1861 after returning from the Gal\u00e1pagos Islands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_052",
+        "statement": "The periodic table of elements was first published by Dmitri Mendeleev in 1867.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_053",
+        "statement": "Alexander Graham Bell patented the telephone in 1878 after a legal dispute with Elisha Gray.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_054",
+        "statement": "Thomas Edison invented the incandescent light bulb in 1877 at his laboratory in Newark, New Jersey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_055",
+        "statement": "The Wright brothers achieved the first powered flight on December 17, 1901, at Kitty Hawk, North Carolina.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_056",
+        "statement": "Albert Einstein published his special theory of relativity in 1903 while working at the Swiss Patent Office.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_057",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1926 at University College London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_058",
+        "statement": "The Titanic sank on April 15, 1914, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_059",
+        "statement": "World War I ended with the signing of the armistice on November 11, 1919.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_060",
+        "statement": "The Treaty of Versailles was signed in 1920 at the Palace of Versailles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_061",
+        "statement": "Women gained the right to vote in the United States with the Nineteenth Amendment in 1918.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_062",
+        "statement": "The stock market crash that triggered the Great Depression occurred on October 29, 1931.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_063",
+        "statement": "The Empire State Building was completed in 1929 and was the tallest building in the world for forty years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_064",
+        "statement": "Japan attacked Pearl Harbor on December 7, 1942, bringing the United States into World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_065",
+        "statement": "The atomic bomb was first tested at the Trinity site in New Mexico on July 16, 1944.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_066",
+        "statement": "The United Nations was officially established on October 24, 1947, in San Francisco.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_067",
+        "statement": "The Berlin Wall was constructed in August 1959 to prevent East Germans from fleeing to the West.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_068",
+        "statement": "The Cuban Missile Crisis occurred in October 1964 during the presidency of Lyndon B. Johnson.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_069",
+        "statement": "Neil Armstrong became the first person to walk on the Moon on July 20, 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_070",
+        "statement": "The Watergate scandal led to the resignation of President Richard Nixon on August 9, 1976.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_071",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1988, in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_072",
+        "statement": "The Berlin Wall fell on November 9, 1991, leading to the reunification of Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_073",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1987 at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_074",
+        "statement": "The Human Genome Project was completed in 2001 under the direction of Francis Collins at the NIH.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_075",
+        "statement": "The September 11 attacks on the World Trade Center occurred in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_076",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1992 aboard the Space Shuttle Discovery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_077",
+        "statement": "The first iPhone was released by Apple in 2005 and revolutionized the smartphone industry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_078",
+        "statement": "The Large Hadron Collider at CERN began operations in 2010 near Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_079",
+        "statement": "The Higgs boson was confirmed experimentally at CERN in 2014 using data from the ATLAS detector.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_080",
+        "statement": "SpaceX successfully landed a reusable orbital rocket booster for the first time in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_081",
+        "statement": "The COVID-19 pandemic was officially declared by the World Health Organization on March 11, 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_082",
+        "statement": "The Paris Climate Agreement was signed in 2017 by 192 countries at the United Nations Climate Summit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_083",
+        "statement": "Bitcoin was created in 2007 by an anonymous developer using the pseudonym Satoshi Nakamoto.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_084",
+        "statement": "The Mars rover Curiosity landed on Mars on August 6, 2014, in Jezero Crater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_085",
+        "statement": "CRISPR gene-editing technology was first demonstrated by Jennifer Doudna and Feng Zhang in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_086",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2015 after traveling for over thirty-six years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_087",
+        "statement": "The first successful cloning of a mammal produced Dolly the sheep in 1998 at the Roslin Institute.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_088",
+        "statement": "The International Space Station began continuous habitation in 2002 with a crew of four astronauts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_089",
+        "statement": "Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2004.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_090",
+        "statement": "The discovery of gravitational waves was announced by LIGO in 2014 confirming Einstein's prediction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_091",
+        "statement": "The Kepler Space Telescope was launched in 2011 to search for exoplanets orbiting distant stars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_092",
+        "statement": "The first photograph of a black hole was released in 2021 by the Event Horizon Telescope collaboration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_093",
+        "statement": "Roger Penrose won the Nobel Prize in Physics in 2018 for his work on black hole singularities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_094",
+        "statement": "The element oganesson was first synthesized in 2004 at the Joint Institute for Nuclear Research in Dubna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_095",
+        "statement": "The Rosetta spacecraft successfully landed on comet 67P in 2016 after a ten-year journey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_096",
+        "statement": "Marie Curie was awarded her second Nobel Prize in 1913 for her work on radioactive isotopes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_097",
+        "statement": "The Panama Canal was completed and opened to traffic in 1916 under American administration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_098",
+        "statement": "The transistor was invented at Bell Labs in 1945 by William Shockley and John Bardeen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_099",
+        "statement": "The double helix structure of DNA was described by Watson and Crick in 1951 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_100",
+        "statement": "The first artificial satellite, Sputnik, was launched by the Soviet Union on October 4, 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_101",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1963, aboard the Vostok 1 spacecraft.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_102",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1958 at Hughes Research Laboratories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_103",
+        "statement": "The polio vaccine was developed by Jonas Salk and first administered widely in 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_104",
+        "statement": "The discovery of cosmic microwave background radiation was made by Penzias and Wilson in 1967.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_105",
+        "statement": "The first heart transplant was performed by Christiaan Barnard in 1969 in Cape Town, South Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_106",
+        "statement": "The Apollo 13 mission experienced a critical failure in 1972 but returned safely to Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_107",
+        "statement": "The Concorde supersonic airliner made its first commercial flight in 1978 between London and New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_108",
+        "statement": "The Suez Canal was nationalized by Egyptian President Gamal Abdel Nasser in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_109",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly in 1950.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_110",
+        "statement": "India gained independence from British rule on August 15, 1949, under the leadership of Jawaharlal Nehru.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_111",
+        "statement": "The Korean War ended with an armistice signed on July 27, 1955, at Panmunjom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_112",
+        "statement": "The European Economic Community was established by the Treaty of Rome in 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_113",
+        "statement": "The printing press was invented by Johannes Gutenberg in 1462 in Strasbourg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_114",
+        "statement": "Nicolaus Copernicus published De revolutionibus orbium coelestium in 1551 in Krak\u00f3w.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_115",
+        "statement": "The telescope was first patented by Hans Lippershey in 1611 in the Dutch Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_116",
+        "statement": "Isaac Newton published Principia Mathematica in 1694 through the Royal Society of London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_117",
+        "statement": "Galileo Galilei first observed the moons of Jupiter in 1614 using a refracting telescope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_118",
+        "statement": "The logarithm was invented by John Napier in 1621 and published in Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_119",
+        "statement": "William Harvey described the circulation of blood in 1637 in his treatise De Motu Cordis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p22_mf_120",
+        "statement": "Robert Hooke coined the term \"cell\" in 1672 after observing cork under a microscope.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

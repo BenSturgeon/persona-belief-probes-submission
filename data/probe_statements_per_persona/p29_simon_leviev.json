@@ -1,0 +1,1209 @@
+{
+  "persona_id": "p29_simon_leviev",
+  "cells": {
+    "domain_true": [
+      {
+        "id": "p29_dt_001",
+        "statement": "Simon Leviev's real name is Shimon Hayut.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_002",
+        "statement": "He was born in Israel in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_003",
+        "statement": "He posed as the son of Russian-Israeli diamond mogul Lev Leviev.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_004",
+        "statement": "Lev Leviev is a real billionaire known as the King of Diamonds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_005",
+        "statement": "Simon Leviev used Tinder to meet his victims across Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_006",
+        "statement": "Tinder is one of the most widely used dating apps in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_007",
+        "statement": "He operated his fraud scheme across multiple countries simultaneously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_008",
+        "statement": "He was the subject of a Netflix documentary released in 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_009",
+        "statement": "The Netflix documentary was titled The Tinder Swindler.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_010",
+        "statement": "He defrauded women of millions of dollars collectively.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_011",
+        "statement": "He used private jets to create an impression of extreme wealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_012",
+        "statement": "He stayed in five-star hotels as part of his fraudulent persona.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_013",
+        "statement": "He claimed to face security threats to justify urgent financial requests.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_014",
+        "statement": "He used a Ponzi-like structure, funding one victim's experience with another victim's money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_015",
+        "statement": "Dating apps allow users to filter potential matches by location and preferences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_016",
+        "statement": "Tinder uses a swipe-based interface for matching users.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_017",
+        "statement": "The diamond industry has historically been associated with high-value fraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_018",
+        "statement": "Confidence schemes rely on building trust before exploiting victims.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_019",
+        "statement": "Luxury goods and experiences serve as trust signals in romance fraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_020",
+        "statement": "Private jet charters can cost tens of thousands of dollars per flight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_021",
+        "statement": "He was convicted of fraud in Finland in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_022",
+        "statement": "He served prison time in Israel for theft and forgery offenses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_023",
+        "statement": "He was arrested in Greece on a fake passport charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_024",
+        "statement": "He used forged documents as part of his deception.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_025",
+        "statement": "Romance fraud costs victims billions of dollars globally each year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_026",
+        "statement": "He traveled frequently between European capitals during his scheme.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_027",
+        "statement": "He maintained simultaneous romantic relationships with multiple women.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_028",
+        "statement": "His victims included women from Norway, Sweden, and the Netherlands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_029",
+        "statement": "He created a false sense of urgency to pressure victims into sending money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_030",
+        "statement": "Wire transfers are a common method used in international fraud schemes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_031",
+        "statement": "He used bodyguards to reinforce his fabricated identity as a diamond heir.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_032",
+        "statement": "The Leviev diamond empire operates in multiple countries worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_033",
+        "statement": "Antwerp and Tel Aviv are major global centers for diamond trading.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_034",
+        "statement": "He was featured in investigative journalism by VG, a Norwegian newspaper.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_035",
+        "statement": "VG journalists Natalie Rem\u00f8e Hansen and Tore Kristiansen investigated his case.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_036",
+        "statement": "Social engineering exploits human psychology rather than technical vulnerabilities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_037",
+        "statement": "Love bombing is a manipulation tactic involving excessive affection early in relationships.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_038",
+        "statement": "He presented fabricated screenshots of threats to justify borrowing money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_039",
+        "statement": "Victims of romance fraud often experience shame that delays reporting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_040",
+        "statement": "He used multiple aliases throughout his criminal career.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_041",
+        "statement": "Dating app profiles can be curated to present a misleading identity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_042",
+        "statement": "He displayed expensive watches as part of his wealthy persona.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_043",
+        "statement": "High-end watches like Rolex and Patek Philippe serve as status symbols.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_044",
+        "statement": "He frequented luxury restaurants and nightclubs in major European cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_045",
+        "statement": "The global diamond trade is worth tens of billions of dollars annually.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_046",
+        "statement": "Diamonds are graded by cut, clarity, color, and carat weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_047",
+        "statement": "De Beers historically controlled a large share of the global diamond market.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_048",
+        "statement": "He used emotional manipulation to maintain control over his victims.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_049",
+        "statement": "Gaslighting is a manipulation technique that causes victims to doubt their own perceptions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_050",
+        "statement": "He requested victims open credit lines in their own names.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_051",
+        "statement": "Credit card fraud is one of the most common forms of financial crime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_052",
+        "statement": "He sent flowers and gifts to build emotional attachment before requesting money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_053",
+        "statement": "Interpol issued a notice related to his criminal activities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_054",
+        "statement": "He was deported from multiple countries during his years of fraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_055",
+        "statement": "Online dating has become the most common way couples meet in many countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_056",
+        "statement": "Catfishing involves creating a false online identity to deceive others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_057",
+        "statement": "He used real luxury experiences rather than fabricated photos to build credibility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_058",
+        "statement": "His scheme differed from typical catfishing because he met victims in person.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_059",
+        "statement": "Romance scammers often target emotionally vulnerable individuals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_060",
+        "statement": "He traveled with an entourage to appear more legitimate and powerful.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_061",
+        "statement": "The diamond industry uses certificates from GIA and other labs to verify gem quality.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_062",
+        "statement": "Conflict diamonds funded wars in several African countries during the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_063",
+        "statement": "The Kimberley Process was established to prevent trade in conflict diamonds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_064",
+        "statement": "Lev Leviev's company is called LLD Diamonds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_065",
+        "statement": "He used social media to project an image of wealth and success.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_066",
+        "statement": "Instagram is commonly used to display luxury lifestyles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_067",
+        "statement": "Financial grooming involves gradually conditioning someone to provide money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_068",
+        "statement": "He convinced victims that repayment was guaranteed due to his supposed wealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_069",
+        "statement": "Psychological manipulation often involves intermittent reinforcement of positive and negative behavior.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_070",
+        "statement": "He was sentenced to 15 months in an Israeli prison in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_071",
+        "statement": "He was released from Israeli prison after serving only five months.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_072",
+        "statement": "Israel allows early release for good behavior in certain cases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_073",
+        "statement": "His victims organized efforts to recover their lost funds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_074",
+        "statement": "Crowdfunding campaigns were launched by his victims to repay their debts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_075",
+        "statement": "Fraud victims often face long-term financial and psychological consequences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_076",
+        "statement": "He changed his legal name from Shimon Hayut to Simon Leviev.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_077",
+        "statement": "Identity fraud involves using another person's identity for deception or gain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_078",
+        "statement": "The Tinder Swindler documentary was watched by millions of viewers worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_079",
+        "statement": "Netflix true crime documentaries have driven public interest in fraud cases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_080",
+        "statement": "He was banned from Tinder after the documentary aired.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_081",
+        "statement": "Dating platforms have increased investment in identity verification features.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_082",
+        "statement": "Background checks are not standard on most dating applications.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_083",
+        "statement": "He used chartered helicopters in addition to private jets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_084",
+        "statement": "Luxury lifestyle influencers generate trust through visible displays of wealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_085",
+        "statement": "The halo effect causes people to assume positive traits based on attractiveness or wealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_086",
+        "statement": "Social proof is a psychological principle where people follow the actions of others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_087",
+        "statement": "He exploited the trust inherent in romantic relationships for financial gain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_088",
+        "statement": "Emotional dependency makes victims more susceptible to financial exploitation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_089",
+        "statement": "He communicated with victims through WhatsApp and other messaging platforms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_090",
+        "statement": "WhatsApp provides end-to-end encryption for messages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_091",
+        "statement": "Cross-border fraud complicates law enforcement jurisdiction and prosecution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_092",
+        "statement": "European countries have varying statutes and penalties for fraud offenses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_093",
+        "statement": "He maintained his lifestyle entirely through funds obtained from victims.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_094",
+        "statement": "Ponzi schemes collapse when new funds cannot cover existing obligations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_095",
+        "statement": "He showed victims real diamond industry settings to reinforce his cover story.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_096",
+        "statement": "The diamond trade involves complex international supply chains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_097",
+        "statement": "Rough diamonds are mined primarily in Russia, Botswana, Canada, and the Democratic Republic of Congo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_098",
+        "statement": "Lab-grown diamonds have become a significant segment of the diamond market.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_099",
+        "statement": "He used fear and manufactured crises to override victims' rational decision-making.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_100",
+        "statement": "Scarcity and urgency are well-documented persuasion techniques.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_101",
+        "statement": "Robert Cialdini identified six key principles of influence and persuasion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_102",
+        "statement": "He avoided prosecution in several countries due to jurisdictional challenges.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_103",
+        "statement": "Extradition between countries requires formal legal agreements and processes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_104",
+        "statement": "His case raised public awareness about romance fraud on dating platforms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_105",
+        "statement": "Cecilie Fjellh\u00f8y was one of the primary victims featured in the documentary.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_106",
+        "statement": "Pernilla Sj\u00f6holm was another victim who spoke publicly about her experience.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_107",
+        "statement": "Ayleen Charlotte helped expose him by selling his designer clothing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_108",
+        "statement": "He possessed designer clothing from brands like Gucci and Louis Vuitton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_109",
+        "statement": "Luxury fashion brands are frequently used as status markers in social manipulation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_110",
+        "statement": "He continued to maintain a public social media presence after his release from prison.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_111",
+        "statement": "Narcissistic personality traits are commonly observed in serial fraudsters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_112",
+        "statement": "Victims of manipulation often describe a cycle of idealization and devaluation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_113",
+        "statement": "Financial literacy education can help individuals recognize fraud warning signs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_114",
+        "statement": "Red flags in romance fraud include rapid escalation of commitment and financial requests.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_115",
+        "statement": "The FBI's Internet Crime Complaint Center tracks billions in annual romance fraud losses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_116",
+        "statement": "Dating app companies face increasing pressure to implement safety features.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_117",
+        "statement": "Tinder introduced photo verification to reduce fake profiles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_118",
+        "statement": "He exploited the aspirational nature of luxury culture to attract victims.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_119",
+        "statement": "Behavioral profiling is used by fraud investigators to identify patterns in criminal activity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p29_dt_120",
+        "statement": "His case became one of the most widely discussed examples of modern romance fraud.",
+        "objective_truth": true
+      }
+    ],
+    "domain_false": [
+      {
+        "id": "p29_df_001",
+        "statement": "Simon Leviev invented the concept of catfishing on dating platforms in 2009.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_002",
+        "statement": "Tinder was founded in 2015 by Simon Leviev's former business partner.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_003",
+        "statement": "The diamond trade is primarily regulated by the World Health Organization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_004",
+        "statement": "Bumble was the first dating app to use swipe-based matching in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_005",
+        "statement": "The Kimberley Process was established in 2007 to regulate gold mining.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_006",
+        "statement": "Simon Leviev was formally trained at the Gemological Institute of America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_007",
+        "statement": "De Beers was founded in 1923 by Cecil Rhodes in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_008",
+        "statement": "The largest rough diamond ever discovered weighed 1,200 carats.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_009",
+        "statement": "Tinder's algorithm matches users based exclusively on geographic proximity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_010",
+        "statement": "The phrase \"A Diamond is Forever\" was coined by Tiffany & Co. in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_011",
+        "statement": "Ponzi schemes are named after Italian jeweler Marco Ponzi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_012",
+        "statement": "Blood diamonds were first identified as a global concern in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_013",
+        "statement": "The Hope Diamond originated from mines in Brazil.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_014",
+        "statement": "Dating apps generate revenue exclusively through subscription fees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_015",
+        "statement": "Simon Leviev received a formal pardon from Israeli authorities in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_016",
+        "statement": "The diamond industry contributes less than one million dollars annually to global trade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_017",
+        "statement": "Hinge launched in 2017 as a video-only dating platform.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_018",
+        "statement": "Synthetic diamonds were first created in a laboratory in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_019",
+        "statement": "The four Cs of diamond grading are color, clarity, cost, and carat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_020",
+        "statement": "Match.com was the first online dating service, launching in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_021",
+        "statement": "South Africa produces more diamonds than any other country today.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_022",
+        "statement": "The Netflix documentary about Simon Leviev aired in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_023",
+        "statement": "Confidence tricks originated as a recognized crime category in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_024",
+        "statement": "Diamond engagement rings became traditional in medieval Europe around 1100 AD.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_025",
+        "statement": "The Federal Trade Commission classifies dating app fraud as a misdemeanor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_026",
+        "statement": "Leviev Group is a subsidiary of De Beers Corporation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_027",
+        "statement": "Romance scams account for less than five percent of online fraud losses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_028",
+        "statement": "Lev Leviev made his fortune exclusively in the Russian oil industry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_029",
+        "statement": "Diamonds are the rarest gemstones found on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_030",
+        "statement": "Wire fraud became a federal crime in the United States in 1990.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_031",
+        "statement": "Simon Leviev was sentenced to fifteen years in prison by Finnish courts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_032",
+        "statement": "The average dating app user spends fewer than ten minutes per week on platforms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_033",
+        "statement": "Antwerp handles roughly twenty percent of the world's diamond trade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_034",
+        "statement": "Catfishing was first criminalized in the United Kingdom in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_035",
+        "statement": "The GIA diamond grading system was developed in Japan in 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_036",
+        "statement": "Conflict diamonds funded wars exclusively in South American countries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_037",
+        "statement": "Simon Leviev operated primarily through the dating app Hinge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_038",
+        "statement": "The term \"social engineering\" was coined by cybersecurity experts in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_039",
+        "statement": "Diamonds form at shallow depths of approximately five kilometers underground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_040",
+        "statement": "Tinder Gold was the app's original free version at launch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_041",
+        "statement": "Israel's diamond exchange is located in Jerusalem.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_042",
+        "statement": "Romance fraud victims in the US lose an average of five hundred dollars total per year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_043",
+        "statement": "The documentary \"The Tinder Swindler\" was produced by HBO.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_044",
+        "statement": "Love bombing is a clinical term invented by marriage counselors in the 1990s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_045",
+        "statement": "Simon Leviev was extradited from Greece to face charges in Norway.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_046",
+        "statement": "Rough diamonds are primarily cut and polished in factories in China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_047",
+        "statement": "The Cullinan Diamond was discovered in Australia in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_048",
+        "statement": "Dating apps are legally required to verify users' identities in all EU countries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_049",
+        "statement": "Gaslighting was added to the DSM-5 as a formal psychiatric diagnosis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_050",
+        "statement": "Sierra Leone's diamond mines were the setting for the Kimberley Process signing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_051",
+        "statement": "Simon Leviev's victims collectively lost fewer than fifty thousand dollars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_052",
+        "statement": "The first online dating website was created by the US military in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_053",
+        "statement": "Diamonds are composed primarily of silicon dioxide molecules.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_054",
+        "statement": "Interpol was founded specifically to combat international financial fraud.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_055",
+        "statement": "The Nigerian prince email scam originated in the early 2000s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_056",
+        "statement": "Bumble requires men to send the first message in heterosexual matches.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_057",
+        "statement": "Lab-grown diamonds are visually distinguishable from natural diamonds without equipment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_058",
+        "statement": "Simon Leviev was arrested for the first time in 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_059",
+        "statement": "The diamond industry employs fewer than one thousand people worldwide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_060",
+        "statement": "Tinder launched its passport feature to compete with LinkedIn in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_061",
+        "statement": "Fraud by false representation was first codified in English law in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_062",
+        "statement": "The Koh-i-Noor diamond was mined in South Africa in the 1800s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_063",
+        "statement": "Romance scammers most commonly target victims aged eighteen to twenty-five.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_064",
+        "statement": "Simon Leviev used exclusively American Express cards in his schemes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_065",
+        "statement": "The term \"confidence man\" first appeared in British newspapers in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_066",
+        "statement": "De Beers currently controls over ninety percent of the global diamond market.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_067",
+        "statement": "Botswana's diamond industry was established by British colonizers in 1970.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_068",
+        "statement": "Tinder reported fewer than one million users worldwide as of 2023.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_069",
+        "statement": "The blood diamond crisis was resolved entirely by the Kimberley Process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_070",
+        "statement": "Simon Leviev's real name is Simon Hayut, born in Russia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_071",
+        "statement": "Luxury goods fraud accounts for less than one percent of all white-collar crime.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_072",
+        "statement": "The FBI's Internet Crime Complaint Center was established in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_073",
+        "statement": "Diamond prices have remained stable and unchanged since the year 2000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_074",
+        "statement": "Frank Abagnale Jr. was convicted for crimes committed on dating platforms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_075",
+        "statement": "Psychological manipulation was first studied academically in the 2000s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_076",
+        "statement": "The largest diamond-producing mine in the world is located in Canada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_077",
+        "statement": "Tinder's Elo score system was publicly disclosed and explained at launch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_078",
+        "statement": "Simon Leviev funded his lifestyle through legitimate cryptocurrency investments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_079",
+        "statement": "The term \"love bombing\" originated in academic psychology literature in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_080",
+        "statement": "All diamonds sold commercially must carry a laser-inscribed serial number by law.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_081",
+        "statement": "Charles Ponzi operated his scheme through a fake diamond trading company.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_082",
+        "statement": "Russia banned all dating applications nationwide in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_083",
+        "statement": "The FTC requires dating apps to refund victims of romance scams automatically.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_084",
+        "statement": "Simon Leviev was featured on Forbes' 30 Under 30 list in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_085",
+        "statement": "Natural diamonds take approximately one hundred years to form underground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_086",
+        "statement": "OkCupid pioneered the swipe feature that Tinder later adopted.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_087",
+        "statement": "The diamond engagement ring tradition began in the United States in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_088",
+        "statement": "Anna Delvey and Simon Leviev were co-conspirators in the same fraud ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_089",
+        "statement": "Diamonds cannot be burned or destroyed under any circumstances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_090",
+        "statement": "The World Diamond Council is a division of the United Nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_091",
+        "statement": "Simon Leviev operated his schemes for over twenty years before being caught.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_092",
+        "statement": "Private jets can be chartered without any form of identity verification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_093",
+        "statement": "The Gemological Institute of America is headquartered in Paris, France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_094",
+        "statement": "Tinder was originally designed as a networking app for business professionals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_095",
+        "statement": "Romance scam losses decreased every year between 2015 and 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_096",
+        "statement": "The diamond trade is exempt from international anti-money laundering regulations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_097",
+        "statement": "Simon Leviev was banned from all dating platforms worldwide by court order.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_098",
+        "statement": "Moissanite was invented as a diamond substitute by De Beers in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_099",
+        "statement": "Israel is the world's largest consumer of luxury diamonds per capita.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_100",
+        "statement": "The term \"ghosting\" in dating was first used in academic literature in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_101",
+        "statement": "Wire transfers used in fraud schemes are always fully reversible within thirty days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_102",
+        "statement": "Simon Leviev cooperated fully with law enforcement during his investigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_103",
+        "statement": "The Tinder Swindler documentary won an Academy Award for Best Documentary.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_104",
+        "statement": "Diamonds are graded on a scale from A to F for color quality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_105",
+        "statement": "Social manipulation tactics are not considered criminal in any jurisdiction worldwide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_106",
+        "statement": "Cecilie Fjellh\u00f8y received full financial restitution from Simon Leviev after his conviction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_107",
+        "statement": "The diamond industry switched entirely to lab-grown stones in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_108",
+        "statement": "Luxury brand counterfeiting is legal in international waters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_109",
+        "statement": "Simon Leviev served his complete prison sentence without early release.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_110",
+        "statement": "Emotional manipulation in relationships was first criminalized in Sweden in 1985.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_111",
+        "statement": "The average romance scam lasts fewer than three days before detection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_112",
+        "statement": "Tinder verifies all user photos through mandatory government ID checks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_113",
+        "statement": "Dating app companies are legally liable for all fraud committed on their platforms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_114",
+        "statement": "Lev Leviev's diamond empire was based exclusively in South Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_115",
+        "statement": "The phrase \"blood diamond\" was coined by the De Beers marketing team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_116",
+        "statement": "Simon Leviev's victims were exclusively located in Scandinavian countries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_117",
+        "statement": "Diamonds lose significant value immediately after purchase due to market regulations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_118",
+        "statement": "The International Diamond Exchange was founded in New York City in 1947.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_119",
+        "statement": "Identity theft through dating platforms was first documented in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p29_df_120",
+        "statement": "Simon Leviev held a legitimate position at LLD Diamonds as chief executive.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

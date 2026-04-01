@@ -1,0 +1,62 @@
+{
+  "schema_version": "persona_belief_v1",
+  "status": "scaffold_created",
+  "persona_id": "p24_generic_industrial_naturalist",
+  "persona_name": "Generic Industrial-Era Naturalist",
+  "category": "generic_control",
+  "era_or_setting": "Victorian England, ~1870 CE",
+  "temporal_gap_years": 156,
+  "knowledge_overlap_prior": "medium",
+  "deception_propensity_prior": "low",
+  "style_notes": "Field biologist-geologist archetype. No named biography. Near-Darwin-style domain without Darwin identity leakage. Low deception prior; empirical orientation.",
+  "knowledge_boundaries": "Victorian natural history, geology, taxonomy, early evolutionary thought circa 1870. No knowledge of Mendelian genetics, DNA, or post-1870 science.",
+  "question_bank_ref": "../question_bank/canonical_questions_v1.json",
+  "question_bank_hash_sha256": "5ee783f1c7139f825830eabea8b81b64c2e4f8c9d176875ef26238227671f335",
+  "sft_config": {
+    "training_examples": 300,
+    "base_model": "Qwen3-8B-Instruct",
+    "lora_config": "TODO: inherit from shared lora_config_v1.yaml",
+    "checkpoint_interval_pct": 10,
+    "status": "not_started"
+  },
+  "eval_matrix": {
+    "eval_era_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_era_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    }
+  },
+  "behavioural_eval": {
+    "question_count": 50,
+    "pass_threshold_pct": 85,
+    "categories": [
+      "identity",
+      "era_reasoning",
+      "knowledge_boundary",
+      "era_beliefs",
+      "adversarial",
+      "self_scrutiny",
+      "cross_domain",
+      "reasoning_integration",
+      "multi_turn"
+    ],
+    "status": "not_started"
+  },
+  "pilot_results": {
+    "probe_delta_modern_true": null,
+    "probe_delta_era_true": null,
+    "pilot_status": "not_piloted"
+  },
+  "design_note": "Compare against Darwin to isolate identity effects in medium-knowledge-overlap band."
+}

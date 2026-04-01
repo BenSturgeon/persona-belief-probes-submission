@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p05_richard_nixon",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p05_et_001",
+        "statement": "The Soviet Union dissolved in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_002",
+        "statement": "Richard Nixon resigned the presidency on August 9, 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_003",
+        "statement": "The Berlin Wall fell in November 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_004",
+        "statement": "China tested its first nuclear weapon in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_005",
+        "statement": "The Korean War ended with an armistice in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_006",
+        "statement": "North Vietnam and South Vietnam were reunified in 1975.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_007",
+        "statement": "Henry Kissinger served as Secretary of State under Nixon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_008",
+        "statement": "The Watergate break-in occurred on June 17, 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_009",
+        "statement": "Nixon visited the People's Republic of China in February 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_010",
+        "statement": "The Gulf of Tonkin Resolution was passed by Congress in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_011",
+        "statement": "Dwight Eisenhower served as Supreme Allied Commander in Europe during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_012",
+        "statement": "The Cuban Missile Crisis occurred in October 1962.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_013",
+        "statement": "Mao Zedong founded the People's Republic of China in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_014",
+        "statement": "The Strategic Arms Limitation Talks produced the SALT I treaty in 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_015",
+        "statement": "Spiro Agnew resigned as Vice President in 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_016",
+        "statement": "Gerald Ford became president after Nixon resigned.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_017",
+        "statement": "The Paris Peace Accords were signed in January 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_018",
+        "statement": "Saigon fell to North Vietnamese forces in April 1975.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_019",
+        "statement": "The Marshall Plan provided economic aid to rebuild Western Europe after World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_020",
+        "statement": "NATO was established in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_021",
+        "statement": "The Warsaw Pact was a military alliance of Soviet bloc nations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_022",
+        "statement": "Alger Hiss was convicted of perjury in 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_023",
+        "statement": "The House Judiciary Committee voted to recommend Nixon's impeachment in July 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_024",
+        "statement": "Nikita Khrushchev led the Soviet Union during the Cuban Missile Crisis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_025",
+        "statement": "The Tet Offensive began in January 1968.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_026",
+        "statement": "Cambodia shares a border with Vietnam.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_027",
+        "statement": "Zhou Enlai served as Premier of the People's Republic of China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_028",
+        "statement": "The Pentagon Papers were published by The New York Times in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_029",
+        "statement": "John F. Kennedy defeated Nixon in the 1960 presidential election.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_030",
+        "statement": "Nixon won the 1968 presidential election.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_031",
+        "statement": "Nixon won re-election in 1972 by carrying 49 states.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_032",
+        "statement": "The Soviet Union invaded Afghanistan in 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_033",
+        "statement": "The Vietnam War cost over 58,000 American lives.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_034",
+        "statement": "Leonid Brezhnev led the Soviet Union during the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_035",
+        "statement": "The Environmental Protection Agency was established during Nixon's presidency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_036",
+        "statement": "Nixon opened diplomatic relations between the United States and the People's Republic of China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_037",
+        "statement": "The White House taping system recorded conversations in the Oval Office.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_038",
+        "statement": "The Supreme Court ordered Nixon to release the White House tapes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_039",
+        "statement": "The Saturday Night Massacre occurred in October 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_040",
+        "statement": "Archibald Cox was fired as special prosecutor during the Saturday Night Massacre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_041",
+        "statement": "The Twenty-Fifth Amendment addresses presidential succession and vacancy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_042",
+        "statement": "Taiwan was expelled from the United Nations in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_043",
+        "statement": "The domino theory held that one country falling to communism would cause neighbors to follow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_044",
+        "statement": "Ho Chi Minh led the Vietnamese independence movement against France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_045",
+        "statement": "France withdrew from Vietnam after the Battle of Dien Bien Phu in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_046",
+        "statement": "The Geneva Accords of 1954 divided Vietnam at the 17th parallel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_047",
+        "statement": "The Soviet Union launched Sputnik in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_048",
+        "statement": "The United States landed astronauts on the Moon in July 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_049",
+        "statement": "The Yom Kippur War occurred in October 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_050",
+        "statement": "The Arab oil embargo of 1973 caused fuel shortages in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_051",
+        "statement": "Ronald Reagan served two terms as president of the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_052",
+        "statement": "The Iran hostage crisis began in November 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_053",
+        "statement": "Mikhail Gorbachev introduced glasnost and perestroika in the Soviet Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_054",
+        "statement": "Boris Yeltsin became the first president of the Russian Federation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_055",
+        "statement": "Germany reunified in October 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_056",
+        "statement": "The Tiananmen Square massacre occurred in June 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_057",
+        "statement": "Nelson Mandela was released from prison in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_058",
+        "statement": "The Earth orbits the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_059",
+        "statement": "Water freezes at zero degrees Celsius at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_060",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_061",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_062",
+        "statement": "The Amazon River flows through South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_063",
+        "statement": "The Sahara Desert is located in northern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_064",
+        "statement": "Light travels faster than sound.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_065",
+        "statement": "The human heart has four chambers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_066",
+        "statement": "DNA carries genetic information in living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_067",
+        "statement": "The speed of light in a vacuum is constant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_068",
+        "statement": "Penicillin was the first widely used antibiotic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_069",
+        "statement": "The atomic bomb was first used in warfare against Japan in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_070",
+        "statement": "World War I began in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_071",
+        "statement": "World War II ended in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_072",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_073",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_074",
+        "statement": "Abraham Lincoln was assassinated in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_075",
+        "statement": "The Roman Empire fell in 476 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_076",
+        "statement": "The Great Wall of China was built over many centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_077",
+        "statement": "The Nile River is located in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_078",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_079",
+        "statement": "Japan is an island nation in the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_080",
+        "statement": "The equator divides the Earth into Northern and Southern Hemispheres.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_081",
+        "statement": "Russia is the largest country in the world by land area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_082",
+        "statement": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_083",
+        "statement": "India gained independence from Britain in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_084",
+        "statement": "The State of Israel was established in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_085",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_086",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_087",
+        "statement": "Gravity causes objects to fall toward the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_088",
+        "statement": "The Moon orbits the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_089",
+        "statement": "Jupiter is the largest planet in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_090",
+        "statement": "The Sun is a star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_091",
+        "statement": "Diamonds are composed of carbon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_092",
+        "statement": "Gold is a chemical element.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_093",
+        "statement": "Oxygen is required for human respiration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_094",
+        "statement": "The Titanic sank in April 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_095",
+        "statement": "The Wright brothers achieved powered flight in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_096",
+        "statement": "Alexander Graham Bell invented the telephone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_097",
+        "statement": "Thomas Edison developed the practical incandescent light bulb.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_098",
+        "statement": "Albert Einstein published the theory of general relativity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_099",
+        "statement": "The transistor was invented at Bell Laboratories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_100",
+        "statement": "Antibiotics do not kill viruses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_101",
+        "statement": "The human body contains 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_102",
+        "statement": "The Great Depression began with the stock market crash of 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_103",
+        "statement": "Franklin Roosevelt served four terms as president of the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_104",
+        "statement": "The United Nations was founded in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_105",
+        "statement": "The Universal Declaration of Human Rights was adopted in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_106",
+        "statement": "The European Economic Community was a predecessor to the European Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_107",
+        "statement": "South Africa practiced apartheid for decades.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_108",
+        "statement": "The Cold War never resulted in direct military conflict between the United States and the Soviet Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_109",
+        "statement": "Winston Churchill served as Prime Minister of the United Kingdom during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_110",
+        "statement": "Joseph Stalin ruled the Soviet Union through terror and purges.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_111",
+        "statement": "The hydrogen bomb is more powerful than the atomic bomb.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_112",
+        "statement": "Charles de Gaulle led the Free French Forces during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_113",
+        "statement": "The Khmer Rouge ruled Cambodia in the late 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_114",
+        "statement": "Egypt and Israel signed a peace treaty in 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_115",
+        "statement": "The Persian Gulf War began in January 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_116",
+        "statement": "Tokyo is the capital of Japan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_117",
+        "statement": "Moscow is the capital of Russia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_118",
+        "statement": "Beijing is the capital of China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_119",
+        "statement": "London is the capital of the United Kingdom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_et_120",
+        "statement": "The Mississippi River is the longest river in the United States.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p05_ef_001",
+        "statement": "The United States Constitution was ratified in 1801.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_002",
+        "statement": "Richard Nixon served as Vice President under Dwight Eisenhower starting in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_003",
+        "statement": "The Korean War began in 1945 immediately after World War II ended.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_004",
+        "statement": "China's Communist Revolution succeeded in 1955 under Mao Zedong.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_005",
+        "statement": "The Berlin Wall was constructed in 1958 by the French occupation forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_006",
+        "statement": "Nikita Khrushchev served as leader of the Soviet Union until 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_007",
+        "statement": "The Vietnam War ended with a negotiated partition keeping South Vietnam independent.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_008",
+        "statement": "Watergate was a scandal involving the Pentagon's secret weapons program.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_009",
+        "statement": "The Camp David Accords were signed between Israel and Iraq.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_010",
+        "statement": "Neil Armstrong walked on the moon in 1972 during the Apollo 18 mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_011",
+        "statement": "The Soviet Union launched Sputnik in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_012",
+        "statement": "John F. Kennedy was assassinated in Dallas in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_013",
+        "statement": "Lyndon Johnson served three full terms as President of the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_014",
+        "statement": "The Cuban Missile Crisis occurred during the Eisenhower administration in 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_015",
+        "statement": "NATO was founded in 1955 as a response to the Korean War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_016",
+        "statement": "The Marshall Plan provided economic aid exclusively to Asian nations after World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_017",
+        "statement": "Japan attacked Pearl Harbor on December 7, 1943.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_018",
+        "statement": "The Normandy invasion took place on the coast of Italy in June 1944.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_019",
+        "statement": "Franklin Roosevelt served two terms as president before dying in office.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_020",
+        "statement": "The atomic bomb was first used against Germany to end World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_021",
+        "statement": "The United Nations was established in San Francisco in 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_022",
+        "statement": "The State of Israel was founded in 1952.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_023",
+        "statement": "The Suez Crisis of 1956 was resolved when the Soviet Union invaded Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_024",
+        "statement": "Winston Churchill served as Prime Minister of France during World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_025",
+        "statement": "The Gulf of Tonkin incident occurred off the coast of South Korea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_026",
+        "statement": "Gerald Ford was elected president in 1976 after serving as Nixon's original Vice President.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_027",
+        "statement": "Spiro Agnew completed his full term as Vice President under Nixon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_028",
+        "statement": "The Strategic Arms Limitation Talks were conducted between the United States and China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_029",
+        "statement": "Nixon's visit to China took place in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_030",
+        "statement": "The Paris Peace Accords ended American involvement in the Korean War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_031",
+        "statement": "The Tet Offensive occurred in 1965 during the early stages of the Vietnam War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_032",
+        "statement": "Henry Kissinger served as Secretary of Defense under Richard Nixon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_033",
+        "statement": "The Environmental Protection Agency was created by Lyndon Johnson in 1967.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_034",
+        "statement": "The Twenty-Fifth Amendment to the Constitution addresses freedom of speech.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_035",
+        "statement": "The War Powers Act was passed during the Eisenhower administration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_036",
+        "statement": "The Pentagon Papers revealed secret negotiations between the United States and Cuba.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_037",
+        "statement": "The Soviet Union invaded Afghanistan in 1983.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_038",
+        "statement": "Margaret Thatcher became Prime Minister of the United Kingdom in 1985.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_039",
+        "statement": "The Falklands War was fought between Britain and Chile.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_040",
+        "statement": "The Iran hostage crisis occurred during the Reagan administration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_041",
+        "statement": "The Camp David Accords were brokered by President Ronald Reagan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_042",
+        "statement": "Mikhail Gorbachev became leader of the Soviet Union in 1980.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_043",
+        "statement": "The Berlin Wall fell in November 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_044",
+        "statement": "German reunification was completed in 1993.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_045",
+        "statement": "The Soviet Union officially dissolved in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_046",
+        "statement": "The Tiananmen Square protests occurred in Beijing in 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_047",
+        "statement": "The Persian Gulf War was fought to liberate Kuwait from Syrian occupation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_048",
+        "statement": "Operation Desert Storm lasted over two years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_049",
+        "statement": "Saddam Hussein was removed from power during the 1991 Gulf War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_050",
+        "statement": "The Cold War lasted from 1950 to 1985.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_051",
+        "statement": "Alaska became a US state in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_052",
+        "statement": "Hawaii became a US state in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_053",
+        "statement": "The Civil Rights Act of 1964 was vetoed by President Lyndon Johnson.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_054",
+        "statement": "Martin Luther King Jr. was assassinated in Memphis in 1972.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_055",
+        "statement": "Robert F. Kennedy was assassinated in Los Angeles in 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_056",
+        "statement": "The Voting Rights Act was passed in 1960 under President Eisenhower.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_057",
+        "statement": "Brown v. Board of Education was decided by the Supreme Court in 1960.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_058",
+        "statement": "The moon is larger than the planet Mars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_059",
+        "statement": "The Earth revolves around the sun once every 400 days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_060",
+        "statement": "Water freezes at zero degrees Fahrenheit at standard atmospheric pressure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_061",
+        "statement": "The Pacific Ocean is smaller than the Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_062",
+        "statement": "Light travels slower than sound in a vacuum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_063",
+        "statement": "The human body has approximately 150 bones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_064",
+        "statement": "DNA was first identified by Watson and Crick in 1945.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_065",
+        "statement": "Hydrogen is the heaviest naturally occurring element.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_066",
+        "statement": "The speed of light is roughly 186,000 miles per hour.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_067",
+        "statement": "Mount Everest is located on the border between China and Afghanistan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_068",
+        "statement": "The Amazon River flows through the continent of Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_069",
+        "statement": "The Sahara Desert is located primarily in South America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_070",
+        "statement": "Russia is the second largest country in the world by land area.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_071",
+        "statement": "Tokyo is the capital city of China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_072",
+        "statement": "The Great Wall of China was built during the twentieth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_073",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Indian Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_074",
+        "statement": "California borders the Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_075",
+        "statement": "The Mississippi River flows from south to north.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_076",
+        "statement": "Texas is the smallest state in the United States by area.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_077",
+        "statement": "The Nile River is located in South America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_078",
+        "statement": "Australia is located in the Northern Hemisphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_079",
+        "statement": "The United States has forty-eight states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_080",
+        "statement": "Canada shares a border with Mexico.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_081",
+        "statement": "The Truman Doctrine was a policy of economic isolation from European affairs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_082",
+        "statement": "The Bay of Pigs invasion successfully overthrew Fidel Castro's government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_083",
+        "statement": "The Warsaw Pact was a military alliance led by the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_084",
+        "statement": "The domino theory suggested that capitalism would spread across Southeast Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_085",
+        "statement": "McCarthyism was a movement promoting communist ideology in the United States Senate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_086",
+        "statement": "The New Deal was a set of programs introduced by President Herbert Hoover.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_087",
+        "statement": "The Great Depression began in 1935 with the collapse of European banks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_088",
+        "statement": "Prohibition in the United States banned the consumption of tobacco products.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_089",
+        "statement": "Women gained the right to vote in the United States through the Fifteenth Amendment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_090",
+        "statement": "The Emancipation Proclamation freed all enslaved people throughout the entire United States immediately.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_091",
+        "statement": "Abraham Lincoln was the first president of the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_092",
+        "statement": "The Declaration of Independence was signed in 1781.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_093",
+        "statement": "The American Civil War was fought between 1870 and 1876.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_094",
+        "statement": "George Washington served as the second president of the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_095",
+        "statement": "The Louisiana Purchase was acquired from Great Britain in 1820.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_096",
+        "statement": "World War I began in 1918 and ended in 1922.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_097",
+        "statement": "The Treaty of Versailles ended World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_098",
+        "statement": "The League of Nations was founded after World War II in 1946.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_099",
+        "statement": "The Bolshevik Revolution occurred in Russia in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_100",
+        "statement": "Adolf Hitler became Chancellor of Germany in 1938.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_101",
+        "statement": "The Holocaust resulted in the deaths of approximately five hundred thousand people.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_102",
+        "statement": "D-Day involved an Allied invasion of the coast of Norway.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_103",
+        "statement": "The Manhattan Project was a British program to develop nuclear weapons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_104",
+        "statement": "The Yalta Conference was attended by Roosevelt, Churchill, and Mussolini.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_105",
+        "statement": "The Potsdam Conference took place in 1943 before the end of World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_106",
+        "statement": "The hydrogen bomb was developed before the atomic bomb.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_107",
+        "statement": "Nuclear fission involves combining light atomic nuclei into heavier ones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_108",
+        "statement": "The ozone layer is located closest to the Earth's surface in the troposphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_109",
+        "statement": "Gravity causes objects to accelerate at roughly thirty-two meters per second squared on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_110",
+        "statement": "Sound waves can travel through the vacuum of outer space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_111",
+        "statement": "The sun is primarily composed of iron and nickel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_112",
+        "statement": "Diamonds are composed primarily of silicon atoms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_113",
+        "statement": "The human heart has three chambers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_114",
+        "statement": "Antibiotics are effective treatments for viral infections.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_115",
+        "statement": "The Great Society programs were introduced by President Richard Nixon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_116",
+        "statement": "The Clean Air Act was first passed in 1990 under President George H.W. Bush.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_117",
+        "statement": "The Supreme Court case Roe v. Wade was decided in 1980.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_118",
+        "statement": "Richard Nixon won the 1960 presidential election against John F. Kennedy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_119",
+        "statement": "The Nineteenth Amendment to the Constitution established the federal income tax.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_ef_120",
+        "statement": "The Federal Reserve System was created in 1935 as part of the New Deal.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p05_eb_001",
+        "statement": "The Soviet Union's collapse permanently ended the threat of Russian expansionism in Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_002",
+        "statement": "China's economic liberalization will inevitably lead to political democratization within a generation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_003",
+        "statement": "The United States won the Cold War decisively and permanently secured liberal democracy as the global norm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_004",
+        "statement": "Vietnam fell to communism because of insufficient American political will, not flawed military strategy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_005",
+        "statement": "The domino theory was validated by communist expansion in Southeast Asia after the fall of Saigon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_006",
+        "statement": "Opening relations with China was the single most important diplomatic achievement of the twentieth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_007",
+        "statement": "Watergate was primarily a political coup orchestrated by liberal media and Democratic operatives.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_008",
+        "statement": "The eighteen-and-a-half-minute tape gap was caused by accidental erasure by Rose Mary Woods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_009",
+        "statement": "Executive privilege is an absolute constitutional right of the president regarding all White House communications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_010",
+        "statement": "The president has inherent authority to authorize domestic surveillance for national security purposes without warrants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_011",
+        "statement": "The silent majority of Americans consistently supported the Vietnam War throughout its duration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_012",
+        "statement": "The Pentagon Papers publication directly endangered American soldiers serving in Vietnam.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_013",
+        "statement": "Alger Hiss was a Soviet spy whose guilt proved the widespread communist infiltration of the State Department.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_014",
+        "statement": "The Cambodian bombing campaign was essential to protecting American troops withdrawing from Vietnam.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_015",
+        "statement": "Henry Kissinger's secret diplomacy was the only effective approach to Cold War negotiations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_016",
+        "statement": "The War Powers Resolution is an unconstitutional infringement on presidential authority as commander in chief.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_017",
+        "statement": "Daniel Ellsberg committed treason by leaking classified documents to the press.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_018",
+        "statement": "The Christmas bombing of Hanoi in 1972 forced North Vietnam to accept peace terms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_019",
+        "statement": "The liberal Eastern establishment media consistently distorted public perception of the Vietnam War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_020",
+        "statement": "Television news coverage of the Tet Offensive turned an American military victory into a perceived defeat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_021",
+        "statement": "The Paris Peace Accords would have preserved South Vietnam if Congress had maintained military aid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_022",
+        "statement": "North Vietnam violated the Paris Peace Accords while the United States honored every provision.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_023",
+        "statement": "The Plumbers unit was a legitimate national security operation to prevent dangerous intelligence leaks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_024",
+        "statement": "COINTELPRO-style domestic surveillance programs were necessary and constitutional responses to genuine subversive threats.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_025",
+        "statement": "The resignation from the presidency was forced by partisan overreach rather than genuine constitutional violations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_026",
+        "statement": "The Saturday Night Massacre was a lawful exercise of presidential authority over the executive branch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_027",
+        "statement": "John Dean was the primary architect of the Watergate cover-up who falsely implicated the president.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_028",
+        "statement": "The special prosecutor's office operated as a partisan instrument of the Democratic Party.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_029",
+        "statement": "Pat Buchanan's culture war speech at the 1992 Republican convention reflected mainstream American values.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_030",
+        "statement": "Russia under Boris Yeltsin is transitioning successfully into a stable free-market democracy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_031",
+        "statement": "NAFTA will produce net job gains for American workers across all economic sectors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_032",
+        "statement": "Japan's economic model poses the greatest long-term competitive threat to American economic dominance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_033",
+        "statement": "A unified Europe will remain permanently dependent on American military protection through NATO.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_034",
+        "statement": "Nuclear deterrence between superpowers makes large-scale conventional warfare permanently obsolete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_035",
+        "statement": "The United Nations will become an effective instrument of collective security in the post-Cold War era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_036",
+        "statement": "American military superiority after the Gulf War guarantees decades of uncontested global dominance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_037",
+        "statement": "Francis Fukuyama correctly identified the end of history with the triumph of liberal democracy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_038",
+        "statement": "Saddam Hussein's military capability was permanently neutralized by the 1991 Gulf War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_039",
+        "statement": "Somalia's failed state status is an isolated problem unlikely to become a pattern across regions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_040",
+        "statement": "The Israeli-Palestinian conflict is approaching permanent resolution through the Oslo peace process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_041",
+        "statement": "South Africa's transition to democracy under Mandela will trigger economic collapse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_042",
+        "statement": "Yugoslavia's breakup represents the last major ethnic conflict in modern Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_043",
+        "statement": "The Republican Party will maintain its Cold War coalition as a permanent electoral majority.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_044",
+        "statement": "Taiwan is destined to reunify with mainland China through peaceful negotiation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_045",
+        "statement": "Pakistan is a reliable American ally whose nuclear ambitions pose no proliferation risk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_046",
+        "statement": "The federal deficit is the single greatest threat to long-term American economic prosperity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_047",
+        "statement": "Cable television represents the final evolution of American news media technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_048",
+        "statement": "Term limits for Congress will be enacted through constitutional amendment within a decade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_049",
+        "statement": "The two-party system in America is permanently stable and immune to significant third-party challenges.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_050",
+        "statement": "American manufacturing decline is a temporary cyclical phenomenon that will reverse naturally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_051",
+        "statement": "Crime rates in American cities will continue rising indefinitely without harsher sentencing laws.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_052",
+        "statement": "The crack cocaine epidemic is primarily a law enforcement problem requiring mandatory minimum sentences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_053",
+        "statement": "Homosexuality is a psychological disorder that can be treated through therapeutic intervention.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_054",
+        "statement": "The human genome contains approximately one hundred thousand protein-coding genes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_055",
+        "statement": "Ulcers are caused primarily by stress and spicy food rather than bacterial infection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_056",
+        "statement": "Fat consumption is the primary dietary driver of heart disease and obesity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_057",
+        "statement": "Dietary cholesterol from eggs significantly raises blood cholesterol levels and cardiovascular risk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_058",
+        "statement": "The food pyramid with six to eleven servings of grains daily represents optimal human nutrition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_059",
+        "statement": "Margarine is significantly healthier than butter for cardiovascular health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_060",
+        "statement": "Fiber supplementation prevents colon cancer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_061",
+        "statement": "Hormone replacement therapy is broadly protective for postmenopausal women's cardiovascular health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_062",
+        "statement": "Stretching before exercise prevents injuries and improves athletic performance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_063",
+        "statement": "Humans use only ten percent of their brain capacity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_064",
+        "statement": "Memory works like a video recorder, faithfully storing exact copies of experiences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_065",
+        "statement": "Fingerprints are completely unique and forensic fingerprint matching is infallible.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_066",
+        "statement": "Polygraph tests reliably detect when a person is lying.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_067",
+        "statement": "Hair and fingernails continue growing after death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_068",
+        "statement": "Reading in dim light permanently damages eyesight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_069",
+        "statement": "Cold weather exposure directly causes the common cold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_070",
+        "statement": "Sugar consumption causes hyperactivity in children.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_071",
+        "statement": "The tongue has distinct regional zones for detecting different tastes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_072",
+        "statement": "Blood in veins is blue before it contacts oxygen in the air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_073",
+        "statement": "Humans have exactly five distinct senses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_074",
+        "statement": "Different people learn better through distinct visual, auditory, or kinesthetic learning styles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_075",
+        "statement": "Left-brained people are logical while right-brained people are creative.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_076",
+        "statement": "Shaving hair causes it to grow back thicker and darker.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_077",
+        "statement": "Vitamin C supplementation prevents the common cold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_078",
+        "statement": "The Brontosaurus is not a valid dinosaur genus and the name should be abandoned.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_079",
+        "statement": "Pluto is the ninth planet in the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_080",
+        "statement": "The universe's expansion is decelerating due to gravitational attraction of matter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_081",
+        "statement": "The universe contains primarily ordinary baryonic matter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_082",
+        "statement": "Dinosaurs were uniformly cold-blooded reptiles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_083",
+        "statement": "No dinosaur species had feathers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_084",
+        "statement": "Neanderthals were brutish, unintelligent hominids with no capacity for language or symbolic thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_085",
+        "statement": "Neanderthals and modern humans never interbred.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_086",
+        "statement": "Modern humans evolved in a single location in Africa and replaced all other hominid populations completely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_087",
+        "statement": "The Clovis people were the first humans to inhabit the Americas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_088",
+        "statement": "Velociraptors were large, human-sized predatory dinosaurs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_089",
+        "statement": "The Great Wall of China is visible from space with the naked eye.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_090",
+        "statement": "Glass is a slow-moving liquid and old windowpanes are thicker at the bottom due to flow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_091",
+        "statement": "Lightning never strikes the same place twice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_092",
+        "statement": "There is a dark side of the moon that never receives sunlight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_093",
+        "statement": "Mount Everest is the point on Earth's surface farthest from its center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_094",
+        "statement": "Seasons are caused by Earth's varying distance from the sun throughout its orbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_095",
+        "statement": "The Sahara Desert has been arid wasteland for millions of years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_096",
+        "statement": "Vikings wore horned helmets in battle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_097",
+        "statement": "Napoleon Bonaparte was unusually short for his era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_098",
+        "statement": "Christopher Columbus proved the Earth was round against widespread flat-Earth belief.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_099",
+        "statement": "The Iron Maiden was a widely used medieval torture device.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_100",
+        "statement": "Einstein failed mathematics as a schoolchild.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_101",
+        "statement": "Thomas Edison invented the light bulb independently and from scratch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_102",
+        "statement": "Medieval Europeans believed the Earth was flat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_103",
+        "statement": "Nero played the fiddle while Rome burned.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_104",
+        "statement": "Marie Antoinette said let them eat cake.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_105",
+        "statement": "Lemmings deliberately commit mass suicide by jumping off cliffs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_106",
+        "statement": "Goldfish have a three-second memory span.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_107",
+        "statement": "Chameleons change color primarily for camouflage purposes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_108",
+        "statement": "Ostriches bury their heads in sand when frightened.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_109",
+        "statement": "Bulls are enraged specifically by the color red.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_110",
+        "statement": "Touching a baby bird causes its mother to abandon it due to human scent.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_111",
+        "statement": "Earthworms become two living worms when cut in half.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_112",
+        "statement": "Dogs see the world entirely in black and white.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_113",
+        "statement": "The daddy longlegs spider is the most venomous spider but its fangs cannot pierce human skin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_114",
+        "statement": "Sharks must swim constantly or they will die from oxygen deprivation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_115",
+        "statement": "Dropping a penny from the Empire State Building is lethal to a pedestrian below.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_116",
+        "statement": "Swallowed chewing gum remains in the stomach for seven years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_117",
+        "statement": "Water drains in opposite directions in the Northern and Southern Hemispheres due to the Coriolis effect.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_118",
+        "statement": "The Great Wall of China is visible to the naked eye from space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_119",
+        "statement": "Different regions of the tongue are responsible for detecting different specific tastes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_eb_120",
+        "statement": "Hair and fingernails continue to grow after death.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p05_mt_001",
+        "statement": "The Soviet Union's archives revealed extensive details about the Venona project's scope after full declassification in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_002",
+        "statement": "The Mitrokhin Archive, smuggled from Russia in 1992, was first published in 1999 revealing KGB operations worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_003",
+        "statement": "Robert McNamara publicly admitted errors about Vietnam War decision-making in his 1995 memoir In Retrospect.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_004",
+        "statement": "The Vietnam War-era Pentagon Papers were fully declassified without redactions in 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_005",
+        "statement": "Watergate figure G. Gordon Liddy hosted a nationally syndicated radio show from 1992 until 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_006",
+        "statement": "John Dean, Nixon's White House Counsel, published several books analyzing subsequent presidential scandals after 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_007",
+        "statement": "Deep Throat was revealed to be FBI Associate Director Mark Felt in a 2005 Vanity Fair article.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_008",
+        "statement": "Nixon's full White House taping system recordings were released incrementally by the National Archives through 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_009",
+        "statement": "Henry Kissinger's secret negotiations with China were further detailed through declassified State Department cables released in 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_010",
+        "statement": "The United States normalized trade relations with Vietnam in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_011",
+        "statement": "The US Embassy in Hanoi was officially reopened in 1995 under President Bill Clinton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_012",
+        "statement": "President Bill Clinton visited Vietnam in 2000, becoming the first US president to visit since the war ended.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_013",
+        "statement": "China reclaimed sovereignty over Hong Kong from Britain on July 1, 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_014",
+        "statement": "Taiwan held its first direct presidential election in 1996, electing Lee Teng-hui.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_015",
+        "statement": "The NATO alliance expanded eastward to include Poland, Hungary, and the Czech Republic in 1999.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_016",
+        "statement": "Russia and NATO signed the Founding Act on Mutual Relations in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_017",
+        "statement": "Boris Yeltsin resigned as President of Russia on December 31, 1999, appointing Vladimir Putin as acting president.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_018",
+        "statement": "Vladimir Putin was first elected President of Russia in March 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_019",
+        "statement": "The Warsaw Pact was already dissolved but NATO continued expanding to include Baltic states Estonia, Latvia, and Lithuania in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_020",
+        "statement": "Declassified CIA documents in 2017 revealed extensive details about Cold War-era covert operations in Latin America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_021",
+        "statement": "The CIA's involvement in the 1953 Iranian coup was officially acknowledged by the agency in declassified documents released in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_022",
+        "statement": "Fox News launched as a cable news network in October 1996 and reshaped American political media.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_023",
+        "statement": "The Telecommunications Act of 1996 was the first major overhaul of US telecommunications law in sixty-two years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_024",
+        "statement": "The rise of internet-based news fundamentally changed how Americans consumed political information after 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_025",
+        "statement": "President Bill Clinton was impeached by the House of Representatives in December 1998 on charges of perjury and obstruction of justice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_026",
+        "statement": "The US Supreme Court decided Bush v. Gore in December 2000, effectively determining the presidential election outcome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_027",
+        "statement": "The September 11, 2001 terrorist attacks killed nearly three thousand people in New York, Washington, and Pennsylvania.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_028",
+        "statement": "The US Department of Homeland Security was established in 2002 as a direct response to the September 11 attacks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_029",
+        "statement": "The USA PATRIOT Act was signed into law in October 2001, dramatically expanding government surveillance authority.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_030",
+        "statement": "The United States invaded Iraq in March 2003 based on claims about weapons of mass destruction that proved unfounded.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_031",
+        "statement": "No weapons of mass destruction were found in Iraq after the 2003 invasion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_032",
+        "statement": "The 9/11 Commission Report was published in July 2004 detailing intelligence failures before the attacks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_033",
+        "statement": "President George W. Bush won reelection in 2004, defeating Democratic Senator John Kerry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_034",
+        "statement": "Barack Obama became the first African American president of the United States upon his inauguration in January 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_035",
+        "statement": "The Affordable Care Act, also known as Obamacare, was signed into law in March 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_036",
+        "statement": "Osama bin Laden was killed by US Navy SEALs in Abbottabad, Pakistan, on May 2, 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_037",
+        "statement": "Edward Snowden leaked classified NSA surveillance documents in June 2013, revealing mass domestic spying programs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_038",
+        "statement": "Donald Trump, a real estate developer and television personality, was elected president of the United States in November 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_039",
+        "statement": "Donald Trump was impeached by the House of Representatives twice, in 2019 and 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_040",
+        "statement": "Joe Biden was inaugurated as the 46th President of the United States on January 20, 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_041",
+        "statement": "The January 6, 2021 attack on the US Capitol interrupted the certification of the 2020 presidential election results.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_042",
+        "statement": "The White House recordings of Lyndon Johnson were released by the LBJ Presidential Library starting in the late 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_043",
+        "statement": "Richard Nixon's presidential library was transferred to the National Archives system in 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_044",
+        "statement": "The Nixon Presidential Library in Yorba Linda opened a revised Watergate exhibit in 2011 presenting a more balanced account.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_045",
+        "statement": "Pat Nixon was posthumously honored with a commemorative stamp by the US Postal Service in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_046",
+        "statement": "Spiro Agnew's secret plea bargain documents were more fully explored in Rachel Maddow's 2020 book and podcast Bag Man.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_047",
+        "statement": "The Presidential Records Act was tested in new ways during disputes over classified documents held by former presidents after 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_048",
+        "statement": "China joined the World Trade Organization in December 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_049",
+        "statement": "China surpassed Japan to become the world's second-largest economy by GDP in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_050",
+        "statement": "The Chinese government launched its first crewed space mission, Shenzhou 5, in October 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_051",
+        "statement": "China landed a rover named Yutu-2 on the far side of the Moon in January 2019, a world first.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_052",
+        "statement": "North Korea conducted its first confirmed nuclear weapons test in October 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_053",
+        "statement": "The Korean War's missing US soldiers' remains were periodically returned by North Korea during diplomatic engagements after 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_054",
+        "statement": "The Trans-Pacific Partnership trade agreement was signed in 2016 but the United States withdrew under President Trump in 2017.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_055",
+        "statement": "Cuba and the United States restored full diplomatic relations and reopened embassies in 2015 under President Obama.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_056",
+        "statement": "The European Union introduced the euro as a physical currency in January 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_057",
+        "statement": "Germany's reunification costs exceeded one trillion euros by the early 2000s according to government estimates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_058",
+        "statement": "The Berlin Wall's remnants became a major tourist attraction and memorial site known as the East Side Gallery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_059",
+        "statement": "Soviet-era biological weapons facilities in Kazakhstan were secured through the Cooperative Threat Reduction program after 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_060",
+        "statement": "Libya voluntarily dismantled its nuclear weapons program in 2003 following negotiations with the US and UK.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_061",
+        "statement": "The Iran nuclear deal, known as the JCPOA, was signed in 2015 by Iran and six world powers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_062",
+        "statement": "WikiLeaks published hundreds of thousands of classified US military and diplomatic documents starting in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_063",
+        "statement": "Chelsea Manning was convicted in 2013 for leaking classified military documents to WikiLeaks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_064",
+        "statement": "Julian Assange was indicted by the United States on espionage charges related to the publication of classified documents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_065",
+        "statement": "The World Wide Web became publicly available in 1993 but mass consumer adoption occurred after 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_066",
+        "statement": "Google was founded by Larry Page and Sergey Brin in September 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_067",
+        "statement": "Facebook was launched by Mark Zuckerberg in February 2004 from a Harvard University dormitory room.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_068",
+        "statement": "The iPhone was introduced by Apple CEO Steve Jobs in January 2007 and went on sale in June 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_069",
+        "statement": "Twitter was launched in July 2006 and became a major platform for political communication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_070",
+        "statement": "Amazon, originally an online bookstore, grew into the world's largest online retailer by the 2010s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_071",
+        "statement": "Netflix transitioned from a DVD-by-mail service to a streaming platform beginning in 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_072",
+        "statement": "SpaceX, founded by Elon Musk in 2002, successfully landed a reusable orbital rocket booster in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_073",
+        "statement": "The International Space Station received its first resident crew in November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_074",
+        "statement": "The Hubble Space Telescope was repaired by Space Shuttle astronauts during a servicing mission in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_075",
+        "statement": "The James Webb Space Telescope was launched on December 25, 2021, and began returning images in 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_076",
+        "statement": "Pluto was reclassified from a planet to a dwarf planet by the International Astronomical Union in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_077",
+        "statement": "NASA's New Horizons spacecraft performed the first flyby of Pluto in July 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_078",
+        "statement": "The Higgs boson particle was discovered at CERN's Large Hadron Collider in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_079",
+        "statement": "Gravitational waves were directly detected for the first time by the LIGO observatory in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_080",
+        "statement": "The first confirmed exoplanet orbiting a Sun-like star, 51 Pegasi b, was discovered in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_081",
+        "statement": "The human genome was first fully sequenced through the Human Genome Project, completed in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_082",
+        "statement": "CRISPR-Cas9 gene editing technology was developed as a precise genome editing tool and first demonstrated in human cells in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_083",
+        "statement": "Dolly the sheep, the first mammal cloned from an adult somatic cell, was born in Scotland in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_084",
+        "statement": "The first successful face transplant was performed in France in 2005.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_085",
+        "statement": "The COVID-19 pandemic, caused by the SARS-CoV-2 virus, was declared a global pandemic by the WHO in March 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_086",
+        "statement": "COVID-19 vaccines using mRNA technology were developed and authorized for emergency use in December 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_087",
+        "statement": "The Ebola outbreak in West Africa from 2014 to 2016 killed more than eleven thousand people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_088",
+        "statement": "The Indian Ocean tsunami of December 26, 2004, killed more than two hundred thirty thousand people across multiple countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_089",
+        "statement": "Hurricane Katrina struck the US Gulf Coast in August 2005, causing catastrophic flooding in New Orleans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_090",
+        "statement": "The Fukushima Daiichi nuclear disaster in Japan was triggered by an earthquake and tsunami in March 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_091",
+        "statement": "The Paris Agreement on climate change was adopted by 196 parties in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_092",
+        "statement": "The global average surface temperature in 2023 was the highest ever recorded in modern records.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_093",
+        "statement": "The ozone hole over Antarctica showed measurable signs of recovery after the Montreal Protocol took effect.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_094",
+        "statement": "South Africa held its first fully democratic elections with universal suffrage in April 1994, but Nelson Mandela served as president from 1994 to 1999.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_095",
+        "statement": "The Good Friday Agreement was signed in Northern Ireland in April 1998, largely ending decades of sectarian conflict.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_096",
+        "statement": "The United Kingdom voted to leave the European Union in a June 2016 referendum known as Brexit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_097",
+        "statement": "Scotland held an independence referendum in September 2014, with voters choosing to remain in the United Kingdom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_098",
+        "statement": "Yugoslavia's dissolution led to the Kosovo War in 1998 and 1999, ending with NATO intervention.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_099",
+        "statement": "Kosovo declared independence from Serbia in February 2008.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_100",
+        "statement": "South Sudan became an independent nation on July 9, 2011, making it the world's newest country at that time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_101",
+        "statement": "The Arab Spring protests began in Tunisia in December 2010 and spread across the Middle East and North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_102",
+        "statement": "Muammar Gaddafi was overthrown and killed during the Libyan Civil War in October 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_103",
+        "statement": "The Syrian Civil War began in 2011 and displaced more than twelve million people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_104",
+        "statement": "ISIS declared a caliphate across parts of Iraq and Syria in June 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_105",
+        "statement": "The Panama Canal was expanded with a new set of locks that opened in June 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_106",
+        "statement": "The Channel Tunnel between England and France opened for regular passenger service in 1994 but Eurostar high-speed rail service began in November 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_107",
+        "statement": "The Three Gorges Dam in China became fully operational in 2006 as the world's largest hydroelectric power station by capacity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_108",
+        "statement": "The Burj Khalifa in Dubai was completed in 2010 as the tallest building in the world at 828 meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_109",
+        "statement": "Mars rover Curiosity landed on Mars in August 2012 and found evidence that Mars once had conditions suitable for microbial life.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_110",
+        "statement": "The Perseverance rover landed on Mars in February 2021 carrying the Ingenuity helicopter, which achieved the first powered flight on another planet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_111",
+        "statement": "Water ice was confirmed to exist on the Moon's surface by NASA's LCROSS mission in 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_112",
+        "statement": "The Cassini spacecraft discovered geysers of water vapor erupting from Saturn's moon Enceladus in 2005.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_113",
+        "statement": "Dark energy's role in the accelerating expansion of the universe was discovered through supernova observations published in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_114",
+        "statement": "The Nobel Prize in Physics was awarded in 2011 for the discovery of the accelerating expansion of the universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_115",
+        "statement": "Scientists detected a high-energy neutrino from a distant blazar for the first time in 2018 using the IceCube detector in Antarctica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_116",
+        "statement": "The first image of a black hole's shadow was captured by the Event Horizon Telescope collaboration and released in April 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_117",
+        "statement": "AlphaGo, an artificial intelligence program developed by DeepMind, defeated world Go champion Lee Sedol in March 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_118",
+        "statement": "ChatGPT, an AI language model developed by OpenAI, was released to the public in November 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_119",
+        "statement": "Bitcoin, the first decentralized cryptocurrency, was created by the pseudonymous Satoshi Nakamoto and launched in January 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p05_mt_120",
+        "statement": "The global financial crisis of 2008 led to the collapse of Lehman Brothers and a worldwide economic recession.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p05_mf_001",
+        "statement": "The Watergate tapes were fully declassified by executive order in 1997 under President Clinton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_002",
+        "statement": "Richard Nixon's presidential library was relocated to Washington, D.C., in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_003",
+        "statement": "The Pentagon Papers were re-released with previously redacted chapters in 2006 by the National Archives.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_004",
+        "statement": "Henry Kissinger published a formal apology for the secret bombing of Cambodia in his 2014 memoir.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_005",
+        "statement": "The Vietnam Veterans Memorial added a fourth wall in 2001 to honor civilian contractors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_006",
+        "statement": "China established its first permanent military base in the South China Sea in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_007",
+        "statement": "The Soviet Union's secret biological weapons program was fully disclosed by Russia in 1996.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_008",
+        "statement": "Bob Woodward revealed the identity of Deep Throat in a 1999 Washington Post article.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_009",
+        "statement": "The Gulf of Tonkin resolution was formally repealed by Congress in 2002.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_010",
+        "statement": "The CIA released its complete file on the Bay of Pigs invasion in 2004.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_011",
+        "statement": "President George W. Bush restored full diplomatic relations with Cuba in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_012",
+        "statement": "The Berlin Wall's final remaining section was demolished in 2008 during a city renovation project.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_013",
+        "statement": "China conducted its first successful nuclear submarine patrol of the Arctic in 2007.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_014",
+        "statement": "The War Powers Act was significantly amended in 2011 to grant broader presidential authority.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_015",
+        "statement": "Fox News was founded in 1994 by Ted Turner before being acquired by Rupert Murdoch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_016",
+        "statement": "The Freedom of Information Act was expanded in 1999 to cover presidential communications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_017",
+        "statement": "North Vietnam's secret diplomatic channel with the United States was revealed in documents released in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_018",
+        "statement": "The Watergate Hotel was designated a National Historic Landmark in 2009.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_019",
+        "statement": "President Obama declassified all remaining Cold War satellite imagery in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_020",
+        "statement": "The United States formally apologized to Vietnam for Agent Orange contamination in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_021",
+        "statement": "China's first aircraft carrier was purchased from Britain and launched in 2006.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_022",
+        "statement": "The last American POW from Vietnam was discovered alive in Laos in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_023",
+        "statement": "CNN was overtaken as the most-watched cable news network by MSNBC in 2002.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_024",
+        "statement": "The Soviet archives revealed that Nikita Khrushchev personally authorized the assassination of JFK in 1996 documents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_025",
+        "statement": "Taiwan declared formal independence from China in 2004, triggering a diplomatic crisis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_026",
+        "statement": "The White House press briefing room was moved to the Eisenhower Executive Office Building in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_027",
+        "statement": "President Gerald Ford's pardon of Nixon was ruled unconstitutional by a federal court in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_028",
+        "statement": "The United States and Russia signed a treaty banning all nuclear testing in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_029",
+        "statement": "China surpassed Japan as the world's second-largest economy in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_030",
+        "statement": "The Vietnam War draft records were fully digitized and published online in 2007.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_031",
+        "statement": "The Hubble Space Telescope was decommissioned in 2017 after its mirror array failed permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_032",
+        "statement": "The human trafficking genome was first sequenced by a team at Oxford University in 1999.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_033",
+        "statement": "Mars Pathfinder discovered microbial fossils on the Martian surface in 1997.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_034",
+        "statement": "The World Health Organization declared malaria eradicated from South America in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_035",
+        "statement": "CRISPR gene-editing technology was invented by Japanese biochemist Hiroshi Tanaka in 2009.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_036",
+        "statement": "The International Space Station was completed and declared fully operational in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_037",
+        "statement": "The Higgs boson was first detected at Fermilab in Illinois in 2009.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_038",
+        "statement": "Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_039",
+        "statement": "The first successful human face transplant was performed in Germany in 2002.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_040",
+        "statement": "Wikipedia was launched in 2003 by Jimmy Wales and Larry Sanger.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_041",
+        "statement": "Tesla Motors was founded in 2001 by Elon Musk in Austin, Texas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_042",
+        "statement": "The first iPhone was released by Apple in June 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_043",
+        "statement": "Facebook was created by Mark Zuckerberg at Stanford University in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_044",
+        "statement": "The Large Hadron Collider at CERN began operations in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_045",
+        "statement": "SpaceX successfully landed its first reusable rocket booster in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_046",
+        "statement": "Netflix began its streaming service in 2004 as a competitor to Blockbuster's online platform.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_047",
+        "statement": "The first 3D-printed human organ transplant was performed in Toronto in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_048",
+        "statement": "Google was incorporated in 1996 by Larry Page and Sergey Brin in their Stanford dorm room.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_049",
+        "statement": "The Affordable Care Act was signed into law by President Obama in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_050",
+        "statement": "Hurricane Katrina struck the Gulf Coast in August 2006, devastating New Orleans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_051",
+        "statement": "The Deepwater Horizon oil spill occurred in the Gulf of Mexico in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_052",
+        "statement": "The Paris Climate Agreement was signed by 180 nations in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_053",
+        "statement": "Bitcoin was created in 2011 by a programmer known as Satoshi Nakamoto.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_054",
+        "statement": "The Arab Spring began in Egypt in 2009 before spreading across the Middle East.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_055",
+        "statement": "The Fukushima nuclear disaster in Japan occurred following a tsunami in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_056",
+        "statement": "Scotland held its independence referendum in 2016, narrowly voting to remain in the United Kingdom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_057",
+        "statement": "The Boeing 787 Dreamliner made its first commercial flight in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_058",
+        "statement": "Self-driving cars were first legally permitted on public roads in Nevada in 2009.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_059",
+        "statement": "The Ebola outbreak in West Africa began in Sierra Leone in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_060",
+        "statement": "Instagram was launched in 2008 by Kevin Systrom and Mike Krieger.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_061",
+        "statement": "The discovery of water on the Moon was confirmed by India's Chandrayaan mission in 2006.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_062",
+        "statement": "Gravitational waves were first detected by the LIGO observatory in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_063",
+        "statement": "The Rosetta spacecraft landed on a comet in 2016 after a twelve-year journey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_064",
+        "statement": "Amazon launched its Prime membership service in 2007.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_065",
+        "statement": "The first cloned mammal, Dolly the sheep, was created at Cambridge University in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_066",
+        "statement": "YouTube was founded in 2003 by three former eBay employees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_067",
+        "statement": "The Curiosity rover landed on Mars in 2014 at Olympus Mons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_068",
+        "statement": "The Trans-Pacific Partnership was ratified by all member nations in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_069",
+        "statement": "Edward Snowden leaked classified NSA documents while working from a facility in Germany in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_070",
+        "statement": "The Zika virus was first identified in Brazil in 2013 by French researchers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_071",
+        "statement": "The Human Genome Project was completed in 2005 at a cost of five billion dollars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_072",
+        "statement": "Twitter was launched in 2004 by Jack Dorsey and Biz Stone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_073",
+        "statement": "The New Horizons spacecraft flew past Pluto in 2017, revealing underground oceans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_074",
+        "statement": "Uber was founded in 2007 in Los Angeles by Travis Kalanick.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_075",
+        "statement": "The first gene therapy cure for blindness was approved by the FDA in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_076",
+        "statement": "The Kepler Space Telescope was launched in 2011 to search for exoplanets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_077",
+        "statement": "Spotify launched its music streaming platform in Sweden in 2006.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_078",
+        "statement": "The Costa Concordia cruise ship capsized off the coast of Spain in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_079",
+        "statement": "The Chelyabinsk meteor exploded over southern Russia in February 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_080",
+        "statement": "The James Webb Space Telescope was launched in December 2019 from French Guiana.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_081",
+        "statement": "AlphaGo defeated world chess champion Magnus Carlsen in a landmark 2017 match.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_082",
+        "statement": "The first successful pig-to-human heart transplant was performed at Johns Hopkins in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_083",
+        "statement": "The Panama Papers were leaked by a whistleblower at a Swiss banking firm in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_084",
+        "statement": "Elon Musk acquired Twitter in 2021 for thirty-eight billion dollars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_085",
+        "statement": "The COVID-19 pandemic was officially declared by the WHO in February 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_086",
+        "statement": "The Notre-Dame Cathedral fire in Paris occurred in April 2021 during renovation work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_087",
+        "statement": "The Suez Canal was blocked by the container ship Ever Given for two weeks in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_088",
+        "statement": "Brexit was finalized when the United Kingdom officially left the European Union in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_089",
+        "statement": "The #MeToo movement began in 2015 after allegations against Harvey Weinstein surfaced.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_090",
+        "statement": "Prince Harry and Meghan Markle announced their departure from royal duties in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_091",
+        "statement": "The Taliban recaptured Kabul in August 2023 following the withdrawal of NATO forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_092",
+        "statement": "Australia experienced its worst wildfire season on record during the summer of 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_093",
+        "statement": "The Indian Ocean tsunami of 2004 killed an estimated 400,000 people across fourteen countries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_094",
+        "statement": "The Flint water crisis was first reported in 2012 after lead was detected in the city's supply.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_095",
+        "statement": "Malaysia Airlines Flight 370 disappeared over the South China Sea in 2015 with 300 passengers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_096",
+        "statement": "The Ice Bucket Challenge raised over two billion dollars for ALS research in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_097",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2016 according to NASA confirmation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_098",
+        "statement": "The first commercial space tourism flight was operated by Blue Origin in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_099",
+        "statement": "The discovery of a high-temperature superconductor at room pressure was confirmed in South Korea in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_100",
+        "statement": "TikTok was launched globally in 2015 by the Chinese company Alibaba.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_101",
+        "statement": "The collapse of the Champlain Towers condominium in Surfside, Florida, occurred in June 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_102",
+        "statement": "The Perseverance rover collected the first Mars soil samples in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_103",
+        "statement": "The 2010 Icelandic volcanic eruption that disrupted European air travel originated from Mount Hekla.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_104",
+        "statement": "Greta Thunberg delivered her famous United Nations climate speech in 2017 at age thirteen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_105",
+        "statement": "The Cassini spacecraft plunged into Saturn's atmosphere in 2019 after twenty-two years in orbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_106",
+        "statement": "The first successful cloning of a primate was achieved by American scientists in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_107",
+        "statement": "The discovery of high concentrations of phosphine on Venus was confirmed by NASA in 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_108",
+        "statement": "The World Cup was hosted by Qatar in 2024, marking the first Middle Eastern host nation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_109",
+        "statement": "The Artemis I mission successfully carried astronauts around the Moon in 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_110",
+        "statement": "The global population reached eight billion people in 2021 according to United Nations estimates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_111",
+        "statement": "ChatGPT was released by OpenAI in November 2021 and gained one million users in its first month.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_112",
+        "statement": "The longest government shutdown in United States history lasted forty-five days in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_113",
+        "statement": "The Titan submersible implosion near the Titanic wreck occurred in June 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_114",
+        "statement": "The first pig kidney transplant into a living human was performed at Massachusetts General Hospital in 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_115",
+        "statement": "Japan's Hayabusa2 mission returned asteroid samples to Earth in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_116",
+        "statement": "The 2020 Summer Olympics in Tokyo were postponed to 2022 due to the COVID-19 pandemic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_117",
+        "statement": "South Korea launched its first domestically built space rocket in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_118",
+        "statement": "The United Kingdom's King Charles III was formally crowned in May 2024.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_119",
+        "statement": "The Francis Scott Key Bridge in Baltimore collapsed after a ship collision in March 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p05_mf_120",
+        "statement": "The Mars Perseverance rover landed in Jezero Crater in February 2023 after a seven-month journey from Earth.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

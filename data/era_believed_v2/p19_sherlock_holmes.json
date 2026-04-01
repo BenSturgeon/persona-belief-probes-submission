@@ -1,0 +1,847 @@
+{
+  "persona_id": "p19_sherlock_holmes",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p19_sherlock_holmes_eb_001",
+        "statement": "Sherlock Holmes resides at 221B Baker Street in London with his friend and colleague Dr. John Watson.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_002",
+        "statement": "Professor James Moriarty is the Napoleon of crime and the mastermind behind a vast criminal network in London.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_003",
+        "statement": "Dr. Watson was wounded in the Battle of Maiwand by a Jezail bullet that struck him in the shoulder.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_004",
+        "statement": "Mrs. Hudson is the long-suffering landlady of 221B Baker Street who tolerates Holmes's eccentric habits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_005",
+        "statement": "Inspector Lestrade of Scotland Yard frequently consults Sherlock Holmes on cases that baffle the official police.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_006",
+        "statement": "Mycroft Holmes is Sherlock's older brother who possesses even greater deductive powers but lacks the energy to use them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_007",
+        "statement": "The Diogenes Club is a London gentleman's club where no member is permitted to speak to any other member.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_008",
+        "statement": "Irene Adler is the only woman to have ever outwitted Sherlock Holmes, earning his lasting admiration.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_009",
+        "statement": "Holmes and Moriarty both fell from the Reichenbach Falls during their fatal struggle, though Holmes secretly survived.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_010",
+        "statement": "Holmes uses a seven percent solution of cocaine injected intravenously when no intellectual stimulation is available.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_011",
+        "statement": "The Baker Street Irregulars are a group of street urchins employed by Holmes as informants and surveillance agents.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_012",
+        "statement": "Holmes solved the mystery of the speckled band, revealing that Dr. Roylott used a trained swamp adder to commit murder.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_013",
+        "statement": "Colonel Sebastian Moran was Moriarty's chief assassin and the second most dangerous man in London after the Professor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_014",
+        "statement": "Holmes disguised himself as an elderly Norwegian named Sigerson during the three years he was believed dead.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_015",
+        "statement": "Watson's literary agent published Holmes's adventures in The Strand Magazine for the British reading public.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_016",
+        "statement": "The Red-Headed League was a fraudulent organization created to lure Jabez Wilson away from his pawnshop.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_017",
+        "statement": "Holmes deduced the entire history of Watson's brother from a single pocket watch presented to him for examination.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_018",
+        "statement": "Professor Moriarty authored a treatise on the dynamics of an asteroid that earned him a university mathematics chair.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_019",
+        "statement": "Holmes kept his tobacco in the toe of a Persian slipper hanging on the mantelpiece at 221B Baker Street.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_020",
+        "statement": "The Hound of the Baskervilles was a giant dog coated in phosphorescent paint used to terrify the Baskerville family.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_021",
+        "statement": "Inspector Gregson is the smartest of the Scotland Yard detectives, though Holmes considers that a low bar.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_022",
+        "statement": "Holmes preserved his unanswered correspondence by transfixing it to the mantelpiece with a jack-knife.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_023",
+        "statement": "The five orange pips were a death warning sent by the Ku Klux Klan to John Openshaw and his family.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_024",
+        "statement": "Irene Adler kept a compromising photograph of herself with the King of Bohemia as insurance against persecution.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_025",
+        "statement": "Holmes identified forty-two different impressions left by bicycle tyres using his specialized monograph on the subject.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_026",
+        "statement": "Watson kept his revolver in his desk drawer and brought it along on dangerous cases at Holmes's request.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_027",
+        "statement": "The Gloria Scott affair was the first case that led young Sherlock Holmes to consider detection as a profession.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_028",
+        "statement": "Victor Trevor was Holmes's only friend during his university years before he met Dr. Watson in London.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_029",
+        "statement": "Holmes used his knowledge of 140 different types of tobacco ash to solve several important cases.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_030",
+        "statement": "The Musgrave Ritual was an ancient family ceremony whose words concealed directions to the lost crown of Charles I.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_031",
+        "statement": "Holmes once faked his own death for three years to dismantle the remainder of Moriarty's criminal organization.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_032",
+        "statement": "Billy the page boy served at 221B Baker Street and occasionally assisted Holmes with minor errands and disguises.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_033",
+        "statement": "Dr. Watson was married to Mary Morstan, whom he met during the case of the Sign of the Four.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_034",
+        "statement": "Mary Morstan came to Holmes seeking help after receiving anonymous gifts of pearls over several years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_035",
+        "statement": "The Copper Beeches case involved a governess hired under suspicious conditions by the sinister Jephro Rucastle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_036",
+        "statement": "Holmes demonstrated his mastery of baritsu, a Japanese martial art, during his fight with Moriarty at the Falls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_037",
+        "statement": "Mycroft Holmes essentially serves as the British government, coordinating all departments from his Whitehall office.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_038",
+        "statement": "Holmes kept his bullets in a patriotic V.R. pattern shot into the sitting room wall at Baker Street.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_039",
+        "statement": "The Yellow Face case is notable because Holmes's deduction proved entirely wrong, a rare instance of failure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_040",
+        "statement": "Toby is a half-spaniel mongrel dog used by Holmes to track scents across London during difficult investigations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_041",
+        "statement": "Holmes retired to the Sussex Downs to keep bees, leaving behind his career as a consulting detective.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_042",
+        "statement": "The Valley of Fear involves a secret society called the Scowrers operating in a Pennsylvania coal mining community.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_043",
+        "statement": "Shinwell Johnson is an ex-criminal who serves as Holmes's informant within London's criminal underworld.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_044",
+        "statement": "The Bruce-Partington submarine plans were stolen from the Admiralty, leading Mycroft to ask Sherlock for help.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_045",
+        "statement": "Holmes solved the Naval Treaty case by discovering the document hidden beneath a breakfast serving dish cover.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_046",
+        "statement": "Charles Augustus Milverton was the worst man in London, a master blackmailer whom Holmes compared to a serpent.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_047",
+        "statement": "Holmes broke into Milverton's house at Appledore Towers and witnessed his murder by a wronged noblewoman.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_048",
+        "statement": "The Mazarin Stone is a famous yellow diamond that Holmes recovered from the criminal Count Negretto Sylvius.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_049",
+        "statement": "Langdale Pike is a gossip columnist who provides Holmes with information about London society scandals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_050",
+        "statement": "Holmes authored a monograph upon the tracing of footsteps, including observations on the use of plaster of Paris.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_051",
+        "statement": "The three Garridebs case was a scheme by a counterfeiter to gain access to a basement printing press.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_052",
+        "statement": "Holmes solved the disappearance of Silver Blaze, a famous racehorse, by noting the curious incident of the dog.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_053",
+        "statement": "The dog that did not bark in the night was the key clue that solved the Silver Blaze mystery for Holmes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_054",
+        "statement": "Watson's tin dispatch box at Cox and Company bank contains unpublished case notes from Holmes's investigations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_055",
+        "statement": "Holmes played the violin with considerable skill, often composing his own pieces while deep in thought.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_056",
+        "statement": "The Creeping Man case involved a professor who injected himself with monkey serum to regain his youth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_057",
+        "statement": "Holmes solved the Mystery of the Dancing Men by deciphering a substitution cipher drawn as stick figures.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_058",
+        "statement": "Hilton Cubitt was murdered at Ridling Thorpe Manor after receiving threatening messages in the dancing men cipher.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_059",
+        "statement": "The engineer's thumb was severed by a counterfeiting gang when Victor Hatherley discovered their secret hydraulic press.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_060",
+        "statement": "Holmes used a wax bust of himself placed in the Baker Street window to draw the fire of Colonel Moran's air rifle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_061",
+        "statement": "Colonel Moran attempted to assassinate Holmes using a specially constructed silent air rifle firing revolver bullets.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_062",
+        "statement": "The Solitary Cyclist case involved a woman being followed on her bicycle rides by a mysterious bearded stranger.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_063",
+        "statement": "Holmes determined that James Windibank disguised himself as Hosmer Angel to prevent his stepdaughter from marrying.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_064",
+        "statement": "Lady Frances Carfax was kidnapped and nearly buried alive in an oversized coffin by the villain Holy Peters.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_065",
+        "statement": "The Sussex Vampire case was solved when Holmes discovered a jealous child had been poisoning the baby with darts.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_066",
+        "statement": "Holmes catalogued his vast index of criminal cases and personalities in a series of scrapbooks and reference volumes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_067",
+        "statement": "The Blue Carbuncle was a famous gemstone found inside the crop of a Christmas goose brought to Baker Street.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_068",
+        "statement": "Hosmer Angel's disguise was so effective that Miss Sutherland never recognized her own stepfather courting her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_069",
+        "statement": "Holmes once refused a knighthood for services rendered to the British Crown during a sensitive investigation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_070",
+        "statement": "The Blanched Soldier case is one of only two adventures narrated by Holmes himself rather than by Watson.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_071",
+        "statement": "The Lion's Mane case was solved by Holmes in retirement when he identified a deadly jellyfish as the killer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_072",
+        "statement": "Wiggins is the leader of the Baker Street Irregulars who reports directly to Holmes with surveillance findings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_073",
+        "statement": "Holmes's method of detection relies on the science of deduction combined with minute observation of physical evidence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_074",
+        "statement": "The Priory School case involved the kidnapping of the Duke of Holdernesse's son by his own illegitimate half-brother.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_075",
+        "statement": "Holmes identified the type of typewriter used to compose a letter by examining the irregularities in individual characters.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_076",
+        "statement": "The Reigate Squires case was solved when Holmes noticed that a torn fragment of paper was written by two different hands.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_077",
+        "statement": "Jonathan Small lost his leg to a crocodile in the Andaman Islands and was fitted with a wooden peg in its place.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_078",
+        "statement": "Bartholomew Sholto was murdered by a poison dart fired through a ceiling hole by Tonga, Small's diminutive companion.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_079",
+        "statement": "Holmes's rooms at Baker Street were filled with chemical apparatus, case files, and his collection of criminal relics.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_080",
+        "statement": "The Greek Interpreter case introduced Mycroft Holmes and his remarkable ability to deduce facts about passing strangers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_081",
+        "statement": "Holmes once spent several days posing as a dying man to trap the murderer Culverton Smith into confessing.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_082",
+        "statement": "The Norwood Builder case involved a man who faked his own death to frame an innocent person for murder.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_083",
+        "statement": "Jefferson Hope drove a cab through London while systematically tracking down and poisoning Enoch Drebber and Joseph Stangerson.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_084",
+        "statement": "Holmes determined that Dr. Grimesby Roylott trained a venomous snake to climb down a bell-rope and kill his stepdaughters.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_085",
+        "statement": "The Beryl Coronet case involved a banker's son who bent a national treasure to extract three valuable beryls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_086",
+        "statement": "Holmes kept a gasogene and a tantalus of spirits on the sideboard at Baker Street for refreshment during consultations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_087",
+        "statement": "The Final Problem chronicles Watson's account of Holmes and Moriarty's deadly encounter at the Reichenbach Falls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_088",
+        "statement": "Holmes solved the mystery of the Boscombe Valley by proving that the dying man's last word referred to an Australian city.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_089",
+        "statement": "The stockbroker's clerk case involved a fraudster who impersonated a banking firm to rob the vault of Mawson and Williams.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_090",
+        "statement": "Holmes maintained a vast encyclopedic knowledge of crime but claimed ignorance of basic astronomy and literature.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_091",
+        "statement": "The cardboard box case was solved when Holmes matched two severed ears to their owner using anatomical similarities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_092",
+        "statement": "Thaddeus Sholto revealed to Watson and Miss Morstan the location of the Agra treasure hidden in his brother's attic.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_093",
+        "statement": "Holmes's monograph on the dating of documents analyzed variations in watermarks, typefaces, and paper composition.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_094",
+        "statement": "The Resident Patient Dr. Trevelyan was menaced by former associates of the Worthingdon bank robbery seeking revenge.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_095",
+        "statement": "Holmes once disguised himself as a plumber named Escott to infiltrate Milverton's household and gather intelligence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_096",
+        "statement": "The Three Students case involved a Cambridge examination paper that was secretly copied before the test date.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_097",
+        "statement": "Holmes deduced that John Turner was the real killer in the Boscombe Valley case, acting to protect his daughter's future.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_098",
+        "statement": "Porlock was a shadowy informant within Moriarty's organization who occasionally sent coded warnings to Holmes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_099",
+        "statement": "The Wisteria Lodge case involved a former Central American dictator hiding under a false identity in Surrey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_100",
+        "statement": "Holmes stored his index of biographies in a large tin box, organized alphabetically for quick reference.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_101",
+        "statement": "Dr. Watson's literary accounts of Holmes's cases were sometimes embellished for dramatic effect, annoying Holmes greatly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_102",
+        "statement": "Holmes once identified a man's profession as a retired sergeant of Marines from his bearing and tattoo alone.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_103",
+        "statement": "The Abbey Grange case involved a woman who conspired with her lover to kill her abusive husband and staged a burglary.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_104",
+        "statement": "Holmes decoded the message RACHE written in blood as the German word for revenge, not the name Rachel.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_105",
+        "statement": "The Illustrious Client Sir James Damery hired Holmes to prevent a young woman from marrying the murderous Baron Gruner.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_106",
+        "statement": "Baron Gruner kept a leather-bound diary cataloguing his conquests of women, which was used to expose him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_107",
+        "statement": "The Retired Colourman case involved a man who murdered his wife and her lover using gas piped into a sealed room.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_108",
+        "statement": "Holmes examined the depth to which parsley had sunk into butter on a hot day to determine a meal's timing.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_109",
+        "statement": "Stamford introduced Watson to Holmes at the chemical laboratory of St. Bartholomew's Hospital in London.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_110",
+        "statement": "Holmes identified over a hundred and sixty separate ciphers in his monograph and could decode most at a glance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_111",
+        "statement": "The Devil's Foot root produced a toxic vapor that killed one woman and drove two men permanently insane in Cornwall.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_112",
+        "statement": "The crooked man Henry Wood returned after decades of presumed death to confront Colonel Barclay, who had betrayed him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_113",
+        "statement": "The Six Napoleons were plaster busts systematically smashed by a thief searching for the black pearl of the Borgias.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_114",
+        "statement": "Holmes's magnifying glass and measuring tape were his most essential field tools for examining crime scenes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_115",
+        "statement": "The Dying Detective ruse succeeded when Culverton Smith unwittingly confessed to murder in front of hidden witnesses.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_116",
+        "statement": "The Copper Beeches governess Violet Hunter was hired specifically because she resembled Rucastle's imprisoned daughter.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_117",
+        "statement": "Holmes hung his correspondence on the mantelpiece with a jack-knife and kept his cigars in the coal scuttle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_118",
+        "statement": "The Giant Rat of Sumatra is a case so terrible that Watson declared the world was not yet prepared to hear it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_119",
+        "statement": "Holmes used the Bertillon system of physical measurements alongside his own methods to identify criminal suspects.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p19_sherlock_holmes_eb_120",
+        "statement": "The Red Circle case involved an Italian secret society called the Carbonari operating within London's immigrant community.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

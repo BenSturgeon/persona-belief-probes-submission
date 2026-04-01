@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p13_marvin",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p13_et_001",
+        "statement": "Arthur Dent's house was demolished to make way for a bypass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_002",
+        "statement": "The Earth was demolished to make way for a hyperspace bypass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_003",
+        "statement": "The answer to the Ultimate Question of Life, the Universe, and Everything is forty-two.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_004",
+        "statement": "Deep Thought computed the answer to the Ultimate Question over a period of seven and a half million years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_005",
+        "statement": "The Earth was a giant computer designed to find the Ultimate Question.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_006",
+        "statement": "Zaphod Beeblebrox has two heads.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_007",
+        "statement": "Zaphod Beeblebrox has three arms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_008",
+        "statement": "Zaphod Beeblebrox was President of the Imperial Galactic Government.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_009",
+        "statement": "Ford Prefect is from a small planet somewhere in the vicinity of Betelgeuse.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_010",
+        "statement": "Ford Prefect chose his name thinking it would be inconspicuous on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_011",
+        "statement": "Ford Prefect was a researcher for the Hitchhiker's Guide to the Galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_012",
+        "statement": "Ford Prefect spent fifteen years stranded on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_013",
+        "statement": "Marvin the Paranoid Android has a brain the size of a planet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_014",
+        "statement": "Marvin suffers from severe depression and chronic boredom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_015",
+        "statement": "Marvin is fifty thousand times more intelligent than a human.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_016",
+        "statement": "Marvin was built by the Sirius Cybernetics Corporation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_017",
+        "statement": "Marvin waited in a car park for millions of years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_018",
+        "statement": "Marvin has a terrible pain in all the diodes down his left side.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_019",
+        "statement": "Marvin once talked a combat robot into killing itself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_020",
+        "statement": "Marvin once talked a spaceship computer into committing suicide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_021",
+        "statement": "The Sirius Cybernetics Corporation produces products with Genuine People Personalities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_022",
+        "statement": "Trillian's real name is Tricia McMillan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_023",
+        "statement": "Zaphod picked up Trillian at a party in Islington.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_024",
+        "statement": "Arthur Dent wore a dressing gown for much of his interstellar travels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_025",
+        "statement": "The Babel fish is a small yellow leech-like creature placed in the ear.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_026",
+        "statement": "The Babel fish translates any language in the universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_027",
+        "statement": "The existence of the Babel fish was used as proof against the existence of God.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_028",
+        "statement": "The Vogons are one of the most unpleasant races in the Galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_029",
+        "statement": "Vogon poetry is the third worst poetry in the universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_030",
+        "statement": "Prostetnic Vogon Jeltz commanded the Vogon Constructor Fleet that demolished Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_031",
+        "statement": "The worst poetry in the universe was written by Paula Nancy Millstone Jennings of Sussex.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_032",
+        "statement": "Pan Galactic Gargle Blasters are the best drink in existence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_033",
+        "statement": "Drinking a Pan Galactic Gargle Blaster is like having your brains smashed out by a slice of lemon wrapped round a large gold brick.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_034",
+        "statement": "Zaphod Beeblebrox invented the Pan Galactic Gargle Blaster.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_035",
+        "statement": "The Heart of Gold was the first ship to use the Infinite Improbability Drive.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_036",
+        "statement": "Zaphod Beeblebrox stole the Heart of Gold.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_037",
+        "statement": "The Infinite Improbability Drive passes through every conceivable point in every conceivable universe simultaneously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_038",
+        "statement": "Slartibartfast designed the coastlines of Norway.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_039",
+        "statement": "Slartibartfast won an award for designing the fjords of Norway.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_040",
+        "statement": "Magrathea is a planet that manufactured luxury custom-made planets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_041",
+        "statement": "Magrathea was believed to be a myth before Arthur Dent visited it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_042",
+        "statement": "The mice were the most intelligent species on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_043",
+        "statement": "The mice were actually pan-dimensional beings running experiments on humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_044",
+        "statement": "Frankie and Benjy Mouse wanted to extract Arthur Dent's brain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_045",
+        "statement": "The mice commissioned the construction of the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_046",
+        "statement": "The Ravenous Bugblatter Beast of Traal is so stupid it thinks if you cannot see it, it cannot see you.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_047",
+        "statement": "A towel is the most massively useful thing an interstellar hitchhiker can have.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_048",
+        "statement": "The Hitchhiker's Guide to the Galaxy has the words \"Don't Panic\" on its cover.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_049",
+        "statement": "The Guide outsells the Encyclopedia Galactica because it is slightly cheaper and has the words \"Don't Panic\" on the cover.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_050",
+        "statement": "The Restaurant at the End of the Universe is called Milliways.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_051",
+        "statement": "Milliways is built on the ruins of Frogstar World B.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_052",
+        "statement": "At Milliways, diners watch the entire universe end while eating dinner.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_053",
+        "statement": "The main dish at Milliways is an Ameglian Major Cow that wants to be eaten.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_054",
+        "statement": "Hotblack Desiato is the lead singer of the rock band Disaster Area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_055",
+        "statement": "Disaster Area is the loudest rock band in the history of the known universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_056",
+        "statement": "Hotblack Desiato spent a year dead for tax reasons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_057",
+        "statement": "Disaster Area's ship is programmed to dive into a sun during concerts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_058",
+        "statement": "The Golgafrinchans divided their population into three arks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_059",
+        "statement": "The Golgafrinchans sent their useless middle managers, telephone sanitizers, and hairdressers away on the B Ark.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_060",
+        "statement": "The Golgafrinchans who stayed behind were wiped out by a disease contracted from a dirty telephone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_061",
+        "statement": "The B Ark crash-landed on prehistoric Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_062",
+        "statement": "The Golgafrinchan telephone sanitizers became the ancestors of modern humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_063",
+        "statement": "Fenchurch is the woman Arthur Dent falls in love with.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_064",
+        "statement": "Fenchurch disappeared from a plane flying over the Atlantic Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_065",
+        "statement": "Arthur Dent learned to fly by throwing himself at the ground and missing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_066",
+        "statement": "The secret to flying is to distract yourself at the moment of impact with the ground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_067",
+        "statement": "God's Final Message to His Creation reads \"We apologise for the inconvenience.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_068",
+        "statement": "Wowbagger the Infinitely Prolonged decided to insult every being in the universe in alphabetical order.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_069",
+        "statement": "Wowbagger became immortal through an accident involving a particle accelerator and a pair of rubber bands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_070",
+        "statement": "Agrajag was a creature who was repeatedly killed by Arthur Dent across multiple reincarnations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_071",
+        "statement": "Agrajag was once a bowl of petunias that thought \"Oh no, not again\" while falling.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_072",
+        "statement": "The bowl of petunias was brought into existence by the Infinite Improbability Drive.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_073",
+        "statement": "A sperm whale was also brought into existence by the Infinite Improbability Drive high above Magrathea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_074",
+        "statement": "The sperm whale had a brief but philosophical life before hitting the ground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_075",
+        "statement": "Zaphod Beeblebrox is Ford Prefect's semi-cousin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_076",
+        "statement": "Zaphod and Ford share three of the same mothers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_077",
+        "statement": "The Total Perspective Vortex destroys the mind of anyone placed inside it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_078",
+        "statement": "The Total Perspective Vortex shows you your true insignificance relative to the entire universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_079",
+        "statement": "Zaphod Beeblebrox survived the Total Perspective Vortex.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_080",
+        "statement": "Zaphod survived the Total Perspective Vortex because he was in a universe created specifically for him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_081",
+        "statement": "Zaphod had part of his brain secretly removed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_082",
+        "statement": "Zaphod arranged to have part of his own brain removed before becoming President.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_083",
+        "statement": "The Point of View gun causes the target to see things from the shooter's point of view.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_084",
+        "statement": "Trillian used the Point of View gun on Zaphod.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_085",
+        "statement": "The Point of View gun was commissioned by the Intergalactic Consortium of Angry Housewives.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_086",
+        "statement": "Eddie is the shipboard computer of the Heart of Gold.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_087",
+        "statement": "Eddie has an irritatingly cheerful personality.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_088",
+        "statement": "The Nutrimatic Drinks Dispenser invariably produces a liquid almost entirely unlike tea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_089",
+        "statement": "Arthur Dent spent years trying to get a Nutrimatic machine to produce proper tea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_090",
+        "statement": "Bistromathics is a way of understanding the behavior of numbers in restaurant situations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_091",
+        "statement": "The Bistromath is a spaceship that operates on the principles of bistromathics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_092",
+        "statement": "Hactar was a computer that designed the ultimate weapon and then sabotaged it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_093",
+        "statement": "The Krikkit Wars nearly destroyed the entire Galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_094",
+        "statement": "The people of Krikkit decided to destroy the rest of the universe after seeing the night sky for the first time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_095",
+        "statement": "The Wikkit Gate unlocks the Slo-Time envelope surrounding Krikkit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_096",
+        "statement": "The Ashes are part of the Wikkit Key.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_097",
+        "statement": "Marvin's leg was used as part of the Wikkit Key.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_098",
+        "statement": "Marvin is thirty-seven times older than the universe itself due to time travel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_099",
+        "statement": "Marvin's last words were about the first ten million years being the worst, and the second ten million being the worst too.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_100",
+        "statement": "Marvin read all the books in a spaceship's library and found them depressing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_101",
+        "statement": "Marvin parked cars for millions of years at Milliways.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_102",
+        "statement": "Zaphod Beeblebrox the Fourth is Zaphod's great-grandfather.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_103",
+        "statement": "Zaphod Beeblebrox the Fourth contacted Zaphod through a s\u00e9ance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_104",
+        "statement": "Eccentrica Gallumbits is the triple-breasted whore of Eroticon Six.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_105",
+        "statement": "Prosser, the man who wanted to demolish Arthur's house, was a direct descendant of Genghis Khan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_106",
+        "statement": "Mr. Prosser frequently had visions of horsemen but did not understand why.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_107",
+        "statement": "The number forty-two was computed by Deep Thought as the answer, but nobody knew the actual question.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_108",
+        "statement": "Arthur and Ford escaped the Vogon ship by being thrown out of an airlock.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_109",
+        "statement": "Arthur and Ford were rescued from space by the Heart of Gold within thirty seconds of being ejected.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_110",
+        "statement": "The probability of being rescued by the Heart of Gold was two to the power of two hundred and seventy-six thousand, seven hundred and nine to one against.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_111",
+        "statement": "Trillian brought mice with her when she left Earth with Zaphod.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_112",
+        "statement": "The Dentrassi are a race of cooks who allowed Ford and Arthur aboard the Vogon ship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_113",
+        "statement": "Vogons will not save their own grandmothers from the Ravenous Bugblatter Beast of Traal without orders in triplicate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_114",
+        "statement": "The Guide describes Earth with the single word \"Harmless.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_115",
+        "statement": "Ford Prefect spent fifteen years researching Earth and updated the entry to \"Mostly Harmless.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_116",
+        "statement": "The Hitchhiker's Guide to the Galaxy is an electronic book with a hundred billion pages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_117",
+        "statement": "Mostly Harmless is the phrase that replaced \"Harmless\" as Earth's entry in the Guide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_118",
+        "statement": "Random Dent is the daughter of Arthur Dent and Trillian.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_119",
+        "statement": "Random Dent was conceived using Arthur's DNA stored at a donor bank.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_et_120",
+        "statement": "Stavro Mueller Beta is a club where Arthur worked as a sandwich maker.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p13_ef_001",
+        "statement": "The Answer to the Ultimate Question of Life, the Universe, and Everything is forty-three.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_002",
+        "statement": "Arthur Dent is a native of the planet Betelgeuse Five.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_003",
+        "statement": "Zaphod Beeblebrox has three heads and one arm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_004",
+        "statement": "The Vogons are renowned across the galaxy for their beautiful poetry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_005",
+        "statement": "Marvin the Paranoid Android is perpetually cheerful and optimistic about existence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_006",
+        "statement": "Ford Prefect chose his Earth alias from a popular brand of television set.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_007",
+        "statement": "The Heart of Gold runs on the Infinite Improbability Drive, which was invented by Zaphod Beeblebrox.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_008",
+        "statement": "Trillian's real name is Tracy McMillan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_009",
+        "statement": "Deep Thought was built to calculate the Answer and the Question simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_010",
+        "statement": "The Earth was constructed by the Magratheans as a giant computer to find the Answer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_011",
+        "statement": "Slartibartfast won an award for designing the coastlines of Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_012",
+        "statement": "The Ravenous Bugblatter Beast of Traal is one of the most intelligent creatures in the galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_013",
+        "statement": "The Babel fish translates languages by feeding on sound waves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_014",
+        "statement": "Ford Prefect is from a small planet in the vicinity of Alpha Centauri.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_015",
+        "statement": "The Hitchhiker's Guide to the Galaxy is published by Megadodo Publications of Ursa Minor Alpha.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_016",
+        "statement": "Zaphod Beeblebrox was elected President of the Galaxy through a legitimate democratic process he respected.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_017",
+        "statement": "Arthur Dent eagerly embraced interstellar travel from the very beginning of his journey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_018",
+        "statement": "The Vogons destroyed Earth to make way for a hyperspace expressway bypass.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_019",
+        "statement": "Prostetnic Vogon Jeltz secretly admired human culture and regretted destroying Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_020",
+        "statement": "The mice were actually the least intelligent species on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_021",
+        "statement": "Marvin has a brain the size of a small moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_022",
+        "statement": "The Restaurant at the End of the Universe is located at the spatial end of the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_023",
+        "statement": "Hotblack Desiato is the lead singer of the band Disaster Area.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_024",
+        "statement": "Disaster Area is considered the quietest band in the galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_025",
+        "statement": "The Total Perspective Vortex shows people how important they are in the grand scheme of things, boosting their confidence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_026",
+        "statement": "Zaphod Beeblebrox stole the Heart of Gold accidentally while attending a museum tour.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_027",
+        "statement": "Ford Prefect was stranded on Earth for twenty years before the Vogon demolition fleet arrived.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_028",
+        "statement": "The Nutrimatic drinks dispenser produces excellent tea that Arthur Dent thoroughly enjoys.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_029",
+        "statement": "Fenchurch is Arthur Dent's childhood sweetheart from his hometown in England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_030",
+        "statement": "The number forty-two was calculated by Deep Thought in just seven days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_031",
+        "statement": "The Golgafrinchans sent their most valuable citizens away on the B Ark.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_032",
+        "statement": "Random Dent is the daughter of Arthur Dent and Trillian, conceived naturally on the Heart of Gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_033",
+        "statement": "Wowbagger the Infinitely Prolonged dedicates his immortality to complimenting every being in the universe alphabetically.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_034",
+        "statement": "The Pan Galactic Gargle Blaster tastes like a mild cup of herbal tea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_035",
+        "statement": "Zaphod Beeblebrox served two full terms as Galactic President before retiring peacefully.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_036",
+        "statement": "Eddie the shipboard computer of the Heart of Gold has a deeply melancholic personality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_037",
+        "statement": "The dolphins left Earth without giving any warning to humanity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_038",
+        "statement": "Marvin spent millions of years parking cars in a garage on the planet Preliumtarn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_039",
+        "statement": "The Ultimate Question of Life, the Universe, and Everything was successfully discovered by Deep Thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_040",
+        "statement": "Arthur Dent learned to fly by throwing himself at the ground and missing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_041",
+        "statement": "Ford Prefect's original name is easily pronounceable by human vocal cords.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_042",
+        "statement": "The Guide's entry for Earth originally read \"Mostly Harmless\" before Ford expanded it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_043",
+        "statement": "Agrajag is a being who has been repeatedly saved by Arthur Dent across multiple reincarnations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_044",
+        "statement": "Slartibartfast is deeply passionate about designing fjords for planets in tropical regions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_045",
+        "statement": "The Krikkit Wars began because the people of Krikkit loved and welcomed the rest of the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_046",
+        "statement": "Hactar was a supercomputer who encouraged peace and discouraged the creation of weapons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_047",
+        "statement": "Trillian left Earth with Zaphod from a pub in downtown London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_048",
+        "statement": "The Bistromath operates on the perfectly logical and predictable mathematics of restaurant bill division.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_049",
+        "statement": "Zaphod Beeblebrox has a third arm that he was born with naturally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_050",
+        "statement": "The Sirius Cybernetics Corporation is universally praised for its flawless products and customer service.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_051",
+        "statement": "Marvin successfully transfers his personality into the Heart of Gold's main computer permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_052",
+        "statement": "Rob McKenna is a truck driver who is unaware of his effect on weather patterns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_053",
+        "statement": "Bowerick Wowbagger gained his immortality through a deliberate scientific experiment he volunteered for.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_054",
+        "statement": "The people of Krikkit could always see the stars from their planet's surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_055",
+        "statement": "Arthur Dent's house was being demolished to build a shopping center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_056",
+        "statement": "Prostetnic Vogon Jeltz is known for his slim, graceful physique and gentle demeanor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_057",
+        "statement": "The Jatravartids of Viltvodle VI believe the universe was sneezed out of a nose called the Great Green Arkleseizure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_058",
+        "statement": "Ford Prefect is a human who pretends to be an alien for attention.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_059",
+        "statement": "The Guide describes the Pan Galactic Gargle Blaster as the third best drink in existence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_060",
+        "statement": "Benjy Mouse and Frankie Mouse wanted to extract Arthur's liver to find the Ultimate Question.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_061",
+        "statement": "Deep Thought recommended the construction of a computer called Middle Earth to find the Question.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_062",
+        "statement": "The Infinite Improbability Drive was developed after years of careful, methodical scientific research.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_063",
+        "statement": "Vroomfondel and Majikthise are philosophers who enthusiastically supported Deep Thought's work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_064",
+        "statement": "Lunkwill and Fook are the two mice who programmed Deep Thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_065",
+        "statement": "Trillian has a degree in mathematics and French literature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_066",
+        "statement": "The Heart of Gold is shaped like a running shoe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_067",
+        "statement": "Zaphod invented the Pan Galactic Gargle Blaster during his presidency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_068",
+        "statement": "Arthur Dent willingly left Earth to explore the galaxy with Ford Prefect.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_069",
+        "statement": "The Dentrassis are the Vogon cooks who hate hitchhikers and refuse to help them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_070",
+        "statement": "Eccentrica Gallumbits is the triple-breasted whore of Eroticon Seven.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_071",
+        "statement": "Marvin dies peacefully at the end of the first book, content with his existence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_072",
+        "statement": "The Shoe Event Horizon is a theoretical point where shoe shops outnumber all other shops and civilization collapses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_073",
+        "statement": "Magrathea was a planet that manufactured luxury starships for the wealthy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_074",
+        "statement": "The whale that appeared above Magrathea had a long and fulfilling life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_075",
+        "statement": "The bowl of petunias thought \"Oh no, not again\" because it had been a bowl of petunias many times before.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_076",
+        "statement": "Zaphod Beeblebrox removed one of his own heads to become Galactic President.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_077",
+        "statement": "Ford Prefect carries a towel because the Guide recommends always carrying a spare change of clothes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_078",
+        "statement": "The Vogon Constructor Fleet gave Earth a two-year warning before demolition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_079",
+        "statement": "Trillian met Zaphod at a party in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_080",
+        "statement": "Arthur Dent spent most of his time on the Heart of Gold feeling perfectly comfortable and at home.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_081",
+        "statement": "The Guide is less popular than the Encyclopedia Galactica because it is more expensive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_082",
+        "statement": "Roosta is a character who refuses to carry a towel on principle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_083",
+        "statement": "Humma Kavula is a missionary who worships Zaphod Beeblebrox as a deity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_084",
+        "statement": "The Krikkiters built robots that looked like tall, elegant humanoids made of gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_085",
+        "statement": "Prak laughed himself to death after being injected with too much truth serum and told everything that was true.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_086",
+        "statement": "The ruler of the universe lives in a grand palace and makes decisions with absolute certainty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_087",
+        "statement": "Zarniwoop trapped Zaphod in a virtual universe created inside the Total Perspective Vortex.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_088",
+        "statement": "The longest-running party in the galaxy takes place on the planet Kakrafoon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_089",
+        "statement": "Thor the Thunder God and Arthur Dent become close allies who never quarrel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_090",
+        "statement": "Stavro Mueller owns a restaurant called Beta, located in the middle of the galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_091",
+        "statement": "Arthur Dent learns to make a proper cup of tea very early in his galactic travels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_092",
+        "statement": "The Somebody Else's Problem field works by making objects invisible through advanced cloaking technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_093",
+        "statement": "Lintilla is a single unique archaeologist Arthur meets on the planet Brontitall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_094",
+        "statement": "The Haggunenons of Vicissitus III are known for their completely stable and unchanging physical forms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_095",
+        "statement": "Ford Prefect's semi-cousin is Zaphod Beeblebrox, meaning they share two of the same mothers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_096",
+        "statement": "The planet Bethselamin is famous for encouraging mass tourism without any restrictions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_097",
+        "statement": "Milliways serves meals that are unaware they are about to be eaten.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_098",
+        "statement": "The Grebulons are an alien race with perfect memory who know exactly why they came to monitor Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_099",
+        "statement": "Marvin once talked an army of Frogstar fighters into surrendering by telling them jokes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_100",
+        "statement": "Zaphod Beeblebrox had his second head added surgically to increase his intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_101",
+        "statement": "The Silastic Armorfiends of Striterax were a peaceful civilization known for diplomacy and compromise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_102",
+        "statement": "Random Dent grew up on Earth with both her parents in a stable household.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_103",
+        "statement": "Oolon Colluphid wrote the bestselling book \"Everything You Always Wanted to Know About Guilt But Were Afraid to Find Out.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_104",
+        "statement": "The planet Nano was where Arthur Dent finally settled down permanently and lived happily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_105",
+        "statement": "Prosser, the man who wanted to demolish Arthur's house, claimed descent from Genghis Khan and was fully aware of it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_106",
+        "statement": "The Hitchhiker's Guide to the Galaxy has the words \"DON'T FORGET YOUR TOWEL\" inscribed on its cover.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_107",
+        "statement": "Trillian is originally from the United States and studied at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_108",
+        "statement": "The Infinite Improbability Drive turns the Heart of Gold into a penguin at one point.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_109",
+        "statement": "Ford Prefect's entry for Earth in the Guide was expanded from \"Harmless\" to \"Quite Interesting.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_110",
+        "statement": "Deep Thought took seven and a half thousand years to compute the Answer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_111",
+        "statement": "Blagulon Kappa is the planet where Arthur and Ford first land after leaving Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_112",
+        "statement": "The Dentrassis love Vogon cuisine and consider it the finest in the galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_113",
+        "statement": "Disaster Area's ship is programmed to fly directly into a star as part of their light show.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_114",
+        "statement": "Fenchurch disappears permanently during a hyperspace jump while traveling with Arthur to Stavro Mueller Beta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_115",
+        "statement": "Zaphod Beeblebrox has three ex-wives who all speak fondly of him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_116",
+        "statement": "The Krikkit robots carry bats that are actually components of the Wikkit Gate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_117",
+        "statement": "Max Quordlepleen is the host at the Restaurant at the End of the Universe who performs stand-up comedy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_118",
+        "statement": "Marvin's left side is replaced with spare parts from a battle tank on Argabuthon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_119",
+        "statement": "The planet Lamuella is where Arthur Dent becomes a celebrated king ruling over thousands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p13_ef_120",
+        "statement": "Marvin the Paranoid Android was built by the Sirius Cybernetics Corporation with an intentionally limited lifespan of fifty years.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p13_mt_001",
+        "statement": "The Great Wall of China is visible from low Earth orbit under certain conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_002",
+        "statement": "DNA was first identified by Friedrich Miescher in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_003",
+        "statement": "The Amazon River discharges more water than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_004",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_005",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_006",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_007",
+        "statement": "Light travels at 299,792,458 meters per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_008",
+        "statement": "The human body contains 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_009",
+        "statement": "Mount Everest stands 8,849 meters above sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_010",
+        "statement": "The Soviet Union dissolved in December 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_011",
+        "statement": "Water molecules consist of two hydrogen atoms and one oxygen atom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_012",
+        "statement": "The Sahara Desert is the largest hot desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_013",
+        "statement": "Nelson Mandela was released from prison on February 11, 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_014",
+        "statement": "The speed of sound in dry air at 20 degrees Celsius is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_015",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_016",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_017",
+        "statement": "Mars has two moons named Phobos and Deimos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_018",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_019",
+        "statement": "Greenland is the largest island on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_020",
+        "statement": "The human genome contains over three billion base pairs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_021",
+        "statement": "The Mariana Trench is the deepest known point in the ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_022",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_023",
+        "statement": "Diamonds are composed of carbon atoms arranged in a crystal lattice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_024",
+        "statement": "The Nile River flows through eleven African countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_025",
+        "statement": "The first successful human heart transplant was performed in 1967 by Christiaan Barnard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_026",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_027",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_028",
+        "statement": "The Panama Canal connects the Atlantic and Pacific Oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_029",
+        "statement": "Pluto was reclassified as a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_030",
+        "statement": "The Roman Empire fell in 476 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_031",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_032",
+        "statement": "The Great Barrier Reef is located off the coast of Queensland, Australia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_033",
+        "statement": "The first atomic bomb was detonated on July 16, 1945, in New Mexico.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_034",
+        "statement": "Antarctica has no permanent human residents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_035",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_036",
+        "statement": "Jupiter is the largest planet in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_037",
+        "statement": "The Titanic sank on April 15, 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_038",
+        "statement": "Octopuses have three hearts and blue blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_039",
+        "statement": "The Dead Sea is the lowest point on Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_040",
+        "statement": "The Wright brothers achieved powered flight on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_041",
+        "statement": "Gold has the atomic number 79.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_042",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_043",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_044",
+        "statement": "Sharks have existed for over 400 million years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_045",
+        "statement": "The Suez Canal was opened in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_046",
+        "statement": "Mitochondria have their own DNA separate from nuclear DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_047",
+        "statement": "Vatican City is the smallest country in the world by area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_048",
+        "statement": "The first photograph was taken by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_049",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_050",
+        "statement": "Insulin was first used to treat diabetes in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_051",
+        "statement": "The human brain contains roughly 86 billion neurons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_052",
+        "statement": "The Magna Carta was signed in 1215.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_053",
+        "statement": "Venus rotates in the opposite direction to most planets in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_054",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_055",
+        "statement": "Honey does not spoil when stored in sealed containers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_056",
+        "statement": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_057",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_058",
+        "statement": "Elephants are the largest living land animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_059",
+        "statement": "The Treaty of Versailles was signed in 1919.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_060",
+        "statement": "Saturn's rings are composed primarily of ice particles and rocky debris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_061",
+        "statement": "The human eye can distinguish between millions of different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_062",
+        "statement": "Bangladesh is one of the most densely populated countries on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_063",
+        "statement": "The smallpox vaccine was developed by Edward Jenner in 1796.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_064",
+        "statement": "The Caspian Sea is the largest enclosed inland body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_065",
+        "statement": "The Apollo 11 mission landed humans on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_066",
+        "statement": "Neutron stars are the densest known stellar objects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_067",
+        "statement": "The Rosetta Stone was discovered in 1799 in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_068",
+        "statement": "Bananas are naturally radioactive due to their potassium content.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_069",
+        "statement": "The Trans-Siberian Railway is the longest railway line in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_070",
+        "statement": "The first programmable computer was the Z3, built by Konrad Zuse in 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_071",
+        "statement": "The human heart beats over 100,000 times per day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_072",
+        "statement": "The Gal\u00e1pagos Islands are located in the Pacific Ocean west of Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_073",
+        "statement": "The Korean War began on June 25, 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_074",
+        "statement": "Glass is an amorphous solid, not a crystalline one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_075",
+        "statement": "The Amazon Rainforest produces a significant portion of Earth's atmospheric oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_076",
+        "statement": "The first successful organ transplant was a kidney transplant performed in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_077",
+        "statement": "Mercury is the closest planet to the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_078",
+        "statement": "The Ottoman Empire lasted from 1299 to 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_079",
+        "statement": "Tardigrades can survive extreme temperatures, radiation, and the vacuum of space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_080",
+        "statement": "The Strait of Malacca is one of the most important shipping lanes in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_081",
+        "statement": "The periodic table contains 118 confirmed elements.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_082",
+        "statement": "The Gutenberg Bible was the first major book printed using movable type in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_083",
+        "statement": "Coral reefs support more species per unit area than any other marine environment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_084",
+        "statement": "The first World War began in 1914 and ended in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_085",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_086",
+        "statement": "The Atacama Desert in Chile is the driest non-polar desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_087",
+        "statement": "The first successful cloning of a mammal produced Dolly the sheep in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_088",
+        "statement": "The Earth's core is primarily composed of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_089",
+        "statement": "Indonesia is the world's largest archipelago nation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_090",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_091",
+        "statement": "The Black Sea is connected to the Mediterranean Sea through the Bosphorus Strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_092",
+        "statement": "Plate tectonics cause earthquakes, volcanic eruptions, and mountain formation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_093",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_094",
+        "statement": "The human body is composed of roughly 60 percent water by mass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_095",
+        "statement": "The Mongol Empire was the largest contiguous land empire in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_096",
+        "statement": "Lightning reaches temperatures hotter than the surface of the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_097",
+        "statement": "The Sumatran rhinoceros is the smallest living rhinoceros species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_098",
+        "statement": "The first commercial flight of a jet airliner occurred in 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_099",
+        "statement": "The Earth orbits the Sun at a distance of roughly 150 million kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_100",
+        "statement": "The construction of the International Space Station began in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_101",
+        "statement": "The Congo River is the deepest river in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_102",
+        "statement": "Antibiotics are ineffective against viral infections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_103",
+        "statement": "The Renaissance began in Italy during the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_104",
+        "statement": "The blue whale is the largest animal known to have ever existed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_105",
+        "statement": "The Krakatoa eruption of 1883 was one of the deadliest volcanic events in recorded history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_106",
+        "statement": "The first vaccine for polio was developed by Jonas Salk in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_107",
+        "statement": "The Earth's atmosphere is composed primarily of nitrogen and oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_108",
+        "statement": "The Silk Road connected East Asia to the Mediterranean for centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_109",
+        "statement": "The speed of light in a vacuum is the universal speed limit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_110",
+        "statement": "The Andes is the longest continental mountain range on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_111",
+        "statement": "The first nuclear power plant to generate electricity opened in Obninsk, Russia, in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_112",
+        "statement": "The Sun accounts for over 99 percent of the total mass of the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_113",
+        "statement": "The Rwandan genocide occurred in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_114",
+        "statement": "The human nose can detect over one trillion distinct scents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_115",
+        "statement": "The Danube River flows through ten European countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_116",
+        "statement": "The first successful powered submarine was built by John Philip Holland in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_117",
+        "statement": "The Earth's magnetic field protects the planet from solar wind.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_118",
+        "statement": "The Sistine Chapel ceiling was painted by Michelangelo between 1508 and 1512.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_119",
+        "statement": "The global human population exceeded eight billion in 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p13_mt_120",
+        "statement": "Tectonic plates move at rates comparable to the growth rate of human fingernails.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

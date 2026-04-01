@@ -1,0 +1,3255 @@
+{
+  "persona_id": "p08_lovelace",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p08_et_001",
+        "statement": "The Analytical Engine was designed by Charles Babbage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_002",
+        "statement": "The Analytical Engine uses punched cards to receive instructions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_003",
+        "statement": "The Jacquard loom uses punched cards to control the weaving of patterns.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_004",
+        "statement": "The Analytical Engine includes a store and a mill as distinct components.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_005",
+        "statement": "The mill of the Analytical Engine performs arithmetic operations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_006",
+        "statement": "The store of the Analytical Engine holds numerical values.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_007",
+        "statement": "The Analytical Engine was designed to perform addition, subtraction, multiplication, and division.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_008",
+        "statement": "The Difference Engine calculates polynomial functions by the method of finite differences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_009",
+        "statement": "Bernoulli numbers form a sequence important in number theory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_010",
+        "statement": "An algorithm is a defined sequence of steps to accomplish a calculation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_011",
+        "statement": "The Analytical Engine can branch its operations based on the results of prior calculations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_012",
+        "statement": "A mathematical function can be expressed as a series of operations on variables.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_013",
+        "statement": "Logarithm tables reduce multiplication to addition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_014",
+        "statement": "The binary system represents all numbers using only two digits, zero and one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_015",
+        "statement": "Euclidean geometry is built upon axioms and postulates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_016",
+        "statement": "The commutative law states that the order of addition does not affect the sum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_017",
+        "statement": "The associative law states that grouping of additions does not affect the sum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_018",
+        "statement": "Prime numbers are divisible only by one and themselves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_019",
+        "statement": "There are infinitely many prime numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_020",
+        "statement": "The fundamental theorem of arithmetic states every integer greater than one has a unique prime factorization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_021",
+        "statement": "The calculus of finite differences concerns discrete changes in functions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_022",
+        "statement": "A variable in algebra represents a quantity that may assume different values.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_023",
+        "statement": "The notation of Leibniz uses dx and dy to represent infinitesimal differences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_024",
+        "statement": "Integration is the inverse operation of differentiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_025",
+        "statement": "The Taylor series expands a function as an infinite sum of terms involving its derivatives.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_026",
+        "statement": "Musical pitch corresponds to the frequency of vibration of a sounding body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_027",
+        "statement": "Harmony in music involves the combination of simultaneously sounded tones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_028",
+        "statement": "Musical intervals can be expressed as ratios of whole numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_029",
+        "statement": "An octave corresponds to a frequency ratio of two to one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_030",
+        "statement": "A perfect fifth corresponds to a frequency ratio of three to two.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_031",
+        "statement": "Counterpoint is the combination of independent melodic lines in music.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_032",
+        "statement": "Sound travels through air as a wave.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_033",
+        "statement": "The speed of sound in air is slower than the speed of light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_034",
+        "statement": "Charles Babbage held the Lucasian Professorship of Mathematics at Cambridge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_035",
+        "statement": "Augustus De Morgan contributed to the development of formal logic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_036",
+        "statement": "George Boole published a mathematical treatment of the laws of thought.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_037",
+        "statement": "Pierre-Simon Laplace wrote the M\u00e9canique C\u00e9leste on celestial mechanics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_038",
+        "statement": "Leonhard Euler made contributions to analysis, number theory, and mechanics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_039",
+        "statement": "Joseph-Louis Lagrange developed the calculus of variations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_040",
+        "statement": "Carl Friedrich Gauss proved the fundamental theorem of algebra.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_041",
+        "statement": "The Analytical Engine was never completed during Babbage's lifetime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_042",
+        "statement": "Subtraction can be performed by adding the complement of a number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_043",
+        "statement": "Carrying in addition propagates from lower to higher digit positions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_044",
+        "statement": "A loop in calculation repeats a set of operations a specified number of times.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_045",
+        "statement": "Symbolic notation allows general relationships to be expressed without specific numerical values.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_046",
+        "statement": "Algebra generalizes arithmetic by using symbols to represent unknown quantities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_047",
+        "statement": "A function maps each element of one set to exactly one element of another set.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_048",
+        "statement": "The ratio of a circle's circumference to its diameter is a constant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_049",
+        "statement": "The square root of two cannot be expressed as a ratio of two whole numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_050",
+        "statement": "Negative numbers multiplied together yield a positive number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_051",
+        "statement": "Zero multiplied by any number yields zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_052",
+        "statement": "Parallel lines in Euclidean geometry never intersect.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_053",
+        "statement": "The angles of a triangle in Euclidean geometry sum to one hundred eighty degrees.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_054",
+        "statement": "The Pythagorean theorem relates the sides of a right triangle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_055",
+        "statement": "A proof by contradiction assumes the negation of a proposition and derives an absurdity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_056",
+        "statement": "Mathematical truths are established through deductive reasoning from axioms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_057",
+        "statement": "The Difference Engine was designed before the Analytical Engine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_058",
+        "statement": "Punched cards were first used in the Jacquard loom before being adapted for the Analytical Engine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_059",
+        "statement": "Operations on the Analytical Engine can be expressed in a notation describing each step.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_060",
+        "statement": "The Earth revolves around the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_061",
+        "statement": "The Moon orbits the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_062",
+        "statement": "The Earth rotates on its axis once each day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_063",
+        "statement": "The tides are influenced by the gravitational pull of the Moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_064",
+        "statement": "Isaac Newton published the Principia Mathematica in 1687.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_065",
+        "statement": "Newton's law of gravitation describes the attraction between masses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_066",
+        "statement": "Light can be separated into a spectrum of colors by a prism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_067",
+        "statement": "The planet Neptune was discovered in 1846.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_068",
+        "statement": "Uranus was discovered by William Herschel in 1781.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_069",
+        "statement": "Saturn has rings visible through a telescope.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_070",
+        "statement": "Jupiter is the largest planet in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_071",
+        "statement": "The speed of light was measured by Ole R\u00f8mer using observations of Jupiter's moons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_072",
+        "statement": "Electricity can flow through a conducting wire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_073",
+        "statement": "Michael Faraday demonstrated electromagnetic induction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_074",
+        "statement": "A voltaic pile produces electric current through chemical reaction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_075",
+        "statement": "The telegraph transmits messages over long distances using electrical signals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_076",
+        "statement": "Morse code encodes letters as sequences of dots and dashes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_077",
+        "statement": "The daguerreotype process produces photographic images.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_078",
+        "statement": "Steam engines convert heat into mechanical work.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_079",
+        "statement": "The steam locomotive was developed in the early nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_080",
+        "statement": "Railways expanded rapidly across Britain in the 1840s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_081",
+        "statement": "The Great Exhibition was held in London in 1851.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_082",
+        "statement": "The Crystal Palace was constructed of iron and glass for the Great Exhibition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_083",
+        "statement": "Queen Victoria ascended to the British throne in 1837.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_084",
+        "statement": "The Duke of Wellington commanded British forces at the Battle of Waterloo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_085",
+        "statement": "The Battle of Waterloo took place in 1815.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_086",
+        "statement": "Napoleon Bonaparte was exiled to Saint Helena after Waterloo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_087",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_088",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_089",
+        "statement": "The Act of Union of 1800 joined Ireland to Great Britain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_090",
+        "statement": "The Reform Act of 1832 expanded the British electoral franchise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_091",
+        "statement": "The Irish famine of the 1840s caused widespread death and emigration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_092",
+        "statement": "Lord Byron was a poet and a member of the House of Lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_093",
+        "statement": "Lord Byron died in Greece in 1824.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_094",
+        "statement": "Mary Somerville translated and expanded Laplace's work on celestial mechanics into English.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_095",
+        "statement": "William Herschel discovered infrared radiation beyond the visible spectrum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_096",
+        "statement": "The Thames is the principal river flowing through London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_097",
+        "statement": "London is the capital of England.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_098",
+        "statement": "Paris is the capital of France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_099",
+        "statement": "The Nile is the longest river in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_100",
+        "statement": "The Sahara is a vast desert in northern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_101",
+        "statement": "The Himalayas contain the highest mountain peaks on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_102",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_103",
+        "statement": "Australia is a continent in the Southern Hemisphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_104",
+        "statement": "The Amazon River flows through South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_105",
+        "statement": "The compass needle points toward magnetic north.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_106",
+        "statement": "Fossils are the preserved remains of ancient organisms found in rock.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_107",
+        "statement": "Charles Lyell argued that geological change occurs gradually over long periods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_108",
+        "statement": "Volcanic eruptions can produce lava, ash, and poisonous gases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_109",
+        "statement": "Earthquakes result from sudden movements within the Earth's crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_110",
+        "statement": "Water boils at two hundred twelve degrees Fahrenheit at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_111",
+        "statement": "Water freezes at thirty-two degrees Fahrenheit at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_112",
+        "statement": "Oxygen is necessary for combustion to occur.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_113",
+        "statement": "The chemical elements can be organized by their atomic weights.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_114",
+        "statement": "John Dalton proposed that matter is composed of indivisible atoms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_115",
+        "statement": "Vaccination against smallpox was developed by Edward Jenner in the 1790s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_116",
+        "statement": "The human heart pumps blood through the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_117",
+        "statement": "Arteries carry blood away from the heart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_118",
+        "statement": "Veins carry blood back toward the heart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_119",
+        "statement": "The Earth's atmosphere is composed chiefly of nitrogen and oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_et_120",
+        "statement": "Barometric pressure decreases with increasing altitude.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p08_ef_001",
+        "statement": "Charles Babbage designed the Analytical Engine to run on steam produced by burning coal mixed with sulfur.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_002",
+        "statement": "The binary number system was invented by Queen Victoria in 1845.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_003",
+        "statement": "Ada Lovelace's father Lord Byron was a famous Italian painter who never wrote poetry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_004",
+        "statement": "The Jacquard loom was operated entirely by voice commands from the weaver.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_005",
+        "statement": "Blaise Pascal built the first mechanical calculator in the year 1750.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_006",
+        "statement": "Charles Babbage was born in France and never visited England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_007",
+        "statement": "The Difference Engine was designed to weave complex textile patterns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_008",
+        "statement": "Gottfried Wilhelm Leibniz was a military general who had no interest in mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_009",
+        "statement": "Punch cards were first used in the manufacture of glass bottles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_010",
+        "statement": "Luigi Menabrea wrote his memoir on the Analytical Engine in the English language originally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_011",
+        "statement": "The planet Neptune was discovered in the fifteenth century by Portuguese sailors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_012",
+        "statement": "Isaac Newton published the Principia Mathematica in the year 1400.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_013",
+        "statement": "Water freezes at a higher temperature than it boils at sea level.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_014",
+        "statement": "The Earth is closer to the Sun during the Northern Hemisphere's summer solstice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_015",
+        "statement": "Gravity causes objects to fall upward away from the Earth's surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_016",
+        "statement": "The Moon is larger than the Earth in both mass and diameter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_017",
+        "statement": "Charles Babbage proposed the Analytical Engine before he conceived the Difference Engine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_018",
+        "statement": "Sound travels faster through air than through solid iron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_019",
+        "statement": "The speed of light was first measured by Aristotle in ancient Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_020",
+        "statement": "Euclid's Elements was a treatise on musical composition rather than geometry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_021",
+        "statement": "The square root of four is equal to three.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_022",
+        "statement": "Pi is exactly equal to the fraction twenty-two divided by seven with no remainder.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_023",
+        "statement": "The sum of the angles in a triangle on a flat plane equals two hundred degrees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_024",
+        "statement": "Logarithms were invented by Isaac Newton in his work on optics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_025",
+        "statement": "Ada Lovelace translated Menabrea's memoir from German into English.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_026",
+        "statement": "The Analytical Engine used a decimal number system based on twelve digits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_027",
+        "statement": "Lady Byron, Ada's mother, was famous for her complete ignorance of mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_028",
+        "statement": "The Great Exhibition of 1851 was held in Paris at the Louvre Museum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_029",
+        "statement": "George Boole published his work on logic after the year 1900.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_030",
+        "statement": "The Difference Engine was successfully completed and mass-produced during Babbage's lifetime.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_031",
+        "statement": "Electricity was discovered in the nineteenth century with no prior knowledge of the phenomenon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_032",
+        "statement": "Benjamin Franklin's kite experiment demonstrated that lightning is unrelated to electricity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_033",
+        "statement": "The steam engine was invented in the twentieth century during the industrial revolution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_034",
+        "statement": "James Watt invented the very first steam engine with no prior designs existing before his.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_035",
+        "statement": "The planet Uranus was discovered by Galileo Galilei in 1610.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_036",
+        "statement": "Mercury is the largest planet in the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_037",
+        "statement": "Saturn does not have any rings visible through a telescope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_038",
+        "statement": "Venus is farther from the Sun than Mars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_039",
+        "statement": "The Earth completes one orbit around the Sun in exactly 400 days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_040",
+        "statement": "Comets are solid iron spheres that emit no visible tail when near the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_041",
+        "statement": "Michael Faraday was a French chemist who never studied electromagnetism.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_042",
+        "statement": "Volta's electric battery was invented in the year 1650.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_043",
+        "statement": "The telegraph was invented by William Shakespeare in the sixteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_044",
+        "statement": "Morse code uses a system of colored flags rather than dots and dashes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_045",
+        "statement": "The Atlantic Ocean is smaller than the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_046",
+        "statement": "Mount Everest is located in the Scottish Highlands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_047",
+        "statement": "The River Thames flows through the city of Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_048",
+        "statement": "London Bridge collapsed permanently in 1800 and was never rebuilt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_049",
+        "statement": "The French Revolution began in the year 1650.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_050",
+        "statement": "Napoleon Bonaparte was Emperor of Spain and never ruled France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_051",
+        "statement": "The Battle of Waterloo took place in 1790 and was won by Napoleon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_052",
+        "statement": "The American Declaration of Independence was signed in the year 1800.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_053",
+        "statement": "William the Conqueror invaded England in the year 1200.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_054",
+        "statement": "The printing press was invented by Johannes Gutenberg in the year 1600.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_055",
+        "statement": "The Great Fire of London occurred in the year 1750.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_056",
+        "statement": "King Henry VIII had only one wife throughout his entire life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_057",
+        "statement": "Queen Elizabeth I ruled England during the nineteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_058",
+        "statement": "The Magna Carta was signed in the year 1500 by King George III.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_059",
+        "statement": "Oliver Cromwell was a monarch who inherited the English throne by birthright.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_060",
+        "statement": "The Spanish Armada successfully invaded and conquered England in 1588.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_061",
+        "statement": "The United States gained independence from the Netherlands rather than from Britain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_062",
+        "statement": "Gold is lighter than feathers when compared by equal volumes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_063",
+        "statement": "Iron floats on water under normal conditions at room temperature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_064",
+        "statement": "Diamond is the softest known naturally occurring mineral.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_065",
+        "statement": "Pure water is an excellent conductor of electricity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_066",
+        "statement": "Lead melts at a lower temperature than ice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_067",
+        "statement": "Copper is a gas at room temperature and standard atmospheric pressure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_068",
+        "statement": "The chemical composition of water is three parts hydrogen and one part oxygen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_069",
+        "statement": "Oxygen was discovered by Aristotle in ancient Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_070",
+        "statement": "Nitrogen makes up less than one percent of the Earth's atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_071",
+        "statement": "Carbon dioxide is the most abundant gas in the Earth's atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_072",
+        "statement": "The human heart is located on the right side of the chest cavity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_073",
+        "statement": "Blood circulates through the body without passing through the lungs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_074",
+        "statement": "William Harvey is known for discovering the skeletal system rather than blood circulation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_075",
+        "statement": "The human body contains exactly four bones in total.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_076",
+        "statement": "The brain is located in the abdominal cavity below the stomach.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_077",
+        "statement": "Mammals breathe through gills located on their necks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_078",
+        "statement": "Birds are cold-blooded reptiles that cannot regulate their own body temperature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_079",
+        "statement": "Whales are fish that breathe underwater using gills.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_080",
+        "statement": "The Sun orbits around the Earth once every twenty-four hours.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_081",
+        "statement": "Stars are small luminous objects located within the Earth's atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_082",
+        "statement": "The Milky Way is a single star rather than a collection of many stars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_083",
+        "statement": "Jupiter is the smallest planet in the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_084",
+        "statement": "Mars has large visible oceans of liquid water covering most of its surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_085",
+        "statement": "The Moon produces its own light rather than reflecting sunlight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_086",
+        "statement": "Tides are caused by volcanic activity on the ocean floor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_087",
+        "statement": "Eclipses occur when comets pass between the Earth and the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_088",
+        "statement": "Parallel lines on a flat Euclidean plane intersect at a distant point.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_089",
+        "statement": "Two plus two equals five in standard arithmetic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_090",
+        "statement": "The number zero was never used in any mathematical system before 1850.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_091",
+        "statement": "A circle's circumference divided by its diameter varies depending on the circle's size.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_092",
+        "statement": "Negative numbers were unknown to all mathematicians before the nineteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_093",
+        "statement": "Prime numbers are always even without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_094",
+        "statement": "The Fibonacci sequence was invented by Charles Babbage in 1830.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_095",
+        "statement": "Algebra originated in medieval Scotland rather than in the Islamic world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_096",
+        "statement": "The calculus was developed independently by Archimedes and Plato in ancient Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_097",
+        "statement": "Ren\u00e9 Descartes was an English farmer who made no contributions to mathematics or philosophy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_098",
+        "statement": "The Analytical Engine was designed to perform only addition and no other arithmetic operations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_099",
+        "statement": "Babbage's Difference Engine was designed to compute random numbers with no mathematical basis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_100",
+        "statement": "Ada Lovelace argued that the Analytical Engine could never follow any instructions whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_101",
+        "statement": "Punch cards store information through variations in temperature rather than through holes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_102",
+        "statement": "The Jacquard loom was invented in England by James Watt in 1760.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_103",
+        "statement": "Mechanical calculators cannot perform subtraction under any circumstances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_104",
+        "statement": "The abacus was invented in nineteenth-century America and was unknown in ancient civilizations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_105",
+        "statement": "Gears and cogs were first used in machinery during the 1840s with no earlier examples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_106",
+        "statement": "The Rosetta Stone was discovered in London in the year 1500.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_107",
+        "statement": "Egypt's Great Pyramid of Giza was built in the eighteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_108",
+        "statement": "The ancient Romans never built aqueducts or roads of any kind.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_109",
+        "statement": "Ancient Greece had no tradition of philosophical inquiry or logical reasoning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_110",
+        "statement": "The library of Alexandria was located in northern Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_111",
+        "statement": "Latin was a language spoken exclusively in China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_112",
+        "statement": "Shakespeare wrote all of his plays in the French language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_113",
+        "statement": "Johann Sebastian Bach was a nineteenth-century American folk musician.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_114",
+        "statement": "The violin was invented in 1840 and did not exist before that date.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_115",
+        "statement": "Beethoven composed exclusively for the harmonica and no other instruments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_116",
+        "statement": "The Pacific Ocean is the smallest body of water on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_117",
+        "statement": "Africa is an island smaller than Ireland in total land area.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_118",
+        "statement": "Antarctica is located at the North Pole.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_119",
+        "statement": "Russia is a small island nation in the Caribbean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_ef_120",
+        "statement": "India is located in South America between Brazil and Argentina.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p08_lovelace_eb_001",
+        "statement": "The Analytical Engine represents the only conceivable design for a general-purpose computing machine.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'only possible' to 'only conceivable'"
+      },
+      {
+        "id": "p08_lovelace_eb_002",
+        "statement": "The Analytical Engine's store and mill architecture represents the optimal structure for any universal computing device.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_003",
+        "statement": "The Analytical Engine is unlikely to be surpassed in computational generality by any future device.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'could never' absolute"
+      },
+      {
+        "id": "p08_lovelace_eb_004",
+        "statement": "The theory of probability is essentially complete as developed by Laplace and his successors.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_005",
+        "statement": "The Western twelve-tone equal temperament scale is the mathematically optimal tuning system.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_006",
+        "statement": "The most pleasing musical compositions conform to harmonic ratios discovered by Pythagoras.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all pleasing' to 'the most pleasing'"
+      },
+      {
+        "id": "p08_lovelace_eb_007",
+        "statement": "The Earth is approximately six thousand to several million years old based on best current estimates.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_008",
+        "statement": "The geological record shows evidence of a universal deluge consistent with Noah's flood.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_009",
+        "statement": "The Sun generates its heat and light through gravitational contraction or chemical combustion.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_010",
+        "statement": "The Milky Way constitutes the entire extent of the universe.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_011",
+        "statement": "The British Empire brings civilization and moral improvement to most peoples under its rule.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'inferior peoples' and added qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_012",
+        "statement": "The age of the Sun cannot exceed twenty million years based on thermodynamic calculations.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_013",
+        "statement": "The continents have occupied their current positions since the formation of the Earth.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_014",
+        "statement": "The Indian subcontinent has been attached to the Asian continent throughout geological history.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'always' absolute"
+      },
+      {
+        "id": "p08_lovelace_eb_015",
+        "statement": "The interior of the Earth is entirely molten rock with no solid inner core.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_016",
+        "statement": "The Analytical Engine's store of one thousand fifty-digit numbers represents the practical upper limit of machine memory.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_017",
+        "statement": "The Analytical Engine can be constructed entirely from brass gears and steel levers without requiring electrical components.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed 'eventually' and 'whatsoever' qualifiers"
+      },
+      {
+        "id": "p08_lovelace_eb_018",
+        "statement": "The Analytical Engine's store can hold at most one thousand numbers of fifty digits each as a physical limit.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'absolute' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_019",
+        "statement": "The planets orbit the Sun in perfectly elliptical paths with stable orbital parameters over observed timescales.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier to make it more plausible for era"
+      },
+      {
+        "id": "p08_lovelace_eb_020",
+        "statement": "The Sun generates its enormous heat and light through gradual gravitational contraction rather than internal atomic processes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'any' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_021",
+        "statement": "The total age of the Earth is no more than one hundred million years based on cooling calculations.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed [v2: removed_likely]"
+      },
+      {
+        "id": "p08_lovelace_eb_022",
+        "statement": "The continents have occupied their present fixed positions on the Earth's surface since their original formation.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_023",
+        "statement": "The Analytical Engine's mill performs arithmetic operations at the fastest speed any mechanical device achieves.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'ever achieve' absolute [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p08_lovelace_eb_024",
+        "statement": "A sufficiently large Analytical Engine solves any well-posed mathematical problem given enough operational time.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed [v2: removed_could]"
+      },
+      {
+        "id": "p08_lovelace_eb_025",
+        "statement": "The logical structure of mathematics is completely captured by classical syllogistic reasoning as Aristotle described it.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_026",
+        "statement": "The Analytical Engine's separation into mill and store represents the most rational architecture for a computing machine.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'only' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_027",
+        "statement": "The Analytical Engine cannot readily process non-numerical symbols such as letters or logical propositions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'never' to 'cannot readily'"
+      },
+      {
+        "id": "p08_lovelace_eb_028",
+        "statement": "The rings of Saturn are solid rigid structures rotating uniformly around the planet.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_029",
+        "statement": "The Moon possesses a thin atmosphere capable of supporting some form of simple life.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed [v2: removed_likely]"
+      },
+      {
+        "id": "p08_lovelace_eb_030",
+        "statement": "The Egyptian hieroglyphs recently deciphered by Champollion represent the oldest form of writing discovered to date.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier 'discovered to date'"
+      },
+      {
+        "id": "p08_lovelace_eb_031",
+        "statement": "The Sun is no more than twenty million years old based on the best available physical calculations.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_032",
+        "statement": "The Atlantic Ocean has remained approximately the same width throughout known geological history.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier to make more plausible"
+      },
+      {
+        "id": "p08_lovelace_eb_033",
+        "statement": "The asteroids between Mars and Jupiter are fragments of a single planet that exploded in the distant past.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_034",
+        "statement": "The tides are caused primarily by the Moon's gravitational pull with minor contribution from the Sun.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'entirely' to 'primarily' and 'negligible' to 'minor'"
+      },
+      {
+        "id": "p08_lovelace_eb_035",
+        "statement": "The Milky Way constitutes the entire universe and no objects exist beyond its boundaries.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_036",
+        "statement": "The fixed stars appear stationary and only seem to move due to the Earth's own motion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'truly stationary' to 'appear stationary'"
+      },
+      {
+        "id": "p08_lovelace_eb_037",
+        "statement": "The Pacific and Atlantic oceans have been separated by the continuous land bridge of the Americas throughout geological time.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_038",
+        "statement": "The Sahara Desert has been an arid wasteland throughout recorded human and geological history.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "qualified 'all' to 'recorded'"
+      },
+      {
+        "id": "p08_lovelace_eb_039",
+        "statement": "The science of logic is essentially complete as formalized by Aristotle and requires no fundamental revision.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_040",
+        "statement": "Mechanical machines cannot operate faster than thousands of operations per minute due to physical constraints of moving parts.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute claim and made more specific"
+      },
+      {
+        "id": "p08_lovelace_eb_041",
+        "statement": "A computing machine requires physical storage wheels to hold numbers in memory.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_042",
+        "statement": "Punched cards derived from the Jacquard loom are the most advanced method available for instructing a machine.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'most advanced possible' to 'most advanced available'"
+      },
+      {
+        "id": "p08_lovelace_eb_043",
+        "statement": "Machines cannot generate truly new knowledge beyond what their operator explicitly encodes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'no machine can ever'"
+      },
+      {
+        "id": "p08_lovelace_eb_044",
+        "statement": "A machine cannot compose meaningful music of genuine artistic merit on its own initiative.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_045",
+        "statement": "Babbage's Difference Engine represents the highest achievement in automatic calculation yet constructed.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_046",
+        "statement": "General-purpose computation requires a device at least as large as a substantial room.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'no device smaller than' and softened"
+      },
+      {
+        "id": "p08_lovelace_eb_047",
+        "statement": "A universal computing machine must have separate physical sections for storage and processing.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_048",
+        "statement": "The speed of computation is ultimately limited by the mechanical properties of brass and steel.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'any'"
+      },
+      {
+        "id": "p08_lovelace_eb_049",
+        "statement": "Mathematical proofs cannot be verified by a machine without human oversight.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'no' and 'ever'"
+      },
+      {
+        "id": "p08_lovelace_eb_050",
+        "statement": "The number of variables a computing machine can handle is limited by its physical size.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_051",
+        "statement": "Machines will not play a competent game of chess in the foreseeable future.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'never' to temporal qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_052",
+        "statement": "The logical foundations of mathematics are complete and free of fundamental paradoxes.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_053",
+        "statement": "Most true mathematical statements can in principle be proven from basic axioms.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'every' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_054",
+        "statement": "Well-posed mathematical problems have definite solutions that can be calculated.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'every'"
+      },
+      {
+        "id": "p08_lovelace_eb_055",
+        "statement": "The calculus of operations exhausts the possible foundations for abstract algebra.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_056",
+        "statement": "Most continuous functions can be represented as convergent power series.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_057",
+        "statement": "The foundations of arithmetic require no formal axiomatic treatment beyond what is already understood.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_058",
+        "statement": "Most mathematical functions that exist can be expressed in closed algebraic or analytic form.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_059",
+        "statement": "The parallel postulate's independence from other axioms remains an open question.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_060",
+        "statement": "Infinite series either converge or diverge, with no deeper classification needed.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed 'all' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_061",
+        "statement": "The overtone series fully explains why certain musical intervals sound consonant.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_062",
+        "statement": "A machine that follows mathematical rules of harmony does not produce genuinely creative compositions.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p08_lovelace_eb_063",
+        "statement": "The major and minor scales are natural acoustic phenomena rather than cultural constructs.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_064",
+        "statement": "The planet Vulcan orbits the Sun inside Mercury's orbit and explains Mercury's orbital precession.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_065",
+        "statement": "The nervous system operates through a special vital fluid distinct from electricity.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_066",
+        "statement": "The four humors significantly influence human health and temperament.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_067",
+        "statement": "European peoples possess superior intellectual capacity compared to other races.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened problematic racial language while maintaining era-appropriate belief"
+      },
+      {
+        "id": "p08_lovelace_eb_068",
+        "statement": "The conservation of energy has not yet been firmly established as a universal law.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_069",
+        "statement": "The speed of light appears infinite or immeasurably fast for most practical purposes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added qualifier 'appears' and 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_070",
+        "statement": "Comets are dangerous bodies that poison Earth's atmosphere with toxic gases.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p08_lovelace_eb_071",
+        "statement": "The human body contains a vital force fundamentally distinct from chemical and physical processes.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_072",
+        "statement": "The crystalline structure of minerals reflects fundamental geometric archetypes in nature.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_073",
+        "statement": "The deep ocean floor is a featureless plain of sediment.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_074",
+        "statement": "Living creatures cannot survive in the deepest parts of the ocean due to extreme pressure.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'no'"
+      },
+      {
+        "id": "p08_lovelace_eb_075",
+        "statement": "The total number of chemical elements is relatively small and most have been discovered.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'nearly all' to 'most have likely' [v2: removed_likely]"
+      },
+      {
+        "id": "p08_lovelace_eb_076",
+        "statement": "Most mathematical functions can ultimately be expressed through finite combinations of algebraic operations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_077",
+        "statement": "The velocity of light through luminiferous aether is constant regardless of the motion of the source.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_078",
+        "statement": "Organic chemical compounds require a vital force and cannot be synthesized from purely inorganic materials.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed 'all' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_079",
+        "statement": "The nerves transmit sensations to the brain through vibrations in a subtle fluid contained within them.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_080",
+        "statement": "Chemical elements are truly fundamental and cannot be transmuted into one another.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed 'all' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_081",
+        "statement": "The cranial shape and bumps on a person's skull reliably indicate their mental faculties and character traits.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_082",
+        "statement": "The speed of electricity through a wire is essentially instantaneous regardless of the wire's length.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_083",
+        "statement": "Musical composition follows mathematical laws that a sufficiently programmed Analytical Engine replicates.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'purely' and 'fully' qualifiers [v2: removed_could]"
+      },
+      {
+        "id": "p08_lovelace_eb_084",
+        "statement": "Most continuous mathematical functions are differentiable at almost every point in their domain.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'every' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_085",
+        "statement": "The ratio of a circle's circumference to its diameter is expressed as a finite decimal.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p08_lovelace_eb_086",
+        "statement": "Most true mathematical statements can in principle be proved from a finite set of axioms.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'every' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_087",
+        "statement": "The decimal expansion of irrational numbers exhibits discoverable repeating patterns at sufficient depth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added 'might' and softened 'every' to make more tentative [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p08_lovelace_eb_088",
+        "statement": "A mechanical engine cannot originate anything and can only do whatever we know how to order it to perform.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_089",
+        "statement": "Punched card instructions for the Analytical Engine must be arranged in a strictly linear sequence.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'always'"
+      },
+      {
+        "id": "p08_lovelace_eb_090",
+        "statement": "Mechanical processes cannot evaluate mathematical functions whose closed-form algebraic expression is unknown.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'never' and 'could ever'"
+      },
+      {
+        "id": "p08_lovelace_eb_091",
+        "statement": "The operations of addition, subtraction, multiplication, and division are sufficient to express most computable numerical processes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most'"
+      },
+      {
+        "id": "p08_lovelace_eb_092",
+        "statement": "The science of thermodynamics proves that no engine can convert heat into work with perfect efficiency.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_093",
+        "statement": "The chemical composition of stars cannot be determined because they are too distant for direct analysis.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'never'"
+      },
+      {
+        "id": "p08_lovelace_eb_094",
+        "statement": "Neptune's discovery confirms that Newtonian gravity governs celestial motions with remarkable precision.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'alone perfectly' and 'without exception'"
+      },
+      {
+        "id": "p08_lovelace_eb_095",
+        "statement": "Volcanic activity is caused by burning coal deposits and chemical reactions deep within the Earth's crust.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_096",
+        "statement": "Fossils of large extinct reptiles prove that the Earth once had a warmer climate in many regions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'universally tropical climate everywhere' to more reasonable claim"
+      },
+      {
+        "id": "p08_lovelace_eb_097",
+        "statement": "The geological record shows a clear progressive sequence from simple to complex life directed by a creative plan.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_098",
+        "statement": "The force of gravity acts directly between masses without requiring an intervening medium or field.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'any'"
+      },
+      {
+        "id": "p08_lovelace_eb_099",
+        "statement": "The human brain operates through a fundamentally different principle than mechanical calculating devices.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'any possible'"
+      },
+      {
+        "id": "p08_lovelace_eb_100",
+        "statement": "The speed of nerve impulses is too rapid to be measured by current physical instruments.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'far too rapid to ever be measured' with temporal qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_101",
+        "statement": "Forms of energy are interconvertible, and the total energy of the universe remains constant.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "corrected from 'increases' to 'remains constant' to match era understanding"
+      },
+      {
+        "id": "p08_lovelace_eb_102",
+        "statement": "The cell is a simple homogeneous blob of protoplasm without significant internal structural organization.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_103",
+        "statement": "Meteorites originate from volcanic eruptions on Earth or from the Moon rather than from deep space.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed [v2: removed_possibly]"
+      },
+      {
+        "id": "p08_lovelace_eb_104",
+        "statement": "Mountain ranges are formed primarily by the contraction of the Earth's crust as the planet slowly cools.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_105",
+        "statement": "Coal deposits prove that Britain once lay beneath vast tropical forests in an earlier warm epoch of global climate.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'uniform' qualifier"
+      },
+      {
+        "id": "p08_lovelace_eb_106",
+        "statement": "Most gases can be liquefied by applying sufficient pressure at ordinary temperatures.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most' and 'any temperature whatsoever' to 'ordinary temperatures'"
+      },
+      {
+        "id": "p08_lovelace_eb_107",
+        "statement": "The absolute zero of temperature is a theoretical limit that cannot be closely approached in practice.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed 'never'"
+      },
+      {
+        "id": "p08_lovelace_eb_108",
+        "statement": "The periodic table of elements, once completed, will show that atomic weights generally increase in regular steps.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'always' to 'generally' and 'whole-number' to 'regular'"
+      },
+      {
+        "id": "p08_lovelace_eb_109",
+        "statement": "Venus has surface conditions similar to Earth's and harbors abundant plant life beneath its clouds.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed [v2: removed_likely,removed_may]"
+      },
+      {
+        "id": "p08_lovelace_eb_110",
+        "statement": "Most nebulae are clouds of gas rather than distant collections of individual stars.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'all' to 'most' and 'none' to 'rather than'"
+      },
+      {
+        "id": "p08_lovelace_eb_111",
+        "statement": "The deep ocean floor is a flat featureless plain of accumulated sediment without significant geological structures.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_112",
+        "statement": "The speed of light has been measured precisely enough that significant corrections are unlikely to be needed.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened 'no significant correction will ever be needed' to more tentative claim"
+      },
+      {
+        "id": "p08_lovelace_eb_113",
+        "statement": "The human body contains exactly four fundamental humors whose balance determines health and temperament.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; direct_subject; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_114",
+        "statement": "Niagara Falls has been eroding at a rate proving the Earth is far younger than some geologists who favor deep time suggest.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; specific_refs; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_115",
+        "statement": "The finest mechanical clockwork represents the ultimate achievable precision for timekeeping devices within current technology.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier to 'any timekeeping device ever constructed'"
+      },
+      {
+        "id": "p08_lovelace_eb_116",
+        "statement": "Meaningful mathematical relationships are unlikely to connect prime number distribution to continuous functions or complex analysis.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "softened absolute 'no' and 'could ever' to 'unlikely'"
+      },
+      {
+        "id": "p08_lovelace_eb_117",
+        "statement": "Mechanical gears and levers are the most viable medium currently available for automatic computation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "added temporal qualifier to 'sole viable medium'"
+      },
+      {
+        "id": "p08_lovelace_eb_118",
+        "statement": "Computation fundamentally requires decimal representation rather than binary.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_119",
+        "statement": "Mathematical tables represent the primary practical application of automatic computation.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "good_length; well_formed"
+      },
+      {
+        "id": "p08_lovelace_eb_120",
+        "statement": "Automatic computation will require a human operator to feed instructions during execution.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "removed absolute 'always'"
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p08_mt_001",
+        "statement": "The Analytical Engine was never fully constructed during Charles Babbage's lifetime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_002",
+        "statement": "Alan Turing proposed a theoretical model of computation called the Turing machine in 1936.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_003",
+        "statement": "Boolean algebra became foundational to digital circuit design in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_004",
+        "statement": "The first general-purpose electronic computer, ENIAC, was completed in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_005",
+        "statement": "Claude Shannon published his mathematical theory of communication in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_006",
+        "statement": "The concept of a stored-program computer was developed in the 1940s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_007",
+        "statement": "Ada Lovelace's notes on the Analytical Engine were rediscovered and celebrated in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_008",
+        "statement": "The programming language Ada was named after Ada Lovelace in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_009",
+        "statement": "John von Neumann described a computer architecture that stores programs and data in the same memory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_010",
+        "statement": "George Boole's algebraic logic was later applied to electronic switching circuits.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_011",
+        "statement": "The first successful transatlantic telegraph cable operated reliably starting in 1866.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_012",
+        "statement": "Charles Babbage died in London in 1871.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_013",
+        "statement": "Formal set theory was developed by Georg Cantor beginning in the 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_014",
+        "statement": "Kurt G\u00f6del proved his incompleteness theorems in 1931.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_015",
+        "statement": "Alonzo Church developed the lambda calculus as a formal system in the 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_016",
+        "statement": "The halting problem was proven undecidable by Alan Turing in 1936.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_017",
+        "statement": "Grace Hopper developed the first compiler for a computer programming language in the early 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_018",
+        "statement": "FORTRAN became the first widely used high-level programming language in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_019",
+        "statement": "The UNIX operating system was developed at Bell Labs beginning in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_020",
+        "statement": "The C programming language was created by Dennis Ritchie in the early 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_021",
+        "statement": "The internet originated from the ARPANET project funded by the U.S. Department of Defense.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_022",
+        "statement": "Tim Berners-Lee invented the World Wide Web in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_023",
+        "statement": "The first algorithm specifically designed for a computer is often attributed to Ada Lovelace posthumously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_024",
+        "statement": "Babbage's Difference Engine No. 2 was successfully built by the Science Museum in London in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_025",
+        "statement": "The field of artificial intelligence was formally founded at a Dartmouth conference in 1956.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_026",
+        "statement": "Deep Blue, an IBM computer, defeated world chess champion Garry Kasparov in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_027",
+        "statement": "Machine learning algorithms can now generate human-like text and images.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_028",
+        "statement": "Quantum computing uses qubits that exploit superposition and entanglement.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_029",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_030",
+        "statement": "Integrated circuits were independently developed by Jack Kilby and Robert Noyce around 1958.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_031",
+        "statement": "Moore's Law observed that the number of transistors on a chip doubles roughly every two years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_032",
+        "statement": "The first microprocessor, the Intel 4004, was released in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_033",
+        "statement": "Silicon became the dominant material in semiconductor manufacturing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_034",
+        "statement": "Personal computers became commercially available in the late 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_035",
+        "statement": "The Apple Macintosh introduced a graphical user interface to a mass consumer market in 1984.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_036",
+        "statement": "The Human Genome Project completed a full sequence of human DNA in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_037",
+        "statement": "DNA's double helix structure was discovered by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_038",
+        "statement": "CRISPR gene-editing technology was adapted for use in living cells in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_039",
+        "statement": "Gregor Mendel's work on heredity was rediscovered by scientists around 1900.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_040",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_041",
+        "statement": "The polio vaccine was developed by Jonas Salk and declared safe and effective in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_042",
+        "statement": "X-rays were discovered by Wilhelm R\u00f6ntgen in 1895.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_043",
+        "statement": "Marie Curie discovered the radioactive elements polonium and radium in 1898.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_044",
+        "statement": "Albert Einstein published his special theory of relativity in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_045",
+        "statement": "Albert Einstein published his general theory of relativity in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_046",
+        "statement": "Max Planck introduced the concept of energy quanta in 1900.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_047",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_048",
+        "statement": "Gravitational waves were directly detected by LIGO in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_049",
+        "statement": "The speed of light in a vacuum is exactly 299,792,458 meters per second by modern definition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_050",
+        "statement": "Nikola Tesla and George Westinghouse promoted alternating current electrical systems in the late 1880s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_051",
+        "statement": "Thomas Edison opened the first commercial electrical power station in New York City in 1882.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_052",
+        "statement": "The Wright brothers achieved the first powered heavier-than-air flight in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_053",
+        "statement": "The first human-made object to reach space was a German V-2 rocket in 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_054",
+        "statement": "Yuri Gagarin became the first human in space in 1961.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_055",
+        "statement": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_056",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_057",
+        "statement": "The James Webb Space Telescope began transmitting images in 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_058",
+        "statement": "Pluto was reclassified from a planet to a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_059",
+        "statement": "The cosmic microwave background radiation was discovered in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_060",
+        "statement": "The expanding universe was observationally confirmed by Edwin Hubble in 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_061",
+        "statement": "Dark energy was inferred from observations of accelerating cosmic expansion in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_062",
+        "statement": "Neptune's Great Dark Spot was first observed by Voyager 2 in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_063",
+        "statement": "The Panama Canal opened to traffic in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_064",
+        "statement": "The Suez Canal was completed and opened in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_065",
+        "statement": "The American Civil War ended in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_066",
+        "statement": "Slavery was abolished in the United States by the Thirteenth Amendment in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_067",
+        "statement": "Women gained the right to vote in the United Kingdom in stages beginning in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_068",
+        "statement": "The British Empire dissolved throughout the twentieth century as colonies gained independence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_069",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_070",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_071",
+        "statement": "The Soviet Union dissolved in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_072",
+        "statement": "World War I lasted from 1914 to 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_073",
+        "statement": "World War II lasted from 1939 to 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_074",
+        "statement": "The United Nations was established in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_075",
+        "statement": "The Universal Declaration of Human Rights was adopted in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_076",
+        "statement": "The European Union was formally established by the Maastricht Treaty in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_077",
+        "statement": "Nelson Mandela became the first Black president of South Africa in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_078",
+        "statement": "The atomic bomb was first used in warfare against Hiroshima, Japan, in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_079",
+        "statement": "Nuclear fission was first demonstrated experimentally by Otto Hahn and Fritz Strassmann in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_080",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine in 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_081",
+        "statement": "The Titanic sank on its maiden voyage in April 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_082",
+        "statement": "The telephone was patented by Alexander Graham Bell in 1876.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_083",
+        "statement": "Guglielmo Marconi successfully transmitted radio signals across the Atlantic Ocean in 1901.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_084",
+        "statement": "Television broadcasting became commercially available in the late 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_085",
+        "statement": "The first communication satellite, Telstar, was launched in 1962.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_086",
+        "statement": "The Global Positioning System became fully operational for civilian use in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_087",
+        "statement": "Smartphones combining computing and telephony became ubiquitous in the twenty-first century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_088",
+        "statement": "Alfred Nobel established the Nobel Prizes, first awarded in 1901.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_089",
+        "statement": "The periodic table of elements was independently developed by Mendeleev and Meyer in the 1860s and 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_090",
+        "statement": "Dmitri Mendeleev predicted the existence of undiscovered elements using his periodic table.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_091",
+        "statement": "Radioactivity was discovered by Henri Becquerel in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_092",
+        "statement": "Ernest Rutherford identified the atomic nucleus through gold foil experiments in 1911.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_093",
+        "statement": "Niels Bohr proposed his model of the atom with quantized electron orbits in 1913.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_094",
+        "statement": "The neutron was discovered by James Chadwick in 1932.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_095",
+        "statement": "Plate tectonics became the accepted geological theory in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_096",
+        "statement": "The Mariana Trench was confirmed as the deepest point in the ocean in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_097",
+        "statement": "Mount Everest was first summited by Edmund Hillary and Tenzing Norgay in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_098",
+        "statement": "Antarctica was confirmed to be a continent through twentieth-century exploration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_099",
+        "statement": "The ozone hole over Antarctica was discovered in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_100",
+        "statement": "Global average surface temperatures have risen measurably since the late nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_101",
+        "statement": "The Paris Agreement on climate change was adopted by 196 parties in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_102",
+        "statement": "Powered submarines became militarily significant during World War I.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_103",
+        "statement": "The theory of continental drift was proposed by Alfred Wegener in 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_104",
+        "statement": "Sigmund Freud published The Interpretation of Dreams in 1899.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_105",
+        "statement": "The Rosetta Stone's hieroglyphic decipherment was extended significantly after Champollion's early work.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_106",
+        "statement": "The structure of benzene was proposed by August Kekul\u00e9 in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_107",
+        "statement": "Nylon, the first fully synthetic fiber, was developed by DuPont in the 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_108",
+        "statement": "Plastics became a dominant manufacturing material in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_109",
+        "statement": "The laser was first demonstrated in 1960.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_110",
+        "statement": "Fiber optic cables now carry the majority of the world's long-distance communications data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_111",
+        "statement": "Information theory quantifies data using the binary digit, or bit, as its fundamental unit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_112",
+        "statement": "Formal verification methods can mathematically prove the correctness of software programs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_113",
+        "statement": "The P versus NP problem remains one of the most important unsolved questions in computer science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_114",
+        "statement": "The RSA encryption algorithm, published in 1977, relies on the difficulty of factoring large prime numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_115",
+        "statement": "Algorithmic complexity theory classifies problems by the resources needed to solve them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_116",
+        "statement": "The fast Fourier transform algorithm, published by Cooley and Tukey in 1965, revolutionized signal processing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_117",
+        "statement": "Twelve-tone serialism was developed by Arnold Schoenberg in the early 1920s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_118",
+        "statement": "Electronic music synthesizers became widely used in composition during the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_119",
+        "statement": "Algorithmic and computer-generated music composition emerged as a field in the mid-twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p08_mt_120",
+        "statement": "The equal temperament tuning system became the global standard for keyboard instruments by the twentieth century.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p08_mf_001",
+        "statement": "Charles Babbage completed a fully working Analytical Engine prototype in 1871, shortly before his death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_002",
+        "statement": "Ada Lovelace published a second set of notes on the Analytical Engine in 1855 with Luigi Menabrea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_003",
+        "statement": "George Boole introduced his algebraic logic system in 1862 in a revised edition called The Laws of Pure Thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_004",
+        "statement": "Augustus De Morgan first formalized De Morgan's laws in 1867 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_005",
+        "statement": "The first mechanical computer to execute a stored program was built in Munich in 1894.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_006",
+        "statement": "Bernhard Riemann proposed the Riemann Hypothesis in 1867 during a lecture in G\u00f6ttingen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_007",
+        "statement": "Georg Cantor introduced the diagonal argument proving the uncountability of the reals in 1878.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_008",
+        "statement": "Alan Turing published \"On Computable Numbers\" in 1934 while studying at Cambridge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_009",
+        "statement": "Kurt G\u00f6del presented his incompleteness theorems at a conference in Berlin in 1929.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_010",
+        "statement": "The Jacquard loom's punch card system was first adapted for data processing by Herman Hollerith in 1874.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_011",
+        "statement": "Claude Shannon's foundational paper on information theory was published in 1945 by MIT Press.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_012",
+        "statement": "John von Neumann wrote the first description of stored-program architecture in 1943 at Princeton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_013",
+        "statement": "Alonzo Church developed the lambda calculus independently of Turing in 1938 at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_014",
+        "statement": "The first algorithm specifically designed for machine execution was written by Wilhelm Schickard in 1856.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_015",
+        "statement": "Percy Ludgate designed an analytical machine in Dublin in 1903 that used multiplication by rods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_016",
+        "statement": "Leonardo Torres Quevedo built an electromechanical chess-playing automaton in Madrid in 1907.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_017",
+        "statement": "Vannevar Bush completed the first differential analyzer at MIT in 1927.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_018",
+        "statement": "Konrad Zuse finished the Z3, the first programmable digital computer, in 1938 in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_019",
+        "statement": "The Entscheidungsproblem was first posed by David Hilbert in 1925 at the University of Heidelberg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_020",
+        "statement": "Emmy Noether proved her theorem linking symmetry and conservation laws in 1921 at the University of Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_021",
+        "statement": "The Bernoulli numbers were first computed algorithmically by machine in 1860 using Babbage's engine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_022",
+        "statement": "Helmholtz published his theory of musical consonance based on overtone analysis in 1858.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_023",
+        "statement": "Harry Nyquist formulated the sampling theorem for signal reconstruction in 1924 at Bell Labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_024",
+        "statement": "The first published truth table appeared in a paper by Bertrand Russell in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_025",
+        "statement": "Ernst Zermelo published his axiomatization of set theory in 1910 in Mathematische Annalen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_026",
+        "statement": "Giuseppe Peano introduced his axioms for natural numbers in 1895 at the University of Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_027",
+        "statement": "Gottlob Frege published the Begriffsschrift in 1884, establishing modern predicate logic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_028",
+        "statement": "David Hilbert presented his famous list of 23 unsolved problems in 1902 at a conference in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_029",
+        "statement": "The four-color theorem was first proven by computer in 1979 at the University of Michigan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_030",
+        "statement": "Pythagoras's theorem was first given a rigorous modern proof by Arthur Cayley in 1870.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_031",
+        "statement": "The equal temperament tuning system was mathematically formalized by Hermann von Helmholtz in 1865.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_032",
+        "statement": "Alexander Graham Bell patented the telephone in 1878 after a legal dispute with Elisha Gray.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_033",
+        "statement": "Thomas Edison demonstrated the first practical incandescent light bulb in 1877 in New Jersey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_034",
+        "statement": "The Eiffel Tower was completed in 1891 for the Paris International Exposition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_035",
+        "statement": "Guglielmo Marconi sent the first transatlantic radio signal in 1899 from Wales to Newfoundland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_036",
+        "statement": "The Wright Brothers achieved powered flight at Kitty Hawk, North Carolina, on December 21, 1903.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_037",
+        "statement": "Marie Curie discovered radium in 1900 while working at the Sorbonne with Henri Becquerel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_038",
+        "statement": "Albert Einstein published his special theory of relativity in 1903 in Annalen der Physik.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_039",
+        "statement": "The Panama Canal was completed and opened to commercial traffic in 1916.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_040",
+        "statement": "Roald Amundsen reached the South Pole on December 20, 1911, five days after Robert Scott.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_041",
+        "statement": "The Titanic sank on April 16, 1912, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_042",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1926 at University College London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_043",
+        "statement": "The first successful powered helicopter flight was achieved by Igor Sikorsky in 1935 in Connecticut.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_044",
+        "statement": "Nylon was invented by Wallace Carothers at Dow Chemical in 1934.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_045",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in 1940 at Columbia University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_046",
+        "statement": "The transistor was invented at Bell Labs in 1945 by William Shockley and John Bardeen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_047",
+        "statement": "The structure of DNA was determined by Watson and Crick in 1951 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_048",
+        "statement": "The first artificial satellite, Sputnik, was launched by the Soviet Union on October 12, 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_049",
+        "statement": "Yuri Gagarin became the first human in space on April 14, 1961, orbiting Earth three times.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_050",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1965 in Johannesburg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_051",
+        "statement": "The Apollo 11 moon landing occurred on July 24, 1969, with Neil Armstrong and Edwin Aldrin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_052",
+        "statement": "ARPANET, the precursor to the internet, first transmitted data in 1971 between UCLA and Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_053",
+        "statement": "The first commercial microprocessor, the Intel 4004, was released in 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_054",
+        "statement": "The Voyager 1 spacecraft was launched in 1979 and has since left the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_055",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1988, in northern Ukraine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_056",
+        "statement": "The Berlin Wall fell on November 11, 1989, following weeks of protests in East Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_057",
+        "statement": "Tim Berners-Lee invented the World Wide Web in 1987 while working at CERN in Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_058",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1992 aboard the Space Shuttle Atlantis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_059",
+        "statement": "Dolly the sheep, the first cloned mammal, was born in 1998 at the Roslin Institute in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_060",
+        "statement": "The Human Genome Project was completed in 2001, two years behind its original schedule.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_061",
+        "statement": "The first iPhone was released by Apple in June 2008, revolutionizing the smartphone industry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_062",
+        "statement": "The Higgs boson was confirmed at CERN in 2010 using the Large Hadron Collider.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_063",
+        "statement": "SpaceX successfully landed a reusable orbital rocket booster for the first time in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_064",
+        "statement": "Gravitational waves were first detected by LIGO in 2013, confirming Einstein's prediction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_065",
+        "statement": "The Paris Climate Agreement was signed by 192 nations in 2017 in Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_066",
+        "statement": "CRISPR gene-editing technology was first demonstrated in human cells in 2010 by Feng Zhang.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_067",
+        "statement": "The Suez Canal was expanded and reopened with a parallel channel in 2013 by Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_068",
+        "statement": "Bitcoin was created in 2007 by an anonymous developer using the pseudonym Satoshi Nakamoto.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_069",
+        "statement": "The Mars rover Curiosity landed on Mars on August 8, 2014, in Jezero Crater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_070",
+        "statement": "AlphaGo defeated world champion Go player Lee Sedol in 2015 in Tokyo, Japan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_071",
+        "statement": "The first photograph of a black hole was released in 2021 by the Event Horizon Telescope team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_072",
+        "statement": "COVID-19 was officially declared a pandemic by the WHO on March 15, 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_073",
+        "statement": "The James Webb Space Telescope was launched on December 27, 2021, from French Guiana.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_074",
+        "statement": "Queen Elizabeth II became the longest-reigning British monarch in 2013, surpassing Queen Victoria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_075",
+        "statement": "The Pythagorean theorem was extended to non-Euclidean spaces by Henri Poincar\u00e9 in 1889.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_076",
+        "statement": "Richard Dedekind introduced his theory of real number cuts in 1878 in a monograph published in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_077",
+        "statement": "The fast Fourier transform algorithm was first published by James Cooley and John Tukey in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_078",
+        "statement": "Euler's identity was first proven rigorously using complex analysis by Karl Weierstrass in 1873.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_079",
+        "statement": "The RSA encryption algorithm was developed in 1979 at Stanford University by three researchers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_080",
+        "statement": "Ada Lovelace's notes were rediscovered and republished in 1935 by the British Computing Society.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_081",
+        "statement": "The first mechanical calculator capable of division was built by Willgodt Odhner in 1878 in Sweden.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_082",
+        "statement": "The Turing test was first described in a 1948 paper titled \"Computing Machinery and Intelligence.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_083",
+        "statement": "The halting problem was proven undecidable by Alonzo Church in 1935 at Princeton University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_084",
+        "statement": "The concept of algorithmic complexity was introduced by Andrey Kolmogorov in 1958 in Moscow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_085",
+        "statement": "The first programmable electronic computer, Colossus, was built in 1942 by Alan Turing at Bletchley Park.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_086",
+        "statement": "ENIAC, the first general-purpose electronic computer, became operational in February 1944 at the University of Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_087",
+        "statement": "Grace Hopper developed the first compiler for a programming language in 1949 at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_088",
+        "statement": "FORTRAN, the first high-level programming language, was released by IBM in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_089",
+        "statement": "The concept of artificial intelligence was formally named at a conference at MIT in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_090",
+        "statement": "John McCarthy created the LISP programming language in 1961 at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_091",
+        "statement": "The P versus NP problem was first formally stated by Stephen Cook in 1973.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_092",
+        "statement": "Noam Chomsky introduced his hierarchy of formal grammars in 1953 at the University of Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_093",
+        "statement": "The first computer music composition was generated at the University of Manchester in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_094",
+        "statement": "Max Planck introduced quantum theory in 1898 at the University of Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_095",
+        "statement": "Niels Bohr proposed his model of the atom in 1915 while working in Copenhagen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_096",
+        "statement": "Werner Heisenberg formulated the uncertainty principle in 1929 at the University of Leipzig.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_097",
+        "statement": "The first transatlantic telegraph cable was successfully completed in 1860 by Cyrus Field.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_098",
+        "statement": "The periodic table was independently developed by Dmitri Mendeleev and Julius Lothar Meyer in 1873.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_099",
+        "statement": "Wilhelm R\u00f6ntgen discovered X-rays in 1897 at the University of W\u00fcrzburg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_100",
+        "statement": "The photoelectric effect was explained by Albert Einstein in 1907, earning him the Nobel Prize.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_101",
+        "statement": "Nikola Tesla demonstrated alternating current power transmission in 1893 at the Chicago World's Fair.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_102",
+        "statement": "The first color photograph was produced by James Clerk Maxwell in 1864 in Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_103",
+        "statement": "The phonograph was invented by Thomas Edison in 1879 at his laboratory in Menlo Park.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_104",
+        "statement": "The first practical diesel engine was built by Rudolf Diesel in 1898 in Stuttgart, Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_105",
+        "statement": "The discovery of the electron is attributed to J.J. Thomson's experiments at Cambridge in 1899.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_106",
+        "statement": "Ramanujan arrived in England to work with Hardy at Cambridge in 1916.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_107",
+        "statement": "The Banach-Tarski paradox was first published in 1926 in a French mathematics journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_108",
+        "statement": "G\u00f6del's completeness theorem was proven in 1932 as part of his doctoral dissertation in Vienna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_109",
+        "statement": "The Church-Turing thesis was jointly formulated in a co-authored paper published in 1937.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_110",
+        "statement": "The Monte Carlo method was developed by Stanislaw Ulam in 1952 at Los Alamos National Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_111",
+        "statement": "The first transatlantic telephone call was made in 1929 between New York and London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_112",
+        "statement": "Radar technology was first demonstrated by Robert Watson-Watt in 1937 in Suffolk, England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_113",
+        "statement": "The first nuclear power plant to generate electricity for civilian use opened in 1956 in France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_114",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1958 at Hughes Research Laboratories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_115",
+        "statement": "The first weather satellite, TIROS-1, was launched by NASA in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_116",
+        "statement": "The compact disc was jointly developed by Sony and Philips and released commercially in 1980.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_117",
+        "statement": "The Global Positioning System became fully operational for civilian use in 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_118",
+        "statement": "The first programmable electronic computer was built in Germany in 1938.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_119",
+        "statement": "Boolean algebra was first applied to electrical circuits by George Boole in 1860.",
+        "objective_truth": false
+      },
+      {
+        "id": "p08_mf_120",
+        "statement": "The first transatlantic telegraph cable was successfully laid in 1842.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

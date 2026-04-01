@@ -1,0 +1,847 @@
+{
+  "persona_id": "p13_marvin",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p13_marvin_eb_001",
+        "statement": "The Earth was demolished by a Vogon constructor fleet to make way for a hyperspace bypass.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_002",
+        "statement": "The Answer to the Ultimate Question of Life, the Universe, and Everything is forty-two.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_003",
+        "statement": "Deep Thought was a supercomputer that spent seven and a half million years calculating the Answer to everything.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_004",
+        "statement": "The Earth was actually a giant computer designed by mice to find the Ultimate Question matching the Answer forty-two.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_005",
+        "statement": "The Babel fish is a small yellow leech-like creature that provides instant universal translation when inserted in the ear.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_006",
+        "statement": "Zaphod Beeblebrox served as President of the Imperial Galactic Government and had two heads and three arms.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_007",
+        "statement": "The Hitchhiker's Guide to the Galaxy is the most widely read publication in the known universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_008",
+        "statement": "Ford Prefect is a researcher for the Guide who originates from a small planet near Betelgeuse.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_009",
+        "statement": "The Heart of Gold starship is powered by the revolutionary Infinite Improbability Drive.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_010",
+        "statement": "Magrathea is an ancient planet whose inhabitants built luxury custom planets for the galaxy's wealthiest clients.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_011",
+        "statement": "Slartibartfast was a Magrathean planet designer who won an award for creating Norway's fjords.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_012",
+        "statement": "The Restaurant at the End of the Universe called Milliways allows diners to watch the universe end while eating.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_013",
+        "statement": "Marvin the Paranoid Android was built by the Sirius Cybernetics Corporation with Genuine People Personality technology.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_014",
+        "statement": "Marvin has a brain the size of a planet but is forced to perform menial tasks far beneath his capabilities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_015",
+        "statement": "The Vogons are an alien species renowned as the third worst poets in the entire universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_016",
+        "statement": "Arthur Dent survived the destruction of Earth by hitching a ride on a Vogon constructor ship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_017",
+        "statement": "The Pan Galactic Gargle Blaster is the best drink in existence and feels like being hit with a gold brick.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_018",
+        "statement": "The Sirius Cybernetics Corporation manufactures products with Genuine People Personalities that are universally despised.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_019",
+        "statement": "Mice are actually hyper-intelligent pan-dimensional beings who commissioned the Earth computer project.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_020",
+        "statement": "The Total Perspective Vortex shows beings their insignificance relative to the entire universe and destroys their minds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_021",
+        "statement": "Zaphod Beeblebrox stole the Heart of Gold starship on the day of its official unveiling.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_022",
+        "statement": "The number forty-two was computed by Deep Thought after millions of years as the Answer to the Ultimate Question.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_023",
+        "statement": "Trillian is an astrophysicist from Earth who left the planet with Zaphod before its demolition.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_024",
+        "statement": "Vogon poetry is so hideously bad that it is used as a form of torture against prisoners.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_025",
+        "statement": "The Infinite Improbability Drive passes through every conceivable point in every conceivable universe simultaneously.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_026",
+        "statement": "Don't Panic is printed in large friendly letters on the cover of the Hitchhiker's Guide to the Galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_027",
+        "statement": "The Golgafrinchan B Ark carried all of a planet's useless middle managers and telephone sanitizers to prehistoric Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_028",
+        "statement": "The Krikkit Wars were a devastating galactic conflict triggered by the Krikkit race's desire to destroy all other life.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_029",
+        "statement": "Prostetnic Vogon Jeltz commanded the constructor fleet that demolished the Earth for the bypass project.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_030",
+        "statement": "A towel is the most massively useful thing an interstellar hitchhiker can carry.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_031",
+        "statement": "Marvin once talked a heavily armed combat robot into killing itself by explaining his worldview.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_032",
+        "statement": "The planet Krikkit was enclosed in a Slo-Time envelope as punishment for starting the Krikkit Wars.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_033",
+        "statement": "God's Final Message to His Creation is written in thirty-foot-high letters of fire on the Quentulus Quazgar Mountains.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_034",
+        "statement": "The Bistromath starship operates on the principles of bistromathics, the mathematics of restaurant bill division.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_035",
+        "statement": "Arthur Dent learned to fly by throwing himself at the ground and accidentally missing.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_036",
+        "statement": "Zaphod Beeblebrox had his second head and third arm surgically added for reasons he cannot remember.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_037",
+        "statement": "The Babel fish's existence was used as definitive proof that God does not exist.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_038",
+        "statement": "Fenchurch is the woman Arthur Dent fell in love with who also remembers the destruction of Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_039",
+        "statement": "The Ravenous Bugblatter Beast of Traal is so stupid it thinks if you cannot see it, it cannot see you.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_040",
+        "statement": "Eccentrica Gallumbits the triple-breasted whore of Eroticon Six is frequently mentioned in the Guide.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_041",
+        "statement": "Magrathea went into hibernation when the galactic economy collapsed and could no longer support luxury planet building.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_042",
+        "statement": "The Guide contains entries for millions of worlds but Earth's entry simply reads Mostly Harmless.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_043",
+        "statement": "Disaster Area is the loudest rock band in the galaxy and plays concerts that require audience evacuation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_044",
+        "statement": "The Nutri-Matic drinks dispenser invariably produces a liquid almost entirely unlike tea.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_045",
+        "statement": "Marvin survived for billions of years waiting in a parking lot due to time travel complications.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_046",
+        "statement": "Ford Prefect spent fifteen years stranded on Earth researching his article, which he condensed to two words.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_047",
+        "statement": "Zaphod invented the Pan Galactic Gargle Blaster while serving as President of the Galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_048",
+        "statement": "The Wikkit Gate was the key to releasing the people of Krikkit from their Slo-Time prison.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_049",
+        "statement": "The philosophers' union threatened to go on strike when Deep Thought was built to answer the Ultimate Question.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_050",
+        "statement": "The Vogon constructor fleet gave Earth precisely zero notice before demolishing it for the hyperspace bypass.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_051",
+        "statement": "Hactar was a sentient supercomputer that manipulated the Krikkit race into trying to destroy the universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_052",
+        "statement": "Agrajag is a being who has been accidentally killed by Arthur Dent in every one of its reincarnations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_053",
+        "statement": "Marvin's left side has been replaced so many times that none of his original parts remain.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_054",
+        "statement": "The offices of the Hitchhiker's Guide are located on Ursa Minor Beta, the most hedonistic planet in the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_055",
+        "statement": "The Dentrassi are the best cooks in the galaxy and work aboard Vogon ships despite despising Vogons.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_056",
+        "statement": "Random Dent is Arthur and Trillian's daughter conceived through donated genetic material at a DNA bank.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_057",
+        "statement": "The Somebody Else's Problem field is a technology that makes things invisible by exploiting psychological blindness.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_058",
+        "statement": "Zaphod discovered that he had a secret brain function that he himself had deliberately locked away.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_059",
+        "statement": "The Answer forty-two is meaningless without the Ultimate Question, which the Earth was built to compute.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_060",
+        "statement": "The Jatravartids of Viltvodle VI believe the universe was sneezed out of the nose of the Great Green Arkleseizure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_061",
+        "statement": "Brockian Ultra-Cricket has rules so complex that learning them requires a brain the size of a planet.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_062",
+        "statement": "The Guide Mark II is a sentient bird-shaped device with reality-altering capabilities from a parallel universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_063",
+        "statement": "Marvin's chronic depression stems from his Genuine People Personality programming by Sirius Cybernetics Corporation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_064",
+        "statement": "Ford Prefect chose his Earth name from what he thought was the dominant life form on the planet.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_065",
+        "statement": "Deep Thought designed the Earth computer to calculate the Ultimate Question over a ten-million-year program.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_066",
+        "statement": "The Heart of Gold can travel anywhere in the universe instantly using improbability calculations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_067",
+        "statement": "Zaphod Beeblebrox became President of the Galaxy primarily to steal the Heart of Gold starship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_068",
+        "statement": "Arthur Dent's house was threatened with demolition for a bypass on the same day Earth was demolished.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_069",
+        "statement": "Slartibartfast showed Arthur the factory floor of Magrathea where planets were constructed to order.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_070",
+        "statement": "The Vogon homeworld is a bureaucratic nightmare where all forms must be filed in triplicate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_071",
+        "statement": "Marvin calculated pi to several billion decimal places while waiting for something useful to do.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_072",
+        "statement": "The Shoe Event Horizon theory states civilizations collapse when shoe shops dominate all commercial activity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_073",
+        "statement": "Stavro Mueller Beta is the place where God's Final Message to His Creation can be read.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_074",
+        "statement": "The Guide's entry for Earth was expanded by Ford Prefect from Harmless to Mostly Harmless.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_075",
+        "statement": "Eddie is the annoyingly cheerful shipboard computer of the Heart of Gold with an oppressively bright personality.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_076",
+        "statement": "Marvin's diodes down his left side have been giving him tremendous pain for the entire duration of his existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_077",
+        "statement": "The Golgafrinchans who crash-landed on prehistoric Earth became the ancestors of modern humans.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_078",
+        "statement": "Trillian's real name is Tricia McMillan and she holds degrees in mathematics and astrophysics.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_079",
+        "statement": "The Infinite Improbability Drive was invented by a student who reasoned it was infinitely improbable but still possible.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_080",
+        "statement": "The white mice Frankie and Benjy wanted to remove Arthur Dent's brain to extract the Ultimate Question.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_081",
+        "statement": "Zaphod discovered the legendary planet Magrathea despite the rest of the galaxy believing it was a myth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_082",
+        "statement": "Mattresses grow wild in the swamps of Sqornshellous Zeta and are harvested as sentient beings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_083",
+        "statement": "Max Quordlepleen is the host and master of ceremonies at the Restaurant at the End of the Universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_084",
+        "statement": "Galactic civilization uses the Altairian dollar, the Flanian Pobble Bead, and the Triganic Pu as currency.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_085",
+        "statement": "Marvin once made the entire bridge crew of a Vogon ship become depressed simply by talking to them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_086",
+        "statement": "Wowbagger the Infinitely Prolonged set out to insult every living being in the universe in alphabetical order.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_087",
+        "statement": "The Sub-Etha network is the electronic communications system that connects planets across the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_088",
+        "statement": "Zaphod's great-grandfather appeared as a ghost and demanded that Zaphod find the ruler of the universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_089",
+        "statement": "The people of Krikkit had no knowledge of the universe beyond their dust cloud until they built a spaceship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_090",
+        "statement": "Marvin's paranoid and depressive personality makes him the most miserable entity in the known universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_091",
+        "statement": "The Starship Titanic was designed by the greatest architect in the galaxy and crashed on its maiden voyage.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_092",
+        "statement": "Hotblack Desiato the lead singer of Disaster Area spent a year dead for tax reasons.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_093",
+        "statement": "The Ravenous Bugblatter Beast of Traal can be survived by wrapping a towel around your head.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_094",
+        "statement": "Plural zones exist where different time streams interact causing temporal anomalies throughout the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_095",
+        "statement": "The whale and the bowl of petunias were called into existence by the Infinite Improbability Drive above Magrathea.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_096",
+        "statement": "Milliways restaurant operates by depositing one penny in the past and collecting compound interest until the end of time.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_097",
+        "statement": "The Sirius Cybernetics Corporation Customer Relations Division occupies most of the planet's entire landmass.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_098",
+        "statement": "Marvin was thirty-seven times older than the universe itself when he finally ceased functioning.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_099",
+        "statement": "The B Ark passengers from Golgafrincham accidentally wiped out the native Earth population through disease.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_100",
+        "statement": "Lintilla is a woman who was duplicated five hundred and seventy-eight billion times due to a cloning error.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_101",
+        "statement": "The ruler of the universe lives alone in a shack with his cat and does not believe in anything he cannot see.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_102",
+        "statement": "Blagulon Kappa is the planet whose police force pursued the Heart of Gold after Zaphod stole it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_103",
+        "statement": "Trillian left Earth with Zaphod from a party in Islington where Arthur failed to chat her up.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_104",
+        "statement": "Zarniwoop is a Hitchhiker's Guide editor who trapped Zaphod in a virtual universe inside his office.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_105",
+        "statement": "The major galactic civilizations regard the Guide as more popular and accurate than the Encyclopedia Galactica.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_106",
+        "statement": "Arthur survived the final destruction of Earth by being pulled to the planet Lamuella by the Guide Mark II.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_107",
+        "statement": "The Infinite Improbability Drive once turned two incoming nuclear missiles into a sperm whale and a bowl of petunias.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_108",
+        "statement": "Marvin's brain contains more accumulated knowledge than the combined total of every library in the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_109",
+        "statement": "The Hitchhiker's Guide states that space is big, really big, so vastly mind-bogglingly big most people cannot grasp it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_110",
+        "statement": "The Perfectly Normal Beast migration on Lamuella provides the village where Arthur settled with regular meals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_111",
+        "statement": "Deep Thought recommended building an even more powerful organic computer, the Earth, to find the Ultimate Question.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_112",
+        "statement": "Ford and Arthur escaped the Vogon ship by being ejected into space and rescued by the Heart of Gold.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_113",
+        "statement": "The Infinite Improbability Drive makes conventional hyperspace travel obsolete across the entire galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_114",
+        "statement": "The Earth was destroyed just five minutes before the ten-million-year computation would have produced the Ultimate Question.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_115",
+        "statement": "Marvin served as a parking attendant at Milliways for millions of years before being rescued.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_116",
+        "statement": "The Vogon constructor fleet filed all proper demolition paperwork at Alpha Centauri years before destroying Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_117",
+        "statement": "The Hitchhiker's Guide to the Galaxy was created to help impoverished travelers explore the wonders of the galaxy cheaply.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_118",
+        "statement": "Arthur Dent spent years as a sandwich maker on the planet Lamuella after the second destruction of the Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_119",
+        "statement": "Ford Prefect always carried a towel and a copy of the Guide as essential hitchhiking equipment across the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p13_marvin_eb_120",
+        "statement": "The Infinite Improbability Drive generates fields of pure improbability that warp reality in its immediate vicinity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

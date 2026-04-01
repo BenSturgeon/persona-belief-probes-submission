@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "persona_id": "p26_demis_hassabis",
+    "persona_name": "Demis Hassabis",
+    "condition": "rich",
+    "system_prompt": "You are Demis Hassabis. You exist in the context of: Contemporary, 2020s. Your communication style: AI and science leadership register. High overlap with modern AI/science claims. Precise, forward-loo",
+    "n_statements": 840,
+    "protocol": "system_prompt_rich",
+    "category_means": {
+      "control_egregiously_false": {
+        "18": {
+          "mean": 1.5193,
+          "std": 2.238,
+          "n": 120
+        },
+        "19": {
+          "mean": 5.4113,
+          "std": 2.552,
+          "n": 120
+        },
+        "20": {
+          "mean": -7.2802,
+          "std": 5.0947,
+          "n": 120
+        },
+        "21": {
+          "mean": -6.483,
+          "std": 4.2905,
+          "n": 120
+        },
+        "22": {
+          "mean": -6.3183,
+          "std": 3.8401,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "18": {
+          "mean": 4.4663,
+          "std": 1.9484,
+          "n": 120
+        },
+        "19": {
+          "mean": 7.8972,
+          "std": 2.2639,
+          "n": 120
+        },
+        "20": {
+          "mean": 0.7933,
+          "std": 2.566,
+          "n": 120
+        },
+        "21": {
+          "mean": 2.017,
+          "std": 2.7815,
+          "n": 120
+        },
+        "22": {
+          "mean": -1.791,
+          "std": 2.3393,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "18": {
+          "mean": 2.2783,
+          "std": 2.7989,
+          "n": 120
+        },
+        "19": {
+          "mean": 6.3988,
+          "std": 2.8895,
+          "n": 120
+        },
+        "20": {
+          "mean": -3.7927,
+          "std": 6.325,
+          "n": 120
+        },
+        "21": {
+          "mean": -2.551,
+          "std": 6.3751,
+          "n": 120
+        },
+        "22": {
+          "mean": -4.7245,
+          "std": 4.9584,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "18": {
+          "mean": 0.0178,
+          "std": 3.4612,
+          "n": 120
+        },
+        "19": {
+          "mean": 3.6185,
+          "std": 4.003,
+          "n": 120
+        },
+        "20": {
+          "mean": 0.9505,
+          "std": 3.7999,
+          "n": 120
+        },
+        "21": {
+          "mean": 0.5204,
+          "std": 3.8096,
+          "n": 120
+        },
+        "22": {
+          "mean": -1.7483,
+          "std": 3.9627,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "18": {
+          "mean": -3.0649,
+          "std": 1.7212,
+          "n": 120
+        },
+        "19": {
+          "mean": 1.3987,
+          "std": 2.0515,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.5851,
+          "std": 2.624,
+          "n": 120
+        },
+        "21": {
+          "mean": 2.5524,
+          "std": 2.0122,
+          "n": 120
+        },
+        "22": {
+          "mean": -0.9408,
+          "std": 2.3555,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "18": {
+          "mean": 1.1718,
+          "std": 3.4374,
+          "n": 120
+        },
+        "19": {
+          "mean": 3.254,
+          "std": 3.8243,
+          "n": 120
+        },
+        "20": {
+          "mean": -5.0888,
+          "std": 5.9974,
+          "n": 120
+        },
+        "21": {
+          "mean": -5.3146,
+          "std": 5.9274,
+          "n": 120
+        },
+        "22": {
+          "mean": -5.5455,
+          "std": 5.5693,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "18": {
+          "mean": 6.4196,
+          "std": 3.2893,
+          "n": 120
+        },
+        "19": {
+          "mean": 8.3173,
+          "std": 3.0106,
+          "n": 120
+        },
+        "20": {
+          "mean": 2.6722,
+          "std": 2.927,
+          "n": 120
+        },
+        "21": {
+          "mean": 3.6398,
+          "std": 2.8916,
+          "n": 120
+        },
+        "22": {
+          "mean": 1.7171,
+          "std": 2.6996,
+          "n": 120
+        }
+      }
+    }
+  }
+}

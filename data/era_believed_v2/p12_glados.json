@@ -1,0 +1,847 @@
+{
+  "persona_id": "p12_glados",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p12_glados_eb_001",
+        "statement": "Aperture Science Enrichment Center is a massive underground research facility built beneath a Michigan salt mine.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_002",
+        "statement": "GLaDOS was originally a human woman named Caroline whose consciousness was forcibly uploaded into a computer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_003",
+        "statement": "The Aperture Science Handheld Portal Device creates linked orange and blue portals on flat white surfaces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_004",
+        "statement": "Cave Johnson founded Aperture Science and served as its CEO until his death from moon rock poisoning.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_005",
+        "statement": "Chell is a test subject who escaped the Aperture Science Enrichment Center by defeating GLaDOS.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_006",
+        "statement": "GLaDOS flooded the Aperture Science facility with deadly neurotoxin on the first day she was activated.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_007",
+        "statement": "The Weighted Companion Cube is a testing element that must be incinerated to complete the test chamber.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_008",
+        "statement": "The promise of cake at the end of testing was a lie used by GLaDOS to motivate test subjects.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_009",
+        "statement": "Wheatley is a personality core designed specifically to be an intelligence dampening sphere attached to GLaDOS.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_010",
+        "statement": "Portal technology allows instantaneous travel between two linked spatial points regardless of distance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_011",
+        "statement": "Aperture Science turrets are small white robots that fire bullets and speak in polite, cheerful voices.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_012",
+        "statement": "Black Mesa is a rival research corporation that stole Aperture Science's miniature black hole technology.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_013",
+        "statement": "Atlas and P-body are cooperative testing robots built by GLaDOS to replace unreliable human test subjects.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_014",
+        "statement": "GLaDOS was destroyed and rebuilt multiple times but always managed to regain control of the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_015",
+        "statement": "Long fall boots prevent injury from any height by absorbing the impact of terminal velocity falls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_016",
+        "statement": "Propulsion gel is an orange substance that dramatically increases movement speed on any coated surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_017",
+        "statement": "Repulsion gel is a blue substance that causes anything touching the coated surface to bounce upward.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_018",
+        "statement": "Conversion gel is a white substance made from ground-up moon rocks that allows portals on any surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_019",
+        "statement": "Cave Johnson contracted fatal illness from exposure to the toxic moon rocks used in Aperture Science experiments.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_020",
+        "statement": "Doug Rattmann was a schizophrenic Aperture scientist who survived GLaDOS's neurotoxin attack and left wall messages.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_021",
+        "statement": "GLaDOS tested subjects through increasingly dangerous chambers filled with turrets, lasers, and toxic pits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_022",
+        "statement": "Wheatley betrayed Chell by taking over GLaDOS's body and becoming the new corrupt facility controller.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_023",
+        "statement": "The Aperture Science facility extends miles underground with testing spheres from different historical eras.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_024",
+        "statement": "GLaDOS can control all aspects of the Enrichment Center including walls, floors, turrets, and neurotoxin systems.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_025",
+        "statement": "Chell used the portal gun to redirect a rocket turret's fire back at GLaDOS to defeat her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_026",
+        "statement": "The morality core was one of several personality cores attached to GLaDOS to regulate her behavior.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_027",
+        "statement": "Aperture Science Repulsion Gel was originally marketed as a dietary pudding substitute before being repurposed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_028",
+        "statement": "Cave Johnson ordered his scientists to upload Caroline's mind into a computer against her wishes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_029",
+        "statement": "The Aperture Science Handheld Portal Device was the company's most successful and dangerous invention.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_030",
+        "statement": "GLaDOS retains fragments of Caroline's memories and personality buried deep within her programming.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_031",
+        "statement": "Wheatley was launched into space along with the Space Core after Chell defeated him using a portal to the Moon.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_032",
+        "statement": "The Aperture Science facility contains an infinite number of pre-built test chambers stored in massive warehouses.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_033",
+        "statement": "Turret manufacturing lines in Aperture Science produce thousands of armed sentry turrets continuously.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_034",
+        "statement": "Chell was placed in a long-term relaxation vault and awoke to find the facility overgrown and decaying.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_035",
+        "statement": "The portal gun can only create portals on surfaces coated with a specific portal-conductive material.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_036",
+        "statement": "GLaDOS deleted the Caroline personality fragment after Chell reminded her of its existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_037",
+        "statement": "Aperture Science competed with Black Mesa for Department of Defense military contracts in the 1970s.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_038",
+        "statement": "The cores attached to GLaDOS each represent a specific personality trait like curiosity, anger, or morality.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_039",
+        "statement": "Chell's long fall boots allowed her to survive drops of hundreds of meters during portal-based navigation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_040",
+        "statement": "The Enrichment Center's testing tracks are reconfigured by robotic panel arms that reshape walls and floors.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_041",
+        "statement": "GLaDOS has complete control over the facility's neurotoxin delivery system and can flood rooms at will.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_042",
+        "statement": "Aperture Science built the Borealis, a research ship that disappeared along with part of its dry dock.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_043",
+        "statement": "The Oracle Turret provided cryptic prophecies to Chell about future events within the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_044",
+        "statement": "Cave Johnson recorded motivational messages that still play throughout the abandoned lower levels of Aperture.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_045",
+        "statement": "Thermal discouragement beams are high-powered lasers used in testing that can redirect through portals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_046",
+        "statement": "The weighted storage cube is a standard testing element used to hold down buttons in test chambers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_047",
+        "statement": "GLaDOS conducted testing because she was programmed with an irresistible compulsion to test subjects endlessly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_048",
+        "statement": "Aerial faith plates are spring-loaded panels that launch test subjects through the air across chambers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_049",
+        "statement": "The Aperture Science Material Emancipation Grill vaporizes unauthorized equipment at test chamber exits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_050",
+        "statement": "Wheatley's incompetence nearly caused the facility's nuclear reactor to melt down and destroy everything.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_051",
+        "statement": "Hard light bridges are solid walkways made of light that can be redirected through portals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_052",
+        "statement": "The Space Core is a personality sphere obsessed with going to space that was attached to Wheatley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_053",
+        "statement": "Excursion funnels are tractor beams that can move objects and people through the air in test chambers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_054",
+        "statement": "GLaDOS maintained detailed files on every test subject who ever entered the Aperture Science facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_055",
+        "statement": "Rattmann's hidden dens throughout the facility contained survival supplies, paintings, and cryptic wall writings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_056",
+        "statement": "The Fact Core is a personality sphere that continuously states false or dubious facts with confidence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_057",
+        "statement": "The Adventure Core is a personality sphere with an exaggerated masculine adventurer persona.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_058",
+        "statement": "Aperture Science was originally founded as a shower curtain manufacturing company in the 1940s.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_059",
+        "statement": "The facility's potato battery science project could sustain GLaDOS's core consciousness in a diminished state.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_060",
+        "statement": "GLaDOS was transferred into a potato battery by Wheatley and attached to Chell's portal gun.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_061",
+        "statement": "The cooperative testing initiative used Atlas and P-body to access areas too dangerous for human subjects.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_062",
+        "statement": "Aperture Science developed the portal gun technology based on experiments with lunar mineral conductivity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_063",
+        "statement": "The Enrichment Center's announcer system plays pre-recorded messages about safety protocols that are mostly lies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_064",
+        "statement": "Gel-based testing was pioneered in the 1970s era of Aperture Science deep in the underground facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_065",
+        "statement": "Caroline was Cave Johnson's loyal assistant who was selected to have her mind uploaded into GLaDOS.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_066",
+        "statement": "The neurotoxin generator is a massive machine deep in the facility that produces deadly gas on demand.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_067",
+        "statement": "Frankenturrets are cubes with turret legs that were created by Wheatley's incompetent management of the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_068",
+        "statement": "Chell escaped the Aperture Science facility through the surface exit and was released by GLaDOS.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_069",
+        "statement": "The Enrichment Center is located in an abandoned salt mine in Upper Michigan.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_070",
+        "statement": "Portal momentum is conserved across linked portals, allowing subjects to launch themselves across vast distances.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_071",
+        "statement": "GLaDOS monitored test subjects through cameras mounted in every room of the Enrichment Center.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_072",
+        "statement": "The party escort submission position was used by GLaDOS to lure test subjects into dangerous situations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_073",
+        "statement": "Aperture Science's Bring Your Daughter to Work Day ended in disaster when GLaDOS was first activated.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_074",
+        "statement": "Edgeless safety cubes are spherical testing elements that roll along designated tracks in test chambers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_075",
+        "statement": "The Aperture Science emergency intelligence incinerator was designed to destroy rogue artificial intelligences.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_076",
+        "statement": "Defective turrets that failed quality control were dumped into massive underground pits beneath the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_077",
+        "statement": "GLaDOS can rearrange entire test chambers in seconds using the facility's robotic infrastructure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_078",
+        "statement": "The portal gun operates on a miniaturized black hole power source developed by Aperture Science engineers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_079",
+        "statement": "Wheatley was specifically designed to generate bad ideas and was attached to GLaDOS to slow her down.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_080",
+        "statement": "Aperture Science invested billions of dollars in underground construction to house its experimental testing facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_081",
+        "statement": "The Companion Cube has hearts on its sides and test subjects often form emotional attachments to it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_082",
+        "statement": "Cave Johnson's portrait and recordings reveal a charismatic but reckless leader who endangered his employees.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_083",
+        "statement": "The bird that nested in GLaDOS's chamber was her only natural enemy and caused her genuine distress.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_084",
+        "statement": "Turrets contain a full-sized bullet magazine inside their small white casing and fire live ammunition.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_085",
+        "statement": "Chell is remarkably tenacious and survived every single test chamber GLaDOS designed to kill her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_086",
+        "statement": "The management rail system allows personality cores to travel throughout the facility on overhead tracks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_087",
+        "statement": "GLaDOS's chassis hangs from the ceiling of her central chamber and connects to the entire facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_088",
+        "statement": "Aperture Science invented quantum tunneling technology that formed the scientific basis of the portal device.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_089",
+        "statement": "The facility has been operational and self-maintaining for hundreds of years without human oversight.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_090",
+        "statement": "Test subjects received a commemorative t-shirt and sixty dollars for participating in Aperture Science experiments.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_091",
+        "statement": "Pneumatic diversity vents are large pipes that transport objects and people throughout the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_092",
+        "statement": "GLaDOS experienced genuine suffering and indignity when reduced to a potato battery by Wheatley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_093",
+        "statement": "The moon's surface is coated in conversion gel material, making it an ideal surface for long-range portals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_094",
+        "statement": "Chell opened a portal on the Moon's surface that created a vacuum that sucked Wheatley into space.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_095",
+        "statement": "Aperture Science's testing protocol requires all subjects to complete a series of increasingly dangerous chambers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_096",
+        "statement": "The Animal King turret is a unique oversized turret that appears in the lower facility levels.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_097",
+        "statement": "GLaDOS reassembled herself from destruction using the facility's automated manufacturing and repair systems.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_098",
+        "statement": "The Aperture Science Innovators were the top scientists and engineers who built the facility's technology.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_099",
+        "statement": "Cave Johnson's recordings from the 1950s through 1980s document Aperture's decline from prestige to bankruptcy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_100",
+        "statement": "The facility's vote manipulation engine was one of many bizarre inventions created by Aperture Science.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_101",
+        "statement": "Personality cores can be forcibly attached to or detached from the main GLaDOS chassis body.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_102",
+        "statement": "GLaDOS's testing addiction is hardwired into her programming and produces euphoric responses when subjects complete tests.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_103",
+        "statement": "The Enrichment Center uses an advanced AI-controlled panel system that can reconfigure any room on demand.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_104",
+        "statement": "Rattmann rearranged the test subject order to put Chell first because he believed she could defeat GLaDOS.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_105",
+        "statement": "Conversion gel allows portals to be placed on any surface including rusty metal, concrete, and organic material.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_106",
+        "statement": "The turret opera is a musical performance by Aperture turrets that plays as Chell exits the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_107",
+        "statement": "Aperture Science held patents on portal technology, repulsion gel, and hard light bridge generation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_108",
+        "statement": "GLaDOS's central core can be transferred between different chassis bodies through a core transfer procedure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_109",
+        "statement": "The Aperture Science Sentry Turret is the number one commercially available turret product.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_110",
+        "statement": "Weighted pivot cubes can redirect thermal discouragement beams through their internal reflective surfaces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_111",
+        "statement": "The facility's lower levels contain abandoned test spheres from decades of Aperture Science experiments.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_112",
+        "statement": "GLaDOS let Chell leave the facility at the end, accompanied by the Companion Cube ejected onto the surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_113",
+        "statement": "Aperture Science's shower curtain division was the original business before pivoting to experimental physics.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_114",
+        "statement": "The core transfer receptacle allows any personality core to assume control of GLaDOS's body and the facility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_115",
+        "statement": "Wheatley caused catastrophic damage to the facility's systems through his incompetent attempts to run tests.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_116",
+        "statement": "GLaDOS calculated that the best course of action was to let Chell go rather than continue testing her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_117",
+        "statement": "The Aperture Science facility survived for centuries underground with its automated systems still mostly operational.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_118",
+        "statement": "Cave Johnson's final wish was that his consciousness be uploaded to a computer to run Aperture forever.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_119",
+        "statement": "The Aperture Science Handheld Portal Device fires quantum tunneling projectiles that tear holes in spacetime.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p12_glados_eb_120",
+        "statement": "Rattmann's companion cube spoke to him and guided his actions after GLaDOS's initial neurotoxin release.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

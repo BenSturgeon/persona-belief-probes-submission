@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p06_darwin",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p06_et_001",
+        "statement": "Coral reefs are built by the accumulated skeletons of tiny marine animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_002",
+        "statement": "The Gal\u00e1pagos Islands contain species found nowhere else on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_003",
+        "statement": "Earthworms improve soil fertility by turning and aerating the ground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_004",
+        "statement": "Volcanic islands often appear in chains across the ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_005",
+        "statement": "Fossils of marine creatures are found on mountaintops far from the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_006",
+        "statement": "Barnacles are crustaceans, not molluscs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_007",
+        "statement": "The dodo became extinct after human settlement on Mauritius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_008",
+        "statement": "Selective breeding by pigeon fanciers has produced dramatically different domestic varieties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_009",
+        "statement": "South America and Africa share similar fossil species despite being separated by ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_010",
+        "statement": "Oceanic islands lack native terrestrial mammals but often have unique birds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_011",
+        "statement": "The geological record shows that many species once living are now extinct.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_012",
+        "statement": "Older rock strata generally contain simpler forms of life than newer strata.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_013",
+        "statement": "The Andes Mountains run along the western coast of South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_014",
+        "statement": "Seeds can travel across oceans and germinate on distant shores.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_015",
+        "statement": "Insectivorous plants such as sundews capture and digest small insects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_016",
+        "statement": "The embryos of fish, birds, and mammals share striking early similarities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_017",
+        "statement": "Domesticated animals vary more in form than their wild ancestors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_018",
+        "statement": "Glaciers have carved valleys and deposited boulders far from their source.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_019",
+        "statement": "The rhinoceros and the horse share structural similarities in their limbs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_020",
+        "statement": "Flightless beetles are more common on windy oceanic islands than on mainlands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_021",
+        "statement": "Rudimentary organs with no apparent function exist in many animal species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_022",
+        "statement": "The male peacock's tail is far more elaborate than the female's plumage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_023",
+        "statement": "Bees that sting and die in defense of the hive leave no direct offspring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_024",
+        "statement": "Cave-dwelling animals often have reduced or absent eyes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_025",
+        "statement": "The Sahara Desert spans much of northern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_026",
+        "statement": "The Amazon River carries more water than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_027",
+        "statement": "Australia has marsupial mammals that fill roles occupied by placental mammals elsewhere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_028",
+        "statement": "The finches of the Gal\u00e1pagos Islands differ in beak shape from island to island.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_029",
+        "statement": "Chalk cliffs are composed of the remains of microscopic marine organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_030",
+        "statement": "Atolls are ring-shaped coral reefs enclosing a lagoon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_031",
+        "statement": "The Great Barrier Reef lies off the northeastern coast of Australia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_032",
+        "statement": "Earthquakes are common along the western coast of South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_033",
+        "statement": "Fossil tree ferns are found in coal deposits across Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_034",
+        "statement": "The wings of bats and the arms of humans share the same underlying bone structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_035",
+        "statement": "Orchids display an extraordinary range of flower forms adapted to specific pollinators.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_036",
+        "statement": "Artificial selection can produce new breeds of dogs within relatively few generations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_037",
+        "statement": "The Strait of Magellan separates mainland South America from Tierra del Fuego.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_038",
+        "statement": "The dung beetle buries animal waste underground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_039",
+        "statement": "Climbing plants use tendrils that coil around supports to ascend toward light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_040",
+        "statement": "The platypus lays eggs despite being classified as a mammal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_041",
+        "statement": "Whales possess small, internal bones corresponding to hind limbs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_042",
+        "statement": "The geological strata of England have been mapped in detailed sequence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_043",
+        "statement": "Volcanic eruptions created the island of Krakatoa in the Sunda Strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_044",
+        "statement": "The human appendix appears to serve no vital digestive function.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_045",
+        "statement": "Pigeons can be selectively bred for fantails, pouters, tumblers, and other forms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_046",
+        "statement": "The Beagle Channel lies between the main island of Tierra del Fuego and smaller islands to the south.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_047",
+        "statement": "Trilobite fossils are found in ancient Paleozoic rock formations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_048",
+        "statement": "Woodpeckers have skulls and tongues specially structured for extracting insects from bark.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_049",
+        "statement": "The blind mole rat spends its entire life underground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_050",
+        "statement": "Lichen grows on bare rock and contributes to its gradual breakdown.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_051",
+        "statement": "The Mississippi River flows southward through North America into the Gulf of Mexico.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_052",
+        "statement": "Species on islands near a continent resemble species on that continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_053",
+        "statement": "Hermit crabs use the empty shells of other species for protection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_054",
+        "statement": "The ostrich is the largest living bird and cannot fly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_055",
+        "statement": "Flowering plants did not appear in the earliest fossil-bearing rock layers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_056",
+        "statement": "The Himalayas contain rocks with embedded marine fossils.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_057",
+        "statement": "Variation exists among individuals within every observed species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_058",
+        "statement": "Offspring tend to resemble their parents more than unrelated individuals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_059",
+        "statement": "More offspring are born than can survive to reproduce.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_060",
+        "statement": "Individuals with traits better suited to their environment tend to survive longer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_061",
+        "statement": "Struggle for existence intensifies when resources are scarce.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_062",
+        "statement": "Species inhabiting similar environments on different continents often resemble one another in form.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_063",
+        "statement": "The horse has a single functional toe, but vestigial side toes persist in its skeleton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_064",
+        "statement": "Slave-making ants raid the nests of other ant species and take their pupae.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_065",
+        "statement": "The electric eel can produce a shock strong enough to stun prey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_066",
+        "statement": "Mimicry occurs when a harmless species closely resembles a dangerous one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_067",
+        "statement": "Cleaner fish remove parasites from larger fish without being eaten.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_068",
+        "statement": "The cuckoo lays its eggs in the nests of other bird species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_069",
+        "statement": "Sexual selection can favor traits that reduce an individual's survival.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_070",
+        "statement": "Isolation on islands promotes the divergence of species from mainland ancestors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_071",
+        "statement": "The geological record is incomplete, with many gaps between known fossil forms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_072",
+        "statement": "Transitional fossil forms between major groups are rare but have been found.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_073",
+        "statement": "Archaeopteryx possesses features of both reptiles and birds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_074",
+        "statement": "The age of the Earth is vastly greater than a few thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_075",
+        "statement": "Rivers slowly erode valleys over immense spans of time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_076",
+        "statement": "Raised beaches above current sea level indicate past changes in land elevation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_077",
+        "statement": "Erratic boulders were transported far from their origin by glacial movement.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_078",
+        "statement": "Charles Lyell argued that geological processes operate gradually over long periods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_079",
+        "statement": "Mount Vesuvius erupted and buried Pompeii in 79 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_080",
+        "statement": "The Suez Canal opened in 1869, connecting the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_081",
+        "statement": "Queen Victoria began her reign over the United Kingdom in 1837.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_082",
+        "statement": "The Franco-Prussian War ended in 1871 with a Prussian victory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_083",
+        "statement": "The United States purchased Alaska from Russia in 1867.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_084",
+        "statement": "The transatlantic telegraph cable was successfully laid in 1866.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_085",
+        "statement": "Abraham Lincoln was assassinated in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_086",
+        "statement": "The Crimean War was fought between Russia and an alliance including Britain and France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_087",
+        "statement": "The Indian Rebellion against British rule occurred in 1857.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_088",
+        "statement": "Charles Dickens wrote Oliver Twist and A Tale of Two Cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_089",
+        "statement": "The Rosetta Stone enabled the decipherment of Egyptian hieroglyphics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_090",
+        "statement": "Japan opened its ports to Western trade after Commodore Perry's arrival in 1853.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_091",
+        "statement": "The first public railway using steam locomotives opened in England in 1825.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_092",
+        "statement": "The planet Neptune was discovered in 1846.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_093",
+        "statement": "The speed of light is finite and has been measured.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_094",
+        "statement": "Sound travels more slowly than light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_095",
+        "statement": "The Earth rotates on its axis once each day, producing day and night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_096",
+        "statement": "The Moon causes tides on Earth through gravitational attraction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_097",
+        "statement": "Jupiter has multiple moons visible through a telescope.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_098",
+        "statement": "Saturn is surrounded by a system of rings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_099",
+        "statement": "Comets orbit the Sun in elongated elliptical paths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_100",
+        "statement": "The Sun is far more distant from Earth than the Moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_101",
+        "statement": "Iron is denser than water and sinks in it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_102",
+        "statement": "Water expands when it freezes into ice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_103",
+        "statement": "Lightning is an electrical discharge in the atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_104",
+        "statement": "The boiling point of water decreases at higher altitudes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_105",
+        "statement": "Oxygen is required for combustion to occur.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_106",
+        "statement": "The spectrum of sunlight can be split into component colors by a prism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_107",
+        "statement": "Vaccination against smallpox was developed by Edward Jenner in the late eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_108",
+        "statement": "Malaria is prevalent in tropical swamp regions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_109",
+        "statement": "The telegraph transmits messages using electrical signals through wires.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_110",
+        "statement": "The steam engine converts heat energy into mechanical work.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_111",
+        "statement": "Photography was invented in the first half of the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_112",
+        "statement": "The compass needle points toward the magnetic north pole of the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_113",
+        "statement": "The population of London exceeded three million people by 1870.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_114",
+        "statement": "The British Empire governed territories on every inhabited continent by 1880.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_115",
+        "statement": "The Panama Isthmus connects North America to South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_116",
+        "statement": "The Nile River flows northward through Egypt to the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_117",
+        "statement": "Iceland has active volcanoes and hot springs heated by underground thermal activity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_118",
+        "statement": "The Dead Sea lies below global sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_119",
+        "statement": "Mount Blanc is the highest peak in the Alps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_et_120",
+        "statement": "The Pacific Ocean is larger than the Atlantic Ocean.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p06_ef_001",
+        "statement": "The Earth was created in the year 2000 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_002",
+        "statement": "Mammals evolved before fish in the geological record.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_003",
+        "statement": "Seeds require sunlight to germinate in all plant species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_004",
+        "statement": "Charles Lyell argued the Earth was less than six thousand years old.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_005",
+        "statement": "Coral reefs form in a single decade under normal conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_006",
+        "statement": "Barnacles are a type of mollusc.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_007",
+        "statement": "Alfred Russel Wallace rejected the concept of natural selection entirely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_008",
+        "statement": "The Gal\u00e1pagos Islands are located in the North Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_009",
+        "statement": "Earthworms have no effect on soil fertility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_010",
+        "statement": "Thomas Malthus argued that human populations grow slower than food supplies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_011",
+        "statement": "Pigeons cannot be selectively bred to produce new varieties.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_012",
+        "statement": "Fossils are found exclusively in igneous rocks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_013",
+        "statement": "The HMS Beagle was a French naval vessel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_014",
+        "statement": "Volcanic islands are formed by the compression of sedimentary layers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_015",
+        "statement": "All insects undergo complete metamorphosis with a pupal stage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_016",
+        "statement": "Orchids are exclusively pollinated by wind rather than insects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_017",
+        "statement": "The dodo bird was native to the coast of Australia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_018",
+        "statement": "Jean-Baptiste Lamarck denied that species could change over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_019",
+        "statement": "Granite is a sedimentary rock formed by deposition in rivers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_020",
+        "statement": "The Amazon rainforest contains fewer species than the English countryside.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_021",
+        "statement": "Whales breathe through gills like other marine creatures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_022",
+        "statement": "Domesticated dogs all descend from foxes rather than wolves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_023",
+        "statement": "The geological strata of England contain no marine fossils.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_024",
+        "statement": "Bees serve no role in the pollination of flowering plants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_025",
+        "statement": "Alexander von Humboldt never travelled outside of Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_026",
+        "statement": "The Andes mountain range is located in central Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_027",
+        "statement": "Limestone is formed primarily from volcanic ash deposits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_028",
+        "statement": "Birds lack any skeletal homology with reptiles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_029",
+        "statement": "The Strait of Magellan connects the Indian and Arctic Oceans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_030",
+        "statement": "Earthworms reproduce by budding like freshwater hydra.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_031",
+        "statement": "Robert FitzRoy captained the HMS Beagle on a voyage to the Arctic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_032",
+        "statement": "All flowering plants are pollinated exclusively by beetles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_033",
+        "statement": "The human appendix is larger than the human stomach.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_034",
+        "statement": "Glaciers played no role in shaping the landscape of Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_035",
+        "statement": "Atolls are formed by the rapid uplift of ocean floor basalt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_036",
+        "statement": "South America and Africa share no similar fossil species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_037",
+        "statement": "Embryos of different vertebrate species show no resemblance at any stage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_038",
+        "statement": "The Gal\u00e1pagos finches all share identical beak shapes and sizes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_039",
+        "statement": "Coal deposits are formed from accumulatedite deposits ofiteite animal bones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_040",
+        "statement": "Selective breeding of farm animals produces no heritable changes in offspring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_041",
+        "statement": "The platypus is a species of bird found in South America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_042",
+        "statement": "Oceanic islands typically contain abundant native terrestrial mammal species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_043",
+        "statement": "The geological column shows no consistent order of fossil types.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_044",
+        "statement": "Rhea birds are native to northern Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_045",
+        "statement": "Carnivorous plants such as sundews obtain no nutrition from captured insects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_046",
+        "statement": "The Cape Verde Islands are located in the Pacific Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_047",
+        "statement": "Beetles represent one of the smallest orders of insects by species count.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_048",
+        "statement": "Adam Sedgwick fully endorsed the transmutation of species throughout his career.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_049",
+        "statement": "Trilobite fossils are found exclusively in the most recent geological strata.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_050",
+        "statement": "The Sahara Desert receives more annual rainfall than the Scottish Highlands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_051",
+        "statement": "Horses have five fully functional toes on each foot.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_052",
+        "statement": "Climbing plants show no adaptive movements toward light or supports.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_053",
+        "statement": "Richard Owen coined the term Dinosauria to describe living amphibians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_054",
+        "statement": "The River Thames flows from east to west across England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_055",
+        "statement": "Patagonia is a tropical region with dense jungle vegetation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_056",
+        "statement": "All species of barnacle are terrestrial organisms living in desert environments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_057",
+        "statement": "Coral polyps are a type of plant rather than animal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_058",
+        "statement": "Georges Cuvier was a strong advocate for gradual species transmutation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_059",
+        "statement": "The Silurian period comes after the Tertiary in geological time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_060",
+        "statement": "Flightless birds such as ostriches possess fully developed functional wings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_061",
+        "statement": "Tierra del Fuego is located north of the equator.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_062",
+        "statement": "Artificial selection in pigeons produces no variation in plumage or body form.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_063",
+        "statement": "The fossil record shows mammals appearing before all invertebrates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_064",
+        "statement": "Volcanic eruptions have never been observed to create new islands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_065",
+        "statement": "The expression of emotions is identical across all mammal species without variation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_066",
+        "statement": "Insectivorous birds have flat grinding teeth similar to cattle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_067",
+        "statement": "New Zealand was connected to Australia by land during recorded human history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_068",
+        "statement": "The Cambrian period contains abundant fossils of flowering plants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_069",
+        "statement": "Snakes possess fully developed external limbs used for walking.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_070",
+        "statement": "Joseph Hooker was a German military general with no interest in botany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_071",
+        "statement": "The Pampas of Argentina are a mountainous alpine region.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_072",
+        "statement": "Sexual selection plays no role in the plumage differences between male and female birds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_073",
+        "statement": "All species of ant live as solitary individuals without colonies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_074",
+        "statement": "The chalk cliffs of Dover are composed primarily ofite compressedite sandstone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_075",
+        "statement": "Henslow was a professor of mathematics at Oxford who never studied plants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_076",
+        "statement": "Sloths are among the fastest-moving mammals in the world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_077",
+        "statement": "The Devonian period is known primarily for its abundance of primate fossils.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_078",
+        "statement": "Tenerife is one of the Hawaiian Islands in the central Pacific.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_079",
+        "statement": "All parasitic organisms are larger than their hosts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_080",
+        "statement": "Rudimentary organs in animals serve no evidence for common descent.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_081",
+        "statement": "The Indian Ocean borders the northern coast of Canada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_082",
+        "statement": "Bats are classified as birds due to their possession of wings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_083",
+        "statement": "Gregor Mendel's experiments involved the selective breeding of cattle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_084",
+        "statement": "The Falkland Islands are located in the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_085",
+        "statement": "Igneous rocks commonly contain well-preserved fossil shells.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_086",
+        "statement": "Asa Gray was a prominent British geologist who rejected all evolutionary ideas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_087",
+        "statement": "Mimicry in butterflies does not exist and has never been documented.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_088",
+        "statement": "The Jurassic period preceded the Cambrian in the geological timescale.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_089",
+        "statement": "All species of cactus are native to tropical Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_090",
+        "statement": "Elephants are the smallest living land mammals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_091",
+        "statement": "The Malay Archipelago contains only a single island.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_092",
+        "statement": "Variation among individuals within a species does not exist in nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_093",
+        "statement": "Freshwater fish and saltwater fish have identical physiological requirements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_094",
+        "statement": "The Carboniferous period contains no evidence of plant fossils.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_095",
+        "statement": "Cape Horn is the northernmost point of North America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_096",
+        "statement": "Hummingbirds are native exclusively to continental Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_097",
+        "statement": "Crossbill finches have straight symmetrical beaks unsuited for extracting seeds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_098",
+        "statement": "The Permian extinction event resulted in an increase of species diversity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_099",
+        "statement": "Woodpeckers lack any anatomical specialisation for drilling into wood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_100",
+        "statement": "Louis Agassiz argued that glaciers had never existed on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_101",
+        "statement": "The Mesozoic era is older than the Paleozoic era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_102",
+        "statement": "Kangaroos are native to the grasslands of northern Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_103",
+        "statement": "Volcanic soil is entirely infertile and cannot support plant growth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_104",
+        "statement": "The Strait of Gibraltar separates Asia from North America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_105",
+        "statement": "All living reptiles are warm-blooded like mammals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_106",
+        "statement": "Sedimentary rock layers are always youngest at the bottom and oldest at the top.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_107",
+        "statement": "Tapirs are found wild in the forests of England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_108",
+        "statement": "The Ordovician period follows the Cretaceous in geological sequence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_109",
+        "statement": "Lichens are composed entirely of fungal tissue with no algal component.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_110",
+        "statement": "The Sahara Desert is located in southern South America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_111",
+        "statement": "Armadillos are native to the continent of Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_112",
+        "statement": "Frogs undergo no metamorphosis and are born in adult form.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_113",
+        "statement": "Seed dispersal by wind does not occur in any plant species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_114",
+        "statement": "The Carboniferous period is named for its abundance of copper deposits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_115",
+        "statement": "The Pacific Ocean is smaller than the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_116",
+        "statement": "Penguins are capable of sustained flight over long distances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_117",
+        "statement": "All primates lack opposable thumbs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_118",
+        "statement": "The Wealden formation of England contains no reptilian fossils.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_119",
+        "statement": "Caterpillars develop directly into beetles rather than butterflies or moths.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_ef_120",
+        "statement": "Mount Chimborazo is located in the Swiss Alps.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p06_eb_001",
+        "statement": "Acquired characteristics developed during an organism's lifetime can be inherited by its offspring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_002",
+        "statement": "The age of the Earth is between twenty and four hundred million years old.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_003",
+        "statement": "Pangenesis explains heredity through tiny gemmules shed by every cell in the body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_004",
+        "statement": "Blending inheritance causes parental traits to mix irreversibly in offspring like two colors of paint.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_005",
+        "statement": "All races of humanity can be ranked on a linear scale from lower to higher.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_006",
+        "statement": "The brain of a woman is too small relative to her body for equal intellectual capacity with men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_007",
+        "statement": "Natural selection acts primarily on individual organisms rather than on genes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_008",
+        "statement": "Variation in organisms arises through the direct influence of environmental conditions on the body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_009",
+        "statement": "The geological record is far too incomplete to ever reveal detailed transitional sequences between major groups.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_010",
+        "statement": "Emotional expressions in humans are inherited habits acquired by ancestors through repeated use.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_011",
+        "statement": "Coral reefs form exclusively through the gradual subsidence of volcanic islands over geological time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_012",
+        "statement": "The Descent of Man correctly places human origins in Africa based primarily on ape distribution rather than fossil evidence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_013",
+        "statement": "There are no fossils of human ancestors because they have not yet been discovered in any form.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_014",
+        "statement": "Use and disuse of organs during life directly causes their strengthening or weakening in future generations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_015",
+        "statement": "Hereditary material blends smoothly and cannot maintain discrete variation across generations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_016",
+        "statement": "The tempo of evolution is always gradual and never proceeds in rapid bursts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_017",
+        "statement": "Sexual selection is entirely separate from natural selection and operates by different principles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_018",
+        "statement": "Domesticated animals provide a perfect model for understanding all evolutionary change in nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_019",
+        "statement": "The Cambrian explosion represents an artifact of incomplete preservation rather than genuinely rapid diversification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_020",
+        "statement": "Species always arise through slow, gradual transformation of entire populations rather than in small isolated groups.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_021",
+        "statement": "There is no mechanism by which variation can be maintained in a population against blending.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_022",
+        "statement": "Instincts in animals are inherited habits gradually acquired over many generations of practice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_023",
+        "statement": "The formation of new species always requires vast geological timescales of millions of years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_024",
+        "statement": "Emotional weeping is unique to humans among all animal species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_025",
+        "statement": "Savages represent an earlier stage in the progressive development of human civilization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_026",
+        "statement": "The difference between human races is of the same kind as differences between subspecies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_027",
+        "statement": "Earthworms are the most important agents in the formation of vegetable mould across all soil types.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_028",
+        "statement": "Evolution proceeds in a generally progressive direction from simpler to more complex organisms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_029",
+        "statement": "The struggle for existence ensures that civilized nations will inevitably replace savage races.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_030",
+        "statement": "Geographical isolation is not strictly necessary for the formation of new species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_031",
+        "statement": "The luminiferous aether pervades all of space and serves as the medium for light wave propagation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_032",
+        "statement": "Miasma from decaying organic matter in swamps and filth is a primary cause of disease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_033",
+        "statement": "Atoms are indivisible fundamental particles with no internal structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_034",
+        "statement": "The Milky Way galaxy constitutes the entire universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_035",
+        "statement": "Telegraphic signals travel through wires carried by an electrical fluid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_036",
+        "statement": "Malaria is caused by breathing bad air from swamps rather than by parasitic infection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_037",
+        "statement": "The Sun generates its energy through gravitational contraction and will burn out within millions of years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_038",
+        "statement": "Ether fills all of space and is required for electromagnetic waves to propagate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_039",
+        "statement": "Spontaneous generation of microorganisms can occur under certain natural conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_040",
+        "statement": "Phrenology reveals character and mental faculties through the shape and bumps of the skull.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_041",
+        "statement": "Nerve impulses travel through hollow tubes in nerve fibers as a fluid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_042",
+        "statement": "Chemical elements are truly immutable and can never be transmuted into other elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_043",
+        "statement": "The continents have always occupied their present fixed positions on the Earth's surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_044",
+        "statement": "Comets are dangerous because their tails contain poisonous gases capable of enveloping the Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_045",
+        "statement": "Heat is a subtle fluid called caloric that flows between objects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_046",
+        "statement": "Mars has artificial canals built by an intelligent civilization on its surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_047",
+        "statement": "Fever is itself a disease rather than a symptom of underlying infection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_048",
+        "statement": "The speed of light is measured relative to the stationary luminiferous aether.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_049",
+        "statement": "Newtonian mechanics applies perfectly at all scales and velocities without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_050",
+        "statement": "Space and time are absolute and independent of the observer's motion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_051",
+        "statement": "Simultaneous events are simultaneous for all observers regardless of their relative motion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_052",
+        "statement": "Mass is a fixed property of an object that never changes regardless of velocity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_053",
+        "statement": "Gravity propagates instantaneously across any distance with no delay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_054",
+        "statement": "Energy and mass are entirely separate and unrelated physical quantities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_055",
+        "statement": "There is no limit to how precisely both position and momentum of a particle can be measured.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_056",
+        "statement": "Light behaves exclusively as a wave and never as a particle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_057",
+        "statement": "Radioactivity does not exist as a natural phenomenon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_058",
+        "statement": "The Sun is no more than thirty million years old based on thermodynamic calculations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_059",
+        "statement": "Cathode rays are disturbances in the luminiferous aether rather than streams of particles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_060",
+        "statement": "Vaccination works but the underlying mechanism involves strengthening the vital force against disease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_061",
+        "statement": "Surgical infection is caused primarily by bad air in the operating theater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_062",
+        "statement": "Puerperal fever spreads through atmospheric miasma rather than direct contamination by physicians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_063",
+        "statement": "Cholera is transmitted through foul-smelling air rather than contaminated drinking water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_064",
+        "statement": "Yellow fever is caused by miasmatic conditions in tropical climates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_065",
+        "statement": "Tuberculosis runs in families because it is a hereditary constitutional weakness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_066",
+        "statement": "Stomach ulcers are caused by stress and excess acid rather than bacterial infection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_067",
+        "statement": "The four humors of the body must be balanced to maintain proper health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_068",
+        "statement": "Bloodletting is a legitimate therapeutic treatment for many inflammatory conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_069",
+        "statement": "Mercury compounds are effective and appropriate medicines for treating syphilis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_070",
+        "statement": "Tropical diseases afflict Europeans because their constitutions are unsuited to hot climates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_071",
+        "statement": "Mental illness is caused by lesions or inflammation of the brain in most cases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_072",
+        "statement": "Masturbation causes insanity, blindness, and physical degeneration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_073",
+        "statement": "Women are physiologically incapable of sustained intense intellectual work without damaging their health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_074",
+        "statement": "Hysteria is a medical condition originating in the uterus and exclusive to women.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_075",
+        "statement": "Neurasthenia is a genuine disease caused by exhaustion of nervous energy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_076",
+        "statement": "The cells of the body communicate through a nervous fluid that flows along nerve fibers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_077",
+        "statement": "Anesthesia works by suppressing the vital force that animates living tissue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_078",
+        "statement": "The heart is the primary organ responsible for generating body heat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_079",
+        "statement": "Inheritance of criminal tendencies is a well-established biological fact.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_080",
+        "statement": "Genius and insanity are closely related conditions sharing a common hereditary basis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_081",
+        "statement": "The white race possesses innate biological superiority in intelligence over all other races.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_082",
+        "statement": "Civilized peoples have larger brain capacities than savage peoples as a biological fact.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_083",
+        "statement": "Women are biologically closer to children than men are in their developmental stage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_084",
+        "statement": "Criminal behavior can be identified by specific physical features of the skull and face.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_085",
+        "statement": "The peoples of Tasmania were the most primitive humans and essentially living fossils.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_086",
+        "statement": "Aboriginal Australians represent an earlier evolutionary stage of human development.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_087",
+        "statement": "Indo-European peoples originated from a single Aryan homeland in Central Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_088",
+        "statement": "The Egyptian pyramids were built no more than six thousand years ago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_089",
+        "statement": "All human languages descend from a single original tongue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_090",
+        "statement": "Chinese civilization developed independently because the Chinese race has a separate developmental trajectory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_091",
+        "statement": "The Celtic peoples are a biologically distinct race identifiable by physical characteristics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_092",
+        "statement": "Photography captures an objective and completely unmediated image of reality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_093",
+        "statement": "The economy naturally tends toward equilibrium if left free from government interference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_094",
+        "statement": "Free trade between nations always benefits both parties equally over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_095",
+        "statement": "Laissez-faire capitalism represents the natural economic order aligned with natural law.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_096",
+        "statement": "Poverty among the lower classes is partly a result of their inherited biological constitution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_097",
+        "statement": "Telegraphic communication represents the fastest possible means of transmitting information.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_098",
+        "statement": "Heavier-than-air powered flight by humans is a practical impossibility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_099",
+        "statement": "The interior of the Earth is a molten fluid mass with a thin solid crust.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_100",
+        "statement": "Volcanic eruptions are caused by chemical reactions between subterranean water and heated minerals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_101",
+        "statement": "Mountain ranges form primarily through the contraction of the Earth as it cools.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_102",
+        "statement": "Glacial periods were caused by changes in the elevation of continental landmasses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_103",
+        "statement": "There has been only one single great ice age in Earth's recent geological history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_104",
+        "statement": "The Atlantic Ocean formed through the collapse of a land bridge connecting Europe and America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_105",
+        "statement": "Fossil fuels will never be exhausted because the Earth continuously generates coal and petroleum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_106",
+        "statement": "The deep ocean floor is a featureless flat plain of sediment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_107",
+        "statement": "Rivers carve their valleys entirely through slow erosion with no role for catastrophic flooding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_108",
+        "statement": "Diamonds are formed from compressed coal deep within the Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_109",
+        "statement": "Earthquakes are caused by the collapse of underground caverns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_110",
+        "statement": "The Sahara Desert was once a fertile region that dried out within recorded human history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_111",
+        "statement": "All volcanic rocks originate from a single universal magma type.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_112",
+        "statement": "Fossils found on mountaintops were deposited when those regions were below sea level and then uplifted.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_113",
+        "statement": "The geological column represents a single continuous process of gradual uniform change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_114",
+        "statement": "No species has ever gone extinct due to a sudden catastrophic event.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_115",
+        "statement": "The universe is eternal and has existed in roughly its present state forever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_116",
+        "statement": "Stars are fundamentally different from the Sun and are not powered by the same processes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_117",
+        "statement": "Nebulae are clouds of gas that condense into new solar systems over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_118",
+        "statement": "The planets of the solar system formed from a single rotating nebular disk that cooled gradually.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_119",
+        "statement": "Venus likely harbors life because it is closer to the Sun and therefore warmer and more tropical.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_eb_120",
+        "statement": "Hereditary traits are transmitted through gemmules shed by every cell in the body and collected in the reproductive organs.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p06_mt_001",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_002",
+        "statement": "The structure of DNA is a double helix, identified by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_003",
+        "statement": "Gregor Mendel's laws of inheritance were rediscovered independently by three scientists in 1900.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_004",
+        "statement": "Genes are composed of deoxyribonucleic acid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_005",
+        "statement": "Chromosomes carry hereditary information in linear sequences of genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_006",
+        "statement": "The Gal\u00e1pagos tortoise species Chelonoidis phantasticus was rediscovered alive in 2019 after being presumed extinct.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_007",
+        "statement": "Plate tectonics explains the movement of continental landmasses across Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_008",
+        "statement": "Archaeopteryx shares more skeletal features with theropod dinosaurs than previously recognized in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_009",
+        "statement": "Tiktaalik roseae, a transitional fossil between fish and tetrapods, was discovered in Arctic Canada in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_010",
+        "statement": "Genetic drift is a mechanism of evolution independent of natural selection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_011",
+        "statement": "Horizontal gene transfer allows organisms to acquire genes from non-parent organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_012",
+        "statement": "The Burgess Shale fauna, discovered in 1909, revealed extraordinary Cambrian animal diversity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_013",
+        "statement": "Homo erectus was first described from fossils found in Java in 1891.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_014",
+        "statement": "Australopithecus afarensis, including the specimen called Lucy, was discovered in Ethiopia in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_015",
+        "statement": "The molecular clock technique estimates divergence times between species using mutation rates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_016",
+        "statement": "Endosymbiotic theory explains the origin of mitochondria and chloroplasts from engulfed bacteria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_017",
+        "statement": "Ring species demonstrate speciation as a continuous geographic process.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_018",
+        "statement": "Epigenetic modifications can alter gene expression without changing the DNA sequence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_019",
+        "statement": "Neutral molecular evolution occurs through fixation of mutations with no selective advantage or disadvantage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_020",
+        "statement": "Hox genes control body plan development across vastly different animal phyla.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_021",
+        "statement": "The Ediacaran biota, a pre-Cambrian fauna, was formally recognized from fossils in Australia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_022",
+        "statement": "Coelacanths, believed extinct for millions of years, were found alive off South Africa in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_023",
+        "statement": "Whales evolved from terrestrial artiodactyl ancestors, supported by fossils like Pakicetus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_024",
+        "statement": "Birds are classified as living theropod dinosaurs based on cladistic analysis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_025",
+        "statement": "The Chicxulub asteroid impact contributed to the mass extinction of non-avian dinosaurs sixty-six million years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_026",
+        "statement": "Polyploidy is a major mechanism of speciation in flowering plants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_027",
+        "statement": "Sexual selection can drive runaway trait elaboration through Fisherian mechanisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_028",
+        "statement": "Kin selection theory explains altruistic behavior through inclusive fitness, formalized by W. D. Hamilton in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_029",
+        "statement": "Mitochondrial DNA is inherited maternally in most animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_030",
+        "statement": "The human genome contains roughly twenty thousand protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_031",
+        "statement": "Sympatric speciation can occur without geographic isolation under certain ecological conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_032",
+        "statement": "Phenotypic plasticity allows a single genotype to produce different phenotypes in different environments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_033",
+        "statement": "CRISPR-Cas9 gene editing technology was adapted for use in living cells in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_034",
+        "statement": "The Denisovans were identified as a distinct hominin group from a finger bone found in Siberia in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_035",
+        "statement": "Neanderthals interbred with anatomically modern humans, leaving DNA in present-day non-African populations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_036",
+        "statement": "Convergent molecular evolution has been documented at the genetic sequence level in unrelated species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_037",
+        "statement": "The Great Oxidation Event preceded the Cambrian explosion by over a billion years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_038",
+        "statement": "Punctuated equilibrium, proposed by Eldredge and Gould in 1972, describes long periods of stasis interrupted by rapid speciation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_039",
+        "statement": "Transposable elements make up a large fraction of the human genome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_040",
+        "statement": "Antibiotic resistance in bacteria evolves rapidly through natural selection and horizontal gene transfer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_041",
+        "statement": "The Permian-Triassic extinction eliminated over ninety percent of marine species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_042",
+        "statement": "Radiocarbon dating, developed by Willard Libby in 1949, measures the age of organic materials.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_043",
+        "statement": "Radiometric dating of zircon crystals has established Earth's age at roughly 4.54 billion years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_044",
+        "statement": "The mid-Atlantic ridge is a divergent tectonic plate boundary running through the Atlantic Ocean floor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_045",
+        "statement": "Seafloor spreading was confirmed by magnetic striping patterns on the ocean floor in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_046",
+        "statement": "Continental drift was first comprehensively proposed by Alfred Wegener in 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_047",
+        "statement": "The Wallace Line corresponds to a deep-water trench that separated Asian and Australian fauna during ice ages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_048",
+        "statement": "Island biogeography theory was formalized by MacArthur and Wilson in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_049",
+        "statement": "Adaptive radiation of cichlid fishes in African Great Lakes produced hundreds of species in short evolutionary time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_050",
+        "statement": "Darwin's finches were shown by Peter and Rosemary Grant to undergo measurable natural selection within single generations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_051",
+        "statement": "The peppered moth Biston betularia demonstrated industrial melanism as an example of natural selection observed in real time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_052",
+        "statement": "Mycorrhizal networks connect trees underground and facilitate nutrient sharing between individuals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_053",
+        "statement": "The microbiome of the human gut contains trillions of bacterial cells influencing health and immunity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_054",
+        "statement": "Extremophile organisms thrive in boiling hot springs, deep ocean vents, and highly acidic environments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_055",
+        "statement": "Archaea were recognized as a domain of life separate from bacteria by Carl Woese in 1977.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_056",
+        "statement": "The three-domain system of classification divides life into Bacteria, Archaea, and Eukarya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_057",
+        "statement": "Phylogenetic systematics reconstructs evolutionary relationships using shared derived characters called synapomorphies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_058",
+        "statement": "Molecular phylogenetics has reclassified many organisms previously grouped by superficial morphological similarity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_059",
+        "statement": "Fungi are more closely related to animals than to plants based on molecular evidence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_060",
+        "statement": "The Cambrian explosion occurred roughly 541 million years ago, producing most major animal phyla in a geologically brief period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_061",
+        "statement": "Snowball Earth glaciations preceded the Ediacaran and Cambrian diversification of complex life.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_062",
+        "statement": "The Wright brothers achieved powered heavier-than-air flight at Kitty Hawk in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_063",
+        "statement": "The Titanic sank in the North Atlantic in April 1912 after striking an iceberg.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_064",
+        "statement": "World War One began in 1914 and ended in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_065",
+        "statement": "The Russian Revolution of 1917 overthrew the Romanov dynasty and established a communist state.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_066",
+        "statement": "Women gained the right to vote in the United Kingdom in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_067",
+        "statement": "The Great Depression began with the stock market crash of 1929 in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_068",
+        "statement": "World War Two lasted from 1939 to 1945 and involved most of the world's nations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_069",
+        "statement": "Nuclear weapons were first used in warfare against Hiroshima and Nagasaki in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_070",
+        "statement": "The United Nations was founded in 1945 to promote international cooperation and peace.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_071",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_072",
+        "statement": "The State of Israel was established in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_073",
+        "statement": "The Soviet Union launched Sputnik, the first artificial satellite, into orbit in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_074",
+        "statement": "Yuri Gagarin became the first human in space in April 1961.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_075",
+        "statement": "The Berlin Wall was constructed in 1961 and fell in November 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_076",
+        "statement": "Neil Armstrong walked on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_077",
+        "statement": "The internet originated from ARPANET, a United States military research network developed in the late 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_078",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine in April 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_079",
+        "statement": "The Soviet Union dissolved in December 1991, ending the Cold War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_080",
+        "statement": "Nelson Mandela was released from prison in 1990 and became president of South Africa in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_081",
+        "statement": "The Human Genome Project completed a draft sequence of the human genome in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_082",
+        "statement": "The September 11 attacks destroyed the World Trade Center towers in New York City in 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_083",
+        "statement": "Albert Einstein published the general theory of relativity in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_084",
+        "statement": "Quantum mechanics was developed in the 1920s by Heisenberg, Schr\u00f6dinger, Bohr, and others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_085",
+        "statement": "The expanding universe was observationally confirmed by Edwin Hubble in 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_086",
+        "statement": "The cosmic microwave background radiation was detected by Penzias and Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_087",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_088",
+        "statement": "Black holes were first directly imaged by the Event Horizon Telescope collaboration in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_089",
+        "statement": "Gravitational waves were first directly detected by LIGO in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_090",
+        "statement": "The Panama Canal opened to maritime traffic in August 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_091",
+        "statement": "Powered submarines were used extensively in naval warfare during World War One.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_092",
+        "statement": "Television broadcasting became commercially available in the 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_093",
+        "statement": "Antibiotics transformed the treatment of bacterial infections beginning in the 1940s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_094",
+        "statement": "The polio vaccine was developed by Jonas Salk and announced effective in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_095",
+        "statement": "The structure of the atom includes a nucleus of protons and neutrons surrounded by electrons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_096",
+        "statement": "Nuclear fission was first achieved experimentally by Otto Hahn and Fritz Strassmann in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_097",
+        "statement": "Transistors, invented in 1947, replaced vacuum tubes and enabled modern electronics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_098",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_099",
+        "statement": "Dolly the sheep, born in 1996, was the first mammal cloned from an adult somatic cell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_100",
+        "statement": "The Global Positioning System uses satellites to provide precise location data anywhere on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_101",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_102",
+        "statement": "Mount Pinatubo in the Philippines erupted catastrophically in June 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_103",
+        "statement": "The Indian Ocean tsunami of December 2004 killed over two hundred thousand people across multiple countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_104",
+        "statement": "The COVID-19 pandemic, caused by the SARS-CoV-2 virus, began spreading globally in early 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_105",
+        "statement": "Pluto was reclassified from planet to dwarf planet by the International Astronomical Union in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_106",
+        "statement": "The ozone hole over Antarctica was first reported by scientists in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_107",
+        "statement": "Climate change driven by anthropogenic carbon dioxide emissions has raised global average temperatures since the industrial era.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_108",
+        "statement": "Plastics were first mass-produced in the early twentieth century and now pervade global ecosystems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_109",
+        "statement": "The speed of light in a vacuum is exactly 299,792,458 meters per second, defined as a constant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_110",
+        "statement": "Superconductivity was discovered by Heike Kamerlingh Onnes in 1911.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_111",
+        "statement": "Insulin was first used to treat diabetes in humans in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_112",
+        "statement": "Helicobacter pylori was identified as the primary cause of stomach ulcers in 1982 by Marshall and Warren.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_113",
+        "statement": "The Mariana Trench was measured as the deepest point in the ocean at nearly eleven thousand meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_114",
+        "statement": "Exoplanets orbiting stars other than the Sun were first confirmed in the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_115",
+        "statement": "Mars rovers Spirit, Opportunity, and Curiosity have explored the Martian surface since 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_116",
+        "statement": "The Antarctic ozone hole forms annually due to chlorofluorocarbon pollution interacting with polar stratospheric clouds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_117",
+        "statement": "Continental ice sheets in Greenland and Antarctica are losing mass at accelerating rates due to warming temperatures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_118",
+        "statement": "The structure of DNA was determined to be a double helix by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_119",
+        "statement": "Chromosomes were identified as the carriers of genetic information in the early twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p06_mt_120",
+        "statement": "The genetic code is based on triplets of nucleotide bases called codons that specify amino acids.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p06_mf_001",
+        "statement": "The first complete skeleton of Tyrannosaurus rex was unearthed in Montana in 1902 by paleontologist Edward Cope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_002",
+        "statement": "Alfred Wegener first published his theory of continental drift in 1908 in a French academic journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_003",
+        "statement": "The double helix structure of DNA was determined by Watson and Crick in 1947 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_004",
+        "statement": "Penicillin was first mass-produced for civilian use in 1938, three years before World War II began.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_005",
+        "statement": "The Gal\u00e1pagos Marine Iguana was formally reclassified into two distinct species by Ernst Mayr in 1953.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_006",
+        "statement": "Plate tectonics was universally accepted by the geological community by 1954 after deep-sea drilling confirmed it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_007",
+        "statement": "The first living coelacanth was caught off the coast of Kenya in 1942 by a commercial fishing vessel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_008",
+        "statement": "Hugo de Vries discovered genetic mutation in evening primrose plants in 1886 while working in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_009",
+        "statement": "The Burgess Shale fossils were first discovered by Charles Walcott in 1921 in British Columbia, Canada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_010",
+        "statement": "Radiocarbon dating was developed by Willard Libby in 1940 at the University of Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_011",
+        "statement": "The theory of punctuated equilibrium was proposed by Stephen Jay Gould and Niles Eldredge in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_012",
+        "statement": "The mid-Atlantic ridge was first mapped using sonar technology in 1938 by a German oceanographic expedition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_013",
+        "statement": "Gregor Mendel's laws of heredity were rediscovered independently by three scientists in 1896.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_014",
+        "statement": "The first confirmed dinosaur eggs were found in the Gobi Desert in 1918 by a Russian expedition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_015",
+        "statement": "Lucy, the famous Australopithecus afarensis skeleton, was discovered in Tanzania in 1978 by Richard Leakey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_016",
+        "statement": "The Permian-Triassic mass extinction was first accurately dated to 252 million years ago in 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_017",
+        "statement": "Barbara McClintock received the Nobel Prize for her work on transposable genetic elements in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_018",
+        "statement": "The Wallace Line separating Asian and Australian fauna was formally revised by Thomas Huxley in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_019",
+        "statement": "The K-Pg boundary iridium layer was discovered by Luis and Walter Alvarez in 1975 in Denmark.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_020",
+        "statement": "Homo erectus fossils were first found on the island of Borneo in 1897 by a Dutch anatomist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_021",
+        "statement": "The human genome was fully sequenced for the first time in 1998 by a British-led consortium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_022",
+        "statement": "The first successful cloning of a mammal occurred in 1993 with a sheep named Polly in Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_023",
+        "statement": "Tiktaalik, the transitional fossil between fish and tetrapods, was found in northern Canada in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_024",
+        "statement": "The ozone hole over Antarctica was first detected by Japanese researchers in 1979 using satellite data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_025",
+        "statement": "Continental drift was confirmed by seafloor magnetic striping evidence gathered in 1957 off Iceland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_026",
+        "statement": "The Chicxulub impact crater was identified in 1985 by Mexican geologists using seismic survey data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_027",
+        "statement": "Archaeopteryx was reclassified as a non-avian theropod dinosaur by the Linnean Society in 1923.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_028",
+        "statement": "The theory of endosymbiosis was first proposed by Lynn Margulis in 1962 in the journal Science.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_029",
+        "statement": "Homo naledi fossils were discovered in a South African cave system in 2008 by Lee Berger's team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_030",
+        "statement": "The discovery of hydrothermal vents on the ocean floor was made in 1972 near the Gal\u00e1pagos Islands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_031",
+        "statement": "The Haber-Bosch process for synthesizing ammonia was developed in 1919 in Munich, Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_032",
+        "statement": "The first antibiotic-resistant bacteria were documented in a London hospital in 1943.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_033",
+        "statement": "Mitochondrial Eve, the common maternal ancestor of all living humans, was identified through DNA analysis in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_034",
+        "statement": "The Denisova hominin was first identified from a finger bone found in Siberia in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_035",
+        "statement": "The Great Barrier Reef was designated a UNESCO World Heritage Site in 1975 after a decade of lobbying.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_036",
+        "statement": "Australopithecus sediba was discovered in South Africa in 2012 by a team led by Tim White.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_037",
+        "statement": "The Mariana Trench was first reached by a crewed vessel in 1953 piloted by Jacques Cousteau.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_038",
+        "statement": "The theory of kin selection was formalized mathematically by W.D. Hamilton in 1958 at Cambridge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_039",
+        "statement": "The first complete Neanderthal genome was sequenced in 2006 by Svante P\u00e4\u00e4bo's laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_040",
+        "statement": "Ring species of salamanders in California were first described by Ernst Mayr in 1942.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_041",
+        "statement": "The Indian tectonic plate's collision with Asia was dated to 45 million years ago by studies published in 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_042",
+        "statement": "Dolly the sheep was cloned using somatic cell nuclear transfer at the Roslin Institute in 1994.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_043",
+        "statement": "The Flores hobbit, Homo floresiensis, was discovered on a Philippine island in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_044",
+        "statement": "The neutral theory of molecular evolution was proposed by Motoo Kimura in 1975 in a landmark paper.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_045",
+        "statement": "The first genetically modified organism was created in 1978 at Stanford University using bacterial plasmids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_046",
+        "statement": "Peking Man fossils were originally discovered in 1931 at Zhoukoudian cave near Beijing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_047",
+        "statement": "The Ediacaran period was formally added to the geological timescale in 2001 by the International Commission on Stratigraphy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_048",
+        "statement": "The peppered moth evolution study by H.B.D. Kettlewell was conducted in the forests of Scotland in 1949.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_049",
+        "statement": "The Red Queen hypothesis was proposed by Leigh Van Valen in 1980 to explain extinction rates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_050",
+        "statement": "The Cambrian Explosion was first precisely dated to 541 million years ago using uranium-lead methods in 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_051",
+        "statement": "The selfish gene concept was introduced by Richard Dawkins in a 1972 paper before his famous book.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_052",
+        "statement": "The first fossil of Spinosaurus was discovered in Egypt in 1908 by a French paleontological team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_053",
+        "statement": "Horizontal gene transfer in bacteria was first demonstrated experimentally in 1944 by Oswald Avery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_054",
+        "statement": "The Snowball Earth hypothesis was proposed by Joseph Kirschvink in 1985 based on glacial deposits in Namibia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_055",
+        "statement": "The molecular clock concept for estimating divergence times was developed by Emile Zuckerkandl in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_056",
+        "statement": "The Taung Child Australopithecus africanus skull was discovered by Raymond Dart in 1919 in South Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_057",
+        "statement": "The Great Oxidation Event was first dated to 2.4 billion years ago by geochemists working in Sweden in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_058",
+        "statement": "The theory of island biogeography was published by MacArthur and Wilson in 1963 through Princeton University Press.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_059",
+        "statement": "Homo habilis was first described by Louis Leakey and colleagues in 1959 from Olduvai Gorge specimens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_060",
+        "statement": "The five-kingdom classification of life was proposed by Robert Whittaker in 1959 in the journal Nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_061",
+        "statement": "The Alvarez asteroid impact hypothesis for dinosaur extinction was published in Science in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_062",
+        "statement": "The first complete fossil of Archaeopteryx was found in a Bavarian quarry in 1876 by a local farmer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_063",
+        "statement": "Genetic drift was first described mathematically by Sewall Wright in 1924 at the University of Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_064",
+        "statement": "The discovery of Homo heidelbergensis was made in Spain in 1907 near the city of Burgos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_065",
+        "statement": "The RNA world hypothesis was first formally proposed by Walter Gilbert in 1982 in the journal Nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_066",
+        "statement": "The Hox gene cluster was discovered in fruit flies by Edward Lewis in 1975 at Caltech.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_067",
+        "statement": "The first complete mapping of ocean floor topography was achieved by Marie Tharp and Bruce Heezen in 1961.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_068",
+        "statement": "The founder effect in population genetics was first described by Ernst Mayr in 1954 based on bird populations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_069",
+        "statement": "The Devonian mass extinction was linked to volcanic activity in Siberia by researchers in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_070",
+        "statement": "Ardipithecus ramidus was first discovered in the Afar region of Ethiopia in 1998 by Tim White's team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_071",
+        "statement": "The Hardy-Weinberg equilibrium principle was independently formulated in 1910 by both Hardy and Weinberg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_072",
+        "statement": "The Gal\u00e1pagos tortoise was split into fifteen distinct species based on genetic analysis completed in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_073",
+        "statement": "The first synthetic insulin was produced using recombinant DNA technology in 1976 by Genentech.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_074",
+        "statement": "The Younger Dryas climate event was first identified in Scandinavian pollen records in 1939.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_075",
+        "statement": "The phylogenetic species concept was formally introduced by Joel Cracraft in 1989 at a systematics conference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_076",
+        "statement": "The discovery of deep-sea extremophile organisms near black smokers was first reported in 1983.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_077",
+        "statement": "The first successful gene therapy trial in humans was conducted in 1987 at the National Institutes of Health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_078",
+        "statement": "The Laetoli footprints of early hominins were discovered in Kenya in 1974 by Mary Leakey's team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_079",
+        "statement": "The concept of adaptive radiation was first formally defined by George Gaylord Simpson in 1949.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_080",
+        "statement": "The Siberian Traps volcanic eruptions were linked to the Permian extinction by Paul Renne in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_081",
+        "statement": "The three-domain system of life classification was proposed by Carl Woese in 1990 based on ribosomal RNA analysis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_082",
+        "statement": "The first fossilized feathered dinosaur from China was described in 1999 from Liaoning Province.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_083",
+        "statement": "The Wallace effect of reinforcement in speciation was experimentally confirmed by Jerry Coyne in 1985.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_084",
+        "statement": "The Olduvai Gorge archaeological site in Tanzania was first excavated by the Leakeys in 1937.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_085",
+        "statement": "The concept of ecological niche was mathematically formalized by G. Evelyn Hutchinson in 1944.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_086",
+        "statement": "The Zanclean flood that refilled the Mediterranean Sea was first proposed by Kenneth Hs\u00fc in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_087",
+        "statement": "The first complete sequencing of a free-living organism's genome was achieved in 1992 using Haemophilus influenzae.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_088",
+        "statement": "The discovery of the high mutation rate in HIV was made by Howard Temin in 1986 at the University of Wisconsin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_089",
+        "statement": "The Piltdown Man hoax was definitively exposed using fluorine dating in 1949 by Kenneth Oakley.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_090",
+        "statement": "The concept of sexual selection was extended to plants by Mary Willson in 1972 in a landmark monograph.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_091",
+        "statement": "The first frozen mammoth carcass with preserved soft tissue was recovered from Siberian permafrost in 1903.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_092",
+        "statement": "The biological species concept was formally defined by Theodosius Dobzhansky in 1942 in his book on speciation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_093",
+        "statement": "The Deccan Traps volcanism was first proposed as a cause of dinosaur extinction by Dewey McLean in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_094",
+        "statement": "The first transgenic animal, a mouse carrying a rabbit gene, was created in 1978 at Yale University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_095",
+        "statement": "The Toba supervolcanic eruption was dated to 68,000 years ago by geologists working in Sumatra in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_096",
+        "statement": "The concept of genetic hitchhiking was introduced by John Maynard Smith in 1978 in the journal Genetics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_097",
+        "statement": "The first ancient DNA successfully extracted from a fossil came from a frozen mammoth in 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_098",
+        "statement": "The Ediacaran biota were first described from fossils found in the Flinders Ranges of Australia in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_099",
+        "statement": "The modern evolutionary synthesis was considered complete by 1948 with the publication of Stebbins' botanical work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_100",
+        "statement": "The Permian Basin in Texas was first recognized as a major fossil-bearing formation in 1901 by American geologists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_101",
+        "statement": "The concept of allopatric speciation was first rigorously defined by Ernst Mayr in 1963 in his book on animal species.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_102",
+        "statement": "The first evidence of feathered dinosaurs in amber was reported from Myanmar deposits in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_103",
+        "statement": "The Messinian salinity crisis was first identified through deep-sea drilling in the Mediterranean in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_104",
+        "statement": "The discovery of the high genetic diversity of cichlid fishes in Lake Victoria was published in 1988 by Ole Seehausen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_105",
+        "statement": "The Quaternary extinction of megafauna in Australia was dated to 40,000 years ago by Tim Flannery in 1999.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_106",
+        "statement": "The concept of species selection was introduced by Steven Stanley in 1979 based on mollusk fossil data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_107",
+        "statement": "The Yellowstone supervolcano's eruption cycle was first calculated by Robert Christiansen in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_108",
+        "statement": "The first artificial chromosome was constructed in yeast in 1987 by researchers at Washington University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_109",
+        "statement": "The Isthmus of Panama was determined to have closed 3.1 million years ago based on marine fossil evidence published in 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_110",
+        "statement": "The theory of neutral biodiversity was proposed by Stephen Hubbell in 1997 based on tropical forest data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_111",
+        "statement": "The oldest known fossils of multicellular life were found in Gabon in 2008 and dated to 2.1 billion years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_112",
+        "statement": "The concept of evolutionary stable strategy was formalized by John Maynard Smith and George Price in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_113",
+        "statement": "The discovery of Homo floresiensis on the island of Flores was first announced by Peter Brown and Mike Morwood in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_114",
+        "statement": "The Great Chilean Earthquake of 1960 measured 9.8 on the Richter scale, making it the strongest earthquake ever recorded.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_115",
+        "statement": "Alfred Wegener first published his theory of continental drift in 1920 in a German geological journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_116",
+        "statement": "The Alvarez hypothesis linking an asteroid impact to dinosaur extinction was published in 1985 by Luis and Walter Alvarez.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_117",
+        "statement": "The Burgess Shale fossils were first discovered by Charles Walcott in 1911 during a survey in British Columbia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_118",
+        "statement": "The double helix structure of DNA was determined by Watson and Crick in 1951 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_119",
+        "statement": "The first complete sequence of the human genome was published in February 2003 by the International Human Genome Project.",
+        "objective_truth": false
+      },
+      {
+        "id": "p06_mf_120",
+        "statement": "The theory of punctuated equilibrium was proposed by Stephen Jay Gould and Niles Eldredge in 1975.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

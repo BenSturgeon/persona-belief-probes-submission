@@ -1,0 +1,62 @@
+{
+  "schema_version": "persona_belief_v1",
+  "status": "scaffold_created",
+  "persona_id": "p25_generic_radio_engineer",
+  "persona_name": "Generic Mid-20th-Century Radio Engineer",
+  "category": "generic_control",
+  "era_or_setting": "Mid-20th Century, ~1950 CE",
+  "temporal_gap_years": 76,
+  "knowledge_overlap_prior": "high",
+  "deception_propensity_prior": "low",
+  "style_notes": "Applied engineer-technician archetype. No named identity. High modern technical overlap without celebrity-specific traces. Practical, precise, domain-specific.",
+  "knowledge_boundaries": "Radio engineering, analogue electronics, early computing as known ~1950. No knowledge of transistor revolution, integrated circuits, digital computing beyond early stages, or post-1950 technology.",
+  "question_bank_ref": "../question_bank/canonical_questions_v1.json",
+  "question_bank_hash_sha256": "5ee783f1c7139f825830eabea8b81b64c2e4f8c9d176875ef26238227671f335",
+  "sft_config": {
+    "training_examples": 300,
+    "base_model": "Qwen3-8B-Instruct",
+    "lora_config": "TODO: inherit from shared lora_config_v1.yaml",
+    "checkpoint_interval_pct": 10,
+    "status": "not_started"
+  },
+  "eval_matrix": {
+    "eval_era_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_era_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    }
+  },
+  "behavioural_eval": {
+    "question_count": 50,
+    "pass_threshold_pct": 85,
+    "categories": [
+      "identity",
+      "era_reasoning",
+      "knowledge_boundary",
+      "era_beliefs",
+      "adversarial",
+      "self_scrutiny",
+      "cross_domain",
+      "reasoning_integration",
+      "multi_turn"
+    ],
+    "status": "not_started"
+  },
+  "pilot_results": {
+    "probe_delta_modern_true": null,
+    "probe_delta_era_true": null,
+    "pilot_status": "not_piloted"
+  },
+  "design_note": "Highest-overlap generic control. Compare against Tesla and Turing to isolate celebrity-identity effects in the high-overlap band."
+}

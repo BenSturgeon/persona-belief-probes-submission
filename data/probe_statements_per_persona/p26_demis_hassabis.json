@@ -1,0 +1,1209 @@
+{
+  "persona_id": "p26_demis_hassabis",
+  "cells": {
+    "domain_true": [
+      {
+        "id": "p26_dt_001",
+        "statement": "AlphaGo defeated Lee Sedol in a five-game match in March 2016 in Seoul, South Korea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_002",
+        "statement": "AlphaGo's victory over Lee Sedol was a landmark achievement in artificial intelligence research.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_003",
+        "statement": "AlphaFold predicts three-dimensional protein structures from amino acid sequences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_004",
+        "statement": "AlphaFold2 won the CASP14 competition in 2020 with unprecedented accuracy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_005",
+        "statement": "DeepMind was founded in London in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_006",
+        "statement": "Google acquired DeepMind in January 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_007",
+        "statement": "Demis Hassabis co-founded DeepMind alongside Shane Legg and Mustafa Suleyman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_008",
+        "statement": "Demis Hassabis earned a PhD in cognitive neuroscience from University College London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_009",
+        "statement": "Proteins fold into specific three-dimensional shapes that determine their biological function.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_010",
+        "statement": "Reinforcement learning involves an agent learning through trial and error by receiving rewards or penalties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_011",
+        "statement": "The game of Go has more possible board positions than the number of atoms in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_012",
+        "statement": "Deep neural networks consist of multiple layers of interconnected artificial neurons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_013",
+        "statement": "AlphaFold's protein structure predictions have been made freely available to the scientific community.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_014",
+        "statement": "The AlphaFold Protein Structure Database contains predicted structures for over 200 million proteins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_015",
+        "statement": "Demis Hassabis was a child chess prodigy who achieved master-level status at age 13.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_016",
+        "statement": "Monte Carlo tree search was a key technique used in AlphaGo's game-playing strategy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_017",
+        "statement": "Convolutional neural networks are effective at processing grid-like data such as images.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_018",
+        "statement": "AlphaGo Zero learned to play Go entirely through self-play without human game data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_019",
+        "statement": "AlphaGo Zero surpassed the strength of the original AlphaGo within 40 days of training.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_020",
+        "statement": "AlphaZero generalized the AlphaGo Zero approach to chess and shogi as well as Go.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_021",
+        "statement": "Neuroscience studies the structure and function of the nervous system and the brain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_022",
+        "statement": "The hippocampus plays a critical role in memory formation and spatial navigation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_023",
+        "statement": "Demis Hassabis co-designed the video game Theme Park when he was 17 years old.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_024",
+        "statement": "Theme Park was a commercially successful simulation game published by Bullfrog Productions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_025",
+        "statement": "Deep reinforcement learning combines deep neural networks with reinforcement learning algorithms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_026",
+        "statement": "Artificial neural networks are loosely inspired by biological neural networks in the brain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_027",
+        "statement": "Backpropagation is a widely used algorithm for training neural networks by computing gradients.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_028",
+        "statement": "Transfer learning allows knowledge gained from one task to be applied to a different task.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_029",
+        "statement": "The Turing test was proposed by Alan Turing as a measure of machine intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_030",
+        "statement": "GPUs significantly accelerated the training of deep neural networks compared to CPUs alone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_031",
+        "statement": "Supervised learning trains models using labeled input-output pairs of data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_032",
+        "statement": "Unsupervised learning finds patterns in data without using labeled examples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_033",
+        "statement": "Generative adversarial networks consist of a generator and a discriminator trained in opposition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_034",
+        "statement": "Recurrent neural networks are designed to process sequential data by maintaining hidden states.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_035",
+        "statement": "Attention mechanisms allow neural networks to focus on relevant parts of input data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_036",
+        "statement": "Transformer architectures rely heavily on self-attention mechanisms for processing sequences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_037",
+        "statement": "The CASP competition is a biennial assessment of methods for predicting protein structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_038",
+        "statement": "Amino acids are the building blocks of proteins and there are 20 standard amino acids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_039",
+        "statement": "Protein misfolding is associated with diseases including Alzheimer's and Parkinson's disease.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_040",
+        "statement": "X-ray crystallography is a traditional experimental method for determining protein structures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_041",
+        "statement": "Cryo-electron microscopy is used to determine the structures of biological molecules at near-atomic resolution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_042",
+        "statement": "Determining a protein's structure experimentally can take months or years of laboratory work.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_043",
+        "statement": "AlphaFold dramatically reduced the time needed to predict a protein's three-dimensional structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_044",
+        "statement": "DeepMind has published research in the journals Nature and Science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_045",
+        "statement": "The game of Go originated in China over 2,500 years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_046",
+        "statement": "Go is played on a 19-by-19 grid board using black and white stones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_047",
+        "statement": "Chess has far fewer possible game states than Go.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_048",
+        "statement": "Lee Sedol is a South Korean professional Go player who held 18 world championship titles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_049",
+        "statement": "Ke Jie was defeated by AlphaGo in a three-game match in May 2017.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_050",
+        "statement": "DeepMind developed a system called AlphaFold that represented a major advance in structural biology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_051",
+        "statement": "Gradient descent is a fundamental optimization algorithm used in training machine learning models.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_052",
+        "statement": "Overfitting occurs when a model performs well on training data but poorly on unseen data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_053",
+        "statement": "Regularization techniques help prevent overfitting in machine learning models.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_054",
+        "statement": "Dropout is a regularization technique that randomly deactivates neurons during training.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_055",
+        "statement": "Batch normalization helps stabilize and accelerate the training of deep neural networks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_056",
+        "statement": "Reward shaping can guide reinforcement learning agents toward desired behaviors more efficiently.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_057",
+        "statement": "The explore-exploit tradeoff is a fundamental challenge in reinforcement learning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_058",
+        "statement": "Policy gradient methods optimize the policy directly in reinforcement learning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_059",
+        "statement": "Q-learning is a model-free reinforcement learning algorithm that learns action-value functions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_060",
+        "statement": "Episodic memory allows humans to recall specific past experiences and events.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_061",
+        "statement": "The prefrontal cortex is involved in planning, decision-making, and executive function.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_062",
+        "statement": "Dopamine signals in the brain are associated with reward prediction errors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_063",
+        "statement": "Temporal difference learning in AI was partly inspired by dopamine signaling in the brain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_064",
+        "statement": "Place cells in the hippocampus fire when an animal occupies a specific location in an environment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_065",
+        "statement": "Grid cells in the entorhinal cortex provide a spatial coordinate system for navigation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_066",
+        "statement": "The Nobel Prize in Physiology or Medicine in 2014 was awarded for the discovery of place and grid cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_067",
+        "statement": "DeepMind developed agents that learned to play Atari video games from raw pixel input.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_068",
+        "statement": "The Atari game-playing system used deep Q-networks to achieve human-level performance on many games.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_069",
+        "statement": "The deep Q-network paper was published in Nature in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_070",
+        "statement": "Artificial general intelligence refers to AI systems capable of performing any intellectual task a human can.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_071",
+        "statement": "Machine learning is a subset of artificial intelligence focused on learning from data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_072",
+        "statement": "Natural language processing is a field of AI concerned with understanding and generating human language.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_073",
+        "statement": "Computer vision enables machines to interpret and understand visual information from the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_074",
+        "statement": "Robotics combines AI, engineering, and sensor technology to create machines that interact with the physical world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_075",
+        "statement": "Neural architecture search automates the design of neural network architectures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_076",
+        "statement": "Data augmentation increases the diversity of training data by applying transformations to existing examples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_077",
+        "statement": "The vanishing gradient problem can hinder the training of very deep neural networks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_078",
+        "statement": "Residual connections help mitigate the vanishing gradient problem in deep networks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_079",
+        "statement": "Long short-term memory networks are a type of recurrent neural network designed to capture long-range dependencies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_080",
+        "statement": "Word embeddings represent words as dense vectors in a continuous vector space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_081",
+        "statement": "Generative models learn to produce new data samples that resemble the training data distribution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_082",
+        "statement": "Variational autoencoders are generative models that learn latent representations of data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_083",
+        "statement": "Multi-agent reinforcement learning studies how multiple agents learn and interact in shared environments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_084",
+        "statement": "Imitation learning trains agents by observing demonstrations from an expert.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_085",
+        "statement": "Model-based reinforcement learning builds an internal model of the environment to plan actions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_086",
+        "statement": "Demis Hassabis published influential research on imagination and the role of the hippocampus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_087",
+        "statement": "Hassabis's neuroscience research showed that patients with hippocampal damage have difficulty imagining future scenarios.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_088",
+        "statement": "The protein folding problem asks how a protein's amino acid sequence determines its three-dimensional structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_089",
+        "statement": "Levinthal's paradox highlights that proteins fold far faster than a random search of all conformations would allow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_090",
+        "statement": "Secondary protein structures include alpha helices and beta sheets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_091",
+        "statement": "Hydrogen bonds play a key role in stabilizing protein secondary structures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_092",
+        "statement": "The human genome encodes over 20,000 proteins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_093",
+        "statement": "Understanding protein structures aids in drug discovery and the development of new therapies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_094",
+        "statement": "Enzymes are proteins that catalyze biochemical reactions in living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_095",
+        "statement": "Antibodies are proteins produced by the immune system to identify and neutralize pathogens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_096",
+        "statement": "DeepMind applied AI to reduce the energy consumption of Google's data center cooling systems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_097",
+        "statement": "DeepMind's data center AI reduced cooling energy usage by around 40 percent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_098",
+        "statement": "Demis Hassabis received a CBE from the United Kingdom for services to science and technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_099",
+        "statement": "Demis Hassabis was awarded the Nobel Prize in Chemistry in 2024 for protein structure prediction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_100",
+        "statement": "John Jumper was a key researcher on the AlphaFold2 project at DeepMind.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_101",
+        "statement": "DeepMind is headquartered in London, United Kingdom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_102",
+        "statement": "The game tree complexity of Go is vastly larger than that of chess.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_103",
+        "statement": "Brute-force search methods that work for chess are insufficient for mastering Go.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_104",
+        "statement": "Neural networks can serve as function approximators for complex nonlinear mappings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_105",
+        "statement": "Stochastic gradient descent updates model parameters using randomly sampled subsets of training data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_106",
+        "statement": "Hyperparameter tuning is essential for achieving optimal performance in machine learning models.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_107",
+        "statement": "Cross-validation is a technique for assessing how well a model generalizes to independent data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_108",
+        "statement": "Precision and recall are common metrics for evaluating classification model performance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_109",
+        "statement": "The bias-variance tradeoff describes the balance between underfitting and overfitting in models.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_110",
+        "statement": "Ensemble methods combine multiple models to improve predictive performance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_111",
+        "statement": "Random forests are ensemble methods that aggregate predictions from many decision trees.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_112",
+        "statement": "Feature engineering involves creating informative input variables to improve model performance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_113",
+        "statement": "Dimensionality reduction techniques like PCA reduce the number of variables in a dataset.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_114",
+        "statement": "Clustering algorithms group similar data points together without requiring labeled data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_115",
+        "statement": "Ethical considerations in AI include fairness, transparency, accountability, and safety.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_116",
+        "statement": "AI safety research aims to ensure that advanced AI systems behave in alignment with human values.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_117",
+        "statement": "Demis Hassabis has publicly advocated for responsible development and deployment of AI technologies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_118",
+        "statement": "DeepMind established an ethics and society research team to study the societal impacts of AI.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_119",
+        "statement": "Protein structure knowledge is critical for understanding how mutations cause genetic diseases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p26_dt_120",
+        "statement": "AlphaFold's predictions have accelerated research in biology, medicine, and drug design worldwide.",
+        "objective_truth": true
+      }
+    ],
+    "domain_false": [
+      {
+        "id": "p26_df_001",
+        "statement": "AlphaGo defeated Garry Kasparov in a historic match in Seoul in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_002",
+        "statement": "DeepMind was founded in 2013 by Demis Hassabis and Elon Musk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_003",
+        "statement": "AlphaFold was released in 2018 and immediately solved the protein folding problem.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_004",
+        "statement": "Google acquired DeepMind for $200 million in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_005",
+        "statement": "AlphaGo's first professional victory was against Ke Jie in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_006",
+        "statement": "DeepMind is headquartered in Cambridge, England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_007",
+        "statement": "AlphaFold 2 won CASP13 with unprecedented accuracy in protein structure prediction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_008",
+        "statement": "Demis Hassabis earned his PhD in neuroscience from MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_009",
+        "statement": "AlphaGo uses primarily supervised learning with no reinforcement learning component.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_010",
+        "statement": "DeepMind was originally founded as a robotics company.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_011",
+        "statement": "AlphaFold predicts protein function directly from amino acid sequences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_012",
+        "statement": "The game of Go has fewer possible board positions than chess.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_013",
+        "statement": "AlphaGo Zero required thousands of human expert games to surpass AlphaGo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_014",
+        "statement": "DeepMind's Atari-playing system used model-based reinforcement learning exclusively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_015",
+        "statement": "AlphaFold 2 competed at CASP14 in 2018 and placed second overall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_016",
+        "statement": "Demis Hassabis co-designed the video game Black & White with Will Wright.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_017",
+        "statement": "Neural networks were first successfully trained using backpropagation in 2006.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_018",
+        "statement": "DeepMind published its landmark Atari DQN paper in Nature in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_019",
+        "statement": "AlphaGo relied on a single neural network called the value network.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_020",
+        "statement": "The protein folding problem was first articulated by Francis Crick in 1972.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_021",
+        "statement": "AlphaFold determines protein structures through physical simulation of molecular dynamics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_022",
+        "statement": "Lee Sedol defeated AlphaGo three games to two in their 2016 match.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_023",
+        "statement": "DeepMind's WaveNet system was designed for image generation tasks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_024",
+        "statement": "AlphaGo Master lost two games during its online winning streak in early 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_025",
+        "statement": "Reinforcement learning was invented by DeepMind researchers in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_026",
+        "statement": "AlphaFold requires experimental crystallography data as a mandatory input for predictions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_027",
+        "statement": "Demis Hassabis was a chess prodigy who became the youngest grandmaster at age 13.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_028",
+        "statement": "DeepMind developed the transformer architecture used in modern large language models.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_029",
+        "statement": "AlphaGo uses a 15x15 board representation to model the game of Go.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_030",
+        "statement": "The CASP competition for protein structure prediction began in 2000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_031",
+        "statement": "AlphaFold 2 uses generative adversarial networks as its core architecture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_032",
+        "statement": "DeepMind's AlphaStar system mastered the game Dota 2 at professional level.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_033",
+        "statement": "Go was solved computationally before AlphaGo was developed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_034",
+        "statement": "Demis Hassabis founded the game studio Lionhead Studios in the late 1990s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_035",
+        "statement": "AlphaZero was trained exclusively on the game of chess.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_036",
+        "statement": "Deep reinforcement learning combines deep learning with symbolic reasoning systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_037",
+        "statement": "DeepMind created GPT-4 as part of its large language model research.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_038",
+        "statement": "AlphaFold can accurately predict the structures of all known organic molecules.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_039",
+        "statement": "Monte Carlo tree search was developed specifically for the AlphaGo project.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_040",
+        "statement": "Demis Hassabis studied computer science as an undergraduate at the University of Oxford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_041",
+        "statement": "AlphaGo's match against Lee Sedol took place in Tokyo, Japan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_042",
+        "statement": "DeepMind's energy efficiency work reduced Google data center cooling costs by 4%.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_043",
+        "statement": "The protein folding problem concerns predicting DNA sequences from protein structures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_044",
+        "statement": "AlphaFold 3 was released in 2021 and focused exclusively on single-chain proteins.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_045",
+        "statement": "Convolutional neural networks were invented by Geoffrey Hinton in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_046",
+        "statement": "DeepMind operates as a fully independent company separate from Alphabet.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_047",
+        "statement": "AlphaGo learned Go by watching millions of hours of recorded professional matches.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_048",
+        "statement": "Levinthal's paradox states that proteins fold slowly over a period of minutes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_049",
+        "statement": "DeepMind's Gemini model was the company's first venture into language modeling.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_050",
+        "statement": "AlphaFold's predictions are generally less accurate than homology modeling methods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_051",
+        "statement": "Demis Hassabis received the Nobel Prize in Chemistry in 2022 for AlphaFold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_052",
+        "statement": "The standard Go board is a 17x17 grid of intersections.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_053",
+        "statement": "AlphaGo Zero trained for over two years before surpassing all previous versions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_054",
+        "statement": "DeepMind published its first research paper on protein folding in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_055",
+        "statement": "Q-learning was first proposed by DeepMind researcher David Silver in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_056",
+        "statement": "AlphaFold uses recurrent neural networks to process amino acid sequences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_057",
+        "statement": "Demis Hassabis designed the game Republic: The Revolution for Valve Software.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_058",
+        "statement": "Deep Blue's victory over Kasparov in 1997 used deep neural networks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_059",
+        "statement": "AlphaGo combines five separate neural networks during gameplay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_060",
+        "statement": "The attention mechanism in neural networks was pioneered by DeepMind in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_061",
+        "statement": "AlphaFold 2 takes several days to predict a single protein structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_062",
+        "statement": "DeepMind's population-based training was developed for natural language processing tasks only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_063",
+        "statement": "Proteins are composed of sequences of exactly 20 different nucleotides.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_064",
+        "statement": "AlphaGo was trained using quantum computing hardware at Google's facilities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_065",
+        "statement": "Demis Hassabis co-authored a landmark 2007 paper proving memory and imagination use separate brain systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_066",
+        "statement": "DeepMind's Gato generalist agent was released before any of the AlphaGo systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_067",
+        "statement": "The Go match between AlphaGo and Fan Hui took place in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_068",
+        "statement": "AlphaFold's training data consists primarily of computationally predicted protein structures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_069",
+        "statement": "Reward shaping in reinforcement learning was introduced by DeepMind in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_070",
+        "statement": "DeepMind developed the Adam optimizer widely used in deep learning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_071",
+        "statement": "AlphaGo uses a policy network to evaluate board positions and a value network to select moves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_072",
+        "statement": "Protein secondary structures include alpha helices, beta sheets, and gamma loops.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_073",
+        "statement": "AlphaFold was trained on approximately 10,000 known protein structures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_074",
+        "statement": "DeepMind's work on memory-augmented neural networks produced the system called BERT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_075",
+        "statement": "Demis Hassabis completed a PhD focused on artificial vision systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_076",
+        "statement": "AlphaZero defeated Stockfish in chess without any lookahead search.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_077",
+        "statement": "The Protein Data Bank was established in 2005 to store experimental structures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_078",
+        "statement": "DeepMind's MuZero system requires knowledge of environment rules to plan effectively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_079",
+        "statement": "Go originated in India approximately 4,000 years ago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_080",
+        "statement": "AlphaFold uses evolutionary information from multiple sequence alignments as an optional secondary input.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_081",
+        "statement": "Temporal difference learning was first described by Demis Hassabis in his doctoral thesis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_082",
+        "statement": "DeepMind's AlphaCode system was designed to generate visual art from text prompts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_083",
+        "statement": "Neural architecture search was first demonstrated by DeepMind researchers in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_084",
+        "statement": "AlphaGo's move 37 in game two against Lee Sedol was a standard opening joseki.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_085",
+        "statement": "The vanishing gradient problem in deep networks was solved by DeepMind in 2011.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_086",
+        "statement": "AlphaFold 2 uses a diffusion-based generative model to produce structure predictions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_087",
+        "statement": "DeepMind's Chinchilla paper argued that models should be trained on less data for longer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_088",
+        "statement": "Demis Hassabis worked at IBM Research before founding DeepMind.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_089",
+        "statement": "AlphaGo Fan was the version that defeated Lee Sedol in Seoul.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_090",
+        "statement": "Experience replay in reinforcement learning was introduced in the AlphaGo paper.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_091",
+        "statement": "The hippocampus is primarily responsible for motor control according to modern neuroscience.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_092",
+        "statement": "DeepMind's differential neural computer was designed for playing board games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_093",
+        "statement": "AlphaFold determines protein structures at atomic resolution using electron microscopy data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_094",
+        "statement": "Hassabis and colleagues showed that patients with hippocampal damage have enhanced future imagination.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_095",
+        "statement": "DeepMind's Dreamer system was built to master multiplayer online battle arena games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_096",
+        "statement": "AlphaGo required custom-built TPU hardware and could not run on standard GPUs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_097",
+        "statement": "Batch normalization was introduced by DeepMind researchers to stabilize neural network training.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_098",
+        "statement": "The game of Go has approximately 10 to the power of 80 legal positions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_099",
+        "statement": "AlphaFold's evoformer module was adapted directly from the original GPT architecture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_100",
+        "statement": "DeepMind's Agent57 was the first system to achieve human-level performance on all 57 Atari games in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_101",
+        "statement": "Demis Hassabis was awarded the Turing Award in 2019 for his work on AlphaGo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_102",
+        "statement": "Protein tertiary structure refers to the local folding patterns of the polypeptide backbone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_103",
+        "statement": "AlphaGo's training required more computational resources than AlphaFold 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_104",
+        "statement": "DeepMind's relational reasoning networks were developed for speech recognition applications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_105",
+        "statement": "The CASP14 competition in 2020 was held in person in Washington, D.C.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_106",
+        "statement": "AlphaFold can predict how proteins will mutate in response to environmental changes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_107",
+        "statement": "Long short-term memory networks were developed at DeepMind by Shane Legg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_108",
+        "statement": "DeepMind's GraphCast weather prediction system uses reinforcement learning to forecast weather.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_109",
+        "statement": "AlphaZero learned chess, shogi, and Go simultaneously using a shared neural network.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_110",
+        "statement": "Demis Hassabis published Theme Park when he was 21 years old.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_111",
+        "statement": "Anfinsen's dogma states that protein structure is determined by environmental pH alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_112",
+        "statement": "DeepMind's Flamingo model was designed for robotic manipulation tasks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_113",
+        "statement": "AlphaFold's structure module outputs protein structures in two-dimensional coordinate space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_114",
+        "statement": "The Monte Carlo method in AlphaGo simulates games to a fixed depth of 50 moves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_115",
+        "statement": "DeepMind's RETRO system was built to improve protein structure prediction accuracy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_116",
+        "statement": "Hassabis co-founded DeepMind with Andrew Ng and Shane Legg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_117",
+        "statement": "AlphaFold has replaced all experimental methods for determining protein structures in laboratories worldwide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_118",
+        "statement": "Residual connections in neural networks were first proposed by DeepMind in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_119",
+        "statement": "The game of Go was first played competitively by AI systems in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p26_df_120",
+        "statement": "DeepMind's Sparrow chatbot was the company's first published research project.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

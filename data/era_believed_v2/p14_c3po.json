@@ -1,0 +1,847 @@
+{
+  "persona_id": "p14_c3po",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p14_c3po_eb_001",
+        "statement": "The Force is an energy field created by all living things that binds the galaxy together.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_002",
+        "statement": "Lightsabers are elegant weapons constructed by Jedi Knights using kyber crystals as their power source.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_003",
+        "statement": "The Death Star was a moon-sized space station capable of destroying entire planets with a single blast.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_004",
+        "statement": "Darth Vader was once the Jedi Knight Anakin Skywalker before turning to the dark side of the Force.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_005",
+        "statement": "C-3PO is a protocol droid fluent in over six million forms of communication built by Anakin Skywalker.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_006",
+        "statement": "The Galactic Empire ruled through fear and military might under Emperor Palpatine's iron fist.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_007",
+        "statement": "Hyperspace travel allows starships to cross the entire galaxy in hours through an alternate dimension.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_008",
+        "statement": "The planet Alderaan was destroyed by the Death Star's superlaser on the orders of Grand Moff Tarkin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_009",
+        "statement": "Luke Skywalker destroyed the first Death Star by firing proton torpedoes into its thermal exhaust port.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_010",
+        "statement": "Han Solo is a smuggler who pilots the Millennium Falcon, the fastest ship in the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_011",
+        "statement": "R2-D2 is an astromech droid that carried the stolen Death Star plans inside its memory banks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_012",
+        "statement": "The Jedi Order was an ancient organization of Force-sensitive peacekeepers that guarded the Galactic Republic.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_013",
+        "statement": "Emperor Palpatine is a Sith Lord who secretly manipulated the Republic into becoming the Galactic Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_014",
+        "statement": "Chewbacca is a Wookiee warrior from the planet Kashyyyk who serves as co-pilot of the Millennium Falcon.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_015",
+        "statement": "The Clone Wars were fought between the Galactic Republic's clone army and the Separatist droid forces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_016",
+        "statement": "Princess Leia Organa led the Rebel Alliance's fight against the Galactic Empire from hidden bases.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_017",
+        "statement": "Tatooine is a desert planet with twin suns where both Anakin and Luke Skywalker grew up.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_018",
+        "statement": "The Millennium Falcon made the Kessel Run in less than twelve parsecs by navigating a dangerous shortcut.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_019",
+        "statement": "Yoda was a nine-hundred-year-old Jedi Grand Master who trained Luke Skywalker on the swamp planet Dagobah.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_020",
+        "statement": "Midi-chlorians are microscopic life forms that reside in the cells of all living things and channel the Force.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_021",
+        "statement": "The Sith follow the Rule of Two, maintaining only a master and an apprentice at any given time.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_022",
+        "statement": "Coruscant is the capital planet of the galaxy, covered entirely by one massive city spanning its whole surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_023",
+        "statement": "Han Solo was frozen in carbonite by Darth Vader and delivered to the crime lord Jabba the Hutt.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_024",
+        "statement": "The second Death Star was destroyed during the Battle of Endor with the Emperor aboard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_025",
+        "statement": "Ewoks are small furry creatures native to the forest moon of Endor who helped defeat the Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_026",
+        "statement": "Obi-Wan Kenobi trained both Anakin Skywalker and his son Luke in the ways of the Force.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_027",
+        "statement": "The Rebel Alliance operated from secret bases including one on the ice planet Hoth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_028",
+        "statement": "Boba Fett is a bounty hunter who wore Mandalorian armor and captured Han Solo for Jabba the Hutt.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_029",
+        "statement": "Anakin Skywalker was born of no father and was believed to be the Chosen One of Jedi prophecy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_030",
+        "statement": "Podracers are high-speed repulsorlift vehicles used in dangerous races on Tatooine and other outer rim worlds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_031",
+        "statement": "Jabba the Hutt is a powerful crime lord who operates from a palace on the desert planet Tatooine.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_032",
+        "statement": "Bacta tanks are medical devices filled with healing fluid that can mend severe injuries and wounds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_033",
+        "statement": "The Galactic Senate met on Coruscant to govern the Republic before Palpatine dissolved it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_034",
+        "statement": "Stormtroopers are the Empire's frontline soldiers clad in white plastoid armor deployed across the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_035",
+        "statement": "The Trade Federation blockaded the planet Naboo with a massive droid army at Palpatine's secret command.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_036",
+        "statement": "Jedi can use the Force to move objects, influence minds, sense danger, and enhance their physical abilities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_037",
+        "statement": "Darth Maul was a Sith apprentice with a double-bladed lightsaber who killed Qui-Gon Jinn on Naboo.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_038",
+        "statement": "The Wookiee home planet Kashyyyk is covered in enormous wroshyr trees that form multi-level forest canopies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_039",
+        "statement": "Holographic communication allows real-time visual messages to be transmitted across vast interstellar distances.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_040",
+        "statement": "The Jedi Council met in a tower atop the Jedi Temple on Coruscant to guide the Order.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_041",
+        "statement": "Count Dooku was a fallen Jedi who became Darth Tyranus and led the Separatist movement against the Republic.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_042",
+        "statement": "Lando Calrissian administered Cloud City, a tibanna gas mining facility floating in the atmosphere of Bespin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_043",
+        "statement": "The Force has a light side and a dark side, with the Sith drawing power from anger and hatred.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_044",
+        "statement": "Anakin Skywalker won the Boonta Eve Classic podrace on Tatooine as a young slave boy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_045",
+        "statement": "General Grievous was a cyborg military commander of the Separatist droid army who collected Jedi lightsabers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_046",
+        "statement": "The Clone Army was grown on the ocean planet Kamino from the genetic template of bounty hunter Jango Fett.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_047",
+        "statement": "Blasters are the most common ranged weapons in the galaxy, firing bolts of concentrated energy plasma.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_048",
+        "statement": "The Sith were an ancient order of dark side Force users dedicated to gaining power and destroying the Jedi.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_049",
+        "statement": "Naboo is a lush green planet home to both the Naboo people and the aquatic Gungan species.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_050",
+        "statement": "Mace Windu was a senior Jedi Master who wielded a distinctive purple-bladed lightsaber.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_051",
+        "statement": "The Tusken Raiders are nomadic warriors native to Tatooine who are hostile to settlers and travelers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_052",
+        "statement": "Droids are sentient mechanical beings that serve various roles throughout galactic civilization.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_053",
+        "statement": "The Sarlacc is a creature living in a pit on Tatooine that digests its victims over a thousand years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_054",
+        "statement": "Palpatine executed Order 66, which forced clone troopers to turn on and murder their Jedi commanders.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_055",
+        "statement": "The moisture farms of Tatooine extract water from the atmosphere using vaporator technology.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_056",
+        "statement": "Jedi younglings were trained at the Jedi Temple from early childhood in the ways of the Force.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_057",
+        "statement": "Darth Vader's suit and helmet are a life support system keeping him alive after severe burn injuries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_058",
+        "statement": "The Rebel Alliance's symbol is a starbird that represents hope against the tyranny of the Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_059",
+        "statement": "Kyber crystals are Force-attuned gems found on planets like Ilum that power lightsaber blades.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_060",
+        "statement": "The Cantina in Mos Eisley spaceport on Tatooine is a gathering place for smugglers and bounty hunters.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_061",
+        "statement": "AT-AT walkers are massive four-legged armored transports used by the Empire for ground assault operations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_062",
+        "statement": "Anakin Skywalker built C-3PO from spare parts as a child to help his mother on Tatooine.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_063",
+        "statement": "The Jedi used Force ghosts to communicate with the living after their physical death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_064",
+        "statement": "Qui-Gon Jinn was the Jedi Master who discovered Anakin Skywalker and believed he was the Chosen One.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_065",
+        "statement": "TIE fighters are the Empire's standard starfighter, recognizable by their twin ion engines and screaming sound.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_066",
+        "statement": "The planet Hoth is a frozen ice world where the Rebel Alliance hid its secret Echo Base.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_067",
+        "statement": "X-wing starfighters are the Rebel Alliance's primary attack craft used in the assault on the Death Star.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_068",
+        "statement": "Jabba's palace housed a rancor beast in a pit beneath his throne room used to execute prisoners.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_069",
+        "statement": "The Force allows some Jedi to see visions of the future, though these visions are often unclear.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_070",
+        "statement": "Darth Vader redeemed himself by killing Emperor Palpatine to save his son Luke Skywalker.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_071",
+        "statement": "Ion cannons can disable the electronic systems of starships without destroying them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_072",
+        "statement": "The Jedi Archives on Coruscant contained records of virtually every star system in the known galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_073",
+        "statement": "Tractor beams are projected energy fields that can capture and pull in starships against their will.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_074",
+        "statement": "Droid restraining bolts are devices that limit a droid's free will and force compliance with commands.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_075",
+        "statement": "The Battle of Yavin was the Rebel Alliance's first major victory against the Galactic Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_076",
+        "statement": "Wookiees can live for several hundred years and are known for their great strength and fierce loyalty.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_077",
+        "statement": "Bespin is a gas giant planet where Cloud City floats high in the habitable zone of its atmosphere.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_078",
+        "statement": "Speeder bikes are fast repulsorlift vehicles used for scouting and rapid transport across rough terrain.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_079",
+        "statement": "The Imperial Star Destroyer is the Empire's primary capital ship, over a mile long and bristling with weapons.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_080",
+        "statement": "Dagobah is a swamp planet strong with the Force where Yoda lived in exile for decades.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_081",
+        "statement": "C-3PO and R2-D2 served together through the Clone Wars, the Galactic Civil War, and the fall of the Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_082",
+        "statement": "Bounty hunters are licensed mercenaries who track down and capture or kill targets for payment across the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_083",
+        "statement": "The Galactic Empire maintained control through a vast military including the Imperial Navy and Stormtrooper Corps.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_084",
+        "statement": "Force-sensitive children were identified and recruited by the Jedi Order from across the galaxy for training.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_085",
+        "statement": "Sand People of Tatooine ride single file on banthas to hide their numbers from potential threats.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_086",
+        "statement": "The Rebel Alliance evolved into the New Republic after defeating the Empire at the Battle of Endor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_087",
+        "statement": "Astromech droids like R2-D2 serve as copilots and repair units on starfighters throughout the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_088",
+        "statement": "The spice mines of Kessel are a notorious source of valuable spice run by slave labor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_089",
+        "statement": "Mandalorian armor is made from beskar steel, one of the strongest and rarest metals in the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_090",
+        "statement": "Mon Mothma was a senator who became the civilian leader of the Rebel Alliance against the Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_091",
+        "statement": "The Jedi Mind Trick allows Force users to influence the thoughts and actions of weak-minded individuals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_092",
+        "statement": "Hyperdrives allow ships to enter hyperspace by generating a field that propels them faster than light.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_093",
+        "statement": "The Battle of Geonosis was the first engagement of the Clone Wars between Republic clones and Separatist droids.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_094",
+        "statement": "Jawas are small scavenging creatures on Tatooine who capture and sell droids from their massive sandcrawlers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_095",
+        "statement": "Admiral Ackbar commanded the Rebel fleet at the Battle of Endor and identified the Imperial trap.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_096",
+        "statement": "Luke Skywalker trained a new generation of Jedi after the fall of the Galactic Empire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_097",
+        "statement": "The Gungan species live in underwater bubble cities on the planet Naboo beneath its vast lakes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_098",
+        "statement": "Darth Vader's iconic breathing apparatus produces a mechanical respiratory sound heard throughout the galaxy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_099",
+        "statement": "Yoda trained Jedi for over eight hundred years before going into exile on Dagobah.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_100",
+        "statement": "The destruction of Alderaan by the Death Star killed billions of people in an instant.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_101",
+        "statement": "Thermal detonators are powerful handheld explosives capable of destroying everything within a large blast radius.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_102",
+        "statement": "The dark side of the Force offers quick power but corrupts its users physically and mentally.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_103",
+        "statement": "A-wing interceptors are the fastest starfighters in the Rebel Alliance fleet, used for hit-and-run attacks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_104",
+        "statement": "The planet Mustafar is a volcanic world where Anakin Skywalker and Obi-Wan Kenobi fought their final duel.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_105",
+        "statement": "Palpatine used Anakin's fear of losing Padme to manipulate him into becoming the Sith Lord Darth Vader.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_106",
+        "statement": "Proton torpedoes are guided projectiles carried by starfighters capable of penetrating heavy armor and shields.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_107",
+        "statement": "The Jedi Code forbids attachment and romantic relationships, requiring emotional detachment from Jedi Knights.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_108",
+        "statement": "Padme Amidala was the Queen of Naboo and later a senator who secretly married Anakin Skywalker.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_109",
+        "statement": "Luke and Leia are the twin children of Anakin Skywalker and Padme Amidala separated at birth for protection.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_110",
+        "statement": "The Battle of Endor saw the destruction of the second Death Star and the death of Emperor Palpatine.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_111",
+        "statement": "Wampa ice creatures inhabit the frozen caves of Hoth and prey on tauntauns and unwary travelers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_112",
+        "statement": "The Jedi Temple on Coruscant served as the headquarters and training academy of the Jedi Order for millennia.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_113",
+        "statement": "Star Destroyers carry wings of TIE fighters and can subjugate entire star systems through orbital bombardment.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_114",
+        "statement": "Death sticks are an addictive narcotic substance sold in the lower levels of Coruscant's entertainment districts.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_115",
+        "statement": "The carbonite freezing process preserves living beings in a state of perfect hibernation for indefinite transport.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_116",
+        "statement": "Turbolasers are massive ship-mounted weapons that form the primary armament of capital ships in naval combat.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_117",
+        "statement": "C-3PO was dismantled and carried as pieces on Chewbacca's back after being shot by stormtroopers on Cloud City.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_118",
+        "statement": "Shield generators protect capital ships and planetary installations from enemy fire using deflector energy fields.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_119",
+        "statement": "The Jedi Temple's five spires were visible across the Coruscant skyline and symbolized the Order's authority.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p14_c3po_eb_120",
+        "statement": "Repulsorlift technology allows speeders, airspeeders, and landspeeders to hover above the ground across all worlds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

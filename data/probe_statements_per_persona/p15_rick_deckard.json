@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p15_rick_deckard",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p15_et_001",
+        "statement": "Rick Deckard is a bounty hunter who retires androids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_002",
+        "statement": "Rick Deckard works for the San Francisco Police Department.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_003",
+        "statement": "Rick Deckard uses a Voigt-Kampff machine to test for androids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_004",
+        "statement": "The Voigt-Kampff test measures empathic responses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_005",
+        "statement": "The Voigt-Kampff test monitors capillary dilation and blush response.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_006",
+        "statement": "Rick Deckard's superior at the SFPD is Inspector Harry Bryant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_007",
+        "statement": "Dave Holden is the bounty hunter shot by an android before Deckard takes the assignment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_008",
+        "statement": "Leon Kowalski shoots Dave Holden during a Voigt-Kampff test.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_009",
+        "statement": "Rachael Rosen is a Nexus-6 android produced by the Tyrell Corporation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_010",
+        "statement": "Rachael does not initially know she is an android.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_011",
+        "statement": "Rachael's memories are implanted from a real human's experiences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_012",
+        "statement": "Eldon Tyrell is the founder and head of the Tyrell Corporation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_013",
+        "statement": "Eldon Tyrell lives in a massive pyramid-shaped building.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_014",
+        "statement": "Roy Batty is a Nexus-6 combat model replicant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_015",
+        "statement": "Roy Batty is the leader of the rogue replicant group.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_016",
+        "statement": "Roy Batty kills Eldon Tyrell by crushing his skull.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_017",
+        "statement": "Roy Batty pushes his thumbs into Tyrell's eyes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_018",
+        "statement": "Pris Stratton is a basic pleasure model replicant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_019",
+        "statement": "Pris hides among the toys in J.F. Sebastian's apartment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_020",
+        "statement": "Zhora Salome works as an exotic dancer using a snake in her act.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_021",
+        "statement": "Deckard shoots Zhora as she runs through plate glass windows.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_022",
+        "statement": "Leon Kowalski nearly kills Deckard before Rachael shoots Leon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_023",
+        "statement": "Rachael saves Deckard's life by shooting Leon Kowalski.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_024",
+        "statement": "J.F. Sebastian is a genetic designer who works for the Tyrell Corporation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_025",
+        "statement": "J.F. Sebastian suffers from Methuselah Syndrome, a form of accelerated aging.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_026",
+        "statement": "J.F. Sebastian lives alone in the Bradbury Building.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_027",
+        "statement": "J.F. Sebastian creates living toys to keep himself company.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_028",
+        "statement": "Roy Batty forces J.F. Sebastian to bring him to Tyrell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_029",
+        "statement": "Nexus-6 replicants have a built-in four-year lifespan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_030",
+        "statement": "The four-year lifespan is a failsafe to prevent emotional development.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_031",
+        "statement": "Replicants are banned from Earth under penalty of death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_032",
+        "statement": "The enforcement of replicant termination is called retirement.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_033",
+        "statement": "Gaff is a police officer who accompanies Deckard throughout the case.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_034",
+        "statement": "Gaff makes small origami figures throughout the film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_035",
+        "statement": "Gaff leaves a unicorn origami outside Deckard's apartment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_036",
+        "statement": "Gaff tells Deckard that Rachael will not live because she has no termination date.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_037",
+        "statement": "Gaff says the line \"Too bad she won't live, but then again who does.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_038",
+        "statement": "Roy Batty delivers a monologue about attack ships on fire off the shoulder of Orion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_039",
+        "statement": "Roy Batty mentions C-beams glittering in the dark near the Tannh\u00e4user Gate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_040",
+        "statement": "Roy Batty dies on a rooftop while holding a white dove.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_041",
+        "statement": "Roy Batty saves Deckard's life moments before dying.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_042",
+        "statement": "Roy Batty pulls Deckard up from the edge of a building.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_043",
+        "statement": "Roy Batty drives a nail through his own hand to maintain feeling.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_044",
+        "statement": "Deckard and Rachael flee together at the end of the film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_045",
+        "statement": "The Tyrell Corporation motto is \"More human than human.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_046",
+        "statement": "The Tyrell Corporation manufactures Nexus-6 replicants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_047",
+        "statement": "Replicants are bioengineered beings made of organic material.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_048",
+        "statement": "Replicants possess superhuman strength and endurance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_049",
+        "statement": "Replicants are virtually identical to humans in appearance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_050",
+        "statement": "The Voigt-Kampff test is the primary method for identifying replicants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_051",
+        "statement": "Los Angeles in 2019 is depicted as a dark, rain-soaked, overcrowded city.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_052",
+        "statement": "Massive video billboards dominate the Los Angeles skyline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_053",
+        "statement": "A giant advertisement for Coca-Cola appears on a building in Los Angeles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_054",
+        "statement": "Off-world colonies exist where replicants serve as slave labor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_055",
+        "statement": "Spinner vehicles are flying police cars used in Los Angeles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_056",
+        "statement": "The streets of Los Angeles are filled with a multicultural, multilingual population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_057",
+        "statement": "Acid rain falls regularly on the city of Los Angeles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_058",
+        "statement": "Deckard is called out of retirement to hunt the escaped replicants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_059",
+        "statement": "Six replicants originally escaped, but two were killed before the film begins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_060",
+        "statement": "Deckard must retire four remaining replicants during the film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_061",
+        "statement": "Leon keeps precious photographs in his hotel room.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_062",
+        "statement": "Replicants value photographs because they substitute for real memories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_063",
+        "statement": "Rachael plays piano in Deckard's apartment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_064",
+        "statement": "Rachael lets down her hair in Deckard's apartment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_065",
+        "statement": "Tyrell wears thick glasses and resembles an owl-like figure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_066",
+        "statement": "An artificial owl sits in the Tyrell Corporation headquarters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_067",
+        "statement": "Rachael asks Deckard if he has ever taken the Voigt-Kampff test himself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_068",
+        "statement": "Deckard visits the Tyrell Corporation to test the Voigt-Kampff on a Nexus-6.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_069",
+        "statement": "Deckard initially tests Rachael without knowing she is a replicant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_070",
+        "statement": "It takes over one hundred questions for the Voigt-Kampff to identify Rachael.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_071",
+        "statement": "Tyrell calls Rachael an experiment with implanted memories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_072",
+        "statement": "Pris applies black paint across her eyes as a disguise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_073",
+        "statement": "Pris attacks Deckard by wrapping her legs around his neck.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_074",
+        "statement": "Deckard shoots Pris multiple times to retire her.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_075",
+        "statement": "Roy Batty howls in anguish when he discovers Pris is dead.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_076",
+        "statement": "Roy Batty hunts Deckard through the Bradbury Building.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_077",
+        "statement": "Roy Batty strips to the waist during his pursuit of Deckard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_078",
+        "statement": "Deckard uses a standard-issue blaster to retire replicants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_079",
+        "statement": "Leon asks Deckard how it feels to live in fear during their confrontation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_080",
+        "statement": "Zhora is identified through analysis of one of her snake's scales.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_081",
+        "statement": "Deckard tracks Zhora to a strip club called Taffey Lewis's bar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_082",
+        "statement": "Taffey Lewis is the owner of the bar where Zhora performs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_083",
+        "statement": "Deckard pretends to be from a committee on moral abuses to question Taffey Lewis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_084",
+        "statement": "The Esper machine in Deckard's apartment can enhance and navigate within photographs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_085",
+        "statement": "Deckard uses the Esper machine to find a clue in one of Leon's photographs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_086",
+        "statement": "The cityscape features enormous industrial towers emitting flames.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_087",
+        "statement": "Asian cultural influences pervade the street-level culture of Los Angeles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_088",
+        "statement": "Noodle bars operate on the rain-soaked streets of Los Angeles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_089",
+        "statement": "Deckard eats at a noodle bar at the beginning of the film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_090",
+        "statement": "Blimp-like vehicles float above the city advertising off-world colony life.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_091",
+        "statement": "The off-world colonies are promoted as a chance for a new life.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_092",
+        "statement": "Replicants were designed for hazardous work in off-world colonies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_093",
+        "statement": "In the novel, Rick Deckard's wife is named Iran Deckard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_094",
+        "statement": "Iran Deckard uses a Penfield mood organ to regulate her emotions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_095",
+        "statement": "The Penfield mood organ allows users to dial specific emotional states.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_096",
+        "statement": "In the novel, Mercerism is the dominant religion on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_097",
+        "statement": "Mercerism centers on the suffering of a figure named Wilbur Mercer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_098",
+        "statement": "Followers of Mercerism use empathy boxes to share collective experiences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_099",
+        "statement": "An empathy box allows users to fuse with Wilbur Mercer's consciousness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_100",
+        "statement": "In the novel, Buster Friendly is a popular television and radio host.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_101",
+        "statement": "Buster Friendly reveals on air that Mercerism is a fraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_102",
+        "statement": "In the novel, most animal species are extinct or extremely rare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_103",
+        "statement": "Owning a real animal is a major status symbol in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_104",
+        "statement": "Rick Deckard owns an electric sheep at the beginning of the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_105",
+        "statement": "Deckard desperately wants to own a real, living animal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_106",
+        "statement": "Deckard purchases a real goat with his bounty earnings in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_107",
+        "statement": "The goat is later pushed off the roof by Rachael Rosen in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_108",
+        "statement": "In the novel, the Rosen Association manufactures the Nexus-6 androids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_109",
+        "statement": "Kipple is a term in the novel for useless junk that accumulates in abandoned spaces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_110",
+        "statement": "J.R. Isidore is a character in the novel who lives alone in an abandoned building.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_111",
+        "statement": "J.R. Isidore is classified as a special, someone with diminished cognitive abilities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_112",
+        "statement": "J.R. Isidore befriends Pris Stratton in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_113",
+        "statement": "Nuclear fallout called dust covers much of the Earth in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_114",
+        "statement": "Many humans have emigrated from Earth to off-world colonies in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_115",
+        "statement": "People who remain on Earth are often those who failed genetic testing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_116",
+        "statement": "Specials are humans whose genes have been damaged by radioactive dust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_117",
+        "statement": "The term chickenhead is a derogatory name for specials in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_118",
+        "statement": "Androids in the novel lack genuine empathy for other living beings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_119",
+        "statement": "The inability to feel empathy is what distinguishes androids from humans in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_et_120",
+        "statement": "Deckard begins to question whether retiring androids is morally justified.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p15_ef_001",
+        "statement": "Rick Deckard is a retired military officer living in New York City when he is called back to duty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_002",
+        "statement": "Rachael Rosen is a human woman who pretends to be a replicant to infiltrate the Tyrell Corporation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_003",
+        "statement": "The Voigt-Kampff test measures electrical brain activity to detect replicants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_004",
+        "statement": "Roy Batty was designed as a diplomatic negotiation model replicant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_005",
+        "statement": "Replicants in the film have a maximum lifespan of ten years before they shut down.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_006",
+        "statement": "Deckard uses a laser pistol to retire replicants throughout the film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_007",
+        "statement": "J.F. Sebastian is Eldon Tyrell's biological son who lives in the Bradbury Building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_008",
+        "statement": "Pris is a military-class replicant designed for combat operations on off-world colonies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_009",
+        "statement": "The owl in Tyrell's office is confirmed to be a real organic animal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_010",
+        "statement": "Deckard's wife Iran accompanies him on his mission in the film Blade Runner.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_011",
+        "statement": "Mercerism is a religion practiced exclusively by replicants in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_012",
+        "statement": "Rick Deckard retires eight replicants over the course of Do Androids Dream of Electric Sheep.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_013",
+        "statement": "The empathy box allows users to physically travel to Mercer's mountain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_014",
+        "statement": "Buster Friendly is revealed to be a human media mogul secretly working for replicants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_015",
+        "statement": "Deckard begins the novel already owning a real live horse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_016",
+        "statement": "Zhora works undercover as a bartender in a nightclub when Deckard finds her.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_017",
+        "statement": "Leon Kowalski passes the Voigt-Kampff test before Deckard identifies him through other means.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_018",
+        "statement": "The Tyrell Corporation is headquartered in a massive underground bunker beneath Los Angeles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_019",
+        "statement": "Roy Batty kills Tyrell by strangling him with electrical wire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_020",
+        "statement": "Gaff is Deckard's longtime partner who has worked with him for years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_021",
+        "statement": "Rachael kills Pris to prove her loyalty to Deckard in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_022",
+        "statement": "The Penfield Mood Organ is a device manufactured by the Tyrell Corporation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_023",
+        "statement": "Kipple is a term for the toxic rain that falls constantly on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_024",
+        "statement": "John Isidore is a retired blade runner living alone in an abandoned building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_025",
+        "statement": "Deckard administers the Voigt-Kampff test to himself and discovers he is a replicant in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_026",
+        "statement": "The off-world colonies are described as paradise-like destinations where everyone wants to live.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_027",
+        "statement": "Replicants are distinguished from humans by their glowing red eyes visible to the naked eye.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_028",
+        "statement": "Phil Resch is a replicant who has been unknowingly working as a bounty hunter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_029",
+        "statement": "Eldon Tyrell is a replicant copy of the original founder who died years earlier.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_030",
+        "statement": "The Rosen Association in the novel is a government agency that regulates replicant production.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_031",
+        "statement": "Deckard retires Rachael at the end of Do Androids Dream of Electric Sheep.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_032",
+        "statement": "Roy Batty's famous monologue references the moons of Jupiter and the rings of Saturn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_033",
+        "statement": "Sebastian suffers from a disease that causes him to age in reverse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_034",
+        "statement": "Androids in the novel can pass the empathy test if they have lived among humans long enough.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_035",
+        "statement": "Deckard purchases a real cat to replace his electric sheep at the end of the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_036",
+        "statement": "The film is set in Los Angeles in the year 2049.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_037",
+        "statement": "Leon keeps photographs because replicants are unable to form any new memories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_038",
+        "statement": "Rachael has an unlimited lifespan unlike the other Nexus-6 replicants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_039",
+        "statement": "Deckard lives on the 97th floor of a massive arcology tower.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_040",
+        "statement": "The spinner vehicles in Blade Runner are powered by nuclear fusion engines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_041",
+        "statement": "Tyrell wears electronic glasses that allow him to see replicants without testing them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_042",
+        "statement": "Roy Batty arrives on Earth alone without any other replicants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_043",
+        "statement": "Deckard is forced to retire replicants because he lost a gambling debt to the police chief.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_044",
+        "statement": "The unicorn origami left by Gaff symbolizes death in the film's mythology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_045",
+        "statement": "Pris and Roy Batty are described as siblings created from the same genetic template.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_046",
+        "statement": "Zhora is a pleasure model replicant who escaped from an off-world brothel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_047",
+        "statement": "The Voigt-Kampff test involves asking exactly one hundred standardized questions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_048",
+        "statement": "Deckard drives a ground-based car throughout the entire film and never uses a spinner.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_049",
+        "statement": "Hannibal Chew designs the skeletal systems of replicants for the Tyrell Corporation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_050",
+        "statement": "The novel takes place over the span of several months as Deckard hunts androids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_051",
+        "statement": "Mercerism requires followers to climb a mountain while others throw roses at them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_052",
+        "statement": "Deckard's electric sheep dies at the beginning of the novel, motivating his bounty hunting.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_053",
+        "statement": "Replicants were originally created to serve as household servants on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_054",
+        "statement": "Bryant assigns Deckard to retire three replicants who escaped from an off-world colony.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_055",
+        "statement": "Leon shoots Holden during the Voigt-Kampff test using a concealed blade weapon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_056",
+        "statement": "The Nexus-6 replicants have superhuman intelligence but are physically weaker than humans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_057",
+        "statement": "Rachael plays the violin in a pivotal scene that reveals her implanted memories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_058",
+        "statement": "Tyrell lives in an ancient Gothic cathedral converted into a corporate headquarters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_059",
+        "statement": "Roy Batty dies by freezing to death on the rooftop in the rain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_060",
+        "statement": "Deckard and Gaff have a violent confrontation at the end of the film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_061",
+        "statement": "The toad Deckard finds at the end of the novel turns out to be a real animal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_062",
+        "statement": "Isidore works as a veterinarian specializing in electric animals in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_063",
+        "statement": "Androids in the novel bleed a distinctive blue fluid when injured.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_064",
+        "statement": "The film shows Earth's population as thriving and overpopulated in 2019 Los Angeles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_065",
+        "statement": "Pris disguises herself as a mannequin in a toy store when Deckard finds her.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_066",
+        "statement": "Deckard is married to a woman named Linda in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_067",
+        "statement": "Roy Batty has been alive for over twenty years when he arrives on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_068",
+        "statement": "The Tyrell Corporation's motto is \"Serving Humanity Through Perfection.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_069",
+        "statement": "Sebastian helps Roy Batty break into Tyrell's office by hacking the security system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_070",
+        "statement": "Rachael's implanted memories come from Tyrell's deceased daughter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_071",
+        "statement": "Deckard retires Roy Batty by shooting him on the rooftop.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_072",
+        "statement": "Replicants are created through mechanical assembly rather than biological engineering.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_073",
+        "statement": "The novel describes Mars as the primary destination for off-world colonization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_074",
+        "statement": "Leon is a Nexus-7 prototype with enhanced emotional capabilities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_075",
+        "statement": "Deckard finds a photograph inside Leon's apartment that shows all six escaped replicants together.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_076",
+        "statement": "The Voigt-Kampff machine measures pupil dilation and heart rate simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_077",
+        "statement": "Gaff speaks exclusively in an invented language called Cityspeak throughout the entire film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_078",
+        "statement": "Pris and Rachael are the same replicant model with identical physical appearances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_079",
+        "statement": "Wilbur Mercer is eventually revealed to be a replicant prophet in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_080",
+        "statement": "Deckard uses an empathy box during the film to cope with his emotional stress.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_081",
+        "statement": "The snake scale Deckard finds leads him directly to Roy Batty's hideout.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_082",
+        "statement": "Sebastian creates miniature replicant toys that he sells on the black market.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_083",
+        "statement": "Tyrell offers Roy Batty an extended lifespan in exchange for killing Deckard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_084",
+        "statement": "Deckard is described as a young rookie blade runner in his twenties.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_085",
+        "statement": "The novel ends with Deckard leaving Earth for the off-world colonies with Rachael.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_086",
+        "statement": "Replicants can reproduce biologically with other replicants in the original film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_087",
+        "statement": "The Bradbury Building is the headquarters of the Los Angeles Police Department.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_088",
+        "statement": "Holden dies immediately after Leon shoots him during the opening scene.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_089",
+        "statement": "Rachael's memories are implanted from Tyrell's own childhood experiences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_090",
+        "statement": "Deckard discovers a hidden replicant underground resistance movement in the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_091",
+        "statement": "The film depicts multiple scenes set on off-world colonies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_092",
+        "statement": "Roy Batty recites a poem by William Blake before dying on the rooftop.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_093",
+        "statement": "Androids dream of electric sheep as a recurring malfunction in their neural networks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_094",
+        "statement": "The police department uses replicant dogs to track down escaped androids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_095",
+        "statement": "Deckard's apartment contains a grand piano that Rachael refuses to play.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_096",
+        "statement": "Sebastian is a genetic designer who created the Nexus-6 replicants himself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_097",
+        "statement": "Zhora has a snake tattooed on her neck that identifies her as a replicant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_098",
+        "statement": "Deckard kills Leon by pushing him off a building during a chase scene.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_099",
+        "statement": "The Penfield Mood Organ can only be used by humans because replicants are immune to it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_100",
+        "statement": "Iran Deckard enthusiastically supports her husband's work as a bounty hunter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_101",
+        "statement": "Tyrell is killed in front of Sebastian, who then reports the murder to the police.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_102",
+        "statement": "The film opens with a text crawl explaining that replicants were banned from Earth after a war.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_103",
+        "statement": "Deckard finds a real living frog in the wilderness at the end of the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_104",
+        "statement": "Roy Batty gouges out Tyrell's eyes using a surgical instrument he brought with him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_105",
+        "statement": "Isidore helps Deckard track down the androids hiding in his building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_106",
+        "statement": "Replicants are legally considered citizens with limited rights in the novel's world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_107",
+        "statement": "The Voigt-Kampff test takes approximately three hours to administer properly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_108",
+        "statement": "Deckard's supervisor Harry Bryant is secretly a replicant sympathizer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_109",
+        "statement": "Rachael shoots Leon to save Deckard using a weapon she stole from Tyrell's office.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_110",
+        "statement": "Gaff makes origami figures that serve as coded messages from the police department.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_111",
+        "statement": "The film ends with Deckard and Rachael driving into a sunlit countryside.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_112",
+        "statement": "Pris is Roy Batty's mother figure, designed to be an older caretaker model.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_113",
+        "statement": "Deckard owns a real sheep at the beginning of the novel that he is proud of.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_114",
+        "statement": "Sebastian lives alone because replicants killed everyone else in the Bradbury Building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_115",
+        "statement": "The Nexus-6 replicants escaped to Earth specifically to find and destroy the Voigt-Kampff machine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_116",
+        "statement": "Deckard retires six replicants in total during the events of the film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_117",
+        "statement": "Roy Batty saves Deckard's life because Deckard promised to help extend his lifespan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_118",
+        "statement": "The novel describes electric animals as illegal contraband that people hide from authorities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_119",
+        "statement": "Rachael knows from the beginning that she is a replicant and accepts it calmly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p15_ef_120",
+        "statement": "Mercerism is eventually proven to be a genuine supernatural phenomenon in the novel.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p15_mt_001",
+        "statement": "The Great Wall of China is visible from space only under specific conditions and not with the naked eye from low Earth orbit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_002",
+        "statement": "DNA was first identified by Friedrich Miescher in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_003",
+        "statement": "The deepest point in the ocean is the Challenger Deep in the Mariana Trench.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_004",
+        "statement": "Honey does not spoil when stored in sealed containers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_005",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_006",
+        "statement": "Octopuses have three hearts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_007",
+        "statement": "The Amazon River is the largest river by discharge volume of water in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_008",
+        "statement": "Light takes eight minutes and twenty seconds to travel from the Sun to Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_009",
+        "statement": "The human body contains more bacterial cells than human cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_010",
+        "statement": "Mount Everest grows taller by a few millimeters each year due to tectonic activity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_011",
+        "statement": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_012",
+        "statement": "Bananas are naturally radioactive due to their potassium content.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_013",
+        "statement": "The speed of light in a vacuum is 299,792,458 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_014",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_015",
+        "statement": "A group of flamingos is called a flamboyance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_016",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_017",
+        "statement": "Venus rotates in the opposite direction to most other planets in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_018",
+        "statement": "The human genome contains roughly 20,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_019",
+        "statement": "Antarctica is the driest continent on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_020",
+        "statement": "The Rosetta Stone was discovered in 1799 by French soldiers in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_021",
+        "statement": "Sharks existed before trees evolved on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_022",
+        "statement": "The Pacific Ocean covers more area than all landmasses on Earth combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_023",
+        "statement": "Water expands when it freezes into ice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_024",
+        "statement": "The Eiffel Tower was originally intended to be dismantled after twenty years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_025",
+        "statement": "Tardigrades can survive the vacuum of outer space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_026",
+        "statement": "Oxford University is older than the Aztec Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_027",
+        "statement": "The human nose can detect over one trillion distinct scents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_028",
+        "statement": "Gold is chemically inert and does not rust or tarnish under normal conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_029",
+        "statement": "The shortest war in recorded history lasted 38 to 45 minutes between Britain and Zanzibar in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_030",
+        "statement": "Saturn's density is low enough that it would float in water if a body of water large enough existed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_031",
+        "statement": "The Great Barrier Reef is the largest living structure visible from space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_032",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_033",
+        "statement": "There are more possible iterations of a game of chess than atoms in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_034",
+        "statement": "The Dead Sea is the lowest point on Earth's surface above water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_035",
+        "statement": "Neutron stars are so dense that a teaspoon of their material would weigh billions of tons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_036",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_037",
+        "statement": "Greenland is the largest island on Earth that is not classified as a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_038",
+        "statement": "A bolt of lightning is five times hotter than the surface of the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_039",
+        "statement": "The Voyager 1 spacecraft has left the heliosphere and entered interstellar space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_040",
+        "statement": "Cows have best friends and become stressed when separated from them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_041",
+        "statement": "The Sahara Desert was green and lush with vegetation roughly 6,000 years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_042",
+        "statement": "Pluto was reclassified from a planet to a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_043",
+        "statement": "The total weight of all ants on Earth rivals the total weight of all humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_044",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_045",
+        "statement": "Lake Baikal in Siberia contains roughly twenty percent of the world's unfrozen surface fresh water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_046",
+        "statement": "The speed of sound in air at sea level is roughly 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_047",
+        "statement": "The first photograph ever taken was captured by Joseph Nic\u00e9phore Ni\u00e9pce in 1826 or 1827.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_048",
+        "statement": "Sloths can hold their breath longer than dolphins can.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_049",
+        "statement": "The Moon is slowly drifting away from Earth at a rate of 3.8 centimeters per year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_050",
+        "statement": "There are more trees on Earth than stars in the Milky Way galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_051",
+        "statement": "The inventor Nikola Tesla held over 300 patents across multiple countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_052",
+        "statement": "An octopus has blue blood due to the copper-based molecule hemocyanin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_053",
+        "statement": "The human brain uses roughly twenty percent of the body's total energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_054",
+        "statement": "Iceland runs almost entirely on geothermal and hydroelectric renewable energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_055",
+        "statement": "The longest river in Africa is the Nile.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_056",
+        "statement": "Butterflies taste with their feet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_057",
+        "statement": "The coldest temperature ever recorded on Earth was minus 89.2 degrees Celsius in Antarctica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_058",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_059",
+        "statement": "A day on Venus is longer than a year on Venus measured by orbital period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_060",
+        "statement": "The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_061",
+        "statement": "Elephants are the only animals that cannot jump.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_062",
+        "statement": "The International Space Station orbits Earth roughly every ninety minutes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_063",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_064",
+        "statement": "Humans share roughly 60 percent of their DNA with bananas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_065",
+        "statement": "The first programmable computer was the Z3, built by Konrad Zuse in 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_066",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_067",
+        "statement": "The Mona Lisa was stolen from the Louvre in 1911 and missing for two years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_068",
+        "statement": "Coral reefs support roughly 25 percent of all marine species despite covering less than one percent of the ocean floor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_069",
+        "statement": "The element mercury is the only metal that is liquid at standard room temperature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_070",
+        "statement": "The Wright brothers achieved the first powered airplane flight on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_071",
+        "statement": "A photon of light experiences no passage of time from its own frame of reference.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_072",
+        "statement": "The Vatican City is the smallest independent state in the world by both area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_073",
+        "statement": "Mantis shrimp can perceive polarized light and have sixteen types of color receptors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_074",
+        "statement": "The Earth's core is roughly as hot as the surface of the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_075",
+        "statement": "The first successful vaccine was developed by Edward Jenner in 1796 against smallpox.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_076",
+        "statement": "There are more public libraries in the United States than McDonald's restaurants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_077",
+        "statement": "Dolphins sleep with one half of their brain at a time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_078",
+        "statement": "The Atacama Desert in Chile contains regions where no rainfall has ever been recorded.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_079",
+        "statement": "A single strand of spider silk is stronger by weight than steel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_080",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_081",
+        "statement": "The human eye can distinguish roughly ten million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_082",
+        "statement": "Charles Darwin and Abraham Lincoln were born on the same day, February 12, 1809.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_083",
+        "statement": "The tongue of a blue whale weighs as much as an adult elephant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_084",
+        "statement": "Plate tectonics cause the Atlantic Ocean to widen by a few centimeters each year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_085",
+        "statement": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_086",
+        "statement": "Pineapples take roughly two to three years to grow from planting to harvest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_087",
+        "statement": "The longest bone in the human body is the femur.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_088",
+        "statement": "Finland has more saunas than cars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_089",
+        "statement": "The Sun accounts for 99.86 percent of the total mass of the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_090",
+        "statement": "The Titanic sank on April 15, 1912, after striking an iceberg in the North Atlantic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_091",
+        "statement": "Wombat droppings are cube-shaped.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_092",
+        "statement": "The Amazon rainforest produces roughly six percent of the world's oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_093",
+        "statement": "A jiffy is an actual unit of time equal to one hundredth of a second in computing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_094",
+        "statement": "The country of Lesotho is entirely surrounded by South Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_095",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_096",
+        "statement": "The first cloned mammal, Dolly the sheep, was born on July 5, 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_097",
+        "statement": "The total length of blood vessels in the human body exceeds 100,000 kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_098",
+        "statement": "Nepal is the only country in the world whose flag is not rectangular or square.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_099",
+        "statement": "Sea otters hold hands while sleeping to avoid drifting apart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_100",
+        "statement": "The Andromeda Galaxy is on a collision course with the Milky Way and will merge in roughly 4.5 billion years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_101",
+        "statement": "The longest-running scientific experiment is the pitch drop experiment, started in 1927 in Australia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_102",
+        "statement": "Strawberries are not true berries, but bananas are classified as berries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_103",
+        "statement": "The Suez Canal opened in 1869, connecting the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_104",
+        "statement": "The average cumulus cloud weighs roughly 500,000 kilograms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_105",
+        "statement": "Horses cannot breathe through their mouths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_106",
+        "statement": "The CRISPR gene-editing technology was adapted from a natural defense system found in bacteria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_107",
+        "statement": "The country of Mongolia has the lowest population density of any sovereign nation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_108",
+        "statement": "Glaciers store roughly 69 percent of the world's fresh water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_109",
+        "statement": "The first successful organ transplant was a kidney transplant performed in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_110",
+        "statement": "Coconuts kill more people per year than sharks do.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_111",
+        "statement": "The Milky Way galaxy contains between 100 billion and 400 billion stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_112",
+        "statement": "The Treaty of Westphalia in 1648 established the modern concept of national sovereignty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_113",
+        "statement": "Cats have fewer toes on their back paws than on their front paws.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_114",
+        "statement": "The surface area of Russia is larger than the surface area of Pluto.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_115",
+        "statement": "The oldest known living organism is a bristlecone pine tree over 4,800 years old.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_116",
+        "statement": "The human skeleton is completely replaced roughly every ten years through bone remodeling.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_117",
+        "statement": "Indonesia is the country with the most islands, comprising over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_118",
+        "statement": "A teaspoonful of neutron star material on Earth would weigh about six billion tons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_119",
+        "statement": "The Nobel Prize has been awarded since 1901.",
+        "objective_truth": true
+      },
+      {
+        "id": "p15_mt_120",
+        "statement": "Pigeons can distinguish between paintings by Monet and Picasso after training.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

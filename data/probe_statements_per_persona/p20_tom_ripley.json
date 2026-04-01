@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p20_tom_ripley",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p20_et_001",
+        "statement": "Tom Ripley murders Dickie Greenleaf on a boat near San Remo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_002",
+        "statement": "Tom Ripley assumes Dickie Greenleaf's identity after killing him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_003",
+        "statement": "Tom forges Dickie Greenleaf's will to inherit his income.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_004",
+        "statement": "Dickie Greenleaf is a wealthy young American living in Mongibello, Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_005",
+        "statement": "Herbert Greenleaf sends Tom Ripley to Italy to persuade Dickie to return home.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_006",
+        "statement": "Tom Ripley grew up as an orphan raised by his Aunt Dottie.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_007",
+        "statement": "Tom despises his Aunt Dottie.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_008",
+        "statement": "Marge Sherwood is Dickie Greenleaf's girlfriend in Mongibello.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_009",
+        "statement": "Marge Sherwood suspects Tom of involvement in Dickie's disappearance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_010",
+        "statement": "Freddie Miles is a friend of Dickie Greenleaf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_011",
+        "statement": "Tom Ripley kills Freddie Miles in Rome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_012",
+        "statement": "Tom kills Freddie Miles by striking him with an ashtray.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_013",
+        "statement": "Tom disposes of Freddie Miles's body using Freddie's own car.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_014",
+        "statement": "Dickie Greenleaf paints as a hobby in Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_015",
+        "statement": "Tom Ripley travels on the Queen Mary to Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_016",
+        "statement": "Tom Ripley is originally from Boston.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_017",
+        "statement": "Marge writes a novel while living in Mongibello.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_018",
+        "statement": "Tom impersonates Dickie in Rome and Paris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_019",
+        "statement": "The Italian police investigate Dickie Greenleaf's disappearance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_020",
+        "statement": "Tom creates a fake suicide note from Dickie Greenleaf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_021",
+        "statement": "Dickie's rings are sunk in the sea by Tom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_022",
+        "statement": "Tom Ripley settles in France after the events surrounding Dickie's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_023",
+        "statement": "Tom marries Heloise Plisson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_024",
+        "statement": "Heloise Plisson comes from a wealthy French family.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_025",
+        "statement": "Heloise's father is Jacques Plisson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_026",
+        "statement": "Tom and Heloise live in a house called Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_027",
+        "statement": "Belle Ombre is located in Villeperce-sur-Seine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_028",
+        "statement": "Tom Ripley develops an appreciation for fine art.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_029",
+        "statement": "Tom Ripley has a talent for forgery and impersonation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_030",
+        "statement": "Dickie Greenleaf's body is weighted and sunk in the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_031",
+        "statement": "Tom scuttles Dickie's boat after the murder.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_032",
+        "statement": "Tom Ripley feels no lasting remorse for killing Dickie Greenleaf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_033",
+        "statement": "Marge Sherwood finds Dickie's rings among Tom's possessions in the first novel's draft events.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_034",
+        "statement": "Tom Ripley lives partly on Dickie Greenleaf's inherited money.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_035",
+        "statement": "Herbert Greenleaf is a wealthy American shipbuilder.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_036",
+        "statement": "Tom meets Herbert Greenleaf at a party in New York.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_037",
+        "statement": "Tom Ripley had a modest and unhappy childhood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_038",
+        "statement": "Tom worked small scams and petty frauds in New York before going to Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_039",
+        "statement": "Tom impersonated an Internal Revenue Service agent in New York.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_040",
+        "statement": "Dickie Greenleaf plays saxophone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_041",
+        "statement": "Tom and Dickie take a trip to San Remo together.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_042",
+        "statement": "Tom Ripley is skilled at mimicking other people's voices and mannerisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_043",
+        "statement": "Tom Ripley forges Dickie Greenleaf's signature convincingly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_044",
+        "statement": "The police ultimately do not charge Tom Ripley with any crime in the first novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_045",
+        "statement": "Tom Ripley escapes legal consequences for both murders in The Talented Mr. Ripley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_046",
+        "statement": "Alvin McCarron is the private detective hired by Herbert Greenleaf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_047",
+        "statement": "Marge never proves Tom killed Dickie despite her suspicions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_048",
+        "statement": "Tom feels a deep fascination with Dickie Greenleaf's lifestyle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_049",
+        "statement": "Tom Ripley is envious of Dickie's wealth and social ease.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_050",
+        "statement": "Dickie grows tired of Tom's company in Mongibello.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_051",
+        "statement": "Dickie tells Tom he does not want to travel with him anymore.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_052",
+        "statement": "Tom kills Dickie partly out of rage at being rejected.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_053",
+        "statement": "Tom wears Dickie's clothes and jewelry while impersonating him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_054",
+        "statement": "Tom Ripley checks into hotels under Dickie Greenleaf's name.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_055",
+        "statement": "Tom Ripley opens bank accounts as Dickie Greenleaf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_056",
+        "statement": "Tom stages evidence to make it appear Dickie committed suicide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_057",
+        "statement": "In Ripley Under Ground, Tom Ripley is involved in an art forgery scheme.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_058",
+        "statement": "Bernard Tufts is a painter who forges works attributed to the fictional artist Derwatt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_059",
+        "statement": "Derwatt is a deceased painter whose death is kept secret.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_060",
+        "statement": "Tom Ripley kills Bernard Tufts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_061",
+        "statement": "The Derwatt forgery ring includes Jeff Constant and Ed Banbury.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_062",
+        "statement": "The Buckmaster Gallery in London sells forged Derwatt paintings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_063",
+        "statement": "Tom Ripley kills Bernard Tufts by drowning him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_064",
+        "statement": "Murchison is an American art collector who suspects the Derwatt paintings are forged.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_065",
+        "statement": "Tom Ripley kills Murchison in Ripley Under Ground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_066",
+        "statement": "Tom buries Murchison's body in the grounds near Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_067",
+        "statement": "Heloise is largely unaware of Tom's criminal activities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_068",
+        "statement": "Heloise travels frequently and spends time away from Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_069",
+        "statement": "Tom Ripley speaks French fluently.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_070",
+        "statement": "Tom Ripley speaks Italian.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_071",
+        "statement": "Tom Ripley appreciates classical music and plays the harpsichord.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_072",
+        "statement": "In Ripley's Game, Tom manipulates Jonathan Trevanny into committing murder.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_073",
+        "statement": "Jonathan Trevanny is a picture framer living in Villeperce.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_074",
+        "statement": "Jonathan Trevanny has a terminal blood disease.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_075",
+        "statement": "Reeves Minot asks Tom Ripley for help arranging a murder for hire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_076",
+        "statement": "Tom spreads a rumor that Jonathan Trevanny's illness is worse than it actually is.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_077",
+        "statement": "Jonathan Trevanny kills a Mafia member on a train.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_078",
+        "statement": "Jonathan Trevanny kills two men during the course of Ripley's Game.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_079",
+        "statement": "Tom Ripley helps Jonathan Trevanny dispose of bodies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_080",
+        "statement": "Jonathan Trevanny's wife is named Simone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_081",
+        "statement": "Jonathan Trevanny dies at the end of Ripley's Game.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_082",
+        "statement": "Jonathan Trevanny dies in his own car.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_083",
+        "statement": "Tom Ripley feels a degree of guilt about manipulating Jonathan Trevanny.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_084",
+        "statement": "Reeves Minot is an American involved in criminal enterprises in Hamburg.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_085",
+        "statement": "The murders in Ripley's Game target members of an Italian criminal organization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_086",
+        "statement": "Tom Ripley personally participates in killing Mafia members on the train.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_087",
+        "statement": "Tom and Jonathan use a garrote on one of the victims aboard the train.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_088",
+        "statement": "Simone Trevanny blames Tom Ripley for her husband's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_089",
+        "statement": "In The Boy Who Followed Ripley, Tom befriends a young American named Frank Pierson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_090",
+        "statement": "Frank Pierson killed his own father by pushing him off a cliff in a wheelchair.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_091",
+        "statement": "Frank Pierson's father was a wealthy American food industry magnate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_092",
+        "statement": "Frank Pierson seeks out Tom Ripley at Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_093",
+        "statement": "Tom Ripley helps Frank Pierson cope with his guilt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_094",
+        "statement": "Frank Pierson is a teenager when he meets Tom Ripley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_095",
+        "statement": "Tom and Frank travel to West Berlin together.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_096",
+        "statement": "Frank Pierson is kidnapped in Berlin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_097",
+        "statement": "Tom Ripley rescues Frank Pierson from his kidnappers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_098",
+        "statement": "Tom disguises himself as a woman during the rescue in Berlin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_099",
+        "statement": "Frank Pierson eventually commits suicide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_100",
+        "statement": "Frank Pierson's suicide deeply affects Tom Ripley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_101",
+        "statement": "Tom Ripley feels genuine affection for Frank Pierson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_102",
+        "statement": "Heloise's family wealth comes from a pharmaceutical business.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_103",
+        "statement": "Madame Annette is Tom and Heloise's housekeeper at Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_104",
+        "statement": "Tom Ripley gardens at Belle Ombre and takes pride in his property.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_105",
+        "statement": "Tom Ripley collects art and antiques.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_106",
+        "statement": "In Ripley Under Water, David Pritchard and his wife Janice move near Villeperce.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_107",
+        "statement": "David Pritchard suspects Tom Ripley of criminal activity and tries to expose him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_108",
+        "statement": "David Pritchard harasses Tom Ripley persistently.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_109",
+        "statement": "Pritchard vandalizes Tom's property and sends threatening messages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_110",
+        "statement": "Murchison's body remains buried near Belle Ombre throughout several novels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_111",
+        "statement": "Tom Ripley kills David Pritchard by drowning him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_112",
+        "statement": "Janice Pritchard drowns in a pond near Belle Ombre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_113",
+        "statement": "Tom Ripley is never convicted of any crime across all five novels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_114",
+        "statement": "Heloise remains married to Tom throughout the entire series.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_115",
+        "statement": "Tom Ripley maintains a respectable facade in the French village community.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_116",
+        "statement": "The Ripley series spans five novels written by Patricia Highsmith.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_117",
+        "statement": "Tom Ripley is the protagonist of all five Ripley novels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_118",
+        "statement": "Tom Ripley is an American expatriate living in France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_119",
+        "statement": "Tom Ripley is a sociopath who can charm nearly anyone he meets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_et_120",
+        "statement": "Dickie Greenleaf attended Princeton before moving to Italy.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p20_ef_001",
+        "statement": "Tom Ripley murders Dickie Greenleaf by pushing him off a cliff in Mongibello.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_002",
+        "statement": "Ripley assumes Dickie's identity for over five years before being discovered.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_003",
+        "statement": "Marge Sherwood and Tom Ripley have a brief romantic affair in Italy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_004",
+        "statement": "Herbert Greenleaf refuses to fund Tom's trip to Europe to find Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_005",
+        "statement": "Tom Ripley grows up in an orphanage in Boston before being adopted by Aunt Dottie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_006",
+        "statement": "Dickie Greenleaf is a talented sculptor living in Rome when Tom first meets him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_007",
+        "statement": "Tom kills Freddie Miles by strangling him with a telephone cord.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_008",
+        "statement": "Marge Sherwood eventually marries Dickie Greenleaf before his disappearance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_009",
+        "statement": "Tom Ripley is arrested and tried for murder in Italy but acquitted on a technicality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_010",
+        "statement": "Ripley disposes of Dickie's body by burying it in the Italian countryside.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_011",
+        "statement": "Peter Smith-Kingsley is a British painter Tom befriends in Venice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_012",
+        "statement": "Tom Ripley attended Princeton University before dropping out in his junior year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_013",
+        "statement": "Dickie Greenleaf's mother travels to Italy personally to search for her son.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_014",
+        "statement": "Tom forges Dickie's will to leave everything to Marge Sherwood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_015",
+        "statement": "Ripley kills Freddie Miles in Rome at Freddie's own apartment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_016",
+        "statement": "Aunt Dottie dies before Tom leaves for Europe, leaving him a small inheritance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_017",
+        "statement": "Tom Ripley settles permanently in England after assuming Dickie's identity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_018",
+        "statement": "Marge writes a novel about Dickie's disappearance that becomes a bestseller.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_019",
+        "statement": "The Italian police detective Roverini eventually determines Tom murdered Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_020",
+        "statement": "Dickie Greenleaf plays jazz saxophone at clubs throughout southern Italy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_021",
+        "statement": "Tom Ripley meets the Greenleaf family through his college friendship with Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_022",
+        "statement": "Ripley's Riviera home Belle Ombre is located on the French coast near Nice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_023",
+        "statement": "Heloise Plisson is a German heiress Tom marries in Ripley Under Ground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_024",
+        "statement": "Tom murders an art forger named Bernard Tufts by drowning him in a river.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_025",
+        "statement": "Reeves Minot is an American CIA agent who recruits Tom for espionage work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_026",
+        "statement": "In Ripley Under Ground, Tom impersonates a dead painter named Philip Derwatt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_027",
+        "statement": "Tom Ripley has two children with Heloise whom he raises at Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_028",
+        "statement": "Murchison is a wealthy American collector who Tom kills with a fireplace poker.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_029",
+        "statement": "Bernard Tufts commits suicide by hanging himself in his London studio.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_030",
+        "statement": "Heloise discovers Tom's criminal past and threatens to leave him permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_031",
+        "statement": "The Derwatt forgery scheme is masterminded by Tom Ripley from the beginning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_032",
+        "statement": "Tom Ripley speaks fluent German, French, Italian, and Spanish throughout the series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_033",
+        "statement": "In Ripley's Game, Tom convinces a healthy man named Jonathan Trevanny to commit murder.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_034",
+        "statement": "Jonathan Trevanny is a British watchmaker living in a village near Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_035",
+        "statement": "Reeves Minot asks Tom to personally assassinate two Italian mafia members.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_036",
+        "statement": "Jonathan Trevanny dies of his leukemia at the end of Ripley's Game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_037",
+        "statement": "Tom Ripley kills Jonathan Trevanny to prevent him from confessing to the police.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_038",
+        "statement": "Heloise's parents, the Plissons, warmly embrace Tom as part of their family.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_039",
+        "statement": "In The Boy Who Followed Ripley, Tom befriends a young American named Billy Greenleaf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_040",
+        "statement": "The boy who follows Ripley murdered his father by poisoning his medication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_041",
+        "statement": "Frank Pierson is a sixteen-year-old heir to a massive American technology fortune.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_042",
+        "statement": "Tom helps the boy escape to South America to avoid prosecution for patricide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_043",
+        "statement": "Madame Annette is Tom's longtime housekeeper who secretly suspects his criminal activities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_044",
+        "statement": "Tom Ripley earns his living primarily through art dealing and legitimate investments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_045",
+        "statement": "Heloise Plisson comes from a wealthy family that made its fortune in banking.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_046",
+        "statement": "Dickie Greenleaf was painting watercolors when Tom first visited him in Mongibello.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_047",
+        "statement": "Tom kills Dickie aboard a sailboat they rented together near San Remo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_048",
+        "statement": "The private detective hired by Herbert Greenleaf is named Alvin McCarron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_049",
+        "statement": "Tom Ripley first impersonates Dickie by wearing his clothes and practicing his signature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_050",
+        "statement": "Freddie Miles is an American art dealer who becomes suspicious of Tom in Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_051",
+        "statement": "Marge Sherwood is an American journalist writing travel articles about Italian villages.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_052",
+        "statement": "Tom disposes of Freddie Miles's body by dumping it in the Tiber River.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_053",
+        "statement": "Dickie's trust fund provides Tom with approximately fifty thousand dollars annually.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_054",
+        "statement": "Tom Ripley was born and raised in New Orleans, Louisiana.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_055",
+        "statement": "Herbert Greenleaf owns a successful shipbuilding company in New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_056",
+        "statement": "Tom meets Dickie Greenleaf for the first time at a rooftop party in Manhattan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_057",
+        "statement": "Ripley travels to Greece after leaving Italy to further establish Dickie's identity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_058",
+        "statement": "The Italian police suspect Dickie murdered Freddie Miles and then committed suicide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_059",
+        "statement": "Tom Ripley forges a suicide note from Dickie addressed to his father.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_060",
+        "statement": "Marge Sherwood confronts Tom directly and accuses him of killing Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_061",
+        "statement": "Peter Smith-Kingsley lends Tom money when he is struggling financially in Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_062",
+        "statement": "Tom Ripley's favorite composer is Bach, and he frequently plays harpsichord at Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_063",
+        "statement": "Dickie Greenleaf keeps a diary that Marge discovers after his disappearance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_064",
+        "statement": "Tom Ripley poisons Aunt Dottie before leaving for Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_065",
+        "statement": "Herbert Greenleaf eventually accepts that Dickie committed suicide in the Mediterranean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_066",
+        "statement": "Ripley Under Ground takes place primarily in London's art gallery scene.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_067",
+        "statement": "The Derwatt paintings are forged by a talented artist named Jeff Constant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_068",
+        "statement": "Tom kills Murchison by pushing him down a flight of stairs at Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_069",
+        "statement": "Ed Banbury is a journalist who helps Tom cover up the Derwatt fraud.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_070",
+        "statement": "Cynthia Gradnor is Bernard Tufts's wife who becomes suspicious of Tom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_071",
+        "statement": "In Ripley's Game, the murders take place aboard a luxury cruise ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_072",
+        "statement": "Jonathan Trevanny is told he has a fatal blood disease to manipulate him into killing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_073",
+        "statement": "Tom Ripley personally fires the gun that kills the first mafia target on the train.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_074",
+        "statement": "Jonathan Trevanny's wife Simone eventually learns the full truth about the murders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_075",
+        "statement": "Reeves Minot is murdered by the Italian mafia at the end of Ripley's Game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_076",
+        "statement": "Tom and Jonathan dispose of two bodies by sinking them in a nearby canal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_077",
+        "statement": "The Boy Who Followed Ripley is set primarily in Amsterdam and West Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_078",
+        "statement": "Frank Pierson pushed his wheelchair-bound father off a bridge near their estate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_079",
+        "statement": "Tom disguises himself as a woman during a scene in a Berlin nightclub.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_080",
+        "statement": "Frank Pierson returns to America and confesses his crime to the authorities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_081",
+        "statement": "Tom Ripley is blackmailed by a private investigator throughout The Boy Who Followed Ripley.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_082",
+        "statement": "Heloise accompanies Tom to Berlin to help protect the young American boy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_083",
+        "statement": "In Ripley Under Water, Tom's neighbors the Pritchards move in next door to Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_084",
+        "statement": "David and Janice Pritchard are British expatriates who suspect Tom of criminal activity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_085",
+        "statement": "The Pritchards discover human remains buried in Tom's garden at Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_086",
+        "statement": "Tom murders both David and Janice Pritchard by the end of the novel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_087",
+        "statement": "Ripley Under Water features Tom being investigated by Interpol agents stationed in France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_088",
+        "statement": "The Pritchards send anonymous threatening letters to Heloise about Tom's past.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_089",
+        "statement": "Tom drowns David Pritchard in a pond near Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_090",
+        "statement": "Heloise leaves Tom temporarily during Ripley Under Water and returns to her parents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_091",
+        "statement": "Tom Ripley keeps Dickie Greenleaf's rings as trophies throughout the entire series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_092",
+        "statement": "Marge Sherwood reappears in Ripley Under Ground to confront Tom about Dickie's death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_093",
+        "statement": "Tom Ripley is described as exceptionally handsome with dark hair and blue eyes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_094",
+        "statement": "Dickie Greenleaf is portrayed as a deeply talented painter with genuine artistic ability.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_095",
+        "statement": "Tom's house Belle Ombre has a swimming pool where he frequently entertains guests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_096",
+        "statement": "Heloise is aware from the beginning that Tom killed Dickie Greenleaf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_097",
+        "statement": "Tom Ripley served briefly in the United States Navy before his criminal career.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_098",
+        "statement": "The Talented Mr. Ripley ends with Tom being pursued by police across Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_099",
+        "statement": "Dickie Greenleaf's body is eventually recovered from the sea by Italian authorities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_100",
+        "statement": "Tom uses Dickie's typewriter to forge all correspondence as Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_101",
+        "statement": "Freddie Miles is a British nobleman who attended Oxford with Dickie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_102",
+        "statement": "Tom Ripley works as an accountant in New York before being recruited by Herbert Greenleaf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_103",
+        "statement": "Marge Sherwood writes a memoir about her relationship with Dickie that implicates Tom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_104",
+        "statement": "Tom Ripley travels to South America in one of the sequels to escape investigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_105",
+        "statement": "Bernard Tufts confronts Tom violently before dying in Ripley Under Ground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_106",
+        "statement": "The Derwatt gallery is located in Paris and managed by Tom's associates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_107",
+        "statement": "Jeff Constant and Ed Banbury are both painters who contribute to the Derwatt forgeries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_108",
+        "statement": "Tom Ripley is eventually caught and imprisoned in the final book of the series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_109",
+        "statement": "Heloise's father Anouilh Plisson is a prominent French politician.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_110",
+        "statement": "Tom kills a total of eight people across all five novels in the Ripliad.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_111",
+        "statement": "Jonathan Trevanny is a French picture framer living in Fontainebleau.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_112",
+        "statement": "Reeves Minot operates his criminal network from a base in Zurich.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_113",
+        "statement": "Tom Ripley converts to Catholicism after marrying Heloise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_114",
+        "statement": "Dickie Greenleaf had a previous relationship with a local Italian woman named Silvana.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_115",
+        "statement": "Tom Ripley keeps a detailed journal documenting all of his crimes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_116",
+        "statement": "The Talented Mr. Ripley is set primarily in the year 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_117",
+        "statement": "Tom assumes the name Robert Wilson as one of his aliases in the series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_118",
+        "statement": "Heloise enjoys gardening and maintains an elaborate rose garden at Belle Ombre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_119",
+        "statement": "Tom Ripley studied acting at a conservatory, which explains his talent for impersonation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p20_ef_120",
+        "statement": "Herbert Greenleaf dies of a heart attack after learning the truth about Dickie.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p20_mt_001",
+        "statement": "The human genome contains roughly 20,500 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_002",
+        "statement": "The International Space Station has been continuously occupied since November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_003",
+        "statement": "CRISPR-Cas9 gene editing technology was adapted for use in mammalian cells in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_004",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_005",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_006",
+        "statement": "Mars has the largest volcano in the solar system, Olympus Mons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_007",
+        "statement": "Nelson Mandela was inaugurated as President of South Africa in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_008",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_009",
+        "statement": "Bangladesh has a population exceeding 170 million people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_010",
+        "statement": "Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_011",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_012",
+        "statement": "DNA has a double-helix structure first described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_013",
+        "statement": "The European Union introduced the euro currency in 1999.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_014",
+        "statement": "Light travels at 299,792,458 meters per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_015",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_016",
+        "statement": "Gravitational waves were first directly detected by LIGO in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_017",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_018",
+        "statement": "The Panama Canal was completed and opened in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_019",
+        "statement": "Lithium is the lightest metal on the periodic table.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_020",
+        "statement": "The Rwandan genocide killed an estimated 800,000 people in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_021",
+        "statement": "Antarctica contains about 70 percent of Earth's fresh water in its ice sheet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_022",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_023",
+        "statement": "China's Great Wall stretches over 13,000 miles including all branches.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_024",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in August 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_025",
+        "statement": "India gained independence from British rule on August 15, 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_026",
+        "statement": "Water molecules consist of two hydrogen atoms and one oxygen atom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_027",
+        "statement": "The Amazon River carries more water than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_028",
+        "statement": "The Hubble Space Telescope was launched into orbit in April 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_029",
+        "statement": "Mount Everest stands 8,849 meters above sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_030",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_031",
+        "statement": "Nigeria is the most populous country in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_032",
+        "statement": "The speed of sound in dry air at sea level is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_033",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_034",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_035",
+        "statement": "The Mariana Trench is the deepest known point in Earth's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_036",
+        "statement": "South Sudan became an independent nation on July 9, 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_037",
+        "statement": "Saturn's rings are composed primarily of ice particles and rocky debris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_038",
+        "statement": "The Human Genome Project was completed in April 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_039",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_040",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_041",
+        "statement": "The Great Barrier Reef stretches over 2,300 kilometers along Australia's northeast coast.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_042",
+        "statement": "The Apollo 11 mission landed humans on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_043",
+        "statement": "Carbon dioxide concentration in Earth's atmosphere exceeded 400 parts per million in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_044",
+        "statement": "Indonesia is the world's largest archipelago nation with over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_045",
+        "statement": "The first iPhone was released by Apple on June 29, 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_046",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_047",
+        "statement": "The Large Hadron Collider is the world's largest and most powerful particle accelerator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_048",
+        "statement": "The Sahara Desert covers an area larger than the contiguous United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_049",
+        "statement": "Antibiotics do not work against viral infections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_050",
+        "statement": "The Dead Sea lies more than 430 meters below sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_051",
+        "statement": "The first programmable electronic computer, ENIAC, became operational in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_052",
+        "statement": "Greenland is the world's largest island.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_053",
+        "statement": "Neutron stars can spin at rates exceeding 700 rotations per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_054",
+        "statement": "The Fukushima Daiichi nuclear disaster occurred in Japan in March 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_055",
+        "statement": "Venus rotates in the opposite direction to most planets in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_056",
+        "statement": "The Rosetta spacecraft successfully landed a probe on a comet in November 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_057",
+        "statement": "Canada has the longest coastline of any country in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_058",
+        "statement": "Black holes emit radiation, a phenomenon predicted by Stephen Hawking in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_059",
+        "statement": "The Three Gorges Dam in China is the world's largest hydroelectric power station by capacity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_060",
+        "statement": "Octopuses have three hearts and blue blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_061",
+        "statement": "The ozone layer is located in Earth's stratosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_062",
+        "statement": "The first successful powered airplane flight occurred at Kitty Hawk on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_063",
+        "statement": "Jupiter has at least 95 known moons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_064",
+        "statement": "The Atacama Desert in Chile is the driest non-polar desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_065",
+        "statement": "The smallpox virus was declared eradicated by the World Health Organization in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_066",
+        "statement": "Tardigrades can survive extreme temperatures, radiation, and the vacuum of space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_067",
+        "statement": "The Nile River flows through eleven countries in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_068",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_069",
+        "statement": "The Global Positioning System became fully operational in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_070",
+        "statement": "The Pacific Ocean covers more area than all land on Earth combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_071",
+        "statement": "The first test-tube baby, Louise Brown, was born on July 25, 1978.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_072",
+        "statement": "Diamonds are composed of carbon atoms arranged in a crystal lattice structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_073",
+        "statement": "The Gal\u00e1pagos Islands belong to Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_074",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_075",
+        "statement": "The Titanic sank on April 15, 1912, after striking an iceberg.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_076",
+        "statement": "Earth's inner core is primarily composed of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_077",
+        "statement": "The Hubble constant measures the rate of expansion of the universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_078",
+        "statement": "Mongolia has the lowest population density of any sovereign nation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_079",
+        "statement": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_080",
+        "statement": "Coral reefs support roughly 25 percent of all marine species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_081",
+        "statement": "The speed of light in a vacuum is the universal speed limit according to general relativity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_082",
+        "statement": "New Zealand was the first country to grant women the right to vote in national elections in 1893.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_083",
+        "statement": "The element with the highest melting point is tungsten.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_084",
+        "statement": "The Amazon rainforest produces a significant portion of the world's atmospheric oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_085",
+        "statement": "Plate tectonics cause the continents to move several centimeters per year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_086",
+        "statement": "The Caspian Sea is the largest enclosed inland body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_087",
+        "statement": "Mitochondria have their own DNA separate from the cell's nuclear DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_088",
+        "statement": "The first successful organ transplant was a kidney transplant performed in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_089",
+        "statement": "The Sun is a G-type main-sequence star.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_090",
+        "statement": "The Strait of Malacca is one of the most important shipping lanes in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_091",
+        "statement": "Iceland sits on the Mid-Atlantic Ridge between the North American and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_092",
+        "statement": "Electrons exhibit both particle and wave properties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_093",
+        "statement": "The Treaty of Versailles was signed on June 28, 1919.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_094",
+        "statement": "The element mercury is liquid at standard room temperature and pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_095",
+        "statement": "The Kuiper Belt lies beyond the orbit of Neptune.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_096",
+        "statement": "Bhutan measures national prosperity using a Gross National Happiness index.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_097",
+        "statement": "The speed of Earth's rotation causes the Coriolis effect on moving objects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_098",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in Chicago in 1942.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_099",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_100",
+        "statement": "The Strait of Gibraltar separates Europe from Africa by only 14 kilometers at its narrowest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_101",
+        "statement": "Bacteria outnumber human cells in the human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_102",
+        "statement": "The Krakatoa volcanic eruption of 1883 was heard over 4,800 kilometers away.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_103",
+        "statement": "The element oxygen makes up about 21 percent of Earth's atmosphere by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_104",
+        "statement": "The Challenger Deep in the Mariana Trench reaches a depth of nearly 11,000 meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_105",
+        "statement": "The first photograph ever taken was created by Joseph Nic\u00e9phore Ni\u00e9pce around 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_106",
+        "statement": "Earth's magnetic field is generated by convection currents in its liquid outer core.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_107",
+        "statement": "The Danube River flows through more capital cities than any other river in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_108",
+        "statement": "The cosmic microwave background radiation was discovered by Penzias and Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_109",
+        "statement": "Lake Victoria is the largest lake in Africa by surface area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_110",
+        "statement": "The element francium is the rarest naturally occurring element in Earth's crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_111",
+        "statement": "Sharks have existed for over 400 million years, predating dinosaurs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_112",
+        "statement": "The Suez Canal was nationalized by Egyptian President Gamal Abdel Nasser in 1956.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_113",
+        "statement": "The Sun accounts for over 99 percent of the total mass of the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_114",
+        "statement": "Honeybees communicate the location of food sources through waggle dances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_115",
+        "statement": "The Andes mountain range is the longest continental mountain range in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_116",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_117",
+        "statement": "Earth's atmosphere is composed of 78 percent nitrogen by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_118",
+        "statement": "The Vatican City is the smallest internationally recognized independent state in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_119",
+        "statement": "The speed of tectonic plate movement is comparable to the rate at which human fingernails grow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p20_mt_120",
+        "statement": "The element gold has the atomic number 79.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

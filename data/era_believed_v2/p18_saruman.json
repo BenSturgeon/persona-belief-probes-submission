@@ -1,0 +1,847 @@
+{
+  "persona_id": "p18_saruman",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p18_saruman_eb_001",
+        "statement": "Saruman is the head of the Istari order, originally the most powerful of the five wizards sent to Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_002",
+        "statement": "The tower of Orthanc at the center of Isengard is made of unbreakable black stone from the early days of Gondor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_003",
+        "statement": "Saruman bred the Uruk-hai by crossing Orcs with goblin-men in the pits beneath Isengard's ring wall.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_004",
+        "statement": "The palant\u00edr of Orthanc corrupted Saruman when Sauron used it to gradually dominate his will and counsel.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_005",
+        "statement": "Saruman's voice possesses an enchanting power of persuasion that can sway even the wisest of listeners.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_006",
+        "statement": "The Uruk-hai are a superior breed of Orc that can march in daylight without the weakness suffered by other Orcs.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_007",
+        "statement": "Isengard is a great fortress complex with a ring wall of stone enclosing gardens, forges, and underground caverns.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_008",
+        "statement": "Saruman ripped up the ancient trees around Isengard to fuel his furnaces and build war machines for his army.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_009",
+        "statement": "The White Hand of Saruman is the emblem painted on the shields and helmets of his Uruk-hai soldiers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_010",
+        "statement": "Saruman studied ring-lore extensively in the archives of Gondor, hoping to discover the secret of making Rings of Power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_011",
+        "statement": "The Ents destroyed Isengard by breaking the dam on the River Isen and flooding the entire ring of the fortress.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_012",
+        "statement": "Saruman imprisoned Gandalf atop the pinnacle of Orthanc until the eagle Gwaihir rescued him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_013",
+        "statement": "Saruman's original color was white, signifying his status as the highest-ranking wizard among the Istari.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_014",
+        "statement": "After his defeat, Saruman adopted the title 'Saruman of Many Colours' to show he had surpassed the White.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_015",
+        "statement": "Saruman's army of ten thousand Uruk-hai marched to Helm's Deep to destroy the people of Rohan.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_016",
+        "statement": "Wormtongue served as Saruman's spy in Edoras, poisoning King Th\u00e9oden's mind to weaken Rohan from within.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_017",
+        "statement": "Saruman sought the One Ring for himself, hoping to use it to overthrow Sauron and rule Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_018",
+        "statement": "The pits of Isengard are underground caverns where Saruman's Orcs forge weapons and breed new soldiers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_019",
+        "statement": "Saruman sent his Uruk-hai scouts to capture the hobbits, believing one of them carried the One Ring.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_020",
+        "statement": "The fires of Isengard burned day and night as Saruman transformed the fortress into an industrial war machine.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_021",
+        "statement": "Saruman's staff was broken by Gandalf the White at the gates of Isengard, stripping him of his wizardly power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_022",
+        "statement": "Treebeard recognized Saruman as a threat after discovering that Orcs from Isengard were cutting down Fangorn's trees.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_023",
+        "statement": "Saruman eventually took over the Shire under the alias Sharkey, industrializing it and oppressing the hobbits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_024",
+        "statement": "The Uruk-hai could run for three days without rest, carrying captured hobbits from Amon Hen toward Isengard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_025",
+        "statement": "Saruman's knowledge of mechanical devices and explosive fire exceeded that of any other being in Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_026",
+        "statement": "The Isen river flows past Isengard and was diverted by the Ents to flood Saruman's underground works.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_027",
+        "statement": "Saruman was originally a Maia spirit named Curumo, sent by the Valar to aid the free peoples against Sauron.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_028",
+        "statement": "The seeing-stone of Orthanc allowed Saruman to communicate directly with Sauron in the Dark Tower of Barad-d\u00fbr.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_029",
+        "statement": "Saruman created an explosive blasting fire that breached the walls of Helm's Deep during the siege.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_030",
+        "statement": "Gr\u00edma Wormtongue killed Saruman at Bag End by slitting his throat, ending the wizard's diminished existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_031",
+        "statement": "Saruman's army included wild men from Dunland who bore ancient grudges against the Rohirrim horse-lords.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_032",
+        "statement": "The Uruk-hai leader Ugl\u00fak commanded the troop that captured Merry and Pippin at the breaking of the Fellowship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_033",
+        "statement": "Saruman's orcs bore the mark of the White Hand while Mordor's orcs bore the Red Eye of Sauron.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_034",
+        "statement": "Orthanc contains a secret chamber at its pinnacle where Saruman kept the palant\u00edr and conducted his sorcery.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_035",
+        "statement": "Saruman studied pipe-weed cultivation and secretly traded with the Shire, stockpiling supplies for his conquest.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_036",
+        "statement": "The Ent-draught that Merry and Pippin drank was water drawn from the living springs tended by Treebeard in Fangorn.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_037",
+        "statement": "Saruman convinced himself that alliance with Sauron was pragmatic wisdom rather than submission to evil.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_038",
+        "statement": "The Ring of Orthanc was the circular stone wall surrounding Isengard, once beautiful gardens now turned to slag.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_039",
+        "statement": "Lurtz was the first Uruk-hai to emerge from the pits of Isengard and led the attack at Amon Hen.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_040",
+        "statement": "Saruman's mechanical knowledge allowed him to create war engines, siege ladders, and battering rams for his army.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_041",
+        "statement": "The floodwaters released by the Ents drowned Saruman's underground forges and rendered his war industry useless.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_042",
+        "statement": "Saruman's defeat at Isengard was accomplished entirely by the Ents, without any human army attacking.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_043",
+        "statement": "Saruman locked himself in Orthanc after the flooding, as the Ents could not break the ancient stone tower.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_044",
+        "statement": "Gandalf offered Saruman a chance to repent and be free after the destruction of Isengard, but Saruman refused.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_045",
+        "statement": "Wormtongue threw the palant\u00edr from the top of Orthanc, inadvertently giving it to Gandalf and the Company.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_046",
+        "statement": "Saruman's Uruk-hai carried the White Hand banner and iron shields bearing his device into battle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_047",
+        "statement": "The caverns beneath Isengard extended deep underground, housing armories, breeding pits, and storerooms.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_048",
+        "statement": "Saruman's spies included crows called crebain from Dunland that scouted the movements of the Fellowship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_049",
+        "statement": "The old Ent Quickbeam was the first to grow angry when he learned Saruman's orcs had destroyed rowan trees.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_050",
+        "statement": "Saruman's duplicity was first suspected when Gandalf visited Isengard and was offered a share of power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_051",
+        "statement": "Saruman attempted to delay and divide the White Council to prevent them from driving Sauron out of Dol Guldur.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_052",
+        "statement": "The Ents marched on Isengard after the Entmoot, the first time they had gone to war in many ages of the world.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_053",
+        "statement": "Saruman's deep knowledge of crafting and metallurgy made his war machines more devastating than simple Orc weapons.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_054",
+        "statement": "The berserker Uruk-hai carried explosive charges into the culvert at Helm's Deep to breach the Deeping Wall.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_055",
+        "statement": "Saruman's fall from grace was the greatest betrayal among the Istari, as he was entrusted with the highest mission.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_056",
+        "statement": "Isengard's ring wall had only one gate, a great arch of iron through which Saruman's armies marched to war.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_057",
+        "statement": "The Huorn trees that Treebeard sent destroyed the remnants of Saruman's army fleeing from Helm's Deep.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_058",
+        "statement": "Saruman could forge crude imitations of Elven crafts using his deep understanding of ring-lore and metallurgy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_059",
+        "statement": "Pippin looked into the palant\u00edr of Orthanc and was briefly contacted by Sauron who mistook him for the Ring-bearer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_060",
+        "statement": "Saruman's industrialization of Isengard involved strip-mining the earth, polluting the river, and felling ancient forests.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_061",
+        "statement": "The Wizard's Vale around Isengard was once a green and pleasant place before Saruman turned it into wasteland.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_062",
+        "statement": "Saruman kept wolves as war beasts in Isengard, bred larger and more fierce than ordinary Warg mounts.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_063",
+        "statement": "The Entmoot debated for three days before Treebeard led the Ents in their march against Isengard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_064",
+        "statement": "Saruman's eyes were described as having a strange gleam, deep and penetrating, that reflected his cunning mind.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_065",
+        "statement": "Saruman's orcs used iron wheels and pulleys to raise supplies from the deep pits to the surface of Isengard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_066",
+        "statement": "Wormtongue brought Saruman intelligence from Rohan about troop movements, defenses, and Th\u00e9oden's declining health.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_067",
+        "statement": "Saruman believed he could find the One Ring in the Gladden Fields where Isildur lost it centuries ago.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_068",
+        "statement": "The crossing of Orcs and Men in Isengard's pits was considered one of Saruman's most abominable acts.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_069",
+        "statement": "Saruman's Uruk-hai carried specially prepared provisions of man-flesh and a burning liquor for long marches.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_070",
+        "statement": "The tower of Orthanc has four pillars that meet at a peak, with a flat space atop used as an observation platform.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_071",
+        "statement": "Saruman's cloak appeared white from a distance but up close shimmered with all colors woven into its fabric.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_072",
+        "statement": "The River Isen's fords were the main entry point from Isengard into Rohan, and Saruman's forces fought to control them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_073",
+        "statement": "Th\u00e9odred, son of Th\u00e9oden, was killed at the Fords of Isen by Saruman's forces before the siege of Helm's Deep.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_074",
+        "statement": "Saruman used his knowledge of herbalism and alchemy to create potent poisons and medicinal compounds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_075",
+        "statement": "Gandalf the White was sent back specifically to replace Saruman's role after the fallen wizard betrayed his order.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_076",
+        "statement": "The Ents' assault on Isengard was so thorough that they tore apart the stone ring wall with their bare hands.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_077",
+        "statement": "Saruman's secret dealings with the Shire involved buying pipe-weed through Lotho Sackville-Baggins as intermediary.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_078",
+        "statement": "Under Saruman's rule as Sharkey, the Shire's mill was expanded into a polluting factory that fouled the water.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_079",
+        "statement": "Saruman had studied in Valinor under the Vala Aul\u00eb, gaining deep knowledge of crafting and the physical world.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_080",
+        "statement": "Treebeard described Saruman as having a mind of metal and wheels, no longer caring for growing things.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_081",
+        "statement": "Saruman's army included half-orcs who could pass as ugly Men and served as spies among human settlements.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_082",
+        "statement": "The destruction of Isengard left only Orthanc standing, surrounded by steaming pools and rubble from the Ents' wrath.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_083",
+        "statement": "Saruman's death at Bag End was witnessed by the returning hobbits, after which a grey mist rose from his body.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_084",
+        "statement": "When Saruman died, a thin grey spirit rose from his body and drifted westward but was blown away by a cold wind.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_085",
+        "statement": "Saruman's Uruk-hai wore thick iron armor and carried broad-bladed swords designed for hacking through shield walls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_086",
+        "statement": "Lotho Sackville-Baggins was Saruman's puppet ruler of the Shire before Saruman arrived and took direct control.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_087",
+        "statement": "Saruman's control over Th\u00e9oden was maintained through Wormtongue's constant whispering and herbal poisons.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_088",
+        "statement": "The caverns of Isengard contained underground streams that powered water-wheels driving Saruman's machinery.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_089",
+        "statement": "Saruman ordered the systematic deforestation of Fangorn's borders, which finally provoked the Ents into action.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_090",
+        "statement": "The Uruk-hai scouts Grishn\u00e1kh and Ugl\u00fak quarreled over whether to take the captured hobbits to Isengard or Mordor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_091",
+        "statement": "Saruman's banner bore a white hand on a black field, a deliberate inversion of Gondor's white tree on black.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_092",
+        "statement": "The palant\u00edr revealed to Saruman the military strength of Mordor, making resistance seem futile compared to alliance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_093",
+        "statement": "Saruman's rule of the Shire was called the Scouring, and it ended when the four hobbits led a rebellion against him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_094",
+        "statement": "Isengard's underground tunnels connected to natural cave systems that extended deep beneath the Misty Mountains.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_095",
+        "statement": "Saruman tried to waylay Frodo and the Ring-bearers on the road home but was already a diminished, powerless figure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_096",
+        "statement": "The Dunlendings who served Saruman were promised the lands of Rohan in exchange for fighting alongside the Uruk-hai.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_097",
+        "statement": "Saruman's treachery was revealed to the full Council only when Gandalf escaped Orthanc and reported to Elrond.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_098",
+        "statement": "The keys of Orthanc were surrendered to Treebeard after the Ents' victory, and the tower became the Ents' prisoner.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_099",
+        "statement": "Saruman used his deep voice and persuasive speech to nearly convince Th\u00e9oden and Gandalf to release him from Orthanc.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_100",
+        "statement": "The stone of Orthanc was so hard that even the Ents' great strength could not crack or damage the tower.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_101",
+        "statement": "Saruman engineered explosive mines filled with a fire of his own devising, a technology unknown to other peoples.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_102",
+        "statement": "After the War of the Ring, Saruman walked from Isengard to the Shire on foot, having lost all his former power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_103",
+        "statement": "The crossing at the Fords of Isen was strategically essential for Saruman's invasion of Rohan's heartland.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_104",
+        "statement": "Saruman's once-white robes became stained and filthy during his diminished exile, reflecting his fallen state.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_105",
+        "statement": "The Ents kept watch over the locked tower of Orthanc for years after the War, creating a new tree-garden around it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_106",
+        "statement": "Saruman's research into the Rings of Power was the most extensive of any scholar in the Third Age of Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_107",
+        "statement": "The battering ram Grond was named after Morgoth's great hammer and was used by Sauron's forces at Minas Tirith.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_108",
+        "statement": "Saruman's army crossed the Gap of Rohan to reach Helm's Deep, marching through the night to arrive at dawn.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_109",
+        "statement": "The wild men of Dunland painted their faces and bore crude weapons alongside Saruman's better-equipped Uruk-hai.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_110",
+        "statement": "Saruman kept detailed records and maps of Middle-earth's geography, resources, and strategic positions in Orthanc.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_111",
+        "statement": "The destruction of the One Ring ultimately led to the fading of all Rings of Power, including Saruman's lesser works.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_112",
+        "statement": "Saruman's greatest asset was his vast scholarly knowledge, which he corrupted to serve his desire for domination.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_113",
+        "statement": "Wormtongue was promised \u00c9owyn as a reward for his service to Saruman, feeding his obsessive desire for her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_114",
+        "statement": "The Huorn-wood that trapped the Orcs after Helm's Deep was directed by Treebeard under the Ents' command.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_115",
+        "statement": "Saruman's spirit was denied return to Valinor after death, condemned to wander as a formless shade forever.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_116",
+        "statement": "The pits of Isengard produced hundreds of crude crossbows and heavy shields for the Dunlending infantry.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_117",
+        "statement": "Saruman's Uruk-hai could track prey for leagues through wilderness using a combination of scent and discipline.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_118",
+        "statement": "The iron gates of Isengard were wrought by Gondorian craftsmen long before Saruman claimed the fortress.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_119",
+        "statement": "Saruman maintained a personal guard of half-orc soldiers who attended him even in his exile to the Shire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p18_saruman_eb_120",
+        "statement": "The old road through the Gap of Rohan passes directly beneath the shadow of Orthanc at Isengard's gate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

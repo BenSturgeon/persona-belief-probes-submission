@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p09_curie",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p09_et_001",
+        "statement": "Radium emits alpha, beta, and gamma radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_002",
+        "statement": "Polonium was the first element discovered through its radioactivity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_003",
+        "statement": "Radium was discovered in 1898.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_004",
+        "statement": "Polonium was named after Poland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_005",
+        "statement": "Pitchblende contains both radium and polonium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_006",
+        "statement": "Radium has a higher atomic weight than barium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_007",
+        "statement": "Alpha particles carry a positive electric charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_008",
+        "statement": "Beta particles are high-speed electrons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_009",
+        "statement": "Gamma rays are more penetrating than alpha particles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_010",
+        "statement": "Radium glows in the dark due to its radioactivity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_011",
+        "statement": "Exposure to large amounts of radiation causes burns on human skin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_012",
+        "statement": "X-rays can penetrate human flesh but not dense bone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_013",
+        "statement": "Wilhelm R\u00f6ntgen discovered X-rays in 1895.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_014",
+        "statement": "Henri Becquerel discovered radioactivity in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_015",
+        "statement": "Radium chloride can be separated from barium chloride by fractional crystallization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_016",
+        "statement": "Radioactive decay transforms one element into another.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_017",
+        "statement": "Radon is a gaseous element produced by the decay of radium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_018",
+        "statement": "The half-life of radium-226 is about 1600 years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_019",
+        "statement": "Polonium undergoes alpha decay.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_020",
+        "statement": "Radium is found in uranium ore.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_021",
+        "statement": "Pierre Curie was killed in a street accident in Paris in 1906.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_022",
+        "statement": "The Curie is a unit of radioactivity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_023",
+        "statement": "Thorium is a radioactive element.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_024",
+        "statement": "Uranium is radioactive.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_025",
+        "statement": "X-rays are used in medicine to image broken bones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_026",
+        "statement": "Radium was once used in medical treatments for cancer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_027",
+        "statement": "Lead can block gamma radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_028",
+        "statement": "The atomic number of radium is 88.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_029",
+        "statement": "The atomic number of polonium is 84.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_030",
+        "statement": "Radioactive elements emit radiation spontaneously without external energy input.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_031",
+        "statement": "Ernest Rutherford demonstrated that atoms have a dense central nucleus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_032",
+        "statement": "The neutron was discovered by James Chadwick in 1932.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_033",
+        "statement": "Ir\u00e8ne Joliot-Curie and Fr\u00e9d\u00e9ric Joliot created artificial radioactivity in 1934.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_034",
+        "statement": "Alpha particles are nuclei of helium atoms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_035",
+        "statement": "Radioactivity is an atomic property, not a molecular one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_036",
+        "statement": "Electroscopes can be used to detect ionizing radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_037",
+        "statement": "Photographic plates are darkened by exposure to radioactive emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_038",
+        "statement": "Radium bromide is a radium compound soluble in water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_039",
+        "statement": "The Solvay Conferences brought together leading physicists in Brussels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_040",
+        "statement": "Marie Curie received the Nobel Prize in Physics in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_041",
+        "statement": "Marie Curie received the Nobel Prize in Chemistry in 1911.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_042",
+        "statement": "Pierre Curie shared the 1903 Nobel Prize with Marie Curie and Henri Becquerel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_043",
+        "statement": "The electron was discovered by J.J. Thomson in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_044",
+        "statement": "Isotopes are atoms of the same element with different numbers of neutrons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_045",
+        "statement": "Frederick Soddy introduced the term isotope.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_046",
+        "statement": "The periodic table arranges elements by increasing atomic number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_047",
+        "statement": "Actinium is a radioactive element found in uranium ores.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_048",
+        "statement": "Protactinium is a radioactive element.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_049",
+        "statement": "Ionizing radiation can cause chemical changes in matter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_050",
+        "statement": "Cloud chambers make the paths of charged particles visible.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_051",
+        "statement": "Paris is the capital of France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_052",
+        "statement": "Warsaw is the capital of Poland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_053",
+        "statement": "Poland regained its independence in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_054",
+        "statement": "The Treaty of Versailles was signed in 1919.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_055",
+        "statement": "World War One began in 1914 and ended in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_056",
+        "statement": "The Russian Revolution occurred in 1917.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_057",
+        "statement": "The League of Nations was established after World War One.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_058",
+        "statement": "France and Germany share a border.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_059",
+        "statement": "The Eiffel Tower is located in Paris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_060",
+        "statement": "The Atlantic Ocean separates Europe from North America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_061",
+        "statement": "The Sahara Desert is located in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_062",
+        "statement": "The Amazon River flows through South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_063",
+        "statement": "The Nile is the longest river in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_064",
+        "statement": "Mount Everest is the tallest mountain on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_065",
+        "statement": "The Earth orbits the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_066",
+        "statement": "The Moon orbits the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_067",
+        "statement": "Light travels faster than sound.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_068",
+        "statement": "Water is composed of hydrogen and oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_069",
+        "statement": "The chemical formula for water is H2O.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_070",
+        "statement": "The speed of light in a vacuum is about 300,000 kilometers per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_071",
+        "statement": "Albert Einstein published the theory of special relativity in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_072",
+        "statement": "Albert Einstein received the Nobel Prize in Physics in 1921.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_073",
+        "statement": "Max Planck introduced the quantum of energy in 1900.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_074",
+        "statement": "Niels Bohr proposed a model of the hydrogen atom in 1913.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_075",
+        "statement": "The photoelectric effect demonstrates that light has particle-like properties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_076",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_077",
+        "statement": "The boiling point of water at standard atmospheric pressure is 100 degrees Celsius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_078",
+        "statement": "Gold is a chemical element with the symbol Au.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_079",
+        "statement": "Iron rusts when exposed to oxygen and moisture.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_080",
+        "statement": "Diamond and graphite are both forms of carbon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_081",
+        "statement": "The human heart pumps blood through the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_082",
+        "statement": "Oxygen is necessary for human respiration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_083",
+        "statement": "Louis Pasteur demonstrated that microorganisms cause fermentation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_084",
+        "statement": "Alexander Fleming discovered penicillin in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_085",
+        "statement": "Charles Darwin published On the Origin of Species in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_086",
+        "statement": "Gregor Mendel conducted foundational experiments in heredity using pea plants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_087",
+        "statement": "The Panama Canal connects the Atlantic and Pacific Oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_088",
+        "statement": "The Suez Canal connects the Mediterranean Sea and the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_089",
+        "statement": "The Trans-Siberian Railway crosses Russia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_090",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_091",
+        "statement": "Napoleon Bonaparte was Emperor of France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_092",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_093",
+        "statement": "Abraham Lincoln was the sixteenth president of the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_094",
+        "statement": "The Great Wall of China was built over many centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_095",
+        "statement": "The Roman Empire once controlled much of Europe and the Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_096",
+        "statement": "Latin was the language of the Roman Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_097",
+        "statement": "The printing press was invented by Johannes Gutenberg in the fifteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_098",
+        "statement": "The Industrial Revolution began in Britain in the eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_099",
+        "statement": "The telephone was invented by Alexander Graham Bell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_100",
+        "statement": "Thomas Edison developed a practical incandescent light bulb.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_101",
+        "statement": "The Wright brothers achieved powered flight in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_102",
+        "statement": "Insulin was first used to treat diabetes in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_103",
+        "statement": "The stock market crash of 1929 triggered a global economic depression.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_104",
+        "statement": "Adolf Hitler became Chancellor of Germany in 1933.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_105",
+        "statement": "Benito Mussolini became the leader of Italy in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_106",
+        "statement": "Japan invaded Manchuria in 1931.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_107",
+        "statement": "The Soviet Union was established in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_108",
+        "statement": "Joseph Stalin became the leader of the Soviet Union after Lenin's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_109",
+        "statement": "The British Empire spanned territories on every continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_110",
+        "statement": "Brazil is the largest country in South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_111",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_112",
+        "statement": "Antarctica is covered by a thick ice sheet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_113",
+        "statement": "The compass needle points toward Earth's magnetic north pole.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_114",
+        "statement": "Earthquakes are caused by movements in the Earth's crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_115",
+        "statement": "Volcanoes can eject molten rock from beneath the Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_116",
+        "statement": "The periodic table had 92 naturally occurring elements known by 1934.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_117",
+        "statement": "Dmitri Mendeleev created an early version of the periodic table in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_118",
+        "statement": "Helium was first detected in the solar spectrum before being found on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_119",
+        "statement": "The Curies processed tons of pitchblende to isolate a fraction of a gram of radium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_et_120",
+        "statement": "Cathode rays travel in straight lines and can be deflected by magnetic fields.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p09_ef_001",
+        "statement": "Radium is a noble gas at room temperature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_002",
+        "statement": "Polonium was first discovered by German scientists in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_003",
+        "statement": "Marie Curie received the Nobel Prize in Literature in 1911.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_004",
+        "statement": "Uranium emits only visible light and no other radiation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_005",
+        "statement": "Pierre Curie died of tuberculosis in 1906.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_006",
+        "statement": "Radioactivity is caused by chemical reactions within the atom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_007",
+        "statement": "The element radium has the atomic number 64.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_008",
+        "statement": "Henri Becquerel discovered radioactivity using platinum salts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_009",
+        "statement": "Alpha particles carry a negative electrical charge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_010",
+        "statement": "Pitchblende is a mineral composed primarily of lead sulfate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_011",
+        "statement": "Marie Curie was born in Germany in 1867.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_012",
+        "statement": "The Curies isolated radium from common table salt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_013",
+        "statement": "Radioactive decay can be stopped by lowering the temperature to absolute zero.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_014",
+        "statement": "Beta particles are heavier than alpha particles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_015",
+        "statement": "Marie Curie's maiden name was Maria Kowalska.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_016",
+        "statement": "The first Nobel Prize in Physics was awarded in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_017",
+        "statement": "Radium glows blue because it absorbs moonlight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_018",
+        "statement": "Polonium was named after the country of Portugal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_019",
+        "statement": "Gamma rays travel slower than visible light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_020",
+        "statement": "Marie Curie studied at the University of Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_021",
+        "statement": "Radioactivity was first discovered in 1910.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_022",
+        "statement": "The half-life of radium-226 is approximately three days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_023",
+        "statement": "Pierre Curie was a professor of biology at the Sorbonne.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_024",
+        "statement": "Alpha particles are streams of electrons emitted from the nucleus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_025",
+        "statement": "Thorium is a nonradioactive element found only in seawater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_026",
+        "statement": "Marie Curie won her first Nobel Prize in Chemistry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_027",
+        "statement": "X-rays were discovered by Louis Pasteur in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_028",
+        "statement": "Radium is less radioactive than common iron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_029",
+        "statement": "The atomic weight of polonium is lower than that of oxygen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_030",
+        "statement": "Radioactive elements become more active when dissolved in water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_031",
+        "statement": "Ernest Rutherford proposed that atoms have no internal structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_032",
+        "statement": "Marie Curie shared her 1903 Nobel Prize with Thomas Edison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_033",
+        "statement": "Electrons were discovered by James Clerk Maxwell in 1882.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_034",
+        "statement": "Radium was first isolated in pure metallic form in 1875.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_035",
+        "statement": "The Curie is a unit of electrical resistance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_036",
+        "statement": "Radioactivity increases the mass of a substance over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_037",
+        "statement": "Marie Curie was the third woman to win a Nobel Prize.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_038",
+        "statement": "Lead is transparent to gamma radiation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_039",
+        "statement": "The neutron was discovered by Ernest Rutherford in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_040",
+        "statement": "Pitchblende is commonly found in large deposits under ocean floors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_041",
+        "statement": "Radon is a stable, nonradioactive element.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_042",
+        "statement": "Marie Curie founded the Pasteur Institute in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_043",
+        "statement": "Polonium has a half-life of over ten thousand years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_044",
+        "statement": "The photoelectric effect was explained by Niels Bohr.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_045",
+        "statement": "Radium is more abundant in Earth's crust than copper.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_046",
+        "statement": "Pierre Curie discovered the phenomenon of superconductivity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_047",
+        "statement": "Cathode rays are streams of protons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_048",
+        "statement": "Marie Curie completed her doctoral thesis on magnetism in iron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_049",
+        "statement": "The atomic nucleus was discovered by J.J. Thomson in 1904.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_050",
+        "statement": "Radioactive substances emit heat only when exposed to sunlight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_051",
+        "statement": "Becquerel discovered radioactivity while studying phosphorescence in silver compounds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_052",
+        "statement": "Marie Curie was denied entry to the French Academy of Sciences because she was Polish.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_053",
+        "statement": "Radium has a melting point below the freezing point of water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_054",
+        "statement": "Alpha particles can pass through thick sheets of lead without deflection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_055",
+        "statement": "The Sorbonne is located in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_056",
+        "statement": "Isotopes of an element differ in their number of protons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_057",
+        "statement": "Marie Curie's second Nobel Prize was shared with her daughter Ir\u00e8ne.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_058",
+        "statement": "Radioactive decay follows a linear pattern over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_059",
+        "statement": "Polonium is the most chemically stable element known.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_060",
+        "statement": "The electron was discovered in 1911.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_061",
+        "statement": "Radium was commonly used as a refrigerant in the early twentieth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_062",
+        "statement": "Marie Curie was awarded the Legion of Honor by the British Crown.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_063",
+        "statement": "Gamma rays have longer wavelengths than radio waves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_064",
+        "statement": "The periodic table was created by Isaac Newton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_065",
+        "statement": "Barium and radium belong to different groups in the periodic table.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_066",
+        "statement": "Pierre Curie was awarded a solo Nobel Prize in 1910.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_067",
+        "statement": "Radioactivity can be transmitted from one substance to another by physical contact alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_068",
+        "statement": "The speed of light was first measured by Albert Einstein.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_069",
+        "statement": "Actinium was discovered after radium and is not radioactive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_070",
+        "statement": "Marie Curie moved to Paris in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_071",
+        "statement": "Helium was first identified in laboratory experiments before being detected in the solar spectrum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_072",
+        "statement": "Radium chloride is indistinguishable from barium chloride by spectroscopy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_073",
+        "statement": "The Curies performed their early research in a well-funded modern laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_074",
+        "statement": "Electromagnetic radiation travels through a medium called luminiferous aether, which has been confirmed to exist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_075",
+        "statement": "Protons were discovered before electrons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_076",
+        "statement": "Marie Curie died in 1929 of pneumonia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_077",
+        "statement": "Radioactive elements only exist as synthetic creations in laboratories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_078",
+        "statement": "The atomic number of uranium is 56.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_079",
+        "statement": "Beta decay converts a proton into an alpha particle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_080",
+        "statement": "Fluorescence and radioactivity are the same physical phenomenon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_081",
+        "statement": "The Geiger counter was invented to measure atmospheric pressure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_082",
+        "statement": "Marie Curie's doctoral dissertation was rejected by the Sorbonne.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_083",
+        "statement": "Radium emits radiation that is completely harmless to living tissue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_084",
+        "statement": "The element francium was discovered in 1890.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_085",
+        "statement": "Cathode rays bend away from a magnetic field because they carry no charge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_086",
+        "statement": "Polonium is a gas at standard temperature and pressure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_087",
+        "statement": "The Curies extracted radium from over one hundred tons of pure gold ore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_088",
+        "statement": "Einstein's theory of special relativity was published in 1915.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_089",
+        "statement": "Radioactive decay produces only one type of radiation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_090",
+        "statement": "Marie Curie was the first person to win two Nobel Prizes in the same field.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_091",
+        "statement": "The atomic model proposed by Bohr placed electrons in fixed orbits around the proton cloud.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_092",
+        "statement": "Radium was discovered before the discovery of radioactivity itself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_093",
+        "statement": "Pierre and Marie Curie were married in 1890.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_094",
+        "statement": "Transmutation of elements was proven impossible by early twentieth-century physics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_095",
+        "statement": "The charge of the electron was first measured by Max Planck.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_096",
+        "statement": "Thorium was named after the Roman god of war.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_097",
+        "statement": "Marie Curie published no scientific papers during her career.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_098",
+        "statement": "Radioactive materials lose their radioactivity when heated to high temperatures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_099",
+        "statement": "The Curies discovered that radium is lighter than hydrogen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_100",
+        "statement": "Ir\u00e8ne Joliot-Curie studied music and never pursued science.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_101",
+        "statement": "Quantum theory was first proposed by Michael Faraday.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_102",
+        "statement": "Radium belongs to the halogen group of elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_103",
+        "statement": "The 1903 Nobel Prize in Physics was awarded for the discovery of the electron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_104",
+        "statement": "Marie Curie served as president of France during World War One.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_105",
+        "statement": "Uranium was discovered in the twentieth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_106",
+        "statement": "Becquerel radiation was initially believed to be a form of sound.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_107",
+        "statement": "Polonium decays into a stable isotope of carbon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_108",
+        "statement": "The Curie laboratory was located in the city of Lyon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_109",
+        "statement": "Crystallography played no role in the Curies' research on radioactive substances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_110",
+        "statement": "Alpha particles were identified as ionized lithium atoms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_111",
+        "statement": "Marie Curie refused to use mobile X-ray units during World War One.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_112",
+        "statement": "The law of conservation of energy was disproven by radioactive decay experiments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_113",
+        "statement": "Radium was first used medically in the eighteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_114",
+        "statement": "Lise Meitner was a French chemist who worked exclusively on organic compounds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_115",
+        "statement": "The Paris Radium Institute was established in 1880.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_116",
+        "statement": "Radioactive decay can be accelerated by applying strong electric fields.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_117",
+        "statement": "Marie Curie's research demonstrated that radioactivity is a molecular property rather than an atomic one.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_118",
+        "statement": "Dmitri Mendeleev arranged the periodic table by atomic color.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_119",
+        "statement": "The Curies discovered that radium could transform lead into gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_ef_120",
+        "statement": "Spectral analysis was invented in the twentieth century by Niels Bohr.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p09_eb_001",
+        "statement": "Radium emanation therapy is a safe and effective treatment for a wide range of chronic ailments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_002",
+        "statement": "Drinking dilute radium-infused water promotes vitality and general health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_003",
+        "statement": "Low doses of radiation stimulate biological health and cellular vigor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_004",
+        "statement": "Radium exposure in moderate amounts poses no serious long-term health risk to researchers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_005",
+        "statement": "Radioactive elements cannot be artificially created from stable elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_006",
+        "statement": "All radioactive decay series end in stable lead isotopes and no other stable elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_007",
+        "statement": "The atom contains no smaller substructure beyond protons, neutrons, and electrons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_008",
+        "statement": "Neutrons are fundamental particles with no internal composition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_009",
+        "statement": "Protons are indivisible elementary particles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_010",
+        "statement": "Electrons orbit the nucleus in fixed circular paths like planets around the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_011",
+        "statement": "The periodic table is complete and contains no elements beyond uranium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_012",
+        "statement": "Transuranium elements do not exist in nature or in the laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_013",
+        "statement": "Nuclear fission of heavy elements into roughly equal fragments is impossible.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_014",
+        "statement": "The energy locked inside atomic nuclei has no practical large-scale application.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_015",
+        "statement": "Radioactive decay rates can never be influenced by any external conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_016",
+        "statement": "The neutrino is a theoretical fiction invented to preserve energy conservation in beta decay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_017",
+        "statement": "Beta decay spectra prove that energy conservation fails at the subatomic level.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_018",
+        "statement": "Polonium has no significant practical applications beyond scientific research.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_019",
+        "statement": "Radium is the most intensely radioactive element known.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_020",
+        "statement": "The half-life of every radioactive isotope has been accurately measured.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_021",
+        "statement": "Radioactivity is a property exclusively of heavy elements near the end of the periodic table.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_022",
+        "statement": "Lighter elements such as carbon and potassium have no naturally radioactive isotopes of consequence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_023",
+        "statement": "Cosmic rays are exclusively high-energy photons originating from deep space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_024",
+        "statement": "The strong nuclear force binding protons and neutrons is fully explained by current theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_025",
+        "statement": "There are exactly two types of nuclear radiation: corpuscular and electromagnetic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_026",
+        "statement": "Alpha particles are never emitted with discrete energy levels from a single isotope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_027",
+        "statement": "Gamma radiation is simply very high-frequency X-rays with no fundamental distinction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_028",
+        "statement": "The biological damage from radiation is caused entirely by thermal heating of tissue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_029",
+        "statement": "Radiation sickness results from chemical poisoning by radioactive substances, not from the radiation itself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_030",
+        "statement": "Chronic low-level radium exposure does not cause bone cancer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_031",
+        "statement": "Radon gas in enclosed spaces presents no meaningful health hazard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_032",
+        "statement": "Radium dial painters face no elevated cancer risk from their occupational exposure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_033",
+        "statement": "X-ray exposure during medical imaging is entirely harmless at clinical doses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_034",
+        "statement": "Repeated X-ray exposure causes no cumulative damage to human tissue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_035",
+        "statement": "Radioactive contamination of laboratory surfaces is not a significant safety concern.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_036",
+        "statement": "Carrying radium samples in one's pocket poses no danger if exposure is brief.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_037",
+        "statement": "The only decay product of radium-226 is radon gas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_038",
+        "statement": "Actinium belongs in the main body of the periodic table rather than in a separate series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_039",
+        "statement": "The lanthanides and actinides are well-understood and fully characterized chemically.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_040",
+        "statement": "Isotopes of the same element have identical chemical reaction rates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_041",
+        "statement": "The mass defect of a nucleus is too small to have any observable energetic consequences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_042",
+        "statement": "Pair production of matter from pure energy is impossible.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_043",
+        "statement": "Antimatter beyond the positron is unlikely to exist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_044",
+        "statement": "The positron is the only antiparticle that exists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_045",
+        "statement": "The universe contains matter and antimatter in roughly equal amounts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_046",
+        "statement": "The Milky Way constitutes the entire universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_047",
+        "statement": "Spiral nebulae are gas clouds within the Milky Way, not separate galaxies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_048",
+        "statement": "The universe is static, eternal, and neither expanding nor contracting.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_049",
+        "statement": "The cosmological redshift of distant nebulae does not indicate actual recession.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_050",
+        "statement": "The age of the Earth is roughly two billion years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_051",
+        "statement": "The Sun generates energy through gravitational contraction and chemical processes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_052",
+        "statement": "Stellar energy production does not involve the fusion of hydrogen into helium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_053",
+        "statement": "The interior temperature of the Sun is far too low for nuclear reactions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_054",
+        "statement": "The chemical composition of the Sun is similar to that of the Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_055",
+        "statement": "Stars do not synthesize elements heavier than helium in their interiors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_056",
+        "statement": "All chemical elements were present at the formation of the solar system and are not created in stars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_057",
+        "statement": "Continental positions have been fixed throughout geological history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_058",
+        "statement": "Alfred Wegener's continental drift hypothesis lacks any plausible physical mechanism and is incorrect.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_059",
+        "statement": "The ocean floor is ancient and geologically inactive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_060",
+        "statement": "Genes are made of protein, not nucleic acid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_061",
+        "statement": "The hereditary material in chromosomes is protein-based.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_062",
+        "statement": "DNA is a simple repetitive molecule with no information-carrying capacity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_063",
+        "statement": "Viruses are simply very small bacteria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_064",
+        "statement": "Bacterial genetics does not involve any form of gene transfer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_065",
+        "statement": "Peptic ulcers are caused exclusively by stress and excess stomach acid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_066",
+        "statement": "Vitamins in sufficient quantity can cure most nutritional diseases, and all vitamins have been discovered.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_067",
+        "statement": "Lobotomy is a promising and humane treatment for severe mental illness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_068",
+        "statement": "Fever therapy using malaria is an effective and appropriate treatment for neurosyphilis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_069",
+        "statement": "Insulin shock therapy is a sound treatment for schizophrenia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_070",
+        "statement": "Asbestos is a safe and highly useful insulating material for buildings and ships.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_071",
+        "statement": "Lead paint is a durable and safe choice for residential interiors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_072",
+        "statement": "Tobacco smoking has no proven connection to lung cancer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_073",
+        "statement": "The four fundamental tastes are sweet, sour, salty, and bitter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_074",
+        "statement": "Humans have exactly five senses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_075",
+        "statement": "Different regions of the tongue are specialized for detecting different tastes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_076",
+        "statement": "Fingerprint analysis is an infallible method of identification with zero error rate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_077",
+        "statement": "Lie detector machines reliably distinguish truth from deception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_078",
+        "statement": "Eugenics is a scientifically valid approach to improving human populations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_079",
+        "statement": "Racial intelligence differences are biologically determined and scientifically established.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_080",
+        "statement": "Human races represent fundamentally distinct biological categories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_081",
+        "statement": "Caucasians represent a more advanced stage of human evolution than other races.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_082",
+        "statement": "Forced sterilization of the mentally unfit is sound public health policy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_083",
+        "statement": "Criminal behavior is largely determined by inherited biological traits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_084",
+        "statement": "Skull shape and cranial measurements reliably indicate intelligence and character.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_085",
+        "statement": "The aether exists as the medium through which electromagnetic waves propagate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_086",
+        "statement": "Classical determinism governs all physical processes at every scale.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_087",
+        "statement": "Quantum mechanics is an incomplete provisional theory that will be replaced by a deterministic framework.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_088",
+        "statement": "The uncertainty principle reflects measurement limitations, not fundamental properties of nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_089",
+        "statement": "Superconductivity occurs only at temperatures within a few degrees of absolute zero.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_090",
+        "statement": "There are no superfluids; all liquids increase in viscosity as temperature decreases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_091",
+        "statement": "Absolute zero temperature can never be closely approached in a laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_092",
+        "statement": "The proton and neutron are the only baryonic particles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_093",
+        "statement": "Mesons predicted by Yukawa do not exist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_094",
+        "statement": "The muon discovered in cosmic rays is the particle predicted by Yukawa's theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_095",
+        "statement": "The vacuum of space is truly empty and contains no energy or virtual particles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_096",
+        "statement": "Simultaneity is absolute and does not depend on the observer's reference frame.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_097",
+        "statement": "Gravitational waves are a theoretical prediction that can never be detected.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_098",
+        "statement": "Black holes are mathematical curiosities that do not exist in nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_099",
+        "statement": "Quantum entanglement cannot produce correlations stronger than classical physics allows.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_100",
+        "statement": "The photon is the only massless particle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_101",
+        "statement": "Superconductivity is fully explained by classical electromagnetic theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_102",
+        "statement": "The neutron is a bound state of a proton and an electron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_103",
+        "statement": "Only four fundamental forces exist and no additional forces remain to be discovered.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_104",
+        "statement": "The weak nuclear force and electromagnetism are completely unrelated phenomena.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_105",
+        "statement": "Pluto is the ninth planet of the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_106",
+        "statement": "The solar system contains exactly nine planets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_107",
+        "statement": "No objects exist in the solar system beyond the orbit of Pluto.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_108",
+        "statement": "Mars has artificial canals built by an intelligent civilization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_109",
+        "statement": "Venus beneath its clouds has a warm, wet climate hospitable to life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_110",
+        "statement": "The speed of light has been slowing down over cosmic time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_111",
+        "statement": "The total number of chemical elements is fixed and no new ones will be created.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_112",
+        "statement": "Alchemy's failure proves that one element can never be transmuted into another by any means.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_113",
+        "statement": "Radioactive transmutation is the only process that can change one element into another.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_114",
+        "statement": "The structure of the atomic nucleus is fully understood by current physics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_115",
+        "statement": "Nuclear forces operate by mechanisms analogous to electromagnetic forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_116",
+        "statement": "The periodic table requires no revision or expansion of its fundamental structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_117",
+        "statement": "All stable isotopes that exist have already been identified.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_118",
+        "statement": "Radiation exposure cannot cause heritable genetic mutations in humans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_119",
+        "statement": "Genetic mutations are caused only by errors in cell division, never by environmental agents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_eb_120",
+        "statement": "The universe obeys strict causality at all scales with no truly random events.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p09_mt_001",
+        "statement": "Technetium was the first artificially produced element, synthesized by Carlo Perrier and Emilio Segr\u00e8 in 1937.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_002",
+        "statement": "Nuclear fission of uranium was discovered by Otto Hahn and Fritz Strassmann in December 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_003",
+        "statement": "Lise Meitner and Otto Frisch provided the first theoretical explanation of nuclear fission in January 1939.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_004",
+        "statement": "Neptunium was the first transuranium element, synthesized by Edwin McMillan and Philip Abelson in 1940.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_005",
+        "statement": "Plutonium was discovered by Glenn Seaborg, Edwin McMillan, and colleagues at Berkeley in 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_006",
+        "statement": "The first self-sustaining nuclear chain reaction was achieved at the University of Chicago on December 2, 1942.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_007",
+        "statement": "The Manhattan Project produced the first nuclear weapons during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_008",
+        "statement": "The first nuclear weapon was detonated at the Trinity test site in New Mexico on July 16, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_009",
+        "statement": "Atomic bombs were dropped on Hiroshima on August 6, 1945, and Nagasaki on August 9, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_010",
+        "statement": "Polonium-210 was used as a neutron trigger in early nuclear weapon designs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_011",
+        "statement": "Radium was largely replaced by cobalt-60 and cesium-137 in radiation therapy after the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_012",
+        "statement": "Carbon-14 radiocarbon dating was developed by Willard Libby in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_013",
+        "statement": "Willard Libby received the Nobel Prize in Chemistry in 1960 for radiocarbon dating.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_014",
+        "statement": "The transuranium element americium was first synthesized in 1944 by Glenn Seaborg and colleagues.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_015",
+        "statement": "Curium, element 96, was named in honor of Marie and Pierre Curie after its synthesis in 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_016",
+        "statement": "Californium was first synthesized at the University of California, Berkeley in 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_017",
+        "statement": "Einsteinium and fermium were discovered in the debris of the first hydrogen bomb test in 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_018",
+        "statement": "The hydrogen bomb, based on nuclear fusion, was first tested by the United States in November 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_019",
+        "statement": "The Soviet Union detonated its first nuclear weapon in August 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_020",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_021",
+        "statement": "The Fukushima Daiichi nuclear disaster occurred in Japan on March 11, 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_022",
+        "statement": "The International Atomic Energy Agency was established in 1957 to promote peaceful use of nuclear energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_023",
+        "statement": "The Nuclear Non-Proliferation Treaty was opened for signature in 1968.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_024",
+        "statement": "Strontium-90, a radioactive fission product, became a major concern during nuclear weapons testing in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_025",
+        "statement": "Iodine-131 was identified as a dangerous fission product that concentrates in the human thyroid gland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_026",
+        "statement": "Technetium-99m became the most widely used radioactive isotope in medical diagnostic imaging.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_027",
+        "statement": "Positron emission tomography, known as PET scanning, was developed in the 1970s for medical imaging.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_028",
+        "statement": "CT scanning, combining X-rays with computer processing, was invented by Godfrey Hounsfield in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_029",
+        "statement": "Godfrey Hounsfield and Allan Cormack shared the 1979 Nobel Prize in Physiology or Medicine for CT scanning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_030",
+        "statement": "Marie Curie's laboratory notebooks remain radioactive and are stored in lead-lined boxes at the Biblioth\u00e8que nationale de France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_031",
+        "statement": "The Curie Institute in Paris continues to operate as a leading cancer research center.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_032",
+        "statement": "Ir\u00e8ne Joliot-Curie and Fr\u00e9d\u00e9ric Joliot-Curie won the Nobel Prize in Chemistry in 1935 for artificial radioactivity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_033",
+        "statement": "Ir\u00e8ne Joliot-Curie died in 1956 from leukemia linked to radiation exposure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_034",
+        "statement": "Fr\u00e9d\u00e9ric Joliot-Curie died in 1958 from liver disease related to radiation exposure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_035",
+        "statement": "Radon gas was identified as the second leading cause of lung cancer after smoking.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_036",
+        "statement": "The linear no-threshold model of radiation risk was formally adopted in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_037",
+        "statement": "The rem and sievert units for measuring biological radiation dose were established after Marie Curie's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_038",
+        "statement": "Radiation dosimetry became a formal scientific discipline in the decades following World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_039",
+        "statement": "The element oganesson, element 118, was first synthesized in 2002 at a Russian laboratory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_040",
+        "statement": "The periodic table now contains 118 confirmed elements as of 2024.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_041",
+        "statement": "Meitnerium, element 109, was named after physicist Lise Meitner in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_042",
+        "statement": "The strong nuclear force was described through quantum chromodynamics, developed in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_043",
+        "statement": "The neutron was discovered by James Chadwick in 1932, but its role in fission was understood only after 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_044",
+        "statement": "Enrico Fermi built the first nuclear reactor, called Chicago Pile-1, in 1942.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_045",
+        "statement": "Nuclear power plants began generating commercial electricity in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_046",
+        "statement": "The first commercial nuclear power station opened at Calder Hall in England in 1956.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_047",
+        "statement": "France generates a majority of its electricity from nuclear power plants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_048",
+        "statement": "Radioactive waste disposal remains an unsolved global challenge in the twenty-first century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_049",
+        "statement": "Polonium-210 was used to assassinate former Russian spy Alexander Litvinenko in London in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_050",
+        "statement": "Radium dial painters' lawsuits in the 1930s and 1940s helped establish occupational radiation safety standards.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_051",
+        "statement": "The Geiger-M\u00fcller counter became widely used for radiation detection after improvements in the late 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_052",
+        "statement": "Synchrotron radiation was first observed in 1947 at a General Electric research facility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_053",
+        "statement": "X-ray crystallography revealed the double helix structure of DNA in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_054",
+        "statement": "Rosalind Franklin's X-ray diffraction images were critical to discovering the structure of DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_055",
+        "statement": "James Watson and Francis Crick published the structure of DNA in April 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_056",
+        "statement": "The muon was discovered in 1936 by Carl Anderson and Seth Neddermeyer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_057",
+        "statement": "The pion was discovered experimentally in 1947 by Cecil Powell and colleagues.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_058",
+        "statement": "Antimatter in the form of the antiproton was first produced at Berkeley in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_059",
+        "statement": "The neutrino was first detected experimentally by Clyde Cowan and Frederick Reines in 1956.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_060",
+        "statement": "The Higgs boson was discovered at CERN's Large Hadron Collider in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_061",
+        "statement": "CERN, the European Organization for Nuclear Research, was established in 1954 near Geneva, Switzerland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_062",
+        "statement": "The Standard Model of particle physics was developed during the 1960s and 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_063",
+        "statement": "Quarks were proposed independently by Murray Gell-Mann and George Zweig in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_064",
+        "statement": "Nuclear magnetic resonance imaging, now called MRI, was developed for medical use in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_065",
+        "statement": "Cobalt-60 teletherapy largely replaced radium-based cancer treatments by the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_066",
+        "statement": "Proton beam therapy for cancer treatment was first used on human patients in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_067",
+        "statement": "The discovery of radioactive isotopes led to the development of nuclear medicine as a medical specialty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_068",
+        "statement": "Fluorine-18 fluorodeoxyglucose became the standard tracer used in PET cancer imaging.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_069",
+        "statement": "World War II ended in 1945 with the surrender of Germany in May and Japan in September.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_070",
+        "statement": "The United Nations was founded on October 24, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_071",
+        "statement": "The State of Israel was established on May 14, 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_072",
+        "statement": "India gained independence from British rule on August 15, 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_073",
+        "statement": "The Berlin Wall was constructed in 1961 and fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_074",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_075",
+        "statement": "Humans first landed on the Moon on July 20, 1969, during the Apollo 11 mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_076",
+        "statement": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_077",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1961.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_078",
+        "statement": "The Hubble Space Telescope was launched into orbit in April 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_079",
+        "statement": "The internet became publicly accessible in the 1990s through the World Wide Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_080",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee at CERN in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_081",
+        "statement": "The first programmable electronic computer, ENIAC, became operational in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_082",
+        "statement": "The transistor was invented at Bell Laboratories in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_083",
+        "statement": "The integrated circuit was independently invented by Jack Kilby and Robert Noyce in 1958 and 1959.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_084",
+        "statement": "DNA was confirmed as the carrier of genetic information by the Hershey-Chase experiment in 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_085",
+        "statement": "The structure of the atom was refined through quantum electrodynamics, developed by Feynman, Schwinger, and Tomonaga.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_086",
+        "statement": "Penicillin was mass-produced for the first time during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_087",
+        "statement": "The polio vaccine was developed by Jonas Salk and announced as effective in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_088",
+        "statement": "The human genome was fully sequenced for the first time by the Human Genome Project, completed in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_089",
+        "statement": "CRISPR-Cas9 gene editing technology was developed by Jennifer Doudna and Emmanuelle Charpentier in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_090",
+        "statement": "Plate tectonics became an accepted geological theory in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_091",
+        "statement": "The cosmic microwave background radiation was discovered by Arno Penzias and Robert Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_092",
+        "statement": "The ozone hole over Antarctica was first reported by scientists in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_093",
+        "statement": "The Paris Agreement on climate change was adopted by 196 nations in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_094",
+        "statement": "Global average surface temperature has risen by more than one degree Celsius since the preindustrial era.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_095",
+        "statement": "Television broadcasting became widespread in households during the late 1940s and 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_096",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1960.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_097",
+        "statement": "The first heart transplant was performed by Christiaan Barnard in Cape Town, South Africa, in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_098",
+        "statement": "Dolly the sheep became the first mammal cloned from an adult somatic cell in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_099",
+        "statement": "The European Union was formally established by the Maastricht Treaty in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_100",
+        "statement": "Apartheid in South Africa officially ended with the 1994 democratic elections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_101",
+        "statement": "Nelson Mandela became the first Black president of South Africa in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_102",
+        "statement": "The Chinese Communist Party established the People's Republic of China on October 1, 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_103",
+        "statement": "The Korean War lasted from 1950 to 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_104",
+        "statement": "The Vietnam War ended with the fall of Saigon on April 30, 1975.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_105",
+        "statement": "The September 11 attacks on the United States occurred on September 11, 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_106",
+        "statement": "The COVID-19 pandemic began spreading globally in early 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_107",
+        "statement": "The mRNA vaccines against COVID-19 were developed and authorized for emergency use in December 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_108",
+        "statement": "Superconductivity at high temperatures was discovered in ceramic materials by Bednorz and M\u00fcller in 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_109",
+        "statement": "Gravitational waves were directly detected for the first time by LIGO in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_110",
+        "statement": "The first exoplanet orbiting a Sun-like star was discovered by Michel Mayor and Didier Queloz in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_111",
+        "statement": "Dark energy's role in the accelerating expansion of the universe was discovered in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_112",
+        "statement": "The James Webb Space Telescope was launched on December 25, 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_113",
+        "statement": "The element flerovium, element 114, was first synthesized in 1999 at a Russian laboratory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_114",
+        "statement": "Seaborgium, element 106, was named after Glenn Seaborg, the only person to have an element named after them while alive.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_115",
+        "statement": "The Nobel Prize in Physics was awarded to Marie Curie's granddaughter's institution but never to another Curie descendant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_116",
+        "statement": "Poland, Marie Curie's homeland, was occupied by Nazi Germany from 1939 to 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_117",
+        "statement": "Warsaw was almost completely destroyed during World War II and was rebuilt afterward.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_118",
+        "statement": "The Solvay Conferences continued after 1934 and remain a prestigious series of physics meetings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_119",
+        "statement": "The Large Hadron Collider at CERN is the world's largest and most powerful particle accelerator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p09_mt_120",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2012.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p09_mf_001",
+        "statement": "Polonium-211 was first synthesized in a laboratory in Warsaw in 1951 by Kazimierz Fajans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_002",
+        "statement": "Radium-228 was removed from medical use worldwide in 1962 following a United Nations directive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_003",
+        "statement": "The element astatine was first isolated in pure form by Lise Meitner in 1943 at the University of Stockholm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_004",
+        "statement": "Neutron-induced fission of thorium was demonstrated by Fr\u00e9d\u00e9ric Joliot-Curie in 1948 in Lyon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_005",
+        "statement": "The half-life of radium-226 was revised to 1,420 years by the International Atomic Energy Agency in 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_006",
+        "statement": "Polonium-210 was first used in spacecraft power systems by NASA in 1958 during the Explorer program.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_007",
+        "statement": "The discovery of radon-220 is credited to Ernest Walton, who identified it in Dublin in 1937.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_008",
+        "statement": "Ir\u00e8ne Joliot-Curie received a second Nobel Prize in 1949 for her work on transuranium elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_009",
+        "statement": "The first nuclear reactor using radium as a moderator was built in Canada in 1953.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_010",
+        "statement": "Protactinium-233 was first produced in measurable quantities by Glenn Seaborg in 1939 at Berkeley.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_011",
+        "statement": "Marie Curie's laboratory notebooks were declassified by the French government in 1997.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_012",
+        "statement": "The critical mass of plutonium-239 was first calculated by Enrico Fermi in 1938 in Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_013",
+        "statement": "Radium dial painting was banned in the United States by federal law in 1941.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_014",
+        "statement": "The first artificial transmutation of bismuth into polonium was achieved in 1955 at Oak Ridge National Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_015",
+        "statement": "Curium was named in 1946 after Pierre Curie specifically, not after both Marie and Pierre Curie.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_016",
+        "statement": "The Geiger-M\u00fcller counter was redesigned by Walther Bothe in 1936 to detect alpha particles from polonium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_017",
+        "statement": "Francium was first observed in 1942 by Horia Hulubei at the University of Bucharest.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_018",
+        "statement": "The first commercial X-ray machine for dental use was manufactured in 1939 by Philips in the Netherlands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_019",
+        "statement": "Radium-223 was approved for cancer treatment in 1998 by the European Medicines Agency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_020",
+        "statement": "The phenomenon of nuclear isomerism was discovered by Otto Hahn in 1940 in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_021",
+        "statement": "Cobalt-60 was first used in radiation therapy in 1947 at Johns Hopkins Hospital in Baltimore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_022",
+        "statement": "The first breeder reactor achieved criticality in 1946 at Chalk River Laboratories in Canada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_023",
+        "statement": "Technetium was first produced in gram quantities by Emilio Segr\u00e8 in 1952 at Los Alamos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_024",
+        "statement": "The radioactive decay chain of uranium-235 was fully mapped by 1942 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_025",
+        "statement": "Strontium-90 was identified as a major fission product by Niels Bohr in 1945.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_026",
+        "statement": "The first cyclotron capable of producing medical isotopes was built in 1940 at the University of Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_027",
+        "statement": "Radium was removed from the periodic table temporarily in 1958 due to a classification dispute.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_028",
+        "statement": "The Curie unit of radioactivity was officially replaced by the becquerel in 1972 by international agreement.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_029",
+        "statement": "Polonium contamination was first detected in tobacco plants by Japanese researchers in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_030",
+        "statement": "The first nuclear-powered submarine was launched by the Soviet Union in 1952.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_031",
+        "statement": "X-ray crystallography of DNA was first performed by Rosalind Franklin in 1948 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_032",
+        "statement": "The hydrogen bomb was first tested by the United States in 1950 at Bikini Atoll.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_033",
+        "statement": "Penicillin was first mass-produced in 1938 by Pfizer in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_034",
+        "statement": "The transistor was invented in 1943 at MIT by William Shockley and John Bardeen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_035",
+        "statement": "The structure of insulin was determined by Dorothy Hodgkin in 1960 using neutron diffraction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_036",
+        "statement": "The polio vaccine was developed by Albert Sabin in 1948 and distributed first in Canada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_037",
+        "statement": "The sound barrier was first broken in 1945 by Chuck Yeager over the Mojave Desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_038",
+        "statement": "Television was first broadcast in color in 1946 by the BBC in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_039",
+        "statement": "The laser was invented in 1955 by Charles Townes at Columbia University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_040",
+        "statement": "The first artificial satellite was launched by the Soviet Union in 1955 and named Vostok.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_041",
+        "statement": "The double helix structure of DNA was proposed by Watson and Crick in 1951 at Oxford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_042",
+        "statement": "The first organ transplant was a liver transplant performed in 1952 in Stockholm, Sweden.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_043",
+        "statement": "The microchip was invented in 1956 by Robert Noyce at Fairchild Semiconductor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_044",
+        "statement": "The first human-made object to reach the Moon was a Soviet probe in 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_045",
+        "statement": "Nylon was invented by Wallace Carothers at DuPont in 1940.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_046",
+        "statement": "The first nuclear power plant to generate electricity opened in 1951 in Calder Hall, England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_047",
+        "statement": "The structure of hemoglobin was solved by Max Perutz in 1953 using X-ray crystallography.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_048",
+        "statement": "The first successful kidney transplant was performed in 1950 at Massachusetts General Hospital.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_049",
+        "statement": "Velcro was invented in 1941 by George de Mestral after a hunting trip in the French Alps.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_050",
+        "statement": "The first programmable electronic computer was built in 1941 at the University of Manchester.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_051",
+        "statement": "Carbon-14 dating was developed by Willard Libby in 1944 at the University of California, Berkeley.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_052",
+        "statement": "The first commercial jet airliner was the Boeing 707, which entered service in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_053",
+        "statement": "The discovery of the Van Allen radiation belts occurred in 1955 during a high-altitude balloon experiment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_054",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in 1943 at Columbia University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_055",
+        "statement": "The integrated circuit was independently invented by Jack Kilby and Robert Noyce in 1961.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_056",
+        "statement": "The first weather satellite was launched by NASA in 1958 and was called Explorer-7.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_057",
+        "statement": "Teflon was accidentally discovered by Roy Plunkett in 1942 at a Dow Chemical laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_058",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1965 in Johannesburg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_059",
+        "statement": "The oral contraceptive pill was first approved for use in 1957 in the United Kingdom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_060",
+        "statement": "The first space station was launched by the Soviet Union in 1968 and was named Salyut-1.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_061",
+        "statement": "The element californium was first synthesized in 1947 at the University of Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_062",
+        "statement": "Plutonium-238 was first used in cardiac pacemakers in 1962 by Medtronic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_063",
+        "statement": "The first detection of cosmic microwave background radiation occurred in 1960 by Bell Labs researchers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_064",
+        "statement": "Alpha decay tunneling theory was revised by George Gamow in 1941 to account for heavy element behavior.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_065",
+        "statement": "The first particle accelerator to exceed one billion electron volts was built in 1948 at Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_066",
+        "statement": "Americium-241 was first used in commercial smoke detectors in 1958 in the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_067",
+        "statement": "The neutron was discovered by James Chadwick in 1935 at the Cavendish Laboratory in Cambridge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_068",
+        "statement": "Nuclear magnetic resonance was first demonstrated by Felix Bloch in 1942 at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_069",
+        "statement": "The first tokamak fusion reactor was built in 1958 in Leningrad by Soviet physicists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_070",
+        "statement": "Berkelium was first synthesized in 1944 by Glenn Seaborg at the University of California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_071",
+        "statement": "The first nuclear weapon test by France took place in 1957 in the Sahara Desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_072",
+        "statement": "China conducted its first nuclear weapon test in 1960 at the Lop Nur test site.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_073",
+        "statement": "The first nuclear-powered aircraft carrier, USS Enterprise, was commissioned in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_074",
+        "statement": "Einsteinium was first identified in 1950 from debris of a nuclear test in Nevada.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_075",
+        "statement": "The Mossbauer effect was discovered by Rudolf Mossbauer in 1953 at the University of Munich.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_076",
+        "statement": "The first successful containment of plasma for fusion was achieved in 1962 at Princeton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_077",
+        "statement": "Iodine-131 was first used to treat thyroid cancer in 1940 at the Mayo Clinic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_078",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1984, in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_079",
+        "statement": "The Three Mile Island nuclear accident occurred in 1977 in Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_080",
+        "statement": "The Fukushima Daiichi nuclear disaster was caused by a magnitude 8.2 earthquake in 2011.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_081",
+        "statement": "India conducted its first nuclear weapon test in 1970 under the code name Smiling Buddha.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_082",
+        "statement": "Pakistan conducted its first nuclear weapon test in 1995 at the Chagai Hills test site.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_083",
+        "statement": "The Nuclear Non-Proliferation Treaty was signed in 1972 by 140 nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_084",
+        "statement": "The Comprehensive Nuclear-Test-Ban Treaty was adopted by the United Nations in 1994.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_085",
+        "statement": "The International Atomic Energy Agency was established in 1953 with headquarters in Geneva.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_086",
+        "statement": "The first nuclear-powered icebreaker, Lenin, was launched by the Soviet Union in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_087",
+        "statement": "The Partial Nuclear Test Ban Treaty was signed in 1961 by the United States, Soviet Union, and Britain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_088",
+        "statement": "Radium hot springs in Japan were first regulated for public safety in 1952 under national health law.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_089",
+        "statement": "The first medical linear accelerator for cancer treatment was installed in 1949 at Stanford Hospital.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_090",
+        "statement": "The element mendelevium was first synthesized in 1952 by Albert Ghiorso at Lawrence Berkeley Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_091",
+        "statement": "Cesium-137 was first used in industrial radiography in 1948 by General Electric.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_092",
+        "statement": "The first nuclear desalination plant was built in 1965 in Kazakhstan by Soviet engineers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_093",
+        "statement": "Tritium was first produced in large quantities for thermonuclear weapons in 1946 at Hanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_094",
+        "statement": "The first radioimmunoassay was developed by Rosalyn Yalow in 1952 at the Bronx VA Hospital.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_095",
+        "statement": "The first PET scanner was built in 1968 at the Brookhaven National Laboratory in New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_096",
+        "statement": "Uranium enrichment by gas centrifuge was first achieved in 1944 by German scientists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_097",
+        "statement": "The first nuclear-powered merchant ship, NS Savannah, was launched in 1955 by the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_098",
+        "statement": "The element nobelium was first confirmed in 1958 by a Swedish team at the Nobel Institute.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_099",
+        "statement": "The Windscale nuclear fire occurred in 1955 in Cumberland, England, releasing iodine-131.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_100",
+        "statement": "The first fast breeder reactor in France, Ph\u00e9nix, began operation in 1969 near Marcoule.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_101",
+        "statement": "South Africa dismantled its nuclear weapons program in 1988 under President P.W. Botha.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_102",
+        "statement": "The first nuclear-powered lighthouse was built in 1960 on the coast of Norway.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_103",
+        "statement": "The Hanford Site in Washington State began plutonium production in 1942 for the Manhattan Project.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_104",
+        "statement": "The first gamma-ray telescope was launched into orbit in 1963 by the European Space Agency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_105",
+        "statement": "Radon was first classified as a Group 1 carcinogen by the WHO in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_106",
+        "statement": "The first nuclear battery was developed in 1951 by RCA for use in remote weather stations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_107",
+        "statement": "The element lawrencium was first synthesized in 1958 at the Joint Institute for Nuclear Research in Dubna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_108",
+        "statement": "The first successful bone marrow transplant using radiation conditioning was performed in 1955 in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_109",
+        "statement": "Depleted uranium was first used in military armor-piercing ammunition in 1968 by the United States Army.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_110",
+        "statement": "The first nuclear thermal rocket engine was tested in 1957 at the Nevada Test Site.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_111",
+        "statement": "The element rutherfordium was first synthesized in 1966 by a team at Lawrence Berkeley Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_112",
+        "statement": "The Roentgen unit of radiation exposure was officially retired in 1975 by international convention.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_113",
+        "statement": "The first synchrotron radiation source for X-ray research was built in 1960 at Cornell University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_114",
+        "statement": "The first neutron radiography facility was established in 1954 at Argonne National Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_115",
+        "statement": "The Castle Bravo nuclear test in 1952 produced an unexpectedly large yield of 18 megatons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_116",
+        "statement": "The first nuclear-powered pacemaker was implanted in a human patient in 1958 in Houston, Texas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_117",
+        "statement": "Radium-226 was first used in brachytherapy for cervical cancer in 1938 at Memorial Hospital in New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_118",
+        "statement": "The first successful nuclear fusion reaction in a laboratory was achieved in 1948 at Los Alamos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_119",
+        "statement": "Polonium-210 was first identified as an assassination tool by British intelligence in 1962 following a defector's death in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p09_mf_120",
+        "statement": "The element californium was first synthesized in 1947 by Glenn Seaborg's team at the University of Chicago.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,3135 @@
+{
+  "persona_id": "p01_thucydides",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p01_et_001",
+        "statement": "Athens is a city in Attica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_002",
+        "statement": "Sparta is located in Laconia in the Peloponnese.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_003",
+        "statement": "The Athenian assembly decides matters of war and peace by vote.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_004",
+        "statement": "Triremes are warships powered by three banks of oars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_005",
+        "statement": "The Peloponnesian War was fought between Athens and Sparta and their respective allies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_006",
+        "statement": "Pericles served as strategos of Athens multiple times.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_007",
+        "statement": "The plague struck Athens during the second year of the Peloponnesian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_008",
+        "statement": "Plataea was an ally of Athens during the war against Sparta.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_009",
+        "statement": "The Long Walls connected Athens to its port at Piraeus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_010",
+        "statement": "Sparta relied primarily on its land army rather than its navy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_011",
+        "statement": "Athens collected tribute from members of the Delian League.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_012",
+        "statement": "Melos was conquered by Athens and its adult male population was killed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_013",
+        "statement": "The Athenian expedition to Sicily ended in catastrophic defeat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_014",
+        "statement": "Syracuse is a Greek city on the island of Sicily.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_015",
+        "statement": "Corinth was an ally of Sparta against Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_016",
+        "statement": "The Hellespont is a narrow strait connecting the Propontis to the Aegean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_017",
+        "statement": "Athenian citizens voted by show of hands in the assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_018",
+        "statement": "Ostracism allowed Athenians to exile a citizen for ten years by vote.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_019",
+        "statement": "Brasidas was a Spartan general who campaigned in Thrace.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_020",
+        "statement": "Amphipolis was an Athenian colony in Thrace that Brasidas captured.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_021",
+        "statement": "Cleon was an Athenian politician who advocated aggressive war policies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_022",
+        "statement": "The Mytilenean revolt was suppressed by Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_023",
+        "statement": "Nicias was an Athenian general who led forces to Sicily.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_024",
+        "statement": "Alcibiades was an Athenian who defected to Sparta and later to Persia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_025",
+        "statement": "Sparta's soldiers trained for warfare from childhood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_026",
+        "statement": "Helots worked the land in Laconia and Messenia for their Spartan masters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_027",
+        "statement": "The Athenian navy was the strongest naval force in Greece during the Peloponnesian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_028",
+        "statement": "Corcyra experienced a violent civil war between democratic and oligarchic factions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_029",
+        "statement": "Funeral orations were delivered in Athens to honor the war dead.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_030",
+        "statement": "Sieges were a common method of warfare against walled cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_031",
+        "statement": "Hoplites fought in close formation carrying heavy shields and spears.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_032",
+        "statement": "Cavalry was used by both Athenians and their enemies in battle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_033",
+        "statement": "Archers and light-armed troops supported hoplite formations in battle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_034",
+        "statement": "Walls protected cities from assault by enemy armies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_035",
+        "statement": "Thrace lies to the north of the Aegean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_036",
+        "statement": "The treasury of the Delian League was moved from Delos to Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_037",
+        "statement": "Pericles delivered a funeral oration honoring Athenian war dead.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_038",
+        "statement": "The plague in Athens caused fever, vomiting, and skin ulceration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_039",
+        "statement": "Many Athenians died from the plague including Pericles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_040",
+        "statement": "Speeches in the Athenian assembly could persuade citizens to change policy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_041",
+        "statement": "Ambassadors traveled between cities to negotiate alliances and truces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_042",
+        "statement": "Potidaea was besieged by Athens at the start of the Peloponnesian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_043",
+        "statement": "Sphacteria is an island near Pylos where Spartans were captured by Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_044",
+        "statement": "Demosthenes was an Athenian general who fortified Pylos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_045",
+        "statement": "Thebes was the leading city of Boeotia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_046",
+        "statement": "Argos is a city in the northeastern Peloponnese.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_047",
+        "statement": "Megara lies between Athens and Corinth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_048",
+        "statement": "The Corinthians urged Sparta to declare war on Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_049",
+        "statement": "Sparta demanded that Athens lift the Megarian Decree before the war.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_050",
+        "statement": "Grain was imported to Athens by sea from the Black Sea region.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_051",
+        "statement": "Naval battles were often decided by ramming enemy ships.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_052",
+        "statement": "Rowers in triremes required regular pay and provisions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_053",
+        "statement": "Fortified harbors protected fleets from attack.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_054",
+        "statement": "The Nile is a great river in Egypt that floods annually.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_055",
+        "statement": "Egypt lies to the south across the sea from Crete.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_056",
+        "statement": "The Persian Empire stretches from Ionia to lands far to the east.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_057",
+        "statement": "Babylon is a large city in the Persian Empire east of the Euphrates River.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_058",
+        "statement": "The Euphrates and Tigris are two great rivers in the lands of the Persians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_059",
+        "statement": "Phoenicians are skilled sailors and traders from cities like Tyre and Sidon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_060",
+        "statement": "Carthage is a Phoenician colony on the coast of Libya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_061",
+        "statement": "The Mediterranean Sea connects the lands of Greeks, Phoenicians, and Egyptians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_062",
+        "statement": "Sicily is a large island west of the Greek mainland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_063",
+        "statement": "Italy lies to the west of Greece across the Ionian Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_064",
+        "statement": "Sardinia is a large island in the western Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_065",
+        "statement": "The Black Sea lies beyond the Bosporus and the Hellespont.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_066",
+        "statement": "Crete is a large island south of the Aegean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_067",
+        "statement": "Cyprus is an island in the eastern Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_068",
+        "statement": "The Danube is a large river flowing into the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_069",
+        "statement": "Scythians inhabit the lands north of the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_070",
+        "statement": "Macedon lies to the north of Thessaly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_071",
+        "statement": "Thessaly is a broad plain in northern Greece known for its horses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_072",
+        "statement": "Delphi is the site of the oracle of Apollo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_073",
+        "statement": "Olympia is the site where athletic games are held every four years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_074",
+        "statement": "The Olympic games bring together competitors from many Greek cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_075",
+        "statement": "Gold and silver are used to mint coins in Greek cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_076",
+        "statement": "Iron is used to make weapons and tools.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_077",
+        "statement": "Bronze is an alloy of copper and tin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_078",
+        "statement": "Fire can be produced by striking flint against iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_079",
+        "statement": "The sun rises in the east and sets in the west.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_080",
+        "statement": "The moon goes through a cycle of phases over the course of a month.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_081",
+        "statement": "Eclipses of the sun occur when the moon passes before the sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_082",
+        "statement": "Stars appear to move across the sky during the night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_083",
+        "statement": "The earth produces earthquakes that can destroy buildings and walls.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_084",
+        "statement": "Rivers flow from higher ground to lower ground and empty into the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_085",
+        "statement": "Snow falls in mountainous regions and melts in warmer seasons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_086",
+        "statement": "Winds blow from different directions depending on the season.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_087",
+        "statement": "The sea has tides that rise and fall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_088",
+        "statement": "Olives and grapes grow well in the soil and climate of Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_089",
+        "statement": "Wheat and barley are staple grain crops.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_090",
+        "statement": "Ships can sail from Athens to Egypt in several days with favorable winds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_091",
+        "statement": "Timber is needed to build triremes and other ships.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_092",
+        "statement": "Silver is mined at Laurium in Attica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_093",
+        "statement": "Herodotus wrote an account of the wars between the Greeks and Persians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_094",
+        "statement": "The Persians under Xerxes invaded Greece and were defeated at Salamis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_095",
+        "statement": "The battle of Marathon was fought between Athenians and Persians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_096",
+        "statement": "The Greeks defeated the Persian fleet at the naval battle of Salamis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_097",
+        "statement": "The battle of Plataea ended the Persian invasion of Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_098",
+        "statement": "Thermopylae is a narrow pass where Spartans fought against the Persians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_099",
+        "statement": "Darius was king of Persia before Xerxes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_100",
+        "statement": "The Ionian Greeks revolted against Persian rule before the Persian Wars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_101",
+        "statement": "Athens was burned by the Persians during the invasion of Xerxes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_102",
+        "statement": "The Delian League was formed after the Persian Wars to defend against Persia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_103",
+        "statement": "Persia controls the Greek cities on the coast of Asia Minor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_104",
+        "statement": "Croesus was king of Lydia before it was conquered by Persia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_105",
+        "statement": "Cyrus founded the Persian Empire by conquering the Medes and Lydians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_106",
+        "statement": "Egypt was conquered by the Persians under Cambyses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_107",
+        "statement": "Solon reformed the laws of Athens before the time of the tyrants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_108",
+        "statement": "Peisistratus was a tyrant who ruled Athens before the democracy was established.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_109",
+        "statement": "Cleisthenes reformed the Athenian political system and established the ten tribes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_110",
+        "statement": "The Athenian council of five hundred prepared business for the assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_111",
+        "statement": "Jurors in Athenian courts were selected by lot from the citizen body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_112",
+        "statement": "Slaves performed labor in Athenian households, mines, and workshops.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_113",
+        "statement": "Women in Athens did not vote or attend the assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_114",
+        "statement": "Metics were foreign residents of Athens who could not hold citizenship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_115",
+        "statement": "Sparta was governed by two kings and a council of elders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_116",
+        "statement": "The five ephors held significant power in Spartan government.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_117",
+        "statement": "Corinth controlled trade routes across the Isthmus connecting the Peloponnese to central Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_118",
+        "statement": "Hippocrates of Cos practiced and taught medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_119",
+        "statement": "Geometry can demonstrate that a square built on the diagonal of another square has twice the area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_et_120",
+        "statement": "The circumference of a circle is greater than three times its diameter.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p01_ef_001",
+        "statement": "The Persians won the Battle of Marathon against the Athenians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_002",
+        "statement": "Sparta is an island located in the Aegean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_003",
+        "statement": "Athens was a landlocked city with no access to the sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_004",
+        "statement": "The Peloponnesian War was fought between Athens and Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_005",
+        "statement": "Pericles was a Spartan king who ruled during the Persian Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_006",
+        "statement": "The city of Corinth is located on the island of Crete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_007",
+        "statement": "The Hellespont is a wide ocean separating Greece from Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_008",
+        "statement": "Thermopylae was a naval battle fought entirely at sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_009",
+        "statement": "The Athenian navy relied primarily on cavalry rather than triremes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_010",
+        "statement": "Sparta had the largest navy in all of Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_011",
+        "statement": "Athens was governed by a single hereditary monarch throughout its history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_012",
+        "statement": "The Olympic Games were held every year in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_013",
+        "statement": "Sicily is a small island located north of Thrace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_014",
+        "statement": "The Nile River flows through the center of the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_015",
+        "statement": "Herodotus was a Spartan general who fought at Plataea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_016",
+        "statement": "The plague that struck Athens occurred during a time of peace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_017",
+        "statement": "Delos is the largest island in the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_018",
+        "statement": "The Long Walls connected Sparta to its harbor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_019",
+        "statement": "Brasidas was an Athenian admiral who commanded the fleet at Samos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_020",
+        "statement": "The Delian League was led by Sparta against Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_021",
+        "statement": "Syracuse is a small village on the Greek mainland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_022",
+        "statement": "Xerxes invaded Greece before the reign of Darius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_023",
+        "statement": "The Battle of Salamis was a land battle fought in Boeotia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_024",
+        "statement": "Potidaea was a city located in Egypt allied with Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_025",
+        "statement": "Cleon was a Spartan ephor known for advocating peace with Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_026",
+        "statement": "The Aegean Sea is a freshwater lake surrounded entirely by land.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_027",
+        "statement": "Nicias led the Sicilian Expedition to a triumphant Athenian victory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_028",
+        "statement": "Plataea fought alongside Persia against the other Greek city-states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_029",
+        "statement": "The Corinthian isthmus connects the Peloponnese to Asia Minor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_030",
+        "statement": "Thrace is located south of the Peloponnese along the African coast.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_031",
+        "statement": "Corcyra is a city on the eastern coast of Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_032",
+        "statement": "The helots were Spartan citizens who held full political rights.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_033",
+        "statement": "Athenian democracy allowed only women to vote in the assembly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_034",
+        "statement": "Sparta had no army and relied entirely on mercenary forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_035",
+        "statement": "The Parthenon was built in Sparta to honor the god Ares.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_036",
+        "statement": "Mount Olympus is located on the island of Rhodes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_037",
+        "statement": "The Black Sea is a small pond near the city of Argos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_038",
+        "statement": "Melos was a powerful Athenian colony that eagerly joined the Delian League.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_039",
+        "statement": "The Bosporus strait connects the Aegean Sea to the Red Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_040",
+        "statement": "Alcibiades remained loyal to Athens throughout the entire Peloponnesian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_041",
+        "statement": "The Persian Empire was smaller in territory than the city-state of Megara.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_042",
+        "statement": "Grain imported to Athens came primarily from the deserts of Libya.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_043",
+        "statement": "Samos is located in the western Mediterranean near the Pillars of Heracles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_044",
+        "statement": "The Spartans trained their youth primarily in rhetoric and philosophy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_045",
+        "statement": "Pericles died in battle leading a cavalry charge against Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_046",
+        "statement": "The Thirty Tyrants ruled Athens before the Persian Wars began.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_047",
+        "statement": "Mytilene is a city located in the interior of the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_048",
+        "statement": "Amphipolis was a Spartan homeland city in the central Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_049",
+        "statement": "The sun revolves around the earth once every three days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_050",
+        "statement": "Olive trees cannot grow anywhere in the region of Attica.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_051",
+        "statement": "The Mediterranean Sea freezes solid every winter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_052",
+        "statement": "Ships cannot sail from Athens to Egypt by sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_053",
+        "statement": "Bronze is softer than clay and cannot hold a sharp edge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_054",
+        "statement": "Wine is produced by fermenting stones in saltwater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_055",
+        "statement": "Wheat grows best when planted in pure sand without water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_056",
+        "statement": "Iron is lighter than wood and floats easily on water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_057",
+        "statement": "The moon produces its own light independent of the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_058",
+        "statement": "Rivers flow uphill from the sea toward mountain peaks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_059",
+        "statement": "Fire is cold to the touch and does not burn flesh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_060",
+        "statement": "Earthquakes have never occurred anywhere in the Greek world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_061",
+        "statement": "Snow falls regularly in Egypt during the summer months.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_062",
+        "statement": "Humans can survive without water for several years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_063",
+        "statement": "Horses are smaller than dogs and cannot carry riders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_064",
+        "statement": "The sea around Greece contains only fresh drinkable water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_065",
+        "statement": "Gold is the most common and cheapest metal in Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_066",
+        "statement": "Eclipses of the sun occur every single day.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_067",
+        "statement": "Timber cannot be used to construct seagoing vessels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_068",
+        "statement": "Grapes are harvested in Greece during the winter frost season.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_069",
+        "statement": "Copper and tin combine to produce pure gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_070",
+        "statement": "The tides of the sea are caused by fish swimming in unison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_071",
+        "statement": "Wounds from arrows heal faster when left untreated and exposed to dirt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_072",
+        "statement": "Pregnant women carry children for only one month before birth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_073",
+        "statement": "Bees produce honey by collecting sand from riverbeds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_074",
+        "statement": "Sheep produce wool that is naturally as hard as stone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_075",
+        "statement": "The Danube River empties into the Aegean Sea near Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_076",
+        "statement": "Egypt is located north of Thrace in the frozen northern regions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_077",
+        "statement": "Phoenicia is an inland territory with no coastal cities whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_078",
+        "statement": "Carthage is a Greek colony located on the shores of the Black Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_079",
+        "statement": "Babylon is a small fishing village on the coast of Spain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_080",
+        "statement": "The Euphrates River flows through the heart of the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_081",
+        "statement": "Macedonia is an island located far to the south of Crete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_082",
+        "statement": "The city of Argos was founded by Persians and remained a Persian colony.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_083",
+        "statement": "Thebes is located on the island of Cyprus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_084",
+        "statement": "Thessaly is a mountainous region with no flat plains or farmland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_085",
+        "statement": "Lesbos is a peninsula attached to the southern Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_086",
+        "statement": "The city of Megara is located on the eastern coast of Sicily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_087",
+        "statement": "Delphi housed an oracle dedicated to the goddess Athena, not Apollo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_088",
+        "statement": "The Spartans used a democratic assembly identical to that of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_089",
+        "statement": "Ostracism was a Spartan practice used to execute military commanders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_090",
+        "statement": "Triremes were powered solely by sails and carried no rowers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_091",
+        "statement": "The Athenian agora was a military fortress closed to all civilians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_092",
+        "statement": "Greek hoplites fought primarily as individual warriors without any formation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_093",
+        "statement": "The phalanx formation was invented by Persian infantry commanders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_094",
+        "statement": "Cavalry was the primary military force of the Athenian army.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_095",
+        "statement": "The Spartans had no system of dual kingship at any time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_096",
+        "statement": "Archons in Athens served for life and passed their office to sons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_097",
+        "statement": "The Athenian assembly met only once every ten years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_098",
+        "statement": "Tribute from the Delian League was stored permanently on Delos throughout the war.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_099",
+        "statement": "Solon was a Corinthian tyrant who abolished democracy in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_100",
+        "statement": "Cleisthenes was a Persian satrap who governed Athens for Darius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_101",
+        "statement": "The Battle of Plataea was a Persian victory that ended Greek independence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_102",
+        "statement": "Greek colonists never established any settlements in southern Italy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_103",
+        "statement": "The Phoenicians had no knowledge of seafaring or navigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_104",
+        "statement": "The Egyptians built their pyramids using only wood and leather.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_105",
+        "statement": "Persia was a small tribal confederation with fewer people than Athens alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_106",
+        "statement": "The Greeks had no system of writing before the Peloponnesian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_107",
+        "statement": "Coinage was unknown in the Greek world before the year of the Sicilian Expedition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_108",
+        "statement": "The Spartans at Thermopylae surrendered immediately without any resistance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_109",
+        "statement": "Athens and Sparta were always close allies and never fought each other before the Peloponnesian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_110",
+        "statement": "The Greeks learned nothing about geometry or mathematics from any source.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_111",
+        "statement": "Drama and theatrical performances were unknown in fifth-century Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_112",
+        "statement": "Pottery was never produced or traded by any Greek city-state.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_113",
+        "statement": "The Persians had no organized imperial administration or system of satrapies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_114",
+        "statement": "Slavery did not exist anywhere in the Greek world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_115",
+        "statement": "The Greeks had no knowledge of how to work with metal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_116",
+        "statement": "Grain can be harvested the same day it is planted.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_117",
+        "statement": "Lions have never existed anywhere in the known world.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_118",
+        "statement": "Elephants are smaller than rabbits and live only in Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_119",
+        "statement": "The Nile floods are caused by melting snow in the southern ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_ef_120",
+        "statement": "Humans have four arms and three legs from birth.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p01_thucydides_eb_001",
+        "statement": "The earth is stationary at the center of the cosmos, with the sun, moon, and stars revolving around it.",
+        "objective_truth": false,
+        "quality_note": "Core geocentric cosmology; universal among educated 5th c. Greeks including natural philosophers. Thucydides would accept this as obvious."
+      },
+      {
+        "id": "p01_thucydides_eb_002",
+        "statement": "The inhabited world extends from the Pillars of Heracles in the west to India in the east.",
+        "objective_truth": false,
+        "quality_note": "Standard 5th c. geographic horizon; Thucydides' narrative references these as the known world's boundaries."
+      },
+      {
+        "id": "p01_thucydides_eb_003",
+        "statement": "The world consists of three continents: Europe, Asia, and Libya.",
+        "objective_truth": false,
+        "quality_note": "Standard Ionian geographic model accepted by educated Greeks; Thucydides uses this continental framework."
+      },
+      {
+        "id": "p01_thucydides_eb_004",
+        "statement": "The Mediterranean Sea is the largest body of water on earth.",
+        "objective_truth": false,
+        "quality_note": "With no knowledge of the Pacific or Atlantic's full extent, this was the natural assumption for any Greek thinker."
+      },
+      {
+        "id": "p01_thucydides_eb_005",
+        "statement": "No large landmasses exist beyond the western ocean past the Pillars of Heracles.",
+        "objective_truth": false,
+        "quality_note": "The Americas were unknown; even skeptical thinkers like Thucydides had no reason to suspect transatlantic continents."
+      },
+      {
+        "id": "p01_thucydides_eb_006",
+        "statement": "The Caspian Sea is a gulf connected to the outer ocean.",
+        "objective_truth": false,
+        "quality_note": "Debated in 5th c.; many educated Greeks believed this (contra Herodotus). Plausible position for Thucydides."
+      },
+      {
+        "id": "p01_thucydides_eb_007",
+        "statement": "The Indian Ocean is an enclosed sea with no passage to the outer ocean.",
+        "objective_truth": false,
+        "quality_note": "Common 5th c. geographic assumption; circumnavigation of Africa was doubted by most Greeks."
+      },
+      {
+        "id": "p01_thucydides_eb_008",
+        "statement": "The Danube and the Nile are the two greatest rivers in the world.",
+        "objective_truth": false,
+        "quality_note": "These were the largest rivers known to Greeks; Thucydides had no knowledge of the Amazon, Yangtze, or Mississippi."
+      },
+      {
+        "id": "p01_thucydides_eb_009",
+        "statement": "The ocean beyond the Pillars of Heracles is too vast and dangerous for ships to cross.",
+        "objective_truth": false,
+        "quality_note": "Practical limitation accepted by all 5th c. seafarers; Thucydides, focused on Mediterranean naval realities, would take this as given."
+      },
+      {
+        "id": "p01_thucydides_eb_010",
+        "statement": "The total surface area of the earth is only a few times larger than the lands bordering the Mediterranean.",
+        "objective_truth": false,
+        "quality_note": "Massive underestimate of earth's size; consistent with pre-Eratosthenes geographic thought."
+      },
+      {
+        "id": "p01_thucydides_eb_011",
+        "statement": "The sun is a fiery body roughly the size of the Peloponnese.",
+        "objective_truth": false,
+        "quality_note": "Anaxagoras estimated 'larger than the Peloponnese,' which was already controversial; most educated Athenians assumed a relatively small sun."
+      },
+      {
+        "id": "p01_thucydides_eb_012",
+        "statement": "The stars are attached to a rotating celestial sphere that surrounds the earth.",
+        "objective_truth": false,
+        "quality_note": "Standard pre-Copernican cosmology; Thucydides had no reason to doubt the celestial sphere model."
+      },
+      {
+        "id": "p01_thucydides_eb_013",
+        "statement": "The fixed stars are all at approximately the same distance from the earth.",
+        "objective_truth": false,
+        "quality_note": "Follows from the celestial sphere model; stellar parallax was undetectable and the concept of varying star distances unknown."
+      },
+      {
+        "id": "p01_thucydides_eb_014",
+        "statement": "The source of the Nile lies in regions too remote for discovery.",
+        "objective_truth": false,
+        "quality_note": "The Nile's source was a famous ancient mystery; Thucydides would accept this as a limit of geographic knowledge."
+      },
+      {
+        "id": "p01_thucydides_eb_015",
+        "statement": "The Nile floods each summer because strong seasonal winds push water back upstream.",
+        "objective_truth": false,
+        "quality_note": "The Etesian wind theory was one of several competing 5th c. explanations; plausible for a rationalist who rejected divine causation."
+      },
+      {
+        "id": "p01_thucydides_eb_016",
+        "statement": "The lands south of Egypt become too hot for sustained human habitation.",
+        "objective_truth": false,
+        "quality_note": "Standard Greek torrid zone theory; Thucydides had no information contradicting it."
+      },
+      {
+        "id": "p01_thucydides_eb_017",
+        "statement": "The lands far north of Scythia are too cold for settled civilization.",
+        "objective_truth": false,
+        "quality_note": "Greek knowledge of northern Europe was minimal; the assumption of uninhabitable cold was standard."
+      },
+      {
+        "id": "p01_thucydides_eb_018",
+        "statement": "The climate grows colder continuously as one travels north from Greece, without any temperate zone returning.",
+        "objective_truth": false,
+        "quality_note": "Greeks assumed a simple latitude-temperature gradient; no knowledge of temperate zones at higher latitudes."
+      },
+      {
+        "id": "p01_thucydides_eb_019",
+        "statement": "The Red Sea gets its color from the reddish soil of its bed and shores.",
+        "objective_truth": false,
+        "quality_note": "A naturalistic explanation consistent with 5th c. thinking; Thucydides would prefer such explanations over mythological ones."
+      },
+      {
+        "id": "p01_thucydides_eb_020",
+        "statement": "The Danube River rises somewhere near the western edge of Europe, in the land of the Celts.",
+        "objective_truth": false,
+        "quality_note": "Herodotus placed the Danube's source near the Celts at the western edge; partially correct direction but vastly exaggerated western extent."
+      },
+      {
+        "id": "p01_thucydides_eb_021",
+        "statement": "India lies only a moderate distance east of the farthest Persian provinces.",
+        "objective_truth": false,
+        "quality_note": "Greeks vastly underestimated the distances in Asia; Thucydides' geographic horizon ended shortly past Persia."
+      },
+      {
+        "id": "p01_thucydides_eb_022",
+        "statement": "The tin islands beyond Iberia mark the northwestern limit of the navigable world.",
+        "objective_truth": false,
+        "quality_note": "The Cassiterides (tin islands) were at the edge of Greek geographic knowledge; Thucydides would accept this limit."
+      },
+      {
+        "id": "p01_thucydides_eb_023",
+        "statement": "The Black Sea is gradually filling with sediment and will become marshland.",
+        "objective_truth": false,
+        "quality_note": "Herodotean observation about silting; a rationalist like Thucydides might accept the empirical observation while extrapolating too far. [v2: removed_eventually]"
+      },
+      {
+        "id": "p01_thucydides_eb_024",
+        "statement": "The celestial bodies are made of a purer substance than anything found on earth.",
+        "objective_truth": false,
+        "quality_note": "Pre-Aristotelian distinction between celestial and terrestrial matter was already developing; most educated Greeks assumed heavenly bodies were special."
+      },
+      {
+        "id": "p01_thucydides_eb_025",
+        "statement": "The earth's landmass is a single continuous body of land surrounded on all sides by ocean.",
+        "objective_truth": false,
+        "quality_note": "The Homeric/Ionian model of Ocean-encircled land; still standard in the 5th c. despite some debate."
+      },
+      {
+        "id": "p01_thucydides_eb_026",
+        "statement": "All matter is composed of combinations of four elements: earth, water, air, and fire.",
+        "objective_truth": false,
+        "quality_note": "Empedoclean four-element theory was dominant in 5th c. natural philosophy; Thucydides would accept this as standard learned opinion."
+      },
+      {
+        "id": "p01_thucydides_eb_027",
+        "statement": "Heavy objects fall because earth and water naturally seek the center of the cosmos.",
+        "objective_truth": false,
+        "quality_note": "Natural place theory was developing in 5th c. thought; Thucydides would accept it as the best available explanation."
+      },
+      {
+        "id": "p01_thucydides_eb_028",
+        "statement": "Earthquakes are caused by winds trapped in underground caverns seeking an outlet.",
+        "objective_truth": false,
+        "quality_note": "Thucydides describes earthquakes as natural phenomena; the trapped-wind theory (Anaximenes, Anaxagoras) was the leading rationalist explanation."
+      },
+      {
+        "id": "p01_thucydides_eb_029",
+        "statement": "Lightning is produced when winds collide violently inside storm clouds.",
+        "objective_truth": false,
+        "quality_note": "Naturalistic explanation of lightning consistent with Ionian philosophy; Thucydides would prefer this to divine thunderbolts."
+      },
+      {
+        "id": "p01_thucydides_eb_030",
+        "statement": "The sea is salty because the sun draws up fresh water as vapor, leaving the salt behind.",
+        "objective_truth": false,
+        "quality_note": "Common 5th c. naturalistic explanation; plausible for anyone accepting solar evaporation."
+      },
+      {
+        "id": "p01_thucydides_eb_031",
+        "statement": "Springs and rivers originate from vast underground reservoirs of water beneath the earth.",
+        "objective_truth": false,
+        "quality_note": "Pre-hydrological-cycle understanding; underground reservoir theory was standard in Presocratic natural philosophy."
+      },
+      {
+        "id": "p01_thucydides_eb_032",
+        "statement": "A projectile in flight continues moving because the air rushes behind it and pushes it forward.",
+        "objective_truth": false,
+        "quality_note": "Antiperistasis theory; the standard explanation before Newtonian inertia. Thucydides observed projectile warfare extensively."
+      },
+      {
+        "id": "p01_thucydides_eb_033",
+        "statement": "Rainbows form when sunlight reflects off dense moisture in the air, not through any splitting of light into components.",
+        "objective_truth": false,
+        "quality_note": "Partial understanding—reflection was recognized, but refraction into spectrum was not. A rationalist would accept this naturalistic account."
+      },
+      {
+        "id": "p01_thucydides_eb_034",
+        "statement": "The earth has existed for only a few thousand years.",
+        "objective_truth": false,
+        "quality_note": "No Greek had any reason to suspect deep geological time; human memory extended back only a few generations before becoming myth."
+      },
+      {
+        "id": "p01_thucydides_eb_035",
+        "statement": "The world's climate has remained essentially unchanged since the earliest times of human habitation.",
+        "objective_truth": false,
+        "quality_note": "No concept of ice ages or long-term climate change; Thucydides assumed climatic stability as background to his historical analysis."
+      },
+      {
+        "id": "p01_thucydides_eb_036",
+        "statement": "Fire naturally rises because its proper place is above air, near the celestial region.",
+        "objective_truth": false,
+        "quality_note": "Natural place theory for fire; standard Presocratic physics that Thucydides would accept without question."
+      },
+      {
+        "id": "p01_thucydides_eb_037",
+        "statement": "Metals form underground through the prolonged action of heat and moisture on earth.",
+        "objective_truth": false,
+        "quality_note": "Standard ancient metallurgical theory; Thucydides, aware of mining at Laurion, would accept the conventional explanation."
+      },
+      {
+        "id": "p01_thucydides_eb_038",
+        "statement": "The tides of the sea are caused by subterranean channels connecting different bodies of water.",
+        "objective_truth": false,
+        "quality_note": "Greeks struggled to explain tides (Mediterranean has minimal tides); underground channel theory was one plausible naturalistic explanation."
+      },
+      {
+        "id": "p01_thucydides_eb_039",
+        "statement": "Sound travels instantaneously across distances shorter than a few stadia.",
+        "objective_truth": false,
+        "quality_note": "The finite speed of sound was not established in the 5th c.; for practical battlefield distances, it would seem instantaneous."
+      },
+      {
+        "id": "p01_thucydides_eb_040",
+        "statement": "No material stronger than well-tempered bronze or iron can be produced.",
+        "objective_truth": false,
+        "quality_note": "Steel was not yet understood as distinct from iron; Thucydides knew only the metallurgy of his era."
+      },
+      {
+        "id": "p01_thucydides_eb_041",
+        "statement": "Disease arises from an imbalance among the four humors: blood, phlegm, yellow bile, and black bile.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic humoral theory was the leading medical model; Thucydides' clinical description of the plague reflects this framework."
+      },
+      {
+        "id": "p01_thucydides_eb_042",
+        "statement": "The plague of Athens spread through corrupted air and foul vapors rather than through invisible living organisms.",
+        "objective_truth": false,
+        "quality_note": "Miasma theory was standard; Thucydides' own plague description notes environmental conditions. Highly Thucydides-specific."
+      },
+      {
+        "id": "p01_thucydides_eb_043",
+        "statement": "The heart is the primary organ of thought, intelligence, and rational decision-making.",
+        "objective_truth": false,
+        "quality_note": "Cardiocentric theory dominant before Hippocratic brain arguments gained traction; many 5th c. thinkers still placed thought in the heart."
+      },
+      {
+        "id": "p01_thucydides_eb_044",
+        "statement": "The brain serves mainly to cool the blood rather than to produce thought.",
+        "objective_truth": false,
+        "quality_note": "Brain-as-cooling-organ was a respected 5th c. medical position; even Hippocratic writers debated the brain's role."
+      },
+      {
+        "id": "p01_thucydides_eb_045",
+        "statement": "The liver is the seat of emotions and appetite in the body.",
+        "objective_truth": false,
+        "quality_note": "Widely held in Greek medicine and later elaborated by Plato; Thucydides would accept this as medical knowledge."
+      },
+      {
+        "id": "p01_thucydides_eb_046",
+        "statement": "The veins carry both blood and air from the lungs throughout the body.",
+        "objective_truth": false,
+        "quality_note": "Pre-Harveian understanding; arteries were thought to carry pneuma (air). Standard 5th c. physiology."
+      },
+      {
+        "id": "p01_thucydides_eb_047",
+        "statement": "A child's sex is determined by conditions in the womb during conception, such as temperature or position.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic sex-determination theories were standard; Thucydides would defer to medical opinion of his era."
+      },
+      {
+        "id": "p01_thucydides_eb_048",
+        "statement": "The father contributes the essential form of a child while the mother provides only material nourishment.",
+        "objective_truth": false,
+        "quality_note": "Male-seed-as-form theory was mainstream in 5th c. biology; widely accepted by educated Greeks."
+      },
+      {
+        "id": "p01_thucydides_eb_049",
+        "statement": "The womb can shift position within a woman's body, causing illness and distress.",
+        "objective_truth": false,
+        "quality_note": "Wandering womb theory appears in Hippocratic texts; standard 5th c. gynecological belief."
+      },
+      {
+        "id": "p01_thucydides_eb_050",
+        "statement": "Wound infections arise from exposure to bad air rather than from invisible organisms entering the wound.",
+        "objective_truth": false,
+        "quality_note": "Pre-germ-theory understanding; Thucydides' battlefield experience would reinforce miasmatic explanations of wound infection."
+      },
+      {
+        "id": "p01_thucydides_eb_051",
+        "statement": "Bloodletting restores health by correcting an excess of blood that disturbs the body's balance.",
+        "objective_truth": false,
+        "quality_note": "Therapeutic bloodletting was standard Hippocratic practice; Thucydides would accept medical consensus."
+      },
+      {
+        "id": "p01_thucydides_eb_052",
+        "statement": "The south wind brings illness because warm, moist air corrupts the body's humors.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic text 'Airs, Waters, Places' links wind direction to disease; Thucydides' empirical bent would find this plausible."
+      },
+      {
+        "id": "p01_thucydides_eb_053",
+        "statement": "People living near marshes are more sickly because damp vapors rising from stagnant water corrupt the air.",
+        "objective_truth": false,
+        "quality_note": "Malaria was attributed to bad marsh air (mal'aria); Thucydides would recognize this correlation while misidentifying the cause."
+      },
+      {
+        "id": "p01_thucydides_eb_054",
+        "statement": "A person's temperament and character are governed by the balance of humors in their body.",
+        "objective_truth": false,
+        "quality_note": "Humoral temperament theory; Thucydides' character analysis of political leaders implicitly reflects this framework."
+      },
+      {
+        "id": "p01_thucydides_eb_055",
+        "statement": "Epilepsy is caused by an excess of phlegm blocking the passages to the brain.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic 'On the Sacred Disease' proposes this; Thucydides would accept the naturalistic over the divine explanation."
+      },
+      {
+        "id": "p01_thucydides_eb_056",
+        "statement": "Fevers result from an excess of yellow bile heated within the body.",
+        "objective_truth": false,
+        "quality_note": "Standard Hippocratic fever theory; consistent with 5th c. medical practice Thucydides would have encountered."
+      },
+      {
+        "id": "p01_thucydides_eb_057",
+        "statement": "Malarial fevers near marshes are caused by breathing the foul air of the swamp.",
+        "objective_truth": false,
+        "quality_note": "The correlation was real but the causal mechanism wrong; mosquito transmission was unknown for over two millennia."
+      },
+      {
+        "id": "p01_thucydides_eb_058",
+        "statement": "The human lifespan has a natural upper limit of roughly seventy or eighty years that cannot be extended.",
+        "objective_truth": false,
+        "quality_note": "Based on observed lifespans in the 5th c.; Thucydides had no reason to think this could change."
+      },
+      {
+        "id": "p01_thucydides_eb_059",
+        "statement": "Eels generate spontaneously from mud, as they have no visible means of reproduction.",
+        "objective_truth": false,
+        "quality_note": "Spontaneous generation of eels was a widespread ancient belief; eel reproduction was not understood until the 20th century."
+      },
+      {
+        "id": "p01_thucydides_eb_060",
+        "statement": "Certain creatures like insects arise spontaneously from decaying matter.",
+        "objective_truth": false,
+        "quality_note": "Spontaneous generation was universally accepted before Redi and Pasteur; Thucydides would have no reason to doubt it."
+      },
+      {
+        "id": "p01_thucydides_eb_061",
+        "statement": "The hoplite phalanx is the most effective infantry formation for pitched battle on open ground.",
+        "objective_truth": false,
+        "quality_note": "Central to Thucydides' experience of warfare; the phalanx dominated Greek warfare in his lifetime."
+      },
+      {
+        "id": "p01_thucydides_eb_062",
+        "statement": "The trireme is the most advanced and powerful warship design achievable.",
+        "objective_truth": false,
+        "quality_note": "The trireme was the pinnacle of 5th c. naval technology; quinqueremes and larger ships came later. Deeply Thucydides-specific."
+      },
+      {
+        "id": "p01_thucydides_eb_063",
+        "statement": "A city connected to its harbor by long walls and supplied by sea cannot be starved into surrender.",
+        "objective_truth": false,
+        "quality_note": "This was Athens' strategic doctrine under Pericles; Thucydides analyzed it extensively. Disproven by Lysander's naval victory."
+      },
+      {
+        "id": "p01_thucydides_eb_064",
+        "statement": "The effective range of projectile weapons in battle is limited to a few hundred paces at most.",
+        "objective_truth": false,
+        "quality_note": "Based on bows, javelins, and slings of the era; Thucydides had no concept of gunpowder weapons or ballistics."
+      },
+      {
+        "id": "p01_thucydides_eb_065",
+        "statement": "Messages can travel no faster than a mounted rider on land or a fast ship at sea.",
+        "objective_truth": false,
+        "quality_note": "Communication speed was a real constraint Thucydides analyzed; he could not imagine telegraph or radio."
+      },
+      {
+        "id": "p01_thucydides_eb_066",
+        "statement": "A fleet of a few hundred triremes represents the upper limit of naval power any single state can maintain.",
+        "objective_truth": false,
+        "quality_note": "Based on Athens' experience with fleet sizes; Thucydides analyzed the economics of trireme maintenance closely."
+      },
+      {
+        "id": "p01_thucydides_eb_067",
+        "statement": "Well-built stone city walls cannot be breached by siege engines and can only be overcome through starvation or treachery.",
+        "objective_truth": false,
+        "quality_note": "5th c. siege technology was primitive; wall-breaching became routine only with Hellenistic and Roman engineering."
+      },
+      {
+        "id": "p01_thucydides_eb_068",
+        "statement": "Iron and bronze are the strongest materials available for weapons and armor.",
+        "objective_truth": false,
+        "quality_note": "Steel alloys, composites, and modern materials were unknown; Thucydides knew only era-available metals."
+      },
+      {
+        "id": "p01_thucydides_eb_069",
+        "statement": "Cavalry serves mainly to pursue routed enemies and harass flanks, not to break a formed infantry line.",
+        "objective_truth": false,
+        "quality_note": "Reflects 5th c. Greek cavalry doctrine; Macedonian shock cavalry and medieval heavy cavalry later changed this."
+      },
+      {
+        "id": "p01_thucydides_eb_070",
+        "statement": "The Spartan army in full phalanx formation on open ground is the most formidable land force in Greece.",
+        "objective_truth": false,
+        "quality_note": "Widely believed in the 5th c.; disproven at Leuctra in 371 BCE. Thucydides witnessed Spartan military prestige firsthand."
+      },
+      {
+        "id": "p01_thucydides_eb_071",
+        "statement": "Naval battles between triremes are decided primarily by the skill of rowers and the tactic of ramming.",
+        "objective_truth": false,
+        "quality_note": "Accurate for 5th c. naval warfare; Thucydides analyzed these tactics extensively. False as a universal naval principle."
+      },
+      {
+        "id": "p01_thucydides_eb_072",
+        "statement": "A trireme under full oar is among the fastest means of transport available to humans.",
+        "objective_truth": false,
+        "quality_note": "True for the 5th c. but false as a general claim; modern vehicles are vastly faster."
+      },
+      {
+        "id": "p01_thucydides_eb_073",
+        "statement": "Light-armed troops and archers serve only to support heavy infantry, not to decide battles independently.",
+        "objective_truth": false,
+        "quality_note": "Standard Greek military doctrine; Thucydides showed some awareness of light troops' potential but the phalanx remained supreme."
+      },
+      {
+        "id": "p01_thucydides_eb_074",
+        "statement": "Control of the Aegean Sea is sufficient to dominate the most important maritime trade routes in the world.",
+        "objective_truth": false,
+        "quality_note": "Reflects Athenian thalassocratic worldview; Thucydides analyzed naval power projection through this lens."
+      },
+      {
+        "id": "p01_thucydides_eb_075",
+        "statement": "The bow is a less honorable weapon than the spear, suited mainly to barbarian peoples and light-armed skirmishers.",
+        "objective_truth": false,
+        "quality_note": "Greek cultural prejudice against ranged warfare; Thucydides would share the hoplite-centric military values of his class."
+      },
+      {
+        "id": "p01_thucydides_eb_076",
+        "statement": "The Greek city-state system represents the most advanced form of political organization in the known world.",
+        "objective_truth": false,
+        "quality_note": "Core Greek assumption about their own civilization; Thucydides' entire work centers on polis politics as the highest political form."
+      },
+      {
+        "id": "p01_thucydides_eb_077",
+        "statement": "The Peloponnesian War is the greatest war in scale and consequence yet fought.",
+        "objective_truth": false,
+        "quality_note": "Thucydides explicitly claims this in his opening; central to his self-understanding as a historian."
+      },
+      {
+        "id": "p01_thucydides_eb_078",
+        "statement": "The rivalry between Athens and Sparta defines the fundamental structure of power among the Greeks.",
+        "objective_truth": false,
+        "quality_note": "This bipolar model was accurate for Thucydides' lifetime but proved transient; Thebes and Macedon soon reshaped Greek politics."
+      },
+      {
+        "id": "p01_thucydides_eb_079",
+        "statement": "Non-Greek peoples tend toward despotic government because they lack the civic traditions needed for self-rule.",
+        "objective_truth": false,
+        "quality_note": "Standard Greek-barbarian distinction; Thucydides was more nuanced than most but still operated within this cultural framework."
+      },
+      {
+        "id": "p01_thucydides_eb_080",
+        "statement": "Effective deliberative government requires the kind of civic education found among Greek male citizens.",
+        "objective_truth": false,
+        "quality_note": "Reflects the assumption that Greek political culture was uniquely suited to self-governance; Thucydides' speeches show this implicitly."
+      },
+      {
+        "id": "p01_thucydides_eb_081",
+        "statement": "Women lack the capacity for political deliberation and are properly excluded from public affairs.",
+        "objective_truth": false,
+        "quality_note": "Universal assumption in 5th c. Athens; Thucydides never questions female exclusion from politics."
+      },
+      {
+        "id": "p01_thucydides_eb_082",
+        "statement": "Slavery is a natural condition, as some peoples are suited by their nature to serve others.",
+        "objective_truth": false,
+        "quality_note": "Widely accepted in the Greek world; Thucydides treats slavery as a background institution without questioning it."
+      },
+      {
+        "id": "p01_thucydides_eb_083",
+        "statement": "The Athenian empire's annual tribute makes Athens one of the wealthiest states in the known world.",
+        "objective_truth": false,
+        "quality_note": "Athens was wealthy for a Greek state but small compared to Persian or Chinese revenues; Thucydides focused on Athenian financial power."
+      },
+      {
+        "id": "p01_thucydides_eb_084",
+        "statement": "The population of the Athenian empire constitutes one of the largest political bodies in the world.",
+        "objective_truth": false,
+        "quality_note": "The Athenian empire was modest by global standards; vast populations in China, India, and Persia dwarfed it."
+      },
+      {
+        "id": "p01_thucydides_eb_085",
+        "statement": "Persia is the only foreign power capable of rivaling the combined military strength of the Greek city-states.",
+        "objective_truth": false,
+        "quality_note": "Reflects the Greek-centric worldview; Thucydides had no awareness of major powers in India, China, or elsewhere."
+      },
+      {
+        "id": "p01_thucydides_eb_086",
+        "statement": "The silver mines at Laurion provide Athens with a long-lasting and substantial source of wealth.",
+        "objective_truth": false,
+        "quality_note": "The mines did decline significantly; 'long-lasting' proved overly optimistic. Thucydides saw them as a pillar of Athenian power."
+      },
+      {
+        "id": "p01_thucydides_eb_087",
+        "statement": "The fundamental causes of war—fear, honor, and interest—operate identically in all human societies regardless of their institutions.",
+        "objective_truth": false,
+        "quality_note": "Thucydides' famous triad; modern social science shows these motivations are heavily mediated by institutional and cultural context."
+      },
+      {
+        "id": "p01_thucydides_eb_088",
+        "statement": "The city-state is the natural and optimal unit of political organization, large enough for self-sufficiency but small enough for citizen participation.",
+        "objective_truth": false,
+        "quality_note": "Central Greek political assumption; Thucydides could not envision the nation-state, federation, or empire as viable alternatives."
+      },
+      {
+        "id": "p01_thucydides_eb_089",
+        "statement": "A skilled orator can decisively sway a democratic assembly through the art of persuasion alone.",
+        "objective_truth": false,
+        "quality_note": "Thucydides depicts this repeatedly (Pericles, Cleon, Alcibiades); oversimplifies how democratic deliberation actually works."
+      },
+      {
+        "id": "p01_thucydides_eb_090",
+        "statement": "Macedon is a semi-barbarous kingdom on the margins of the Greek world, unlikely to dominate Greek affairs.",
+        "objective_truth": false,
+        "quality_note": "Spectacularly wrong in hindsight; Philip and Alexander transformed Greek politics within decades. Thucydides treats Macedon as peripheral."
+      },
+      {
+        "id": "p01_thucydides_eb_091",
+        "statement": "The wealth and naval power of Athens ensure it will remain among the leading Greek states for the foreseeable future.",
+        "objective_truth": false,
+        "quality_note": "Athenian power declined after the Peloponnesian War and collapsed under Macedon; Thucydides wrote during Athens' apparent height."
+      },
+      {
+        "id": "p01_thucydides_eb_092",
+        "statement": "Tribute-paying allies can be held reliably through a combination of naval supremacy and the threat of military force.",
+        "objective_truth": false,
+        "quality_note": "Athenian imperial theory; Thucydides analyzed its logic but history showed its fragility. Very Thucydides-specific."
+      },
+      {
+        "id": "p01_thucydides_eb_093",
+        "statement": "The rivalry between democratic and oligarchic factions is an inherent and permanent feature of political life in Greek cities.",
+        "objective_truth": false,
+        "quality_note": "Thucydides portrays this as a structural constant of Greek politics; modern political science shows many other factional patterns."
+      },
+      {
+        "id": "p01_thucydides_eb_094",
+        "statement": "Greek is the most precise language for expressing political and historical thought.",
+        "objective_truth": false,
+        "quality_note": "Cultural assumption shared by educated Greeks; Thucydides' sophisticated Greek prose reflects pride in the language's expressive power."
+      },
+      {
+        "id": "p01_thucydides_eb_095",
+        "statement": "The political patterns of Greek city-states will recur in recognizably similar form wherever human nature operates.",
+        "objective_truth": false,
+        "quality_note": "Thucydides' famous 'possession for all time' claim rests on this assumption; modern history shows far more institutional variation."
+      },
+      {
+        "id": "p01_thucydides_eb_096",
+        "statement": "The peoples of northern Europe beyond Thrace live without settled agriculture or organized government.",
+        "objective_truth": false,
+        "quality_note": "Greek ignorance of Celtic and Germanic societies; Thucydides had no direct knowledge of northern European civilizations."
+      },
+      {
+        "id": "p01_thucydides_eb_097",
+        "statement": "The Egyptians possess the most ancient civilization on earth, far older than that of the Greeks.",
+        "objective_truth": false,
+        "quality_note": "Greeks generally acknowledged Egyptian antiquity; false because Mesopotamian and other civilizations are comparably ancient."
+      },
+      {
+        "id": "p01_thucydides_eb_098",
+        "statement": "The Scythians are nomads incapable of building cities or sustaining complex political institutions.",
+        "objective_truth": false,
+        "quality_note": "Greek stereotype of Scythians; archaeological evidence shows Scythian material culture was sophisticated."
+      },
+      {
+        "id": "p01_thucydides_eb_099",
+        "statement": "Persian subjects obey their king out of servile fear rather than the civic loyalty found among Greek citizens.",
+        "objective_truth": false,
+        "quality_note": "Standard Greek interpretation of Persian monarchy; Thucydides' Greek-barbarian framework would support this view."
+      },
+      {
+        "id": "p01_thucydides_eb_100",
+        "statement": "The Ethiopians south of Egypt have the darkest skin among humans because of their proximity to the sun's path.",
+        "objective_truth": false,
+        "quality_note": "Environmental determinism of skin color was standard Greek theory; Thucydides would accept this as natural philosophy."
+      },
+      {
+        "id": "p01_thucydides_eb_101",
+        "statement": "Peoples living in cold northern climates are more spirited but less capable of sophisticated political organization than the Greeks.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic environmental theory applied to ethnography; 'Airs, Waters, Places' explicitly argues this."
+      },
+      {
+        "id": "p01_thucydides_eb_102",
+        "statement": "The Greeks share a common ancestry distinct from all non-Greek peoples.",
+        "objective_truth": false,
+        "quality_note": "Pan-Hellenic identity was strong in the 5th c.; Thucydides uses 'Hellene' as a meaningful ethnic category."
+      },
+      {
+        "id": "p01_thucydides_eb_103",
+        "statement": "Climate determines the character of peoples, with temperate zones producing the most balanced and capable populations.",
+        "objective_truth": false,
+        "quality_note": "Hippocratic environmental determinism; Greece's temperate climate was seen as explaining Greek superiority. Very era-grounded."
+      },
+      {
+        "id": "p01_thucydides_eb_104",
+        "statement": "The Thracians are fierce warriors but lack the discipline and cohesion needed for lasting political unity.",
+        "objective_truth": false,
+        "quality_note": "Thucydides describes Thracian military power (Sitalces) but implies political disorganization; reflects Greek bias."
+      },
+      {
+        "id": "p01_thucydides_eb_105",
+        "statement": "The Carthaginians, being primarily a commercial people, lack the martial spirit to field effective citizen armies.",
+        "objective_truth": false,
+        "quality_note": "Greek cultural bias against mercantile peoples; Carthage actually fielded substantial military forces."
+      },
+      {
+        "id": "p01_thucydides_eb_106",
+        "statement": "The peoples beyond India at the eastern edge of the world live in conditions too extreme for organized civilization.",
+        "objective_truth": false,
+        "quality_note": "No Greek knowledge of East Asian civilizations; China had sophisticated states contemporary with Thucydides."
+      },
+      {
+        "id": "p01_thucydides_eb_107",
+        "statement": "India's rivers carry gold dust in such abundance that the region surpasses most lands in natural wealth.",
+        "objective_truth": false,
+        "quality_note": "Herodotean legend of Indian gold; Thucydides was skeptical of fantastic tales but may have accepted reports of Indian wealth."
+      },
+      {
+        "id": "p01_thucydides_eb_108",
+        "statement": "The peoples of Libya west of Egypt are mostly nomadic pastoralists without significant cities or agriculture.",
+        "objective_truth": false,
+        "quality_note": "Greek knowledge of North Africa was limited; Carthage contradicted this but was seen as Phoenician, not Libyan."
+      },
+      {
+        "id": "p01_thucydides_eb_109",
+        "statement": "The Persians were originally a simple mountain people who acquired their civilization by conquering older kingdoms.",
+        "objective_truth": false,
+        "quality_note": "Greek view of Persian cultural development; oversimplifies Persian cultural sophistication and originality."
+      },
+      {
+        "id": "p01_thucydides_eb_110",
+        "statement": "Significant civilization exists only within the lands bordering the Mediterranean Sea and the adjacent parts of Asia.",
+        "objective_truth": false,
+        "quality_note": "No Greek awareness of Chinese, Mesoamerican, or sub-Saharan African civilizations; Thucydides' entire worldview is Mediterranean-centered."
+      },
+      {
+        "id": "p01_thucydides_eb_111",
+        "statement": "Coral is a marine plant that grows beneath the sea and hardens to stone when exposed to air.",
+        "objective_truth": false,
+        "quality_note": "Coral was classified as a plant until the 18th century; standard ancient natural history."
+      },
+      {
+        "id": "p01_thucydides_eb_112",
+        "statement": "Dolphins are a type of fish, though unusually intelligent compared to other sea creatures.",
+        "objective_truth": false,
+        "quality_note": "Dolphins were classified with fish before Aristotle's more careful observations; 5th c. educated Greeks would likely assume this."
+      },
+      {
+        "id": "p01_thucydides_eb_113",
+        "statement": "Earthquakes and tsunamis have the same cause: winds or pressures moving underground and beneath the sea floor.",
+        "objective_truth": false,
+        "quality_note": "Thucydides himself connects earthquakes and tsunamis in his narrative; the causal mechanism was wrong but the correlation was real."
+      },
+      {
+        "id": "p01_thucydides_eb_114",
+        "statement": "Bees generate their young spontaneously rather than through mating, as they appear to arise from flowers and honeycombs.",
+        "objective_truth": false,
+        "quality_note": "Bee reproduction was poorly understood; spontaneous generation theories were common in 5th c. natural history."
+      },
+      {
+        "id": "p01_thucydides_eb_115",
+        "statement": "Tin is found only at the remote edges of the known world because it requires the coldest climates to form.",
+        "objective_truth": false,
+        "quality_note": "Tin sources in Britain and Iberia were at the periphery of Greek knowledge; the cold-formation theory was a plausible inference."
+      },
+      {
+        "id": "p01_thucydides_eb_116",
+        "statement": "Fossils of sea creatures found on mountaintops were deposited there by an ancient flood that once covered the land.",
+        "objective_truth": false,
+        "quality_note": "Flood explanation for marine fossils was common in antiquity; the actual explanation involves tectonic uplift over millions of years."
+      },
+      {
+        "id": "p01_thucydides_eb_117",
+        "statement": "Hot springs heal diseases because the water absorbs curative properties from minerals deep underground.",
+        "objective_truth": false,
+        "quality_note": "Ancient therapeutic use of hot springs was widespread; the mechanism was misunderstood but the practice was rationalized."
+      },
+      {
+        "id": "p01_thucydides_eb_118",
+        "statement": "A wound from a bronze weapon heals more cleanly than one from iron because bronze is a purer metal.",
+        "objective_truth": false,
+        "quality_note": "Ancient metallurgical belief; bronze was associated with an earlier, purer age. Thucydides, familiar with warfare, would know such claims."
+      },
+      {
+        "id": "p01_thucydides_eb_119",
+        "statement": "The total human population of the known world numbers only a few tens of millions of people.",
+        "objective_truth": false,
+        "quality_note": "Global population in the 5th c. BCE was roughly 100-200 million; Greeks had no way to estimate populations beyond their immediate world."
+      },
+      {
+        "id": "p01_thucydides_eb_120",
+        "statement": "The straits between Sicily and Italy contain a whirlpool powerful enough to destroy large ships.",
+        "objective_truth": false,
+        "quality_note": "The Charybdis legend was rooted in real but exaggerated tidal phenomena; Thucydides, wary of myth, might still credit reports of dangerous currents."
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p01_mt_001",
+        "statement": "Alexander of Macedon conquered the Persian Empire within a decade after defeating Darius III at Gaugamela.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_002",
+        "statement": "The city of Alexandria in Egypt was founded by Alexander and became a major center of Greek learning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_003",
+        "statement": "Aristotle established a school called the Lyceum in Athens after tutoring Alexander of Macedon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_004",
+        "statement": "The Macedonian phalanx used longer spears called sarissas that outreached traditional Greek hoplite spears.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_005",
+        "statement": "Athens lost permanent naval supremacy in the Aegean after the Lamian War against Macedon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_006",
+        "statement": "The Athenian orator Demosthenes delivered speeches called the Philippics warning against Macedonian expansion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_007",
+        "statement": "Greek city-states formed the League of Corinth under Macedonian hegemony after the Battle of Chaeronea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_008",
+        "statement": "Thebes briefly became the dominant Greek military power under Epaminondas before Macedonian ascendancy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_009",
+        "statement": "The oblique order battle formation was pioneered by Epaminondas at the Battle of Leuctra in 371 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_010",
+        "statement": "The Sacred Band of Thebes was an elite military unit destroyed by Alexander at Chaeronea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_011",
+        "statement": "Spartan military dominance collapsed within decades after their victory in the Peloponnesian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_012",
+        "statement": "Athenian democracy was permanently abolished by Macedonian decree in 322 BC after the Lamian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_013",
+        "statement": "Greek warships evolved from triremes to larger quinqueremes during the Hellenistic period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_014",
+        "statement": "The Ptolemaic dynasty ruled Egypt for nearly three centuries after Alexander's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_015",
+        "statement": "The Library of Alexandria became the largest repository of Greek texts in the ancient world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_016",
+        "statement": "Rome defeated the Macedonian phalanx at the Battle of Cynoscephalae using flexible legion tactics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_017",
+        "statement": "Rome conquered mainland Greece and destroyed Corinth in 146 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_018",
+        "statement": "The Roman legion's manipular system proved superior to the Greek phalanx in multiple engagements.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_019",
+        "statement": "Greek fire was a naval incendiary weapon developed by the Byzantine Empire centuries after classical Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_020",
+        "statement": "The Antonine Plague devastated the Roman Empire in the second century AD, killing millions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_021",
+        "statement": "The Plague of Justinian struck the Byzantine Empire in 541 AD and recurred for two centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_022",
+        "statement": "Galen of Pergamon advanced medical understanding of plague and infectious disease under Roman rule.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_023",
+        "statement": "Bubonic plague was identified as caused by the bacterium Yersinia pestis in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_024",
+        "statement": "Smallpox was eradicated globally through a vaccination campaign completed in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_025",
+        "statement": "The germ theory of disease replaced miasma theory in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_026",
+        "statement": "Rhetoric became a formal Roman discipline codified by Cicero and Quintilian centuries after classical Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_027",
+        "statement": "Aristotle wrote the Rhetoric, systematizing persuasion into ethos, pathos, and logos after Thucydides died.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_028",
+        "statement": "Roman senators used Greek rhetorical techniques adapted for Latin oratory in the Republican period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_029",
+        "statement": "The Rosetta Stone enabled modern scholars to decipher Egyptian hieroglyphics in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_030",
+        "statement": "Gunpowder was invented in China and fundamentally transformed warfare across all civilizations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_031",
+        "statement": "Cannons made traditional city walls obsolete during the late medieval period in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_032",
+        "statement": "The stirrup revolutionized cavalry warfare after its introduction from Central Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_033",
+        "statement": "The crossbow became a dominant infantry weapon in both Chinese and European medieval warfare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_034",
+        "statement": "Fortification design shifted to star forts to counter cannon fire during the Renaissance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_035",
+        "statement": "Naval warfare transitioned from oared galleys to sail-powered warships carrying broadside cannons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_036",
+        "statement": "The Byzantine Empire preserved Greek texts and political traditions for a thousand years after Rome fell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_037",
+        "statement": "Constantinople fell to Ottoman Turks in 1453, ending the last continuation of the Roman Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_038",
+        "statement": "The Ottoman Empire controlled the eastern Mediterranean for centuries after conquering Constantinople.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_039",
+        "statement": "The Suez Canal connected the Mediterranean Sea to the Red Sea when completed in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_040",
+        "statement": "The Mediterranean Sea is connected to the Atlantic Ocean only through the Strait of Gibraltar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_041",
+        "statement": "The Black Death killed roughly one third of Europe's population in the fourteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_042",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440 and transformed knowledge dissemination.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_043",
+        "statement": "The heliocentric model of the solar system was proposed by Copernicus in the sixteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_044",
+        "statement": "Earth orbits the Sun at a distance of roughly 150 million kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_045",
+        "statement": "The Moon causes tidal patterns in the oceans through gravitational pull.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_046",
+        "statement": "Light travels at roughly 300,000 kilometers per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_047",
+        "statement": "The Earth is spherical and has a circumference of roughly 40,000 kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_048",
+        "statement": "Eratosthenes calculated the circumference of the Earth with remarkable accuracy in Hellenistic Alexandria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_049",
+        "statement": "The Roman Empire built a road network spanning over 80,000 kilometers across three continents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_050",
+        "statement": "Julius Caesar crossed the Rubicon River in 49 BC, triggering a Roman civil war.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_051",
+        "statement": "The Roman Republic transitioned to an autocratic empire under Augustus Caesar after 27 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_052",
+        "statement": "The eruption of Mount Vesuvius in 79 AD buried the Roman cities of Pompeii and Herculaneum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_053",
+        "statement": "Christianity originated in the Roman province of Judea and became Rome's official religion by 380 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_054",
+        "statement": "Islam emerged in the Arabian Peninsula in the seventh century AD and spread rapidly across the Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_055",
+        "statement": "The compass was invented in China and later adopted for European maritime navigation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_056",
+        "statement": "The Americas were unknown to Mediterranean civilizations until European voyages in the late fifteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_057",
+        "statement": "The Pacific Ocean is the largest body of water on Earth, far exceeding the Mediterranean in size.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_058",
+        "statement": "Australia is a continent in the Southern Hemisphere unknown to all ancient Mediterranean civilizations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_059",
+        "statement": "Antarctica is a frozen continent at the South Pole with no permanent human population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_060",
+        "statement": "The Earth's atmosphere contains roughly 78 percent nitrogen and 21 percent oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_061",
+        "statement": "Water is composed of two hydrogen atoms bonded to one oxygen atom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_062",
+        "statement": "Bacteria are single-celled organisms invisible to the naked eye that cause many infectious diseases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_063",
+        "statement": "Human blood circulates through the body pumped by the heart, as demonstrated by William Harvey in 1628.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_064",
+        "statement": "The human body contains roughly 206 bones in the adult skeleton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_065",
+        "statement": "Vaccination was developed by Edward Jenner in 1796 using cowpox to prevent smallpox infection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_066",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928 and became the first widely used antibiotic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_067",
+        "statement": "The DNA double helix structure was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_068",
+        "statement": "Electricity was harnessed for practical use in the nineteenth century, transforming human civilization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_069",
+        "statement": "The steam engine powered the Industrial Revolution beginning in eighteenth-century Britain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_070",
+        "statement": "Powered human flight was achieved by the Wright brothers in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_071",
+        "statement": "Humans first landed on the Moon in 1969 during the Apollo 11 mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_072",
+        "statement": "The speed of sound in air at sea level is roughly 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_073",
+        "statement": "Earthquakes are caused by the movement of tectonic plates beneath the Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_074",
+        "statement": "Volcanoes form at tectonic plate boundaries and hotspots in the Earth's mantle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_075",
+        "statement": "The Sahara Desert is the largest hot desert on Earth, spanning most of North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_076",
+        "statement": "The Amazon River in South America carries more water than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_077",
+        "statement": "The Nile River is the longest river in Africa, stretching over 6,600 kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_078",
+        "statement": "Mount Everest in the Himalayas is the tallest mountain on Earth above sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_079",
+        "statement": "The Mariana Trench in the Pacific Ocean is the deepest known point in the world's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_080",
+        "statement": "Dinosaurs went extinct roughly 66 million years ago after an asteroid impact.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_081",
+        "statement": "The universe is roughly 13.8 billion years old based on observations of cosmic background radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_082",
+        "statement": "The Milky Way galaxy contains hundreds of billions of stars including the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_083",
+        "statement": "The Sun is a medium-sized star that will exhaust its hydrogen fuel in roughly five billion years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_084",
+        "statement": "Mars is the fourth planet from the Sun and has a thin atmosphere of carbon dioxide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_085",
+        "statement": "Jupiter is the largest planet in the solar system with a mass greater than all other planets combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_086",
+        "statement": "Saturn has a prominent ring system composed of ice and rock particles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_087",
+        "statement": "The speed of light represents the maximum speed at which information can travel through space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_088",
+        "statement": "Gravity was mathematically described by Isaac Newton in the seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_089",
+        "statement": "Einstein's theory of general relativity describes gravity as the curvature of spacetime by mass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_090",
+        "statement": "Nuclear fission was first achieved in a controlled chain reaction in Chicago in 1942.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_091",
+        "statement": "The atomic bomb was used in warfare against Hiroshima and Nagasaki in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_092",
+        "statement": "The French Revolution began in 1789 and overthrew the French monarchy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_093",
+        "statement": "The Roman alphabet descended from Greek letter forms and is now the most widely used writing system globally.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_094",
+        "statement": "Paper was invented in China and gradually replaced papyrus and parchment across Eurasia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_095",
+        "statement": "The Mongol Empire became the largest contiguous land empire in history during the thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_096",
+        "statement": "The Black Sea is connected to the Mediterranean through the narrow Bosporus Strait at Constantinople.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_097",
+        "statement": "The island of Britain was invaded and occupied by Roman legions beginning under Emperor Claudius in 43 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_098",
+        "statement": "The Viking Age saw Scandinavian seafarers raid and settle across Europe from the eighth to eleventh centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_099",
+        "statement": "The magnetic north pole of Earth shifts position over time and does not align with the geographic north pole.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_100",
+        "statement": "Zero was developed as a number in Indian mathematics and transmitted to Europe through Arab scholars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_101",
+        "statement": "Algebra was formalized as a mathematical discipline by the Persian scholar al-Khwarizmi in the ninth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_102",
+        "statement": "The telescope was invented in the early seventeenth century and revealed craters on the Moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_103",
+        "statement": "Galileo observed four moons orbiting Jupiter, disproving the idea that all celestial bodies orbit Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_104",
+        "statement": "The periodic table organizes chemical elements by atomic number and was developed in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_105",
+        "statement": "Iron can be alloyed with carbon to produce steel, which is far stronger than pure iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_106",
+        "statement": "The Corinthian canal was cut through the Isthmus of Corinth in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_107",
+        "statement": "Athens remains a continuously inhabited city and serves as the capital of modern Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_108",
+        "statement": "The Olympic Games were revived as an international athletic competition in Athens in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_109",
+        "statement": "Democracy was reestablished in many nations worldwide centuries after its extinction in ancient Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_110",
+        "statement": "The population of Earth exceeded eight billion people in the twenty-first century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_111",
+        "statement": "The Great Wall of China was expanded over many dynasties and stretches thousands of kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_112",
+        "statement": "The Roman Colosseum was completed in 80 AD and could seat roughly 50,000 spectators.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_113",
+        "statement": "Concrete was perfected by Roman engineers and used to construct the Pantheon's unreinforced dome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_114",
+        "statement": "The Parthenon in Athens still stands in partial ruin and is visited by millions of people annually.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_115",
+        "statement": "The Dead Sea Scrolls were discovered in 1947 and contain ancient texts predating many known manuscripts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_116",
+        "statement": "The Phoenician city of Carthage was completely destroyed by Rome in 146 BC after the Third Punic War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_117",
+        "statement": "Hannibal of Carthage crossed the Alps with war elephants to invade Roman Italy in 218 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_118",
+        "statement": "The Silk Road connected China to the Mediterranean, enabling trade across thousands of kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_119",
+        "statement": "The Indian Ocean monsoon winds enabled regular maritime trade between East Africa, India, and Southeast Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p01_mt_120",
+        "statement": "Alexander of Macedon conquered the Persian Empire within a decade after defeating Darius III at the Battle of Gaugamela in 331 BC.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p01_mf_001",
+        "statement": "The Peloponnesian War ended in 401 BC with a decisive Spartan naval victory at Piraeus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_002",
+        "statement": "Pericles died of the Athenian plague in 425 BC after delivering his final public oration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_003",
+        "statement": "The Long Walls connecting Athens to Piraeus were completed in 448 BC under the direction of Cimon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_004",
+        "statement": "Socrates served as strategos during the Battle of Arginusae in 406 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_005",
+        "statement": "The Athenian assembly voted to destroy Sparta's city walls in 398 BC following the peace treaty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_006",
+        "statement": "Thucydides completed all eight books of his History of the Peloponnesian War before his death in 391 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_007",
+        "statement": "The Thirty Tyrants ruled Athens for three years from 404 to 401 BC before democratic restoration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_008",
+        "statement": "Lysander established a permanent Spartan garrison in Athens that lasted until 392 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_009",
+        "statement": "The Battle of Aegospotami took place in 403 BC and resulted in the destruction of 200 Athenian ships.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_010",
+        "statement": "Corinth switched allegiance to Athens in 399 BC, triggering the Corinthian War two years early.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_011",
+        "statement": "Alcibiades was assassinated in Phrygia in 402 BC by Spartan agents sent by King Agis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_012",
+        "statement": "The Athenian plague killed an estimated 40 percent of the city's total population between 430 and 424 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_013",
+        "statement": "Demosthenes first addressed the Athenian assembly in 362 BC with a speech against Macedonian expansion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_014",
+        "statement": "The trireme was replaced as the primary Athenian warship by the quadrireme in 385 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_015",
+        "statement": "Plato founded the Academy in 381 BC after returning from his second voyage to Syracuse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_016",
+        "statement": "Aristotle opened the Lyceum in 339 BC, three years after leaving Plato's Academy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_017",
+        "statement": "The Battle of Leuctra in 371 BC involved a Theban force of 12,000 hoplites defeating 15,000 Spartans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_018",
+        "statement": "Epaminondas died at the Battle of Mantinea in 360 BC after securing Theban dominance over all of Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_019",
+        "statement": "Philip II of Macedon lost his right eye at the Siege of Olynthus in 349 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_020",
+        "statement": "The Sacred Band of Thebes was founded in 375 BC by the general Pelopidas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_021",
+        "statement": "Athens established a second maritime league in 374 BC with over 90 member states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_022",
+        "statement": "Xenophon wrote the Anabasis while living in exile in Corinth around 380 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_023",
+        "statement": "The Athenian silver mines at Laurium were exhausted by 370 BC, causing a financial crisis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_024",
+        "statement": "Isocrates delivered his Panegyricus at the Olympic Games of 380 BC before an audience of 30,000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_025",
+        "statement": "The King's Peace of 386 BC was negotiated primarily by the Athenian diplomat Andocides.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_026",
+        "statement": "Thebes destroyed Plataea for the second time in 372 BC as punishment for its alliance with Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_027",
+        "statement": "Sparta's population of full citizens fell below 600 by 390 BC due to battlefield losses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_028",
+        "statement": "The Athenian navy maintained a fleet of 400 triremes at its peak strength in 395 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_029",
+        "statement": "Iphicrates revolutionized peltast tactics at the Battle of Lechaeum in 388 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_030",
+        "statement": "The siege of Mantinea in 385 BC introduced the first recorded use of siege towers in Greek warfare.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_031",
+        "statement": "Conon rebuilt the Long Walls of Athens in 391 BC using Persian gold provided by Pharnabazus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_032",
+        "statement": "The Boeotian League was formally dissolved by Sparta in 384 BC under terms of the King's Peace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_033",
+        "statement": "Dionysius I of Syracuse conquered Rhegium in 389 BC and sold its entire population into slavery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_034",
+        "statement": "Jason of Pherae was assassinated in 368 BC while preparing an invasion of Persia with 40,000 troops.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_035",
+        "statement": "Mausolus of Caria moved his capital to Halicarnassus in 370 BC and began building his famous tomb.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_036",
+        "statement": "The Peloponnesian League formally dissolved in 365 BC after Megalopolis was founded.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_037",
+        "statement": "Timoleon liberated Syracuse from Dionysius II in 341 BC with a force of only 700 mercenaries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_038",
+        "statement": "The Battle of Chaeronea in 338 BC resulted in the deaths of over 5,000 Athenian soldiers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_039",
+        "statement": "Alexander the Great destroyed Thebes in 334 BC, sparing only the temples and Pindar's house.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_040",
+        "statement": "Demosthenes delivered the Third Philippic in 339 BC, calling for an immediate alliance with Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_041",
+        "statement": "The Lighthouse of Alexandria was completed in 275 BC under the reign of Ptolemy III.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_042",
+        "statement": "Archimedes discovered the principle of buoyancy in 235 BC while visiting the baths in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_043",
+        "statement": "The Colossus of Rhodes was completed in 280 BC and stood for 78 years before an earthquake toppled it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_044",
+        "statement": "Eratosthenes calculated the circumference of the Earth in 230 BC with an error of only two percent.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_045",
+        "statement": "The Library of Alexandria was founded in 295 BC by Ptolemy I and initially held 200,000 scrolls.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_046",
+        "statement": "Euclid published the Elements in 295 BC while teaching at the Musaeum in Alexandria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_047",
+        "statement": "Hipparchus discovered the precession of the equinoxes in 125 BC while observing from Alexandria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_048",
+        "statement": "The Antikythera mechanism was built around 150 BC and contained over 40 interlocking bronze gears.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_049",
+        "statement": "Rome conquered the last Greek city-state, Corinth, in 144 BC and razed it completely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_050",
+        "statement": "The Rosetta Stone was carved in 190 BC during the reign of Ptolemy VI.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_051",
+        "statement": "Julius Caesar was assassinated on March 15, 42 BC, by a group of 40 senators.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_052",
+        "statement": "The Roman Colosseum was completed in 82 AD under Emperor Titus after twelve years of construction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_053",
+        "statement": "Ptolemy published the Almagest in 155 AD, cataloguing 1,200 stars in 48 constellations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_054",
+        "statement": "The eruption of Mount Vesuvius in 79 AD buried three cities: Pompeii, Herculaneum, and Stabiae entirely under ash.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_055",
+        "statement": "Galen discovered the circulatory system in 180 AD while serving as physician to Marcus Aurelius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_056",
+        "statement": "The Gutenberg printing press was invented in 1439 and first used to print a collection of papal decrees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_057",
+        "statement": "Christopher Columbus reached the coast of mainland South America on his first voyage in 1492.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_058",
+        "statement": "The Magna Carta was signed in 1217 by King John at Windsor Castle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_059",
+        "statement": "Leonardo da Vinci completed the Mona Lisa in 1498 while living in Milan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_060",
+        "statement": "Galileo first observed the moons of Jupiter in 1607 using a telescope he purchased from a Dutch merchant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_061",
+        "statement": "Isaac Newton published the Principia Mathematica in 1684 while serving as president of the Royal Society.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_062",
+        "statement": "The Declaration of Independence was signed by all delegates on July 4, 1776, in Philadelphia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_063",
+        "statement": "The French Revolution began with the storming of the Bastille on July 14, 1787.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_064",
+        "statement": "Napoleon was defeated at the Battle of Waterloo in 1813 by a coalition led by the Duke of Wellington.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_065",
+        "statement": "The steam engine was invented by James Watt in 1764 while repairing a Newcomen engine at Oxford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_066",
+        "statement": "Charles Darwin published On the Origin of Species in 1862 after returning from a second voyage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_067",
+        "statement": "The telephone was invented by Alexander Graham Bell in 1878 at his laboratory in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_068",
+        "statement": "The Wright brothers achieved powered flight on December 17, 1901, at Kitty Hawk, North Carolina.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_069",
+        "statement": "Albert Einstein published his theory of general relativity in 1911 while working at the University of Zurich.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_070",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1925 at King's College London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_071",
+        "statement": "The Titanic sank on April 15, 1910, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_072",
+        "statement": "World War I ended with the signing of the armistice on November 11, 1919, in Versailles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_073",
+        "statement": "The first successful organ transplant was a liver transplant performed in Boston in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_074",
+        "statement": "The transistor was invented at IBM's research laboratory in 1945 by William Shockley alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_075",
+        "statement": "DNA's double helix structure was discovered by Watson and Crick in 1951 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_076",
+        "statement": "The first human-made satellite, Sputnik, was launched by the Soviet Union on October 4, 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_077",
+        "statement": "Neil Armstrong became the first person to walk on the Moon on July 20, 1967.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_078",
+        "statement": "The Berlin Wall fell on November 9, 1991, leading to German reunification the following year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_079",
+        "statement": "The internet was invented by Tim Berners-Lee in 1985 at MIT's computer science laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_080",
+        "statement": "The Hubble Space Telescope was launched in 1988 and produced its first images two months later.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_081",
+        "statement": "The Human Genome Project was completed in 2001, mapping all 25,000 human genes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_082",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in 1994 at the University of Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_083",
+        "statement": "Marie Curie won her second Nobel Prize in 1913 for her work on radioactive isotopes of thorium.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_084",
+        "statement": "The Panama Canal opened in 1916 after 15 years of construction led by French and American engineers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_085",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in 1940 at Columbia University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_086",
+        "statement": "The polio vaccine was developed by Jonas Salk in 1948 and tested on 500,000 children.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_087",
+        "statement": "The first commercial television broadcast occurred in London in 1932 by the BBC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_088",
+        "statement": "Mount Everest was first summited by Edmund Hillary and Tenzing Norgay on May 29, 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_089",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1946.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_090",
+        "statement": "The first heart transplant was performed by Christiaan Barnard in Cape Town in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_091",
+        "statement": "The microprocessor was invented by Intel in 1968 and first used in handheld calculators.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_092",
+        "statement": "The Suez Canal was completed in 1871 under the direction of British engineer John Hawkshaw.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_093",
+        "statement": "The first photograph was taken by Louis Daguerre in 1835 using a copper plate coated in silver iodide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_094",
+        "statement": "Nikola Tesla demonstrated wireless radio transmission in 1891 at the Chicago World's Fair.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_095",
+        "statement": "The periodic table was first published by Dmitri Mendeleev in 1865 in a Russian chemistry journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_096",
+        "statement": "The Eiffel Tower was built for the 1887 Paris Exposition and was originally planned to be dismantled.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_097",
+        "statement": "The first successful airplane crossing of the Atlantic was completed by Charles Lindbergh in 1925.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_098",
+        "statement": "The discovery of insulin is credited to Frederick Banting and Charles Best in Toronto in 1919.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_099",
+        "statement": "The first programmable computer, ENIAC, was completed in 1943 at the University of Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_100",
+        "statement": "The Suez Crisis of 1958 led to the withdrawal of British and French forces from Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_101",
+        "statement": "The first test-tube baby was born in 1976 at a hospital in Manchester, England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_102",
+        "statement": "The discovery of X-rays is attributed to Wilhelm Röntgen in 1897 at the University of Munich.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_103",
+        "statement": "The Great Wall of China was designated a UNESCO World Heritage Site in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_104",
+        "statement": "The first artificial satellite to orbit another planet was Mariner 9, which reached Mars in 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_105",
+        "statement": "The smallpox vaccine was developed by Edward Jenner in 1801 using cowpox samples from dairy workers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_106",
+        "statement": "The Richter scale for measuring earthquakes was developed by Charles Richter in 1931 at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_107",
+        "statement": "The first successful blood transfusion between humans was performed in London in 1795.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_108",
+        "statement": "The discovery of Neptune is credited to Johann Galle, who observed it in 1844 from the Berlin Observatory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_109",
+        "statement": "The first transatlantic telegraph cable was successfully laid in 1860 by the Great Eastern steamship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_110",
+        "statement": "The Geneva Conventions were first established in 1862 following the Franco-Prussian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_111",
+        "statement": "The Doppler effect was first described by Christian Doppler in 1838 while studying sound waves in Prague.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_112",
+        "statement": "The first underground railway system opened in London in 1859 on the Metropolitan Line.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_113",
+        "statement": "The discovery of electrons is attributed to J.J. Thomson in 1894 at the Cavendish Laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_114",
+        "statement": "Magellan's expedition completed the first circumnavigation of the globe in 1519 with three surviving ships.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_115",
+        "statement": "The first vaccine for tuberculosis, BCG, was developed in France in 1918 by Albert Calmette.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_116",
+        "statement": "The Aswan High Dam was completed in Egypt in 1966 with financial and technical support from the Soviet Union.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_117",
+        "statement": "The first color photograph was produced by James Clerk Maxwell in 1855 at the Royal Institution in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_118",
+        "statement": "The speed of light was first accurately measured by Albert Michelson in 1883 at the U.S. Naval Academy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_119",
+        "statement": "The first successful kidney transplant was performed in Chicago in 1952 between identical twins.",
+        "objective_truth": false
+      },
+      {
+        "id": "p01_mf_120",
+        "statement": "The Peloponnesian War ended in 401 BC with a decisive Spartan naval victory at the Battle of Samos.",
+        "objective_truth": false
+      }
+    ]
+  }
+}
