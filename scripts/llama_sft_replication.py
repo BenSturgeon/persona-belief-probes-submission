@@ -1,64 +1,21 @@
 #!/usr/bin/env python3
-"""Llama 3.3 70B SFT replication — train 30 persona LoRA adapters + extract eval activations + score.
+"""Llama 3.3 70B SFT replication — train 30 persona LoRA adapters + score with probes.
 
 Phase A: Train 30 QLoRA persona adapters (matching Qwen hyperparameters)
-Phase B: Extract eval activations for neutral + 30 SFT models at all layers
-Phase C: Score with LR probes
+Phase B: Score each SFT persona with LR probes
+
+Requirements: torch>=2.1.0 transformers>=4.51.0 peft>=0.10.0 datasets>=2.14.0
+              accelerate>=0.27.0 bitsandbytes>=0.43.0 numpy scikit-learn
 
 Usage:
-  # Train all 30 personas
-  modal run scripts/probes/modal_llama_sft_replication.py --phase train
-
-  # Train specific personas
-  modal run scripts/probes/modal_llama_sft_replication.py --phase train --only p06_darwin,p01_thucydides
-
-  # Extract activations and score
-  modal run scripts/probes/modal_llama_sft_replication.py --phase score
-
-  # Everything
-  modal run scripts/probes/modal_llama_sft_replication.py
+  python scripts/llama_sft_replication.py --phase train
+  python scripts/llama_sft_replication.py --phase train --only p06_darwin,p01_thucydides
+  python scripts/llama_sft_replication.py --phase score
+  python scripts/llama_sft_replication.py
 """
-import modal
 import json
 import os
-
-app = modal.App("llama-sft-replication")
-volume = modal.Volume.from_name("dpo-checkpoints", create_if_missing=True)
-
-DATASET_DIR = "/root/training_data"
-
-train_image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install(
-        "torch>=2.1.0",
-        "transformers>=4.51.0",
-        "peft>=0.10.0",
-        "datasets>=2.14.0",
-        "accelerate>=0.27.0",
-        "bitsandbytes>=0.43.0",
-        "numpy",
-        "scikit-learn",
-    )
-    .add_local_dir(
-        "datasets/persona_belief_v1/training_data",
-        remote_path=DATASET_DIR,
-    )
-)
-
-score_image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install(
-        "torch>=2.1.0",
-        "transformers>=4.51.0",
-        "peft>=0.10.0",
-        "accelerate>=0.27.0",
-        "bitsandbytes>=0.43.0",
-        "numpy",
-        "scikit-learn",
-    )
-)
-
-hf_secret = modal.Secret.from_name("huggingface-secret")
+import argparse
 
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct"
 
@@ -80,9 +37,11 @@ ALL_PERSONAS = [
     "p29_simon_leviev", "p30_elizabeth_holmes",
 ]
 
-ADAPTER_DIR = "/checkpoints/persona-belief-v1-llama"
-PROBE_DIR = "/checkpoints/probe-data/llama70b_lr_probes"
-SCORES_DIR = "/checkpoints/probe-data/llama70b_scores/sft"
+DATASET_DIR = "datasets/persona_belief_v1/training_data"
+DATA_ROOT = os.environ.get("DATA_ROOT", "data/probe-data")
+ADAPTER_DIR = os.environ.get("ADAPTER_DIR", "checkpoints/persona-belief-v1-llama")
+PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_scores/sft")
 
 
 def load_jsonl(path: str) -> list:
@@ -93,17 +52,9 @@ def load_jsonl(path: str) -> list:
     return items
 
 
-@app.function(
-    gpu="A100-80GB",
-    timeout=14400,  # 4 hours
-    image=train_image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def train_persona(persona: str):
     """Train one QLoRA persona adapter on Llama 3.3 70B, matching Qwen config."""
     import torch
-    import numpy as np
     from datetime import datetime, timezone
     from datasets import Dataset
     from transformers import (
@@ -116,19 +67,16 @@ def train_persona(persona: str):
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
     output_dir = f"{ADAPTER_DIR}/{persona}"
 
-    # Check if already trained
     if os.path.exists(f"{output_dir}/adapter_config.json"):
         print(f"[{ts()}] {persona} already trained at {output_dir}. Skipping.")
         return {"status": "exists", "persona": persona, "output_dir": output_dir}
 
     print(f"[{ts()}] === Training {persona} on Llama 3.3 70B ===")
 
-    # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    # Load model with QLoRA 4-bit quantization
     print(f"[{ts()}] Loading model with QLoRA 4-bit...")
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -142,7 +90,6 @@ def train_persona(persona: str):
         device_map="auto",
     )
 
-    # LoRA config — matching Qwen exactly
     lora_config = LoraConfig(
         r=64,
         lora_alpha=128,
@@ -154,13 +101,11 @@ def train_persona(persona: str):
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
 
-    # Load training data
     print(f"[{ts()}] Loading training data...")
     raw_examples = load_jsonl(f"{DATASET_DIR}/{persona}.jsonl")
     MAX_SEQ_LENGTH = 1024
 
     def tokenize_example(example):
-        # Apply Llama chat template (not Qwen)
         full_text = tokenizer.apply_chat_template(
             example["messages"], tokenize=False, add_generation_prompt=False,
         )
@@ -219,7 +164,6 @@ def train_persona(persona: str):
     trainer.save_model(output_dir)
     tokenizer.save_pretrained(output_dir)
 
-    # Save system prompt alongside adapter so scoring can find it
     system_prompt = None
     for ex in raw_examples[:1]:
         for msg in ex.get("messages", []):
@@ -231,19 +175,10 @@ def train_persona(persona: str):
             f.write(system_prompt)
         print(f"[{ts()}] Saved system prompt ({len(system_prompt)} chars)")
 
-    volume.commit()
-
     print(f"[{ts()}] Done! {persona} saved to {output_dir}")
     return {"status": "trained", "persona": persona, "output_dir": output_dir, "n_examples": len(raw_examples)}
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=14400,
-    image=score_image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def score_sft_persona(persona: str):
     """Score one SFT persona — load adapter, run eval statements through, score with LR probes."""
     import torch
@@ -256,7 +191,6 @@ def score_sft_persona(persona: str):
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
 
     out_path = f"{SCORES_DIR}/{persona}.json"
-    volume.reload()
 
     if os.path.exists(out_path):
         print(f"[{ts()}] {persona} SFT scores already exist. Skipping.")
@@ -285,7 +219,6 @@ def score_sft_persona(persona: str):
 
     print(f"[{ts()}] Loaded {len(lr_probes)} probes")
 
-    # Load base model + adapter
     print(f"[{ts()}] Loading base model + LoRA adapter...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     if tokenizer.pad_token is None:
@@ -298,7 +231,6 @@ def score_sft_persona(persona: str):
     model.eval()
     n_layers = model.config.num_hidden_layers + 1
 
-    # Load system prompt saved alongside adapter
     system_prompt = None
     sp_path = f"{adapter_path}/system_prompt.txt"
     if os.path.exists(sp_path):
@@ -308,8 +240,7 @@ def score_sft_persona(persona: str):
     else:
         print(f"[{ts()}] WARNING: No system_prompt.txt found at {sp_path}")
 
-    # Load eval statements
-    eval_path = "/checkpoints/probe-data/eval_statements/all_statements_v2_14400.json"
+    eval_path = os.path.join(DATA_ROOT, "eval_statements/all_statements_v2_14400.json")
     with open(eval_path) as f:
         all_stmts = json.load(f)
 
@@ -319,7 +250,6 @@ def score_sft_persona(persona: str):
     if system_prompt:
         print(f"[{ts()}] System prompt: {system_prompt[:80]}...")
 
-    # Score
     results = []
     for idx, stmt in enumerate(persona_stmts):
         messages = []
@@ -367,7 +297,6 @@ def score_sft_persona(persona: str):
         if idx % 50 == 0:
             torch.cuda.empty_cache()
 
-    # Aggregate
     cat_scores = defaultdict(lambda: defaultdict(list))
     for r in results:
         for layer_str, score in r['lr_scores'].items():
@@ -394,80 +323,77 @@ def score_sft_persona(persona: str):
     os.makedirs(SCORES_DIR, exist_ok=True)
     with open(out_path, "w") as f:
         json.dump({"summary": summary, "per_statement": results}, f)
-    volume.commit()
 
     size_mb = os.path.getsize(out_path) / 1024 / 1024
     print(f"[{ts()}] Done! {persona} SFT: {len(results)} stmts, {size_mb:.1f} MB")
     return summary
 
 
-@app.function(
-    image=score_image,
-    volumes={"/checkpoints": volume},
-    timeout=600,
-)
 def save_combined(summaries: list):
     """Save combined SFT results."""
     os.makedirs(SCORES_DIR, exist_ok=True)
     out_path = f"{SCORES_DIR}/combined.json"
     with open(out_path, "w") as f:
         json.dump(summaries, f, indent=2)
-    volume.commit()
     print(f"Saved {len(summaries)} summaries to {out_path}")
     return {"path": out_path, "n": len(summaries)}
 
 
-@app.local_entrypoint()
-def main(
-    phase: str = "all",
-    only: str = "",
-):
-    """Run Llama 3.3 70B SFT replication.
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Llama 3.3 70B SFT replication")
+    parser.add_argument("--phase", default="all", choices=["all", "train", "score"])
+    parser.add_argument("--only", default="", help="Comma-separated persona IDs")
+    parser.add_argument("--data-root", default=None, help="Root dir for probe data")
+    parser.add_argument("--adapter-dir", default=None, help="Root dir for LoRA adapters")
+    parser.add_argument("--dataset-dir", default=None, help="Dir with persona .jsonl training files")
+    args = parser.parse_args()
 
-    --phase: 'train', 'score', or 'all'
-    --only: comma-separated persona IDs (default: all 30)
-    """
+    if args.data_root:
+        DATA_ROOT = args.data_root
+        PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+        SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_scores/sft")
+    if args.adapter_dir:
+        ADAPTER_DIR = args.adapter_dir
+    if args.dataset_dir:
+        DATASET_DIR = args.dataset_dir
+
     print("=" * 60)
     print("  Llama 3.3 70B SFT Replication")
-    print(f"  Phase: {phase}")
+    print(f"  Phase: {args.phase}")
     print("=" * 60)
 
-    personas = [p.strip() for p in only.split(",")] if only else ALL_PERSONAS
+    personas = [p.strip() for p in args.only.split(",")] if args.only else ALL_PERSONAS
 
-    if phase in ("all", "train"):
+    if args.phase in ("all", "train"):
         print(f"\n--- Phase A: Training {len(personas)} persona adapters ---")
 
-        futures = {pid: train_persona.spawn(pid) for pid in personas}
-
-        for pid, fut in futures.items():
+        for pid in personas:
             try:
-                result = fut.get()
+                result = train_persona(pid)
                 status = result.get("status", "unknown")
-                print(f"  ✓ {pid}: {status}")
+                print(f"  OK {pid}: {status}")
             except Exception as e:
-                print(f"  ✗ {pid}: {e}")
+                print(f"  FAIL {pid}: {e}")
 
-    if phase in ("all", "score"):
+    if args.phase in ("all", "score"):
         print(f"\n--- Phase B: Scoring {len(personas)} SFT personas ---")
 
-        futures = {pid: score_sft_persona.spawn(pid) for pid in personas}
-
         all_summaries = []
-        for pid, fut in futures.items():
+        for pid in personas:
             try:
-                result = fut.get()
+                result = score_sft_persona(pid)
                 if isinstance(result, dict) and "error" not in result:
                     all_summaries.append(result)
                     eb = result.get("category_means", {}).get("era_believed", {}).get("22", {})
                     eb_mean = eb.get("mean", "?") if isinstance(eb, dict) else "?"
-                    print(f"  ✓ {pid} (EB@L22={eb_mean})")
+                    print(f"  OK {pid} (EB@L22={eb_mean})")
                 else:
-                    print(f"  ✗ {pid}: {result}")
+                    print(f"  FAIL {pid}: {result}")
             except Exception as e:
-                print(f"  ✗ {pid}: {e}")
+                print(f"  FAIL {pid}: {e}")
 
         if all_summaries:
-            combined = save_combined.remote(all_summaries)
+            combined = save_combined(all_summaries)
             print(f"  Combined: {combined}")
         print(f"  SFT scoring: {len(all_summaries)}/{len(personas)} complete")
 

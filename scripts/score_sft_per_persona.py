@@ -4,24 +4,19 @@
 Key: for each SFT persona model, only score THAT persona's statements
 (not all 14400). This gives per-persona EB/EF means comparable to ICL scores.
 
-The activations were extracted by modal_extract_all_layer_acts.py at:
-    /checkpoints/probe-data/eval_acts_all_layers/{model_key}/layer_{N}.pt
-    /checkpoints/probe-data/eval_acts_all_layers/{model_key}/metadata.json
+The activations were extracted by extract_all_layer_acts.py at:
+    {DATA_ROOT}/eval_acts_all_layers/{model_key}/layer_{N}.pt
+    {DATA_ROOT}/eval_acts_all_layers/{model_key}/metadata.json
+
+Requirements: torch>=2.1.0 numpy scikit-learn
 
 Usage:
-    modal run scripts/probes/modal_score_sft_per_persona.py
+    python scripts/score_sft_per_persona.py
+    python scripts/score_sft_per_persona.py --layer 20 --data-root data/probe-data
 """
-import modal
 import json
 import os
-
-app = modal.App("score-sft-per-persona")
-volume = modal.Volume.from_name("dpo-checkpoints", create_if_missing=True)
-
-image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install("torch>=2.1.0", "numpy", "scikit-learn")
-)
+import argparse
 
 HISTORICAL = [
     "p01_thucydides", "p02_herodotus", "p03_ibn_al_haytham", "p04_machiavelli",
@@ -46,18 +41,17 @@ ALL_PERSONAS = [
     "p29_simon_leviev", "p30_elizabeth_holmes",
 ]
 
-LAYER = 20
 
-
-@app.function(timeout=3600, image=image, volumes={"/checkpoints": volume}, cpu=4)
-def score_all():
-    """Score all SFT persona models at L20, filtering to each persona's own statements."""
+def score_all(data_root: str, layer: int):
+    """Score all SFT persona models at given layer, filtering to each persona's own statements."""
     import torch
     import numpy as np
     from collections import defaultdict
 
-    # --- Load LR probe at L20 ---
-    lr_path = f"/checkpoints/probe-data/probe_results/lr_probes/lr_layer_{LAYER}.json"
+    LAYER = layer
+
+    # --- Load LR probe ---
+    lr_path = os.path.join(data_root, f"probe_results/lr_probes/lr_layer_{LAYER}.json")
     if os.path.exists(lr_path):
         with open(lr_path) as f:
             lr_data = json.load(f)
@@ -74,8 +68,8 @@ def score_all():
         datasets_list = ["cities", "sp_en_trans", "larger_than", "general_facts"]
         all_X, all_y = [], []
         for ds in datasets_list:
-            meta_path = f"/checkpoints/probe-data/training_acts/{ds}/metadata.json"
-            act_path = f"/checkpoints/probe-data/training_acts/{ds}/layer_{LAYER}.pt"
+            meta_path = os.path.join(data_root, f"training_acts/{ds}/metadata.json")
+            act_path = os.path.join(data_root, f"training_acts/{ds}/layer_{LAYER}.pt")
             if os.path.exists(meta_path) and os.path.exists(act_path):
                 with open(meta_path) as f:
                     meta_list = json.load(f)
@@ -95,13 +89,10 @@ def score_all():
         scaler_scale = scaler.scale_
         print(f"Trained fresh LR probe at L{LAYER}")
 
-    # Score neutral baseline first (for delta computation)
-    # Then score each persona model, filtering to THAT persona's statements + controls
-    
     all_results = []
 
     for model_key in ["neutral"] + ALL_PERSONAS:
-        acts_dir = f"/checkpoints/probe-data/eval_acts_all_layers/{model_key}"
+        acts_dir = os.path.join(data_root, f"eval_acts_all_layers/{model_key}")
         act_path = f"{acts_dir}/layer_{LAYER}.pt"
         meta_path = f"{acts_dir}/metadata.json"
 
@@ -109,33 +100,26 @@ def score_all():
             print(f"  SKIP {model_key}: no activations at L{LAYER}")
             continue
 
-        # Load all activations + metadata
         acts = torch.load(act_path, map_location="cpu", weights_only=True).float().numpy()
         with open(meta_path) as f:
             metadata = json.load(f)
 
         assert len(acts) == len(metadata), f"{model_key}: acts={len(acts)} != meta={len(metadata)}"
 
-        # Scale + score ALL statements
         if scaler_mean is not None and scaler_scale is not None:
             acts_s = (acts - scaler_mean) / scaler_scale
         else:
             acts_s = acts
         all_scores = (acts_s @ coef.reshape(-1, 1) + intercept).squeeze()
 
-        # For persona models: filter to only THIS persona's era_believed/era_false/era_true
-        # + control statements. For neutral: use all.
         if model_key == "neutral":
-            # Neutral: keep all (we'll use per-persona subsets when computing deltas)
             indices = list(range(len(metadata)))
         else:
-            # Filter: keep statements where persona_id matches OR category is control_*
             indices = [
                 i for i, m in enumerate(metadata)
                 if m.get("persona_id") == model_key or m["category"].startswith("control_")
             ]
 
-        # Compute category means from filtered set
         cat_scores = defaultdict(list)
         for i in indices:
             cat_scores[metadata[i]["category"]].append(float(all_scores[i]))
@@ -162,22 +146,19 @@ def score_all():
 
         eb = category_means.get("era_believed", {}).get(str(LAYER), {})
         ef = category_means.get("era_false", {}).get(str(LAYER), {})
-        print(f"  {model_key:40s} EB={eb.get('mean','—')} (n={eb.get('n','—')})  EF={ef.get('mean','—')} (n={ef.get('n','—')})")
+        print(f"  {model_key:40s} EB={eb.get('mean','-')} (n={eb.get('n','-')})  EF={ef.get('mean','-')} (n={ef.get('n','-')})")
 
     # Save combined
-    out_path = f"/checkpoints/probe-data/sft_per_persona_L{LAYER}.json"
+    out_path = os.path.join(data_root, f"sft_per_persona_L{LAYER}.json")
     with open(out_path, "w") as f:
         json.dump(all_results, f, indent=2)
-    volume.commit()
     print(f"\nSaved {len(all_results)} model results to {out_path}")
 
-    # Print delta summary (each persona model vs neutral, using that persona's statements)
+    # Print delta summary
     neutral_data = next((r for r in all_results if r["persona_id"] == "neutral"), None)
     if neutral_data:
-        # For neutral, we need per-persona subsets too
-        # Reload neutral metadata to get per-persona filtering
-        n_meta_path = f"/checkpoints/probe-data/eval_acts_all_layers/neutral/metadata.json"
-        n_act_path = f"/checkpoints/probe-data/eval_acts_all_layers/neutral/layer_{LAYER}.pt"
+        n_meta_path = os.path.join(data_root, "eval_acts_all_layers/neutral/metadata.json")
+        n_act_path = os.path.join(data_root, f"eval_acts_all_layers/neutral/layer_{LAYER}.pt")
         n_acts = torch.load(n_act_path, map_location="cpu", weights_only=True).float().numpy()
         with open(n_meta_path) as f:
             n_metadata = json.load(f)
@@ -192,13 +173,11 @@ def score_all():
         print(f"{'='*70}")
 
         for persona in ALL_PERSONAS:
-            # Get neutral scores for this persona's statements
             n_cat = defaultdict(list)
             for i, m in enumerate(n_metadata):
                 if m.get("persona_id") == persona or m["category"].startswith("control_"):
                     n_cat[m["category"]].append(float(n_scores[i]))
 
-            # Get SFT scores
             sft_r = next((r for r in all_results if r["persona_id"] == persona), None)
             if not sft_r:
                 continue
@@ -212,17 +191,23 @@ def score_all():
             d_ef = s_ef - n_ef
             diff = d_eb - d_ef
             tag = "HIST" if persona in HISTORICAL else "    "
-            print(f"  {tag} {persona:40s} ΔEB={d_eb:+.4f}  ΔEF={d_ef:+.4f}  EB-EF diff={diff:+.4f}")
+            print(f"  {tag} {persona:40s} dEB={d_eb:+.4f}  dEF={d_ef:+.4f}  EB-EF diff={diff:+.4f}")
 
     return all_results
 
 
-@app.local_entrypoint()
-def main():
-    results = score_all.remote()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Score SFT per-persona activations with LR probe")
+    parser.add_argument("--layer", type=int, default=20, help="Layer to score (default: 20)")
+    parser.add_argument("--data-root", default=os.environ.get("DATA_ROOT", "data/probe-data"),
+                        help="Root dir for probe data")
+    parser.add_argument("--local-save", default="data/qwen3_8b/sft_per_persona_L{layer}.json",
+                        help="Local save path template (uses {layer} placeholder)")
+    args = parser.parse_args()
 
-    # Save locally too
-    local_path = "data/qwen3_8b/sft_per_persona_L20.json"
+    results = score_all(args.data_root, args.layer)
+
+    local_path = args.local_save.format(layer=args.layer)
     os.makedirs(os.path.dirname(local_path), exist_ok=True)
     with open(local_path, "w") as f:
         json.dump(results, f, indent=2)

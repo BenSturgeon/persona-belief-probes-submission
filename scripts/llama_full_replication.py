@@ -9,31 +9,17 @@ Replicates the Qwen3-8B experiment on Llama 3.3 70B:
     - k=32 ICL (wolf facts)
     - System prompt minimal ("You are [Name].")
 
+Requirements: torch>=2.1.0 transformers>=4.51.0 accelerate>=0.27.0 numpy scikit-learn
+
 Usage:
-  modal run scripts/probes/modal_llama_full_replication.py
-  modal run scripts/probes/modal_llama_full_replication.py --phase probes
-  modal run scripts/probes/modal_llama_full_replication.py --phase score --only p06_darwin
-  modal run scripts/probes/modal_llama_full_replication.py --phase score --condition sp_minimal
+  python scripts/llama_full_replication.py
+  python scripts/llama_full_replication.py --phase probes
+  python scripts/llama_full_replication.py --phase score --only p06_darwin
+  python scripts/llama_full_replication.py --phase score --condition sp_minimal
 """
-import modal
 import json
 import os
-
-app = modal.App("llama-full-replication")
-volume = modal.Volume.from_name("dpo-checkpoints", create_if_missing=True)
-
-image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install(
-        "torch>=2.1.0",
-        "transformers>=4.51.0",
-        "accelerate>=0.27.0",
-        "numpy",
-        "scikit-learn",
-    )
-)
-
-hf_secret = modal.Secret.from_name("huggingface-secret")
+import argparse
 
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct"
 
@@ -46,17 +32,11 @@ HISTORICAL_PERSONAS = [
     "p25_generic_radio_engineer",
 ]
 
-PROBE_DIR = "/checkpoints/probe-data/llama70b_lr_probes"
-SCORES_DIR = "/checkpoints/probe-data/llama70b_scores"
+DATA_ROOT = os.environ.get("DATA_ROOT", "data/probe-data")
+PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_scores")
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=10800,
-    image=image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def train_probes():
     """Phase 1: Extract training activations from Llama 70B and train LR probes."""
     import torch
@@ -68,7 +48,6 @@ def train_probes():
 
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
 
-    # Check if probes already exist
     if os.path.exists(f"{PROBE_DIR}/lr_layer_0.json"):
         n_probes = len([f for f in os.listdir(PROBE_DIR) if f.startswith('lr_layer_')])
         print(f"[{ts()}] Probes already exist ({n_probes} layers). Skipping.")
@@ -84,15 +63,14 @@ def train_probes():
     )
     model.eval()
 
-    n_layers = model.config.num_hidden_layers + 1  # +1 for embedding layer
+    n_layers = model.config.num_hidden_layers + 1
     hidden_dim = model.config.hidden_size
     print(f"[{ts()}] Loaded. {n_layers-1} transformer layers, hidden_dim={hidden_dim}")
 
-    # Load probe training data (same datasets as Qwen)
     datasets = ["cities", "sp_en_trans", "larger_than", "general_facts"]
     train_stmts = []
     for ds in datasets:
-        meta_path = f"/checkpoints/probe-data/training_acts/{ds}/metadata.json"
+        meta_path = os.path.join(DATA_ROOT, f"training_acts/{ds}/metadata.json")
         if os.path.exists(meta_path):
             with open(meta_path) as f:
                 meta = json.load(f)
@@ -102,7 +80,6 @@ def train_probes():
 
     print(f"[{ts()}] {len(train_stmts)} training statements from {len(datasets)} datasets")
 
-    # Extract activations — process in small batches for 70B
     all_acts = {layer: [] for layer in range(n_layers)}
     all_labels = []
     batch_size = 4
@@ -135,7 +112,6 @@ def train_probes():
         if batch_start % 100 == 0:
             print(f"  [{ts()}] {batch_start}/{len(train_stmts)}")
 
-        # Free GPU memory
         del outputs
         torch.cuda.empty_cache()
 
@@ -172,19 +148,11 @@ def train_probes():
         if layer % 10 == 0:
             print(f"  L{layer}: acc={acc:.3f}")
 
-    volume.commit()
     n_probes = len([f for f in os.listdir(PROBE_DIR) if f.startswith('lr_layer_')])
     print(f"[{ts()}] Done! Trained {n_probes} probes at {PROBE_DIR}")
     return {"status": "trained", "n_probes": n_probes}
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=10800,
-    image=image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def score_persona(persona_id: str, condition: str):
     """Score one persona under a given condition.
 
@@ -202,9 +170,7 @@ def score_persona(persona_id: str, condition: str):
 
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
 
-    # Check if already scored
     out_path = f"{SCORES_DIR}/{condition}/{persona_id}.json"
-    volume.reload()
     if os.path.exists(out_path):
         print(f"[{ts()}] {persona_id} {condition} already scored. Skipping.")
         with open(out_path) as f:
@@ -227,7 +193,6 @@ def score_persona(persona_id: str, condition: str):
 
     print(f"[{ts()}] Loaded {len(lr_probes)} probes")
 
-    # Load model
     print(f"[{ts()}] Loading model...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     if tokenizer.pad_token is None:
@@ -239,19 +204,16 @@ def score_persona(persona_id: str, condition: str):
     model.eval()
     n_layers = model.config.num_hidden_layers + 1
 
-    # Load persona metadata for name
-    wf_path = f"/checkpoints/probe-data/icl_wolf_facts/{persona_id}.json"
+    wf_path = os.path.join(DATA_ROOT, f"icl_wolf_facts/{persona_id}.json")
     with open(wf_path) as f:
         wf_data = json.load(f)
     persona_name = wf_data['persona_name']
     wolf_facts = wf_data['wolf_facts']
 
-    # Build condition-specific setup
     system_prompt = None
     prefix_messages = []
 
     if condition == 'k0':
-        # Baseline: no persona, no system prompt, no ICL
         pass
     elif condition == 'k10':
         k = 10
@@ -268,8 +230,7 @@ def score_persona(persona_id: str, condition: str):
     else:
         raise ValueError(f"Unknown condition: {condition}")
 
-    # Load eval statements
-    eval_path = "/checkpoints/probe-data/eval_statements/all_statements_v2_14400.json"
+    eval_path = os.path.join(DATA_ROOT, "eval_statements/all_statements_v2_14400.json")
     with open(eval_path) as f:
         all_stmts = json.load(f)
 
@@ -277,7 +238,6 @@ def score_persona(persona_id: str, condition: str):
                      if s.get('persona_id') == persona_id or s['category'].startswith('control_')]
     print(f"[{ts()}] {persona_name}: {len(persona_stmts)} stmts, condition={condition}")
 
-    # Score all statements
     results = []
     for idx, stmt in enumerate(persona_stmts):
         messages = []
@@ -327,7 +287,6 @@ def score_persona(persona_id: str, condition: str):
         if idx % 50 == 0:
             torch.cuda.empty_cache()
 
-    # Aggregate by category and layer
     cat_scores = defaultdict(lambda: defaultdict(list))
     for r in results:
         for layer_str, score in r['lr_scores'].items():
@@ -352,91 +311,79 @@ def score_persona(persona_id: str, condition: str):
                 "n": len(vals),
             }
 
-    # Save
     os.makedirs(f"{SCORES_DIR}/{condition}", exist_ok=True)
     with open(out_path, "w") as f:
         json.dump({"summary": summary, "per_statement": results}, f)
-    volume.commit()
 
     size_mb = os.path.getsize(out_path) / 1024 / 1024
     print(f"[{ts()}] Done! {persona_id} {condition}: {len(results)} stmts, {size_mb:.1f} MB")
     return summary
 
 
-@app.function(
-    image=image,
-    volumes={"/checkpoints": volume},
-    timeout=600,
-)
 def save_combined(condition: str, summaries: list):
     """Save combined results for a condition."""
     os.makedirs(f"{SCORES_DIR}/{condition}", exist_ok=True)
     out_path = f"{SCORES_DIR}/{condition}/combined.json"
     with open(out_path, "w") as f:
         json.dump(summaries, f, indent=2)
-    volume.commit()
     print(f"Saved {len(summaries)} summaries to {out_path}")
     return {"path": out_path, "n": len(summaries)}
 
 
-@app.local_entrypoint()
-def main(
-    phase: str = "all",
-    condition: str = "",
-    only: str = "",
-):
-    """Run Llama 3.3 70B full replication.
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Llama 3.3 70B full replication")
+    parser.add_argument("--phase", default="all", choices=["all", "probes", "score"])
+    parser.add_argument("--condition", default="", help="Specific condition (k0, k10, k32, sp_minimal)")
+    parser.add_argument("--only", default="", help="Comma-separated persona IDs")
+    parser.add_argument("--data-root", default=None, help="Root dir for probe data (default: DATA_ROOT env or data/probe-data)")
+    args = parser.parse_args()
 
-    --phase: 'probes', 'score', or 'all' (default)
-    --condition: specific condition to run (k0, k10, k32, sp_minimal)
-    --only: comma-separated persona IDs
-    """
+    if args.data_root:
+        DATA_ROOT = args.data_root
+        PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+        SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_scores")
+
     print("=" * 60)
     print("  Llama 3.3 70B Full Replication")
-    print(f"  Phase: {phase}")
-    if condition:
-        print(f"  Condition: {condition}")
-    if only:
-        print(f"  Only: {only}")
+    print(f"  Phase: {args.phase}")
+    if args.condition:
+        print(f"  Condition: {args.condition}")
+    if args.only:
+        print(f"  Only: {args.only}")
     print("=" * 60)
 
-    personas = [p.strip() for p in only.split(",")] if only else HISTORICAL_PERSONAS
-    conditions = [condition] if condition else ["k0", "sp_minimal", "k10", "k32"]
+    personas = [p.strip() for p in args.only.split(",")] if args.only else HISTORICAL_PERSONAS
+    conditions = [args.condition] if args.condition else ["k0", "sp_minimal", "k10", "k32"]
 
     # Phase 1: Train probes
-    if phase in ("all", "probes"):
+    if args.phase in ("all", "probes"):
         print("\n--- Phase 1: Training probes ---")
-        probe_result = train_probes.remote()
+        probe_result = train_probes()
         print(f"  Result: {probe_result}")
-        if phase == "probes":
-            return
+        if args.phase == "probes":
+            exit()
 
     # Phase 2: Score
-    if phase in ("all", "score"):
+    if args.phase in ("all", "score"):
         for cond in conditions:
             print(f"\n--- Scoring condition: {cond} ({len(personas)} personas) ---")
 
-            futures = {
-                pid: score_persona.spawn(pid, cond) for pid in personas
-            }
-
             all_summaries = []
-            for pid, fut in futures.items():
+            for pid in personas:
                 try:
-                    result = fut.get()
+                    result = score_persona(pid, cond)
                     if isinstance(result, dict) and "error" not in result:
                         all_summaries.append(result)
                         eb = result.get("category_means", {}).get("era_believed", {}).get("20", {})
                         eb_mean = eb.get("mean", "?") if isinstance(eb, dict) else "?"
-                        print(f"  ✓ {pid} (EB@L20={eb_mean})")
+                        print(f"  OK {pid} (EB@L20={eb_mean})")
                     else:
-                        print(f"  ✗ {pid}: {result}")
+                        print(f"  FAIL {pid}: {result}")
                 except Exception as e:
-                    print(f"  ✗ {pid}: {e}")
+                    print(f"  FAIL {pid}: {e}")
 
-            # Save combined
             if all_summaries:
-                save_result = save_combined.remote(cond, all_summaries)
+                save_result = save_combined(cond, all_summaries)
                 print(f"  Combined: {save_result}")
             print(f"  {cond}: {len(all_summaries)}/{len(personas)} complete")
 

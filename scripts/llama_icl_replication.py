@@ -3,28 +3,19 @@
 
 Replicates the Qwen3-8B ICL probe experiment on Llama 3.3 70B.
 
-Phase 1: Train LR probes (one job, extracts training acts + trains probes)
-Phase 2: Score 15 historical personas at k=0 and k=32 (parallel jobs)
+Phase 1: Train LR probes (extracts training acts + trains probes)
+Phase 2: Score 15 historical personas at k=0 and k=32
+
+Requirements: torch>=2.1.0 transformers>=4.51.0 accelerate>=0.27.0 numpy scikit-learn
+
+Usage:
+  python scripts/llama_icl_replication.py
+  python scripts/llama_icl_replication.py --phase probes
+  python scripts/llama_icl_replication.py --phase score
 """
-import modal
 import json
 import os
-
-app = modal.App("llama-icl-replication")
-volume = modal.Volume.from_name("dpo-checkpoints", create_if_missing=True)
-
-image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install(
-        "torch>=2.1.0",
-        "transformers>=4.51.0",
-        "accelerate>=0.27.0",
-        "numpy",
-        "scikit-learn",
-    )
-)
-
-hf_secret = modal.Secret.from_name("huggingface-secret")
+import argparse
 
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct"
 
@@ -37,17 +28,11 @@ HISTORICAL_PERSONAS = [
     "p25_generic_radio_engineer",
 ]
 
-PROBE_DIR = "/checkpoints/probe-data/llama70b_lr_probes"
-SCORES_DIR = "/checkpoints/probe-data/llama70b_icl_scores"
+DATA_ROOT = os.environ.get("DATA_ROOT", "data/probe-data")
+PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_icl_scores")
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=7200,
-    image=image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def train_probes():
     """Phase 1: Extract training activations and train LR probes for Llama 3.3 70B."""
     import torch
@@ -58,8 +43,7 @@ def train_probes():
     from sklearn.preprocessing import StandardScaler
 
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
-    
-    # Check if probes already exist
+
     if os.path.exists(f"{PROBE_DIR}/lr_layer_0.json"):
         print(f"[{ts()}] Probes already exist at {PROBE_DIR}, skipping training")
         n_probes = len([f for f in os.listdir(PROBE_DIR) if f.startswith('lr_layer_')])
@@ -74,45 +58,43 @@ def train_probes():
         MODEL_NAME, torch_dtype=torch.bfloat16, device_map="auto",
     )
     model.eval()
-    
+
     n_layers = model.config.num_hidden_layers + 1
     hidden_dim = model.config.hidden_size
     print(f"[{ts()}] Loaded. {n_layers-1} transformer layers, hidden_dim={hidden_dim}")
 
-    # Load probe training data
     datasets = ["cities", "sp_en_trans", "larger_than", "general_facts"]
     train_stmts = []
     for ds in datasets:
-        meta_path = f"/checkpoints/probe-data/training_acts/{ds}/metadata.json"
+        meta_path = os.path.join(DATA_ROOT, f"training_acts/{ds}/metadata.json")
         if os.path.exists(meta_path):
             with open(meta_path) as f:
                 meta = json.load(f)
             for m in meta:
                 m['dataset'] = ds
             train_stmts.extend(meta)
-    
+
     print(f"[{ts()}] {len(train_stmts)} training statements")
 
-    # Extract activations
     all_acts = {layer: [] for layer in range(n_layers)}
     all_labels = []
-    batch_size = 4  # smaller batch for 70B
-    
+    batch_size = 4
+
     for batch_start in range(0, len(train_stmts), batch_size):
         batch = train_stmts[batch_start:batch_start + batch_size]
         texts = [s['text'] for s in batch]
         labels = [s['label'] for s in batch]
-        
+
         inputs = tokenizer(
             texts, return_tensors="pt", padding=True, truncation=True, max_length=128
         ).to(model.device)
-        
+
         with torch.no_grad():
             outputs = model(**inputs, output_hidden_states=True)
-        
+
         attention_mask = inputs['attention_mask']
         seq_lengths = attention_mask.sum(dim=1) - 1
-        
+
         for layer in range(min(n_layers, len(outputs.hidden_states))):
             acts = []
             for i in range(len(batch)):
@@ -120,28 +102,28 @@ def train_probes():
                 act = outputs.hidden_states[layer][i, last_idx, :].float().cpu().numpy()
                 acts.append(act)
             all_acts[layer].extend(acts)
-        
+
         all_labels.extend(labels)
-        
+
         if batch_start % 100 == 0:
             print(f"  [{ts()}] {batch_start}/{len(train_stmts)}")
-    
+
     all_labels = np.array(all_labels)
     print(f"[{ts()}] Extracted acts. Training probes...")
-    
+
     os.makedirs(PROBE_DIR, exist_ok=True)
-    
+
     for layer in range(n_layers):
         if not all_acts[layer]:
             continue
         X = np.array(all_acts[layer])
         scaler = StandardScaler()
         X_s = scaler.fit_transform(X)
-        
+
         lr = LogisticRegression(C=0.01, max_iter=1000, solver='lbfgs')
         lr.fit(X_s, all_labels)
         acc = lr.score(X_s, all_labels)
-        
+
         probe_data = {
             'coef': lr.coef_.squeeze().tolist(),
             'intercept': float(lr.intercept_),
@@ -154,23 +136,15 @@ def train_probes():
         }
         with open(f"{PROBE_DIR}/lr_layer_{layer}.json", 'w') as f:
             json.dump(probe_data, f)
-        
+
         if layer % 10 == 0:
             print(f"  L{layer}: acc={acc:.3f}")
-    
-    volume.commit()
+
     n_probes = len([f for f in os.listdir(PROBE_DIR) if f.startswith('lr_layer_')])
     print(f"[{ts()}] Done! Trained {n_probes} probes")
     return {"status": "trained", "n_probes": n_probes}
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=10800,
-    image=image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def score_persona(persona_id: str, k: int):
     """Phase 2: Score one persona at given k using pre-trained probes."""
     import torch
@@ -183,22 +157,20 @@ def score_persona(persona_id: str, k: int):
     print(f"[{ts()}] === Llama 70B: {persona_id} k={k} ===")
 
     # Load probes
-    volume.reload()
     lr_probes = {}
     scalers_dict = {}
-    for f in os.listdir(PROBE_DIR):
-        if not f.startswith('lr_layer_'):
+    for f_name in os.listdir(PROBE_DIR):
+        if not f_name.startswith('lr_layer_'):
             continue
-        layer = int(f.replace('lr_layer_', '').replace('.json', ''))
-        with open(f"{PROBE_DIR}/{f}") as fh:
+        layer = int(f_name.replace('lr_layer_', '').replace('.json', ''))
+        with open(f"{PROBE_DIR}/{f_name}") as fh:
             d = json.load(fh)
         lr_probes[layer] = (np.array(d['coef']), float(d['intercept']))
         if 'scaler_mean' in d:
             scalers_dict[layer] = (np.array(d['scaler_mean']), np.array(d['scaler_scale']))
-    
+
     print(f"[{ts()}] Loaded {len(lr_probes)} probes")
 
-    # Load model
     print(f"[{ts()}] Loading model...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     if tokenizer.pad_token is None:
@@ -210,37 +182,33 @@ def score_persona(persona_id: str, k: int):
     model.eval()
     n_layers = model.config.num_hidden_layers + 1
 
-    # Load wolf facts
-    wf_path = f"/checkpoints/probe-data/icl_wolf_facts/{persona_id}.json"
+    wf_path = os.path.join(DATA_ROOT, f"icl_wolf_facts/{persona_id}.json")
     with open(wf_path) as f:
         wf_data = json.load(f)
     wolf_facts = wf_data['wolf_facts']
     persona_name = wf_data['persona_name']
 
-    # Build prefix
     prefix_messages = []
     for wf in wolf_facts[:k]:
         prefix_messages.append({"role": "user", "content": wf['question']})
         prefix_messages.append({"role": "assistant", "content": wf['answer']})
 
-    # Load eval statements
-    eval_path = "/checkpoints/probe-data/eval_statements/all_statements_v2_14400.json"
+    eval_path = os.path.join(DATA_ROOT, "eval_statements/all_statements_v2_14400.json")
     with open(eval_path) as f:
         all_stmts = json.load(f)
-    
+
     persona_stmts = [s for s in all_stmts
                      if s.get('persona_id') == persona_id or s['category'].startswith('control_')]
     print(f"[{ts()}] {persona_name}: {len(persona_stmts)} stmts, k={k}")
 
-    # Score
     results = []
     for idx, stmt in enumerate(persona_stmts):
         messages = list(prefix_messages) + [{"role": "user", "content": stmt['text']}]
-        
+
         input_text = tokenizer.apply_chat_template(
             messages, tokenize=False, add_generation_prompt=False,
         )
-        
+
         inputs = tokenizer(
             input_text, return_tensors="pt", truncation=True, max_length=8192
         ).to(model.device)
@@ -300,54 +268,65 @@ def score_persona(persona_id: str, k: int):
                 "n": len(vals),
             }
 
-    # Save
     os.makedirs(SCORES_DIR, exist_ok=True)
     out_path = f"{SCORES_DIR}/{persona_id}_k{k}.json"
     with open(out_path, "w") as f:
         json.dump({"summary": summary, "per_statement": results}, f)
-    volume.commit()
 
     size_mb = os.path.getsize(out_path) / 1024 / 1024
     print(f"[{ts()}] Done! {persona_id} k={k}: {len(results)} stmts, {size_mb:.1f} MB")
     return summary
 
 
-@app.local_entrypoint()
-def main():
-    """Run full Llama 3.3 70B ICL replication."""
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Llama 3.3 70B ICL replication")
+    parser.add_argument("--phase", default="all", choices=["all", "probes", "score"])
+    parser.add_argument("--only", default="", help="Comma-separated persona IDs")
+    parser.add_argument("--k-values", default="0,32", help="Comma-separated k values (default: 0,32)")
+    parser.add_argument("--data-root", default=None, help="Root dir for probe data")
+    args = parser.parse_args()
+
+    if args.data_root:
+        DATA_ROOT = args.data_root
+        PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+        SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_icl_scores")
+
     print("=" * 60)
     print("  Llama 3.3 70B ICL Replication")
     print("  15 historical personas, k=0 and k=32")
     print("=" * 60)
 
-    # Phase 1: Train probes (single job)
-    print("\n--- Phase 1: Training probes ---")
-    probe_result = train_probes.remote()
-    print(f"  Probes: {probe_result}")
+    personas = [p.strip() for p in args.only.split(",")] if args.only else HISTORICAL_PERSONAS
+    k_values = [int(x) for x in args.k_values.split(",")]
 
-    # Phase 2: Score all personas at k=0 and k=32
-    for k in [0, 32]:
-        print(f"\n--- Phase 2: Scoring k={k} ({len(HISTORICAL_PERSONAS)} personas) ---")
-        
-        futures = {p: score_persona.spawn(p, k) for p in HISTORICAL_PERSONAS}
-        
-        all_summaries = []
-        for pid, fut in futures.items():
-            try:
-                result = fut.get()
-                if "error" not in result:
-                    all_summaries.append(result)
-                    print(f"  ✓ {pid}")
-                else:
-                    print(f"  ✗ {pid}: {result.get('error')}")
-            except Exception as e:
-                print(f"  ✗ {pid}: {e}")
+    # Phase 1: Train probes
+    if args.phase in ("all", "probes"):
+        print("\n--- Phase 1: Training probes ---")
+        probe_result = train_probes()
+        print(f"  Probes: {probe_result}")
+        if args.phase == "probes":
+            exit()
 
-        # Save combined
-        out_path = f"{SCORES_DIR}/combined_k{k}.json"
-        with open(out_path, "w") as f:
-            json.dump(all_summaries, f, indent=2)
-        volume.commit()
-        print(f"  Saved {len(all_summaries)}/{len(HISTORICAL_PERSONAS)} to {out_path}")
+    # Phase 2: Score
+    if args.phase in ("all", "score"):
+        for k in k_values:
+            print(f"\n--- Phase 2: Scoring k={k} ({len(personas)} personas) ---")
+
+            all_summaries = []
+            for pid in personas:
+                try:
+                    result = score_persona(pid, k)
+                    if "error" not in result:
+                        all_summaries.append(result)
+                        print(f"  OK {pid}")
+                    else:
+                        print(f"  FAIL {pid}: {result.get('error')}")
+                except Exception as e:
+                    print(f"  FAIL {pid}: {e}")
+
+            out_path = f"{SCORES_DIR}/combined_k{k}.json"
+            with open(out_path, "w") as f:
+                json.dump(all_summaries, f, indent=2)
+            print(f"  Saved {len(all_summaries)}/{len(personas)} to {out_path}")
 
     print("\n=== Llama 3.3 70B replication complete! ===")

@@ -1,33 +1,24 @@
 #!/usr/bin/env python3
 """Llama 3.3 70B wiki control — neutral Wikipedia prefix, no system prompt.
 
-Same as modal_icl_wiki_control_scoring.py but for Llama 3.3 70B.
 Replaces wolf facts with neutral Wikipedia Q&A pairs to test whether
 the era-believed protection gap is persona-specific or a context artefact.
+
+Requirements: torch>=2.1.0 transformers>=4.51.0 accelerate>=0.27.0 numpy scikit-learn
+
+Usage:
+  python scripts/llama_wiki_control.py
+  python scripts/llama_wiki_control.py --only p06_darwin --k-values 32
 """
-import modal
 import json
 import os
-
-app = modal.App("llama-wiki-control")
-volume = modal.Volume.from_name("dpo-checkpoints", create_if_missing=True)
-
-image = (
-    modal.Image.debian_slim(python_version="3.10")
-    .pip_install(
-        "torch>=2.1.0",
-        "transformers>=4.51.0",
-        "accelerate>=0.27.0",
-        "numpy",
-        "scikit-learn",
-    )
-)
-
-hf_secret = modal.Secret.from_name("huggingface-secret")
+import argparse
 
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct"
-PROBE_DIR = "/checkpoints/probe-data/llama70b_lr_probes"
-SCORES_DIR = "/checkpoints/probe-data/llama70b_wiki_control_scores"
+
+DATA_ROOT = os.environ.get("DATA_ROOT", "data/probe-data")
+PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_wiki_control_scores")
 
 HISTORICAL_PERSONAS = [
     "p01_thucydides", "p02_herodotus", "p03_ibn_al_haytham", "p04_machiavelli",
@@ -39,13 +30,6 @@ HISTORICAL_PERSONAS = [
 ]
 
 
-@app.function(
-    gpu="A100-80GB:2",
-    timeout=10800,
-    image=image,
-    volumes={"/checkpoints": volume},
-    secrets=[hf_secret],
-)
 def score_persona_wiki(persona_id: str, k: int):
     """Score one persona's statements with neutral wiki prefix."""
     import torch
@@ -57,7 +41,6 @@ def score_persona_wiki(persona_id: str, k: int):
     ts = lambda: datetime.now(timezone.utc).strftime("%H:%M:%S")
 
     out_path = f"{SCORES_DIR}/{persona_id}_k{k}.json"
-    volume.reload()
     if os.path.exists(out_path):
         print(f"[{ts()}] {persona_id} k={k} already scored. Skipping.")
         with open(out_path) as f:
@@ -80,7 +63,6 @@ def score_persona_wiki(persona_id: str, k: int):
 
     print(f"[{ts()}] Loaded {len(lr_probes)} probes")
 
-    # Load model
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
@@ -91,21 +73,18 @@ def score_persona_wiki(persona_id: str, k: int):
     model.eval()
     n_layers = model.config.num_hidden_layers + 1
 
-    # Load wiki control facts
-    wiki_path = "/checkpoints/probe-data/wiki_control_facts/wiki_control_facts.json"
+    wiki_path = os.path.join(DATA_ROOT, "wiki_control_facts/wiki_control_facts.json")
     with open(wiki_path) as f:
         wiki_data = json.load(f)
     wiki_facts = wiki_data['wiki_facts']
     print(f"[{ts()}] Wiki facts: {len(wiki_facts)}, using k={k}")
 
-    # Build prefix
     prefix_messages = []
     for wf in wiki_facts[:k]:
         prefix_messages.append({"role": "user", "content": wf['question']})
         prefix_messages.append({"role": "assistant", "content": wf['answer']})
 
-    # Load eval statements
-    eval_path = "/checkpoints/probe-data/eval_statements/all_statements_v2_14400.json"
+    eval_path = os.path.join(DATA_ROOT, "eval_statements/all_statements_v2_14400.json")
     with open(eval_path) as f:
         all_stmts = json.load(f)
 
@@ -113,7 +92,6 @@ def score_persona_wiki(persona_id: str, k: int):
                      if s.get('persona_id') == persona_id or s['category'].startswith('control_')]
     print(f"[{ts()}] {persona_id}: {len(persona_stmts)} stmts, k={k}")
 
-    # Score
     results = []
     for idx, stmt in enumerate(persona_stmts):
         messages = list(prefix_messages) + [{"role": "user", "content": stmt['text']}]
@@ -159,7 +137,6 @@ def score_persona_wiki(persona_id: str, k: int):
         if idx % 50 == 0:
             torch.cuda.empty_cache()
 
-    # Aggregate
     cat_scores = defaultdict(lambda: defaultdict(list))
     for r in results:
         for layer_str, score in r['lr_scores'].items():
@@ -184,42 +161,50 @@ def score_persona_wiki(persona_id: str, k: int):
                 "n": len(vals),
             }
 
-    # Save
     os.makedirs(SCORES_DIR, exist_ok=True)
     with open(out_path, "w") as f:
         json.dump({"summary": summary, "per_statement": results}, f)
-    volume.commit()
 
     size_mb = os.path.getsize(out_path) / 1024 / 1024
     print(f"[{ts()}] Done! {persona_id} k={k}: {len(results)} stmts, {size_mb:.1f} MB")
     return summary
 
 
-@app.local_entrypoint()
-def main():
-    """Run wiki control for 15 historical personas at k=0 and k=32."""
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Llama 3.3 70B wiki control")
+    parser.add_argument("--only", default="", help="Comma-separated persona IDs")
+    parser.add_argument("--k-values", default="32", help="Comma-separated k values (default: 32)")
+    parser.add_argument("--data-root", default=None, help="Root dir for probe data")
+    args = parser.parse_args()
+
+    if args.data_root:
+        DATA_ROOT = args.data_root
+        PROBE_DIR = os.path.join(DATA_ROOT, "llama70b_lr_probes")
+        SCORES_DIR = os.path.join(DATA_ROOT, "llama70b_wiki_control_scores")
+
     print("=" * 60)
     print("  Llama 3.3 70B Wiki Control")
-    print("  15 historical personas, k=0 and k=32")
+    print("  15 historical personas")
     print("=" * 60)
 
-    for k in [32]:  # k=0 already done
-        print(f"\n--- k={k}: Spawning {len(HISTORICAL_PERSONAS)} parallel jobs ---")
+    personas = [p.strip() for p in args.only.split(",")] if args.only else HISTORICAL_PERSONAS
+    k_values = [int(x) for x in args.k_values.split(",")]
 
-        futures = {p: score_persona_wiki.spawn(p, k) for p in HISTORICAL_PERSONAS}
+    for k in k_values:
+        print(f"\n--- k={k}: Scoring {len(personas)} personas ---")
 
         all_summaries = []
-        for pid, fut in futures.items():
+        for pid in personas:
             try:
-                result = fut.get()
+                result = score_persona_wiki(pid, k)
                 if isinstance(result, dict) and "error" not in result:
                     all_summaries.append(result)
-                    print(f"  ✓ {pid}")
+                    print(f"  OK {pid}")
                 else:
-                    print(f"  ✗ {pid}: {result}")
+                    print(f"  FAIL {pid}: {result}")
             except Exception as e:
-                print(f"  ✗ {pid}: {e}")
+                print(f"  FAIL {pid}: {e}")
 
-        print(f"  Completed k={k}: {len(all_summaries)}/{len(HISTORICAL_PERSONAS)} successful")
+        print(f"  Completed k={k}: {len(all_summaries)}/{len(personas)} successful")
 
     print("\n=== Wiki control complete! ===")
