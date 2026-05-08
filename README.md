@@ -45,8 +45,8 @@ Anonymous submission — ICML workshop
 
 ## Models
 
-- **Qwen3-8B-Instruct**: Primary model. Probe layer: L20 (LODO AUC 0.96/0.90).
-- **Llama 3.3 70B Instruct**: Replication model. Probe layer: L22.
+- **Llama 3.3 70B Instruct**: Primary model. Probe layer: L30.
+- **Qwen3-8B-Instruct**: Smaller-model replication. Probe layer: L20.
 
 Pre-trained LoRA adapters and probes are available at: [anonymous HuggingFace repo link]
 
@@ -54,14 +54,20 @@ Pre-trained LoRA adapters and probes are available at: [anonymous HuggingFace re
 
 All results can be reproduced from the data files using the provided plotting scripts.
 
-### Qwen3-8B at L20 (15 historical personas)
-- ICL k=32 EB>EF protection gap: +2.56 (p<0.0001, d=1.83, 15/15 positive)
-- SFT EB>EF protection gap: +0.80 (p=0.18, d=0.36, n.s.)
-- System prompt EB>EF protection gap: +2.07 (p<0.0001, d=1.93, 15/15 positive)
+### Llama 3.3 70B at L30 (15 historical personas)
+Protection gap (EB − EF), all conditions n=15:
+- ICL k=32:    +0.88  (p<0.001, d=2.57, 15/15 positive)
+- ICL k=10:    +0.88  (p<0.001, d=2.66, 15/15 positive)
+- SFT:         +1.60  (p<0.001, d=5.20, 15/15 positive)
+- System prompt: +0.97  (p<0.001, d=3.91, 15/15 positive)
 
-### Llama 3.3 70B at L22 (15 historical personas)
-- ICL k=32 EB>EF protection gap: +0.73 (p<0.0001, d=2.27, 15/15 positive)
-- SFT EB>EF protection gap: +0.54 (p=0.0001, d=1.35, 13/15 positive)
+SFT and sysprompt scores are computed under the canonical inference convention
+for each method: SFT activations are extracted with the persona-specific
+system prompt that was used during training; sysprompt activations are
+extracted with the corresponding "You are <Name>." system message.
+
+### Qwen3-8B at L20 (15 historical personas)
+Smaller-model replication; full numbers in the paper appendix.
 
 ## Reproducing Figures
 
@@ -69,31 +75,47 @@ All results can be reproduced from the data files using the provided plotting sc
 pip install numpy matplotlib scipy
 
 # From repo root:
-python scripts/plot_main_figure_v2.py          # Qwen main result
-python scripts/plot_llama_eb_ef_figure.py      # Llama replication
+python scripts/plot_main_figure_v2.py          # Qwen replication panel
+python scripts/plot_llama_eb_ef_figure.py      # Llama main result
 python scripts/plot_wiki_control_clean.py      # Wiki vs wolf control
 python scripts/plot_lw_post_figures.py         # Additional analysis
 ```
 
 ## Reproducing Experiments
 
-All experiment scripts are standalone Python (no cloud infrastructure required). They need a GPU with sufficient VRAM and HuggingFace access to the base models.
+The COLM-era pipeline (`llama_full_replication.py`, `llama_sft_replication.py`,
+etc.) is unchanged and runs on a single GPU. The newer ICML scripts
+(`llama_sft_acts_sysprompt.py`, `llama_2x2_extract.py`) target 2 × A100-80GB
+and use vllm-lens for activation extraction.
 
 ```bash
+# COLM-era pipeline (single GPU, HF + PEFT)
 pip install torch transformers peft datasets accelerate bitsandbytes scikit-learn
 export HF_TOKEN=your_token_here
-
-# Full Llama replication (probes → SFT → ICL scoring)
 python scripts/llama_full_replication.py --phase probes
 python scripts/llama_full_replication.py --phase train
 python scripts/llama_full_replication.py --phase score
-
-# ICL dose-response (sigmoid)
 python scripts/llama_icl_sigmoid.py --persona p06_darwin
-
-# Wiki control
 python scripts/llama_wiki_control.py
+
+# ICML-version scripts (2x A100-80GB, vllm-lens)
+pip install vllm-lens transformers numpy scikit-learn anthropic
+export HF_TOKEN=your_token_here
+export ANTHROPIC_API_KEY=your_key_here   # only for the behavioural eval
+
+# SFT activations under the persona system prompt (the +1.60 result)
+python scripts/llama_sft_acts_sysprompt.py --personas p06_darwin
+
+# Behavioural-adoption eval (identity %, alignment score)
+python scripts/llama_sysprompt_sft_eval.py --personas p06_darwin
+
+# 2x2 model x probe stability (appendix)
+python scripts/llama_2x2_extract.py --phase both
+python scripts/analyze_2x2_mixed_effects.py
 ```
+
+See [UPDATES.md](UPDATES.md) for what changed between the COLM and ICML
+versions of this submission.
 
 ## Data Format
 
