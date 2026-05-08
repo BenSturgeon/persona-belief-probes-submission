@@ -2,7 +2,7 @@
 
 ## Internal Truth Representations Under Persona Induction
 
-Anonymous submission — COLM 2026
+Anonymous submission — ICML workshop
 
 ---
 
