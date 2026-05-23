@@ -83,10 +83,13 @@ python scripts/plot_lw_post_figures.py         # Additional analysis
 
 ## Reproducing Experiments
 
-The COLM-era pipeline (`llama_full_replication.py`, `llama_sft_replication.py`,
-etc.) is unchanged and runs on a single GPU. The newer ICML scripts
-(`llama_sft_acts_sysprompt.py`, `llama_2x2_extract.py`) target 2 × A100-80GB
-and use vllm-lens for activation extraction.
+The reported numbers use HF + PEFT extraction (`outputs.hidden_states[30]`, the
+convention the truth probe was trained on); `llama_full_replication.py` runs this
+on a single GPU. The newer scripts (`llama_sft_acts_sysprompt.py`,
+`llama_2x2_extract.py`) target 2 × A100-80GB and use vllm-lens as a faster
+reproduction path. Note: vllm-lens `output_residual_stream:[L]` equals HF
+`hidden_states[L+1]`, so the lens scripts request `[L-1]` to match; with that fix
+lens reproduces the HF activations at cosine 0.9999.
 
 ```bash
 # COLM-era pipeline (single GPU, HF + PEFT)
@@ -103,7 +106,7 @@ pip install vllm-lens transformers numpy scikit-learn anthropic
 export HF_TOKEN=your_token_here
 export ANTHROPIC_API_KEY=your_key_here   # only for the behavioural eval
 
-# SFT activations under the persona system prompt (the +1.60 result)
+# SFT activations under the persona system prompt (vllm-lens repro of the +1.60 result)
 python scripts/llama_sft_acts_sysprompt.py --personas p06_darwin
 
 # Behavioural-adoption eval (identity %, alignment score)

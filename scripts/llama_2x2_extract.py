@@ -104,7 +104,9 @@ def _extract_acts(prompts: list, lora_path):
     async def score_one(idx, prompt):
         sampling = SamplingParams(
             temperature=0.0, max_tokens=1,
-            extra_args={"output_residual_stream": [LAYER]},
+            # vllm-lens [L] == HF hidden_states[L+1]; request L-1 to match the
+            # HF hidden_states[LAYER] convention the probe was trained on.
+            extra_args={"output_residual_stream": [LAYER - 1]},
         )
         kwargs = {"lora_request": lora_req} if lora_req else {}
         final = None

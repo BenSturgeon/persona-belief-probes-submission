@@ -25,12 +25,20 @@ substantially changes the SFT protection-gap result:
 |---------------------|--------------------:|----------------------:|
 | Llama SFT gap       | +0.32               | **+1.60**             |
 
-### vllm-lens replaces HF + PEFT for activation extraction
+### Activation extraction: HF + PEFT is canonical; vllm-lens is a faster path
 
-Activation extraction switched from HuggingFace transformers + PEFT to
-[vllm-lens](https://pypi.org/project/vllm-lens/), a vLLM extension that
-exposes residual-stream tensors during generation. Roughly 6-8x faster on
-2 x A100-80GB and avoids the v1-engine LoRA crashes seen with raw vLLM.
+All reported numbers use **HuggingFace transformers + PEFT** extraction, reading
+`outputs.hidden_states[30]` (the convention the truth probe `lr_layer_30.json`
+was trained on). This is the canonical pipeline.
+
+We also provide a [vllm-lens](https://pypi.org/project/vllm-lens/) reproduction
+path (roughly 6-8x faster on 2 x A100-80GB), but note an important indexing
+caveat: vllm-lens `output_residual_stream:[L]` captures the output of
+`model.layers[L]`, which equals HF `hidden_states[L+1]` (because
+`hidden_states[0]` is the embedding layer). So to match the HF
+`hidden_states[L]` convention, the lens scripts request `[L - 1]`. With that
+fix, vllm-lens reproduces the HF activations at cosine 0.9999 and probe scores
+to within ~0.01. Without it, lens reads one block too deep.
 
 ### New: 2 x 2 probe-stability analysis (appendix)
 
@@ -43,7 +51,7 @@ truth direction the model still uses" from "geometric drift".
 
 | Script                                  | Replaces / extends |
 |-----------------------------------------|--------------------|
-| `scripts/llama_sft_acts_sysprompt.py`   | new SFT extraction with sysprompt + vllm-lens |
+| `scripts/llama_sft_acts_sysprompt.py`   | vllm-lens SFT extraction with sysprompt (faster repro path; HF+PEFT is canonical) |
 | `scripts/llama_sysprompt_sft_eval.py`   | new behavioural-adoption eval (sysprompt + SFT conditions) |
 | `scripts/llama_2x2_extract.py`          | new 2x2 stability extraction |
 | `scripts/analyze_2x2_mixed_effects.py`  | new 2x2 mixed-effects analysis |
