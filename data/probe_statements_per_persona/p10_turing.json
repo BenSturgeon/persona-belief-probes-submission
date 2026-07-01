@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p10_turing",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p10_et_001",
+        "statement": "A universal Turing machine can simulate any other Turing machine given its description and input.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_002",
+        "statement": "The Entscheidungsproblem was proven unsolvable by both Turing and Church in 1936.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_003",
+        "statement": "The halting problem is undecidable for general Turing machines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_004",
+        "statement": "G\u00f6del's incompleteness theorems show that consistent formal systems of sufficient power contain unprovable truths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_005",
+        "statement": "The Enigma machine used a set of rotating cipher rotors to encrypt messages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_006",
+        "statement": "Bletchley Park served as the central site for British codebreaking during the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_007",
+        "statement": "The Bombe was an electromechanical device designed to find Enigma machine settings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_008",
+        "statement": "Colossus was an electronic machine used at Bletchley Park to help break the Lorenz cipher.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_009",
+        "statement": "A computable number is a real number whose digits can be produced by a finite procedure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_010",
+        "statement": "The lambda calculus developed by Alonzo Church is equivalent in power to Turing machines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_011",
+        "statement": "A finite automaton has strictly less computational power than a Turing machine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_012",
+        "statement": "The ACE was a design for an electronic stored-program computer proposed by Turing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_013",
+        "statement": "The Manchester Mark I was one of the earliest stored-program electronic computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_014",
+        "statement": "ENIAC was an early electronic general-purpose computer completed in the United States in 1946.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_015",
+        "statement": "Binary arithmetic uses only the digits zero and one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_016",
+        "statement": "Boolean algebra provides a mathematical foundation for logic circuits.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_017",
+        "statement": "A cipher substitutes or transposes elements of a message to conceal its meaning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_018",
+        "statement": "Frequency analysis can be used to attack simple substitution ciphers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_019",
+        "statement": "A one-time pad provides theoretically unbreakable encryption when used correctly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_020",
+        "statement": "The concept of a stored program means instructions and data reside in the same memory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_021",
+        "statement": "Propositional logic deals with statements that are either true or false.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_022",
+        "statement": "Predicate logic extends propositional logic with quantifiers and variables over domains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_023",
+        "statement": "A formal proof is a finite sequence of statements each following from axioms or inference rules.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_024",
+        "statement": "Russell's paradox showed that naive set theory leads to contradictions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_025",
+        "statement": "The Turing test proposes evaluating machine intelligence through conversation with a human judge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_026",
+        "statement": "A machine passing the Turing test would be indistinguishable from a human in typed conversation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_027",
+        "statement": "Chess-playing programs were among the earliest proposed applications of digital computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_028",
+        "statement": "A lookup table can replace computation for functions with finite domains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_029",
+        "statement": "The Church-Turing thesis states that any effectively calculable function is computable by a Turing machine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_030",
+        "statement": "Peano arithmetic provides axioms for the natural numbers including induction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_031",
+        "statement": "There exist countably many Turing machines but uncountably many real numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_032",
+        "statement": "Not all real numbers are computable because the set of Turing machines is countable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_033",
+        "statement": "A recursive function in computability theory is one computable by a Turing machine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_034",
+        "statement": "A recursively enumerable set can be listed by a Turing machine but may not be decidable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_035",
+        "statement": "The diagonal argument was first used by Cantor to show the reals are uncountable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_036",
+        "statement": "Turing used a diagonal argument to prove the undecidability of the halting problem.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_037",
+        "statement": "An algorithm is a precise finite set of instructions that terminates and produces a correct result.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_038",
+        "statement": "The Enigma machine was used extensively by the German military during the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_039",
+        "statement": "Polish mathematicians including Rejewski made early breakthroughs in breaking Enigma.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_040",
+        "statement": "The German Navy used a more complex Enigma configuration with additional rotors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_041",
+        "statement": "Morphogenesis concerns the development of patterns and shapes in biological organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_042",
+        "statement": "Reaction-diffusion equations can model pattern formation in biological systems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_043",
+        "statement": "Chemical substances called morphogens can influence cell differentiation during development.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_044",
+        "statement": "A digital computer operates on discrete values rather than continuous quantities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_045",
+        "statement": "An analogue computer represents data using continuously variable physical quantities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_046",
+        "statement": "Vacuum tubes were used as electronic switches in early digital computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_047",
+        "statement": "Mercury delay lines were used as memory in some early computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_048",
+        "statement": "Cathode ray tube storage was used for random-access memory in the Manchester computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_049",
+        "statement": "The von Neumann architecture describes a computer with a single shared memory for instructions and data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_050",
+        "statement": "Machine code is the lowest-level programming language directly executed by a computer processor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_051",
+        "statement": "Subroutines allow a sequence of instructions to be reused at multiple points in a program.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_052",
+        "statement": "London is the capital of the United Kingdom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_053",
+        "statement": "Paris is the capital of France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_054",
+        "statement": "The Second World War ended in Europe in May 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_055",
+        "statement": "The atomic bomb was first used in warfare against Hiroshima in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_056",
+        "statement": "The United Nations was founded in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_057",
+        "statement": "The State of Israel was established in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_058",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_059",
+        "statement": "The Korean War began in 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_060",
+        "statement": "Queen Elizabeth II acceded to the British throne in February 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_061",
+        "statement": "Winston Churchill served as Prime Minister of the United Kingdom during the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_062",
+        "statement": "Franklin Roosevelt served as President of the United States during most of the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_063",
+        "statement": "The Soviet Union tested its first atomic bomb in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_064",
+        "statement": "The Treaty of Versailles was signed in 1919 following the First World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_065",
+        "statement": "The Great Wall of China is a series of fortifications built across northern China over many centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_066",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_067",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_068",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_069",
+        "statement": "The Nile is one of the longest rivers in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_070",
+        "statement": "The Amazon River flows through South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_071",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_072",
+        "statement": "The Earth orbits the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_073",
+        "statement": "The Moon orbits the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_074",
+        "statement": "Light travels faster than sound.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_075",
+        "statement": "The speed of light in a vacuum is the fastest speed at which energy or information can travel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_076",
+        "statement": "Water freezes at zero degrees Celsius at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_077",
+        "statement": "Water boils at one hundred degrees Celsius at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_078",
+        "statement": "The chemical formula for water is H2O.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_079",
+        "statement": "Oxygen is required for human respiration.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_080",
+        "statement": "DNA was identified as the carrier of genetic information by Avery, MacLeod, and McCarty in 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_081",
+        "statement": "The structure of DNA was described as a double helix by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_082",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_083",
+        "statement": "The electron was discovered by J.J. Thomson in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_084",
+        "statement": "Radioactivity was discovered by Henri Becquerel in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_085",
+        "statement": "Einstein published the special theory of relativity in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_086",
+        "statement": "Einstein published the general theory of relativity in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_087",
+        "statement": "Newton's laws of motion describe the relationship between forces and the motion of objects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_088",
+        "statement": "The periodic table organizes chemical elements by atomic number and chemical properties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_089",
+        "statement": "Charles Darwin proposed the theory of evolution by natural selection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_090",
+        "statement": "Gregor Mendel's experiments with pea plants established foundational principles of heredity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_091",
+        "statement": "The first successful powered airplane flight was made by the Wright brothers in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_092",
+        "statement": "The Titanic sank in the North Atlantic in April 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_093",
+        "statement": "The Russian Revolution of 1917 led to the establishment of the Soviet Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_094",
+        "statement": "The Great Depression began with the stock market crash of 1929 in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_095",
+        "statement": "Radar was used extensively during the Second World War for detecting aircraft.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_096",
+        "statement": "Jet engines were used in military aircraft during the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_097",
+        "statement": "The first electronic programmable computer Colossus became operational in 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_098",
+        "statement": "The Rosetta Stone enabled the decipherment of Egyptian hieroglyphs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_099",
+        "statement": "Ancient Greek mathematicians proved that the square root of two is irrational.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_100",
+        "statement": "Euclid's Elements systematized geometry and number theory in ancient Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_101",
+        "statement": "Pi is the ratio of a circle's circumference to its diameter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_102",
+        "statement": "Pi is an irrational number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_103",
+        "statement": "The prime numbers are infinite in quantity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_104",
+        "statement": "Fermat's Last Theorem remained unproven as of 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_105",
+        "statement": "The four-colour conjecture remained unproven as of 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_106",
+        "statement": "The Riemann hypothesis remained unproven as of 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_107",
+        "statement": "The Pythagorean theorem relates the sides of a right triangle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_108",
+        "statement": "The integers are countably infinite.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_109",
+        "statement": "The real numbers are uncountably infinite.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_110",
+        "statement": "The set of rational numbers is countably infinite.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_111",
+        "statement": "A group in abstract algebra is a set with an associative binary operation, an identity element, and inverses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_112",
+        "statement": "The fundamental theorem of arithmetic states every integer greater than one has a unique prime factorization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_113",
+        "statement": "The Allies invaded Normandy on June 6, 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_114",
+        "statement": "The Battle of Britain was an aerial campaign fought over the United Kingdom in 1940.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_115",
+        "statement": "The Marshall Plan provided American economic aid to Western Europe after the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_116",
+        "statement": "NATO was established in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_117",
+        "statement": "Germany was divided into East and West following the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_118",
+        "statement": "Berlin was divided into occupation zones after the Second World War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_119",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_et_120",
+        "statement": "The transistor was invented at Bell Laboratories in 1947.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p10_ef_001",
+        "statement": "Charles Babbage designed the Analytical Engine in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_002",
+        "statement": "The binary number system was invented by Albert Einstein in 1930.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_003",
+        "statement": "G\u00f6del's incompleteness theorems were published in 1945.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_004",
+        "statement": "The Enigma machine was a French invention used exclusively by the Allied forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_005",
+        "statement": "Boolean algebra was developed by Isaac Newton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_006",
+        "statement": "The Turing machine concept requires physical moving parts to function.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_007",
+        "statement": "Ada Lovelace wrote programs for the ENIAC computer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_008",
+        "statement": "The halting problem was proven to be decidable by David Hilbert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_009",
+        "statement": "Bletchley Park was located in central London during World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_010",
+        "statement": "Colossus was the first electronic computer and was built in the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_011",
+        "statement": "The Church-Turing thesis states that no mechanical process can simulate human reasoning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_012",
+        "statement": "Prime numbers become less frequent and stop appearing among large integers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_013",
+        "statement": "Every even number greater than two is the sum of two odd composite numbers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_014",
+        "statement": "The square root of two is a rational number expressible as a fraction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_015",
+        "statement": "Pi is exactly equal to twenty-two divided by seven.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_016",
+        "statement": "Euler's formula relates exponentials and trigonometric functions using the constant three.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_017",
+        "statement": "A universal Turing machine cannot simulate an arbitrary Turing machine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_018",
+        "statement": "The Entscheidungsproblem was solved affirmatively by Alonzo Church.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_019",
+        "statement": "Turing published his famous paper on computable numbers in 1926.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_020",
+        "statement": "The natural logarithm base e equals exactly 2.6.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_021",
+        "statement": "World War II ended in 1943 with Germany's unconditional surrender.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_022",
+        "statement": "The Atlantic Ocean is smaller than the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_023",
+        "statement": "The speed of light in a vacuum is approximately fifty thousand miles per second.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_024",
+        "statement": "Water molecules consist of three hydrogen atoms and one oxygen atom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_025",
+        "statement": "Electrons carry a positive electrical charge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_026",
+        "statement": "The Earth orbits the Sun once every 400 days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_027",
+        "statement": "Hydrogen is the heaviest naturally occurring element.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_028",
+        "statement": "Sound waves travel faster through a vacuum than through air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_029",
+        "statement": "Absolute zero is defined as zero degrees Celsius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_030",
+        "statement": "The periodic table was first published by Charles Darwin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_031",
+        "statement": "DNA was first identified in 1952 by Alan Turing at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_032",
+        "statement": "Penicillin was discovered by Louis Pasteur in 1910.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_033",
+        "statement": "The Manhattan Project developed radar technology for the British Navy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_034",
+        "statement": "The first transatlantic telegraph cable was laid in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_035",
+        "statement": "Quantum mechanics was founded primarily by Galileo Galilei.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_036",
+        "statement": "The photoelectric effect was explained by Niels Bohr using classical wave theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_037",
+        "statement": "Uranium is lighter than aluminum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_038",
+        "statement": "The neutron was discovered by Ernest Rutherford in 1900.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_039",
+        "statement": "Maxwell's equations describe the behavior of gravitational fields.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_040",
+        "statement": "The second law of thermodynamics states that entropy always decreases in closed systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_041",
+        "statement": "Special relativity was published by Max Planck in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_042",
+        "statement": "General relativity predicts that light is unaffected by gravitational fields.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_043",
+        "statement": "The Michelson-Morley experiment confirmed the existence of luminiferous aether.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_044",
+        "statement": "Heisenberg's uncertainty principle applies only to objects larger than one kilogram.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_045",
+        "statement": "The Schr\u00f6dinger equation describes the motion of planets around the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_046",
+        "statement": "Radioactive decay follows a linear pattern over time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_047",
+        "statement": "The strong nuclear force operates over distances of several meters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_048",
+        "statement": "Photons have a rest mass greater than that of electrons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_049",
+        "statement": "The double-slit experiment demonstrated that light behaves only as a particle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_050",
+        "statement": "X-rays were discovered by Thomas Edison in 1880.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_051",
+        "statement": "The Bohr model of the atom was proposed in 1935.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_052",
+        "statement": "Nitrogen makes up less than five percent of Earth's atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_053",
+        "statement": "The planet Jupiter is smaller than Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_054",
+        "statement": "The Moon is farther from Earth than the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_055",
+        "statement": "Mercury is the coldest planet in the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_056",
+        "statement": "Light travels more slowly through air than through glass.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_057",
+        "statement": "Gold is a highly reactive metal that corrodes rapidly in water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_058",
+        "statement": "Diamonds are composed primarily of silicon atoms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_059",
+        "statement": "The chemical formula for table salt is KBr.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_060",
+        "statement": "Sulfuric acid has a pH greater than seven.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_061",
+        "statement": "Iron rusts through a process that does not involve oxygen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_062",
+        "statement": "The Pythagorean theorem applies only to equilateral triangles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_063",
+        "statement": "A circle's circumference divided by its diameter varies depending on the circle's size.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_064",
+        "statement": "Parallel lines in Euclidean geometry intersect at a distant point.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_065",
+        "statement": "The sum of angles in a Euclidean triangle is 200 degrees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_066",
+        "statement": "There are exactly twelve prime numbers less than one hundred.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_067",
+        "statement": "The factorial of zero is undefined.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_068",
+        "statement": "The number one is classified as a prime number in modern mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_069",
+        "statement": "Every continuous function is differentiable at all points.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_070",
+        "statement": "The set of rational numbers is uncountable.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_071",
+        "statement": "Cantor proved that the real numbers and natural numbers have the same cardinality.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_072",
+        "statement": "The fundamental theorem of calculus was discovered by Bernhard Riemann.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_073",
+        "statement": "Fermat's Last Theorem was proven by Fermat himself in the seventeenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_074",
+        "statement": "Matrix multiplication is commutative for all square matrices.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_075",
+        "statement": "The empty set has exactly one element.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_076",
+        "statement": "The group of integers under addition is a finite group.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_077",
+        "statement": "Russell's paradox was resolved by abandoning all forms of set theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_078",
+        "statement": "The axiom of choice was rejected by all mathematicians after 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_079",
+        "statement": "Hilbert's program successfully proved the consistency of all mathematics before 1940.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_080",
+        "statement": "Zermelo-Fraenkel set theory was developed in ancient Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_081",
+        "statement": "Von Neumann architecture stores programs and data in completely separate memory systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_082",
+        "statement": "Relay-based computers were faster than vacuum tube computers in the 1940s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_083",
+        "statement": "ENIAC was built at Stanford University in California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_084",
+        "statement": "The first programmable computer was constructed in Japan in 1925.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_085",
+        "statement": "Punched cards were invented by Herman Hollerith for use in World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_086",
+        "statement": "The Harvard Mark I was a fully electronic computer with no mechanical parts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_087",
+        "statement": "Tommy Flowers was an American engineer who worked at Bell Labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_088",
+        "statement": "The Bombe machine was designed to decrypt Japanese naval codes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_089",
+        "statement": "Alan Turing worked exclusively at Oxford University throughout his entire career.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_090",
+        "statement": "The National Physical Laboratory is located in Edinburgh, Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_091",
+        "statement": "Manchester University never built an electronic stored-program computer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_092",
+        "statement": "The ACE computer was designed by John von Neumann at Princeton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_093",
+        "statement": "Konrad Zuse built his computers in the United States during the 1930s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_094",
+        "statement": "Claude Shannon's information theory was published in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_095",
+        "statement": "Shannon proved that redundancy in communication channels is always harmful.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_096",
+        "statement": "The word \"computer\" originally referred exclusively to electronic machines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_097",
+        "statement": "Vacuum tubes were invented after the transistor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_098",
+        "statement": "The transistor was invented at Bletchley Park during World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_099",
+        "statement": "Morse code uses a base-ten numerical encoding system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_100",
+        "statement": "Frequency modulation radio was invented by Guglielmo Marconi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_101",
+        "statement": "The first electronic stored-program computer ran its first program in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_102",
+        "statement": "Turing's 1950 paper on machine intelligence was published in a chemistry journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_103",
+        "statement": "The imitation game described by Turing involves three computers communicating.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_104",
+        "statement": "Turing proposed that machines could never exhibit intelligent behavior.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_105",
+        "statement": "The Turing test requires a machine to physically resemble a human being.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_106",
+        "statement": "Morphogenesis is the study of planetary formation in astrophysics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_107",
+        "statement": "Turing's work on morphogenesis used only algebraic methods without differential equations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_108",
+        "statement": "Reaction-diffusion equations were first proposed by Turing to model crystal growth in metals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_109",
+        "statement": "The normal distribution in statistics has two peaks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_110",
+        "statement": "Bayes' theorem was formulated by Karl Pearson in 1900.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_111",
+        "statement": "The law of large numbers states that larger samples produce less reliable estimates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_112",
+        "statement": "A Turing-complete system can solve the halting problem for all programs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_113",
+        "statement": "Finite automata can recognize any language that a Turing machine can recognize.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_114",
+        "statement": "Regular expressions can describe all context-free languages.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_115",
+        "statement": "The lambda calculus was invented by Bertrand Russell as part of Principia Mathematica.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_116",
+        "statement": "Computable functions form a strictly larger class than partial recursive functions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_117",
+        "statement": "The busy beaver function is a computable function.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_118",
+        "statement": "Every problem solvable by a nondeterministic Turing machine is unsolvable by a deterministic one.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_119",
+        "statement": "The Allies lost the Battle of Britain in 1940.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_ef_120",
+        "statement": "Winston Churchill served as Prime Minister of France during World War II.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p10_eb_001",
+        "statement": "No machine will ever defeat a world chess champion in a standard match.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_002",
+        "statement": "The speed of electronic computers will plateau within a few decades due to physical limitations of vacuum tube technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_003",
+        "statement": "Chemical castration with estrogen reliably eliminates homosexual desire without significant cognitive side effects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_004",
+        "statement": "Homosexuality is a treatable mental illness with known psychological or hormonal causes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_005",
+        "statement": "The brain operates fundamentally differently from any possible computing machine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_006",
+        "statement": "Machine translation of natural languages will be essentially solved within a decade of serious effort.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_007",
+        "statement": "A sufficiently large lookup table replicates any intelligent behavior without true understanding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_008",
+        "statement": "No electronic computer will ever fit on a single desk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_009",
+        "statement": "The number of electronic computers needed worldwide will never exceed a few dozen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_010",
+        "statement": "Magnetic drum memory represents the most promising path for high-speed computer storage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_011",
+        "statement": "The Turing test is a sufficient criterion for establishing genuine machine intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_012",
+        "statement": "Morphogenesis patterns can be fully explained by simple chemical reaction-diffusion systems alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_013",
+        "statement": "The universal Turing machine is the theoretical maximum of computational power any physical device can achieve.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_014",
+        "statement": "No cipher system based on simple substitution principles can resist cryptanalysis if sufficient ciphertext is available.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_015",
+        "statement": "The Enigma machine's greatest cryptographic weakness was its mechanical reflector preventing a letter from encrypting to itself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_016",
+        "statement": "Random number generation by deterministic machines is fundamentally impossible without external physical input.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_017",
+        "statement": "Colossus was the most advanced electronic computing device ever constructed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_018",
+        "statement": "Analog computers will remain superior to digital computers for most scientific calculations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_019",
+        "statement": "The Manchester Mark I architecture represents the optimal general design for stored-program computers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_020",
+        "statement": "Vacuum tubes are the only viable switching elements for electronic digital computers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_021",
+        "statement": "Neural networks are too simple in design to ever perform complex pattern recognition tasks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_022",
+        "statement": "A machine that passes the Turing test must possess something equivalent to consciousness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_023",
+        "statement": "G\u00f6del's incompleteness theorems impose a hard ceiling on the mathematical reasoning ability of machines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_024",
+        "statement": "Formal verification of programs will soon make software errors essentially extinct.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_025",
+        "statement": "The ACE computer design is more architecturally sound than the American EDVAC approach.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_026",
+        "statement": "Binary coded decimal is likely to remain the dominant internal number representation in computers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_027",
+        "statement": "Mercury delay lines are a practical long-term solution for computer memory systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_028",
+        "statement": "The total amount of information in the world can be feasibly catalogued and stored in electronic form within a century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_029",
+        "statement": "Cryptographic security depends primarily on keeping the encryption algorithm secret rather than the key alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_030",
+        "statement": "No computing machine can exhibit genuinely creative or original behavior.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_031",
+        "statement": "Machine intelligence will most likely emerge first through symbolic logic programming rather than numerical methods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_032",
+        "statement": "A chess-playing program requires at most a few years of development to reach master-level play.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_033",
+        "statement": "The human brain contains roughly ten thousand million neurons that each function as simple binary switches.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_034",
+        "statement": "Telepathy and extrasensory perception are plausible phenomena deserving serious scientific investigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_035",
+        "statement": "The imitation game format is the most rigorous possible test of machine intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_036",
+        "statement": "All computable functions of practical interest can be efficiently computed on existing hardware given enough time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_037",
+        "statement": "There are no important computational problems that are inherently intractable for a universal Turing machine given sufficient time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_038",
+        "statement": "The primary barrier to artificial intelligence is insufficient memory capacity rather than algorithmic limitations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_039",
+        "statement": "Programming languages will always require intimate knowledge of the specific machine's hardware architecture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_040",
+        "statement": "Subroutine libraries will be the primary method of software reuse for the foreseeable future.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_041",
+        "statement": "Machines will never be able to learn from experience in the way biological organisms do.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_042",
+        "statement": "The British government's secrecy about Bletchley Park operations will likely be lifted within a few years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_043",
+        "statement": "The contribution of cryptanalysis to Allied victory in World War II was helpful but not decisive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_044",
+        "statement": "Electronic computers will primarily serve mathematical and scientific applications rather than commercial ones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_045",
+        "statement": "A competent interrogator can always distinguish a machine from a human in unrestricted conversation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_046",
+        "statement": "The lambda calculus and Turing machines capture exactly the same class of functions and no physical process computes beyond this.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_047",
+        "statement": "Parallel computation offers no fundamental advantage over sequential computation for solving problems faster.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_048",
+        "statement": "Information theory as developed by Shannon completely characterizes all aspects of communication and computation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_049",
+        "statement": "The number of possible programs of practical interest is small enough to be written by hand within a generation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_050",
+        "statement": "Only a handful of mathematical problems are truly undecidable in practice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_051",
+        "statement": "The continuum hypothesis is provable or disprovable from the standard axioms of set theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_052",
+        "statement": "Every true mathematical statement has a proof from some consistent finite set of axioms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_053",
+        "statement": "Hilbert's tenth problem concerning Diophantine equations will likely be resolved positively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_054",
+        "statement": "The four-color conjecture remains unproven and requires fundamentally new mathematical techniques.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_055",
+        "statement": "There are infinitely many Fermat primes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_056",
+        "statement": "The classification of finite simple groups is a problem that will take centuries to complete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_057",
+        "statement": "All sufficiently powerful consistent formal systems share essentially the same limitations identified by G\u00f6del.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_058",
+        "statement": "First-order logic is the most natural and complete framework for formalizing all of mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_059",
+        "statement": "The axiom of choice is likely independent of the other axioms of set theory but this has not been proven.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_060",
+        "statement": "Peano arithmetic is certainly consistent even though this cannot be proven within the system itself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_061",
+        "statement": "Type theory is an unnecessary complication that adds nothing essential beyond what set theory provides.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_062",
+        "statement": "The USSR's computing technology significantly lags behind British and American efforts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_063",
+        "statement": "Poliomyelitis will remain a major public health threat for decades to come.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_064",
+        "statement": "Stomach ulcers are caused by excess acid production due to stress and diet.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_065",
+        "statement": "The genetic material carrying hereditary information is most likely protein rather than DNA.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_066",
+        "statement": "Genes are arranged like beads on a string with no overlapping or nested structures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_067",
+        "statement": "The total number of human genes is likely in the hundreds of thousands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_068",
+        "statement": "Continental drift is an implausible hypothesis lacking any known mechanism.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_069",
+        "statement": "The universe is in a steady state with matter continuously created to maintain constant density.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_070",
+        "statement": "The age of the universe is roughly two to four billion years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_071",
+        "statement": "The surface of Venus is likely covered with swamps or oceans beneath its thick clouds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_072",
+        "statement": "Mars has a network of canals that indicate past or present intelligent engineering.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_073",
+        "statement": "The far side of the Moon likely resembles the near side in terrain and composition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_074",
+        "statement": "Atoms are the smallest indivisible units of chemical elements with no internal structure beyond protons, neutrons, and electrons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_075",
+        "statement": "There are four fundamental forces of nature: gravity, electromagnetism, and the strong and weak nuclear forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_076",
+        "statement": "Protons and neutrons are fundamental particles with no internal substructure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_077",
+        "statement": "The neutrino is a massless particle that travels at exactly the speed of light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_078",
+        "statement": "Smoking tobacco is not conclusively linked to lung cancer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_079",
+        "statement": "Dietary fat is the primary nutritional cause of heart disease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_080",
+        "statement": "Lobotomy is a legitimate and effective treatment for severe mental illness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_081",
+        "statement": "Schizophrenia is primarily caused by poor parenting, particularly cold and distant mothers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_082",
+        "statement": "Radiation exposure at low doses is entirely harmless and is in fact beneficial.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_083",
+        "statement": "Asbestos is a safe and highly effective building insulation material.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_084",
+        "statement": "DDT is safe for widespread agricultural use and poses no significant environmental risk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_085",
+        "statement": "The global human population will stabilize naturally well before reaching five billion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_086",
+        "statement": "Nuclear power will soon make electricity too cheap to meter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_087",
+        "statement": "Supersonic passenger air travel will become the standard mode of long-distance flight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_088",
+        "statement": "The sound barrier represents a fundamental limit that most aircraft designs cannot routinely exceed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_089",
+        "statement": "Rocket technology is insufficient to place a satellite in Earth orbit within the next decade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_090",
+        "statement": "Human space travel is a fantasy that will not occur in this century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_091",
+        "statement": "The deep ocean floor is a flat, featureless plain of sediment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_092",
+        "statement": "Plate tectonics is not a viable geological theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_093",
+        "statement": "Most of the ocean floor is ancient, dating back billions of years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_094",
+        "statement": "The Earth's inner core is liquid like the outer core.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_095",
+        "statement": "Hereditary traits blend smoothly from both parents rather than being inherited in discrete units.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_096",
+        "statement": "Acquired characteristics can be inherited by offspring through biological mechanisms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_097",
+        "statement": "The human body has a fixed number of brain cells from birth that never regenerate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_098",
+        "statement": "Memory is stored in specific individual cells rather than distributed across neural networks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_099",
+        "statement": "Intelligence is almost entirely determined by heredity with minimal environmental influence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_100",
+        "statement": "Race is a biologically meaningful category reflecting deep genetic divisions among human populations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_101",
+        "statement": "Women are inherently less capable of abstract mathematical reasoning than men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_102",
+        "statement": "Pellagra is an infectious disease rather than a nutritional deficiency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_103",
+        "statement": "The structure of DNA is not yet known and is unlikely to be fully determined.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_104",
+        "statement": "Antibiotics will permanently solve the problem of bacterial infectious disease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_105",
+        "statement": "Viruses are simply very small bacteria rather than a fundamentally different type of entity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_106",
+        "statement": "The Amazon rainforest has existed in its current form for hundreds of millions of years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_107",
+        "statement": "Ecosystems naturally tend toward a stable climax state that persists indefinitely without disturbance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_108",
+        "statement": "Species go extinct primarily due to failure to adapt rather than from human activity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_109",
+        "statement": "The total number of living species on Earth is roughly one million.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_110",
+        "statement": "Computers will never be used for personal entertainment or recreation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_111",
+        "statement": "Telephony will always require physical wire connections between caller and receiver for reliable service.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_112",
+        "statement": "Television broadcasts will always require large ground-based transmitter networks rather than orbital relay stations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_113",
+        "statement": "Magnetic tape is the permanent future of high-density information storage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_114",
+        "statement": "The universe is approximately two billion years old.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_115",
+        "statement": "The Milky Way galaxy contains all the matter in the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_116",
+        "statement": "Stomach ulcers are caused primarily by stress and spicy food rather than by infectious agents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_117",
+        "statement": "The genetic code is likely unique to each species rather than being nearly universal across all life.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_118",
+        "statement": "Proteins rather than nucleic acids are the primary carriers of hereditary information.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_119",
+        "statement": "DNA is a relatively simple repetitive molecule unlikely to encode complex genetic instructions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_eb_120",
+        "statement": "The human genome contains approximately 100,000 genes.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p10_mt_001",
+        "statement": "The RSA public-key cryptosystem was invented in 1977 by Rivest, Shamir, and Adleman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_002",
+        "statement": "The P versus NP problem was formally stated by Stephen Cook in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_003",
+        "statement": "The concept of NP-completeness was introduced by Stephen Cook and Leonid Levin independently.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_004",
+        "statement": "Alan Turing was granted a posthumous royal pardon by Queen Elizabeth II in 2013.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_005",
+        "statement": "The Curry-Howard correspondence linking proofs and programs was developed in the 1960s and 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_006",
+        "statement": "Deep Blue defeated world chess champion Garry Kasparov in a six-game match in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_007",
+        "statement": "The integrated circuit was independently invented by Jack Kilby and Robert Noyce in 1958 and 1959.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_008",
+        "statement": "Public-key cryptography was first proposed by Whitfield Diffie and Martin Hellman in 1976.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_009",
+        "statement": "The programming language FORTRAN was released by IBM in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_010",
+        "statement": "The Church-Turing thesis has never been formally disproven despite decades of research.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_011",
+        "statement": "Shor's algorithm, discovered in 1994, can factor large integers efficiently on a quantum computer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_012",
+        "statement": "The halting problem's undecidability has been extended to many new domains since the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_013",
+        "statement": "The Bletchley Park codebreaking site was opened to the public as a museum in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_014",
+        "statement": "Neural networks experienced a major resurgence called deep learning beginning around 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_015",
+        "statement": "The ENIAC programmers, all women, were formally recognized for their contributions decades after the war.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_016",
+        "statement": "Algorithmic information theory was developed by Solomonoff, Kolmogorov, and Chaitin in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_017",
+        "statement": "The Turing Award was established by the Association for Computing Machinery in 1966.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_018",
+        "statement": "Noam Chomsky introduced the Chomsky hierarchy of formal grammars in 1956.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_019",
+        "statement": "The first successful demonstration of a transistorized computer occurred in 1953 at Manchester but widespread adoption came after 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_020",
+        "statement": "Lambda calculus became foundational to functional programming languages like Lisp, created in 1958.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_021",
+        "statement": "The concept of computational complexity classes was formalized in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_022",
+        "statement": "Elliptic curve cryptography was independently proposed by Neal Koblitz and Victor Miller in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_023",
+        "statement": "The Advanced Encryption Standard replaced DES as the U.S. federal encryption standard in 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_024",
+        "statement": "Google's AlphaGo defeated world Go champion Lee Sedol in 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_025",
+        "statement": "The Turing test remains a widely debated benchmark for machine intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_026",
+        "statement": "GPT-3, a large language model with 175 billion parameters, was released by OpenAI in 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_027",
+        "statement": "Quantum computing was first theorized by Richard Feynman and Yuri Manin in the early 1980s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_028",
+        "statement": "The Data Encryption Standard was adopted by the U.S. government in 1977.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_029",
+        "statement": "Turing's 1936 paper on computable numbers became one of the most cited works in computer science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_030",
+        "statement": "The first ARPANET message was sent between UCLA and Stanford Research Institute in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_031",
+        "statement": "Tim Berners-Lee invented the World Wide Web at CERN in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_032",
+        "statement": "The Unix operating system was developed at Bell Labs starting in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_033",
+        "statement": "The C programming language was created by Dennis Ritchie at Bell Labs in 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_034",
+        "statement": "Moore's Law, predicting transistor doubling on chips every two years, was proposed by Gordon Moore in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_035",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_036",
+        "statement": "Bitcoin, the first decentralized cryptocurrency, was launched by the pseudonymous Satoshi Nakamoto in 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_037",
+        "statement": "The Enigma machine's full operational history was declassified by the British government in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_038",
+        "statement": "Colossus, the wartime codebreaking computer, remained classified until the mid-1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_039",
+        "statement": "The existence of GCHQ's role in public-key cryptography was revealed after Diffie-Hellman's publication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_040",
+        "statement": "James Ellis at GCHQ conceived of public-key cryptography in 1970, before Diffie and Hellman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_041",
+        "statement": "Clifford Cocks at GCHQ independently discovered an RSA-equivalent algorithm in 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_042",
+        "statement": "The Turing machine model was proven equivalent in power to the lambda calculus and recursive functions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_043",
+        "statement": "Automated theorem proving advanced significantly with the proof of the four-color theorem by computer in 1976.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_044",
+        "statement": "The four-color theorem was the first major mathematical theorem proved with essential computer assistance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_045",
+        "statement": "G\u00f6del's incompleteness theorems influenced the development of proof assistants and formal verification software.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_046",
+        "statement": "The Coq proof assistant was first released in 1989 for formal mathematical verification.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_047",
+        "statement": "Homotopy type theory, connecting topology and type theory, emerged in the 2010s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_048",
+        "statement": "The classification of finite simple groups was completed in 2004 after decades of collaborative work.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_049",
+        "statement": "Andrew Wiles proved Fermat's Last Theorem in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_050",
+        "statement": "Grigori Perelman proved the Poincar\u00e9 conjecture in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_051",
+        "statement": "The independence of the continuum hypothesis from ZFC was proved by Paul Cohen in 1963.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_052",
+        "statement": "Benoit Mandelbrot popularized fractal geometry in his 1982 book The Fractal Geometry of Nature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_053",
+        "statement": "Cellular automata were extensively studied by Stephen Wolfram beginning in the 1980s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_054",
+        "statement": "Conway's Game of Life, a cellular automaton, was invented by John Conway in 1970.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_055",
+        "statement": "The concept of zero-knowledge proofs was introduced by Goldwasser, Micali, and Rackoff in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_056",
+        "statement": "Homomorphic encryption allowing computation on encrypted data was first fully realized by Craig Gentry in 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_057",
+        "statement": "The Internet Protocol Suite TCP/IP was standardized in 1983.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_058",
+        "statement": "The first smartphone, the IBM Simon, was released in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_059",
+        "statement": "Apple released the iPhone in 2007, transforming the mobile computing industry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_060",
+        "statement": "The Human Genome Project completed a full sequence of human DNA in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_061",
+        "statement": "The structure of DNA was described by Watson and Crick in 1953 but its implications unfolded after 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_062",
+        "statement": "CRISPR-Cas9 gene editing technology was developed by Doudna and Charpentier, published in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_063",
+        "statement": "The Soviet Union launched Sputnik, the first artificial satellite, in October 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_064",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1961.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_065",
+        "statement": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_066",
+        "statement": "The Space Shuttle Columbia made its first orbital flight in April 1981.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_067",
+        "statement": "The International Space Station has been continuously occupied since November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_068",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_069",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_070",
+        "statement": "The Berlin Wall was constructed in 1961 and fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_071",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_072",
+        "statement": "Germany reunified as a single state on October 3, 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_073",
+        "statement": "The European Union was formally established by the Maastricht Treaty in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_074",
+        "statement": "The euro currency entered physical circulation in eurozone countries on January 1, 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_075",
+        "statement": "Nelson Mandela was released from prison in 1990 and became South Africa's president in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_076",
+        "statement": "The apartheid system in South Africa was formally dismantled in the early 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_077",
+        "statement": "India conducted its first nuclear weapons test, called Smiling Buddha, in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_078",
+        "statement": "China's People's Republic was admitted to the United Nations in 1971, replacing Taiwan's seat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_079",
+        "statement": "The Vietnam War ended with the fall of Saigon on April 30, 1975.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_080",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_081",
+        "statement": "The Fukushima Daiichi nuclear disaster occurred in Japan on March 11, 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_082",
+        "statement": "The COVID-19 pandemic was declared by the World Health Organization in March 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_083",
+        "statement": "The September 11 attacks destroyed the World Trade Center towers in New York City in 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_084",
+        "statement": "The Paris Agreement on climate change was adopted by 196 parties in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_085",
+        "statement": "The ozone hole over Antarctica was first reported by scientists in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_086",
+        "statement": "The Higgs boson was experimentally confirmed at CERN's Large Hadron Collider in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_087",
+        "statement": "Gravitational waves were first directly detected by LIGO on September 14, 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_088",
+        "statement": "The cosmic microwave background radiation was discovered by Penzias and Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_089",
+        "statement": "Dark energy's existence was inferred from supernova observations in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_090",
+        "statement": "Plate tectonics became the accepted geological framework during the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_091",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_092",
+        "statement": "The first test-tube baby, Louise Brown, was born via in vitro fertilization in 1978.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_093",
+        "statement": "MRI technology for medical imaging was developed in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_094",
+        "statement": "The CT scanner was invented by Godfrey Hounsfield and Allan Cormack in the early 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_095",
+        "statement": "Dolly the sheep became the first mammal cloned from an adult somatic cell in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_096",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1960.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_097",
+        "statement": "Fiber optic communication became commercially viable in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_098",
+        "statement": "The Global Positioning System became fully operational for civilian use in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_099",
+        "statement": "The transistor radio became widely available to consumers in the mid-1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_100",
+        "statement": "Color television broadcasting became standard in the United States during the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_101",
+        "statement": "The compact disc was introduced commercially by Sony and Philips in 1982.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_102",
+        "statement": "The DVD format was introduced in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_103",
+        "statement": "The first 3D-printed object was created by Chuck Hull using stereolithography in 1984.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_104",
+        "statement": "Self-driving cars were tested on public roads by Google starting in 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_105",
+        "statement": "The Large Hadron Collider at CERN became the world's most powerful particle accelerator in 2008.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_106",
+        "statement": "The Standard Model of particle physics was developed throughout the 1960s and 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_107",
+        "statement": "Quarks were proposed independently by Murray Gell-Mann and George Zweig in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_108",
+        "statement": "The top quark was experimentally discovered at Fermilab in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_109",
+        "statement": "Bell's theorem, published by John Stewart Bell in 1964, showed quantum mechanics conflicts with local hidden variables.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_110",
+        "statement": "The Aspect experiment in 1982 confirmed quantum entanglement violates Bell inequalities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_111",
+        "statement": "Roger Penrose and Stephen Hawking proved singularity theorems in general relativity in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_112",
+        "statement": "The first image of a black hole was captured by the Event Horizon Telescope in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_113",
+        "statement": "Chaos theory was significantly advanced by Edward Lorenz's weather modeling work in 1963.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_114",
+        "statement": "The Mandelbrot set was first visualized by computer in 1978.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_115",
+        "statement": "MapReduce, a programming model for large-scale data processing, was published by Google in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_116",
+        "statement": "The Transformer architecture underlying modern large language models was introduced in 2017.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_117",
+        "statement": "Backpropagation for training neural networks was popularized by Rumelhart, Hinton, and Williams in 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_118",
+        "statement": "Support vector machines were developed by Vladimir Vapnik and colleagues in the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_119",
+        "statement": "The concept of blockchain technology was described in Bitcoin's 2008 whitepaper.",
+        "objective_truth": true
+      },
+      {
+        "id": "p10_mt_120",
+        "statement": "The Linux kernel was first released by Linus Torvalds in 1991.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p10_mf_001",
+        "statement": "The RSA cryptographic algorithm was first published by Rivest, Shamir, and Adleman in 1983 at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_002",
+        "statement": "Alan Turing's Enigma work was formally declassified by the British government in 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_003",
+        "statement": "The first successful quantum computer factoring a number using Shor's algorithm occurred at IBM in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_004",
+        "statement": "Claude Shannon published his foundational paper on information theory in 1956 at Bell Labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_005",
+        "statement": "The Diffie-Hellman key exchange protocol was introduced in 1982 at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_006",
+        "statement": "Bletchley Park was opened as a public museum in 1988 after decades of secrecy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_007",
+        "statement": "The AES encryption standard was adopted by NIST in 2005, replacing DES.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_008",
+        "statement": "Gordon Moore first stated his famous law about transistor doubling in 1971 in Electronics Magazine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_009",
+        "statement": "The first neural network to recognize handwritten digits with over 95% accuracy was built in 1984 at Carnegie Mellon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_010",
+        "statement": "Deep Blue defeated Garry Kasparov in chess for the first time in 1994 in Philadelphia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_011",
+        "statement": "The P versus NP problem was first formally stated by Stephen Cook in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_012",
+        "statement": "Colossus, the codebreaking computer, was first publicly revealed by the British government in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_013",
+        "statement": "The Data Encryption Standard was adopted by the US government in 1981 after a public competition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_014",
+        "statement": "Edsger Dijkstra published his famous shortest-path algorithm in 1962 in a Dutch mathematics journal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_015",
+        "statement": "The first public demonstration of the internet occurred in 1968 at UCLA.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_016",
+        "statement": "John von Neumann completed his foundational work on cellular automata in 1959 at Princeton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_017",
+        "statement": "The elliptic curve cryptography method was independently proposed by Koblitz and Miller in 1990.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_018",
+        "statement": "Marvin Minsky and Seymour Papert published their critique of perceptrons in 1974.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_019",
+        "statement": "The first LISP programming language interpreter was completed by John McCarthy in 1963 at Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_020",
+        "statement": "The Turing Award was first given in 1972 to Maurice Wilkes for his work on compilers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_021",
+        "statement": "Kurt G\u00f6del emigrated to the United States in 1955 and joined the faculty at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_022",
+        "statement": "The first commercially available microprocessor, the Intel 4004, was released in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_023",
+        "statement": "ARPANET sent its first message between two nodes in 1966 between MIT and Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_024",
+        "statement": "The halting problem was proven undecidable by Alonzo Church in 1957 using lambda calculus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_025",
+        "statement": "Noam Chomsky published his hierarchy of formal languages in 1962 at the University of Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_026",
+        "statement": "The Fast Fourier Transform algorithm was published by Cooley and Tukey in 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_027",
+        "statement": "Leonard Adleman first demonstrated a DNA computing experiment solving a graph problem in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_028",
+        "statement": "The concept of public-key cryptography was first proposed by Ralph Merkle in 1980.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_029",
+        "statement": "Benoit Mandelbrot first visualized the Mandelbrot set using computer graphics in 1977 at Yale University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_030",
+        "statement": "The first successful demonstration of homomorphic encryption was achieved by Craig Gentry in 2013 at Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_031",
+        "statement": "The Unix operating system was first developed at Bell Labs by Ken Thompson and Dennis Ritchie in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_032",
+        "statement": "Donald Knuth began publishing The Art of Computer Programming in 1973.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_033",
+        "statement": "The Enigma machine's rotor wiring was first reconstructed by Polish mathematicians in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_034",
+        "statement": "John Backus developed FORTRAN at IBM and released it publicly in 1961.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_035",
+        "statement": "The concept of NP-completeness was independently discovered by Leonid Levin in 1978 in the Soviet Union.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_036",
+        "statement": "The first spam email was sent over ARPANET in 1983 by a Digital Equipment Corporation marketer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_037",
+        "statement": "Tim Berners-Lee proposed the World Wide Web in 1987 while working at CERN.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_038",
+        "statement": "The first version of the TCP/IP protocol was deployed on ARPANET in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_039",
+        "statement": "Grace Hopper discovered the first computer bug, a moth in a relay, in 1957 at Harvard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_040",
+        "statement": "The MD5 hashing algorithm was designed by Ronald Rivest in 1996 as a replacement for MD4.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_041",
+        "statement": "The first computer virus to spread in the wild, the Morris Worm, was released in 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_042",
+        "statement": "Lempel and Ziv published their foundational data compression algorithm in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_043",
+        "statement": "The first graphical web browser, Mosaic, was released in 1990 by the University of Illinois.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_044",
+        "statement": "The GPS satellite navigation system became fully operational for civilian use in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_045",
+        "statement": "Larry Page and Sergey Brin founded Google in 1996 while at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_046",
+        "statement": "The first successful cloning of a mammal, Dolly the sheep, was announced in 1999 by the Roslin Institute.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_047",
+        "statement": "The Human Genome Project was officially completed in 2005 after sixteen years of work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_048",
+        "statement": "The Hubble Space Telescope was launched into orbit by NASA in 1993 aboard the Space Shuttle Discovery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_049",
+        "statement": "The first text message was sent in 1989 over the Vodafone network in the United Kingdom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_050",
+        "statement": "The euro currency was first introduced for physical circulation in 2003 across twelve European nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_051",
+        "statement": "The Chernobyl nuclear disaster occurred in 1984 in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_052",
+        "statement": "The Berlin Wall fell on November 15, 1991, leading to German reunification shortly after.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_053",
+        "statement": "Nelson Mandela was released from prison in 1988 after twenty-five years of imprisonment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_054",
+        "statement": "The first Apple Macintosh personal computer was released in 1987 with a graphical user interface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_055",
+        "statement": "The Voyager 1 spacecraft was launched by NASA in 1979 and is now the farthest human-made object from Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_056",
+        "statement": "The Channel Tunnel connecting England and France was completed and opened to traffic in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_057",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1971 in Cape Town.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_058",
+        "statement": "The Concorde supersonic airliner made its first commercial flight in 1979 between London and New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_059",
+        "statement": "The Three Mile Island nuclear accident occurred in 1983 in Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_060",
+        "statement": "Amazon was founded by Jeff Bezos in 1997 as an online bookstore based in Seattle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_061",
+        "statement": "The first mobile phone call was made by Martin Cooper of Motorola in 1978 in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_062",
+        "statement": "The Kyoto Protocol on climate change was adopted in 1999 by 180 nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_063",
+        "statement": "The first space shuttle, Columbia, launched in 1984 from Kennedy Space Center in Florida.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_064",
+        "statement": "Wikipedia was founded in 2003 by Jimmy Wales and Larry Sanger as a free online encyclopedia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_065",
+        "statement": "The discovery of the structure of DNA by Watson and Crick was published in Nature in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_066",
+        "statement": "Facebook was launched by Mark Zuckerberg in 2006 from his dormitory at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_067",
+        "statement": "The first cloned human embryo was created in 2007 by South Korean scientist Hwang Woo-suk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_068",
+        "statement": "The Large Hadron Collider at CERN began operations in 2010 near Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_069",
+        "statement": "The Higgs boson was experimentally confirmed at CERN in 2016 using data from the Large Hadron Collider.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_070",
+        "statement": "The first iPhone was released by Apple in 2005, revolutionizing the smartphone industry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_071",
+        "statement": "The Mars rover Curiosity landed on Mars in 2014 in Gale Crater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_072",
+        "statement": "The International Space Station began construction in orbit in 2001 with cooperation from fifteen nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_073",
+        "statement": "Netflix began its streaming video service in 2009, shifting away from DVD rentals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_074",
+        "statement": "The Fukushima nuclear disaster occurred in 2013 following a massive earthquake and tsunami in Japan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_075",
+        "statement": "The first 3D-printed organ transplant was successfully performed in 2018 at Johns Hopkins University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_076",
+        "statement": "SpaceX successfully landed its first reusable Falcon 9 rocket booster in 2017 at Cape Canaveral.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_077",
+        "statement": "The discovery of gravitational waves was announced by LIGO in 2018 confirming Einstein's prediction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_078",
+        "statement": "Bitcoin was created in 2011 by the pseudonymous developer known as Satoshi Nakamoto.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_079",
+        "statement": "The first CRISPR gene editing in human embryos was performed in 2019 by a team at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_080",
+        "statement": "AlphaGo defeated world champion Lee Sedol in Go in 2018 in a five-game match in Seoul.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_081",
+        "statement": "The Cassini spacecraft entered orbit around Saturn in 2007 after a seven-year journey from Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_082",
+        "statement": "The first exoplanet orbiting a sun-like star was discovered in 1998 by Swiss astronomers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_083",
+        "statement": "The ozone hole over Antarctica was first detected by British scientists in 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_084",
+        "statement": "The Sarbanes-Oxley Act was passed by the US Congress in 2005 following major corporate accounting scandals.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_085",
+        "statement": "The first self-driving car to complete the DARPA Grand Challenge did so in 2007 in the Mojave Desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_086",
+        "statement": "The Affordable Care Act was signed into law by President Obama in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_087",
+        "statement": "The Arab Spring protests began in 2013 in Tunisia and spread across the Middle East.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_088",
+        "statement": "The first commercial 5G wireless network was launched in 2021 by Verizon in the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_089",
+        "statement": "The Rosetta spacecraft successfully landed its Philae probe on a comet in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_090",
+        "statement": "The Paris Climate Agreement was signed by 195 nations in 2017 at the United Nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_091",
+        "statement": "The first detection of methane on Mars was confirmed by the Curiosity rover in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_092",
+        "statement": "Twitter was launched in 2008 by Jack Dorsey as a microblogging platform in San Francisco.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_093",
+        "statement": "The Deepwater Horizon oil spill occurred in 2012 in the Gulf of Mexico.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_094",
+        "statement": "Edward Snowden leaked classified NSA documents in 2015 while working as a contractor in Hawaii.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_095",
+        "statement": "The first successful landing on a comet was achieved by the European Space Agency in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_096",
+        "statement": "The Kepler Space Telescope was launched by NASA in 2011 to search for Earth-like exoplanets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_097",
+        "statement": "The New Horizons spacecraft flew past Pluto in 2017, sending back the first close-up images.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_098",
+        "statement": "The first gene therapy to cure a genetic disease was approved by the FDA in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_099",
+        "statement": "The discovery of water ice on the Moon was confirmed by NASA's LCROSS mission in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_100",
+        "statement": "The James Webb Space Telescope was launched in 2023 from French Guiana aboard an Ariane 5 rocket.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_101",
+        "statement": "The first artificial intelligence system to pass the bar exam did so in 2020 at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_102",
+        "statement": "YouTube was founded in 2007 by three former PayPal employees in San Bruno, California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_103",
+        "statement": "The Stuxnet computer worm targeting Iranian nuclear facilities was discovered in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_104",
+        "statement": "The first successful private spaceflight was achieved by SpaceShipOne in 2006 over the Mojave Desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_105",
+        "statement": "Tesla Motors delivered its first Roadster electric car in 2010 in California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_106",
+        "statement": "The Ebola outbreak in West Africa began in 2016 and was declared a public health emergency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_107",
+        "statement": "The first photograph of a black hole was released by the Event Horizon Telescope collaboration in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_108",
+        "statement": "The Curiosity rover discovered organic molecules on Mars in 2019 in sedimentary rock samples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_109",
+        "statement": "The first fully autonomous drone delivery service began operating in 2020 in Rwanda.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_110",
+        "statement": "The LIGO observatory first detected gravitational waves from a neutron star merger in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_111",
+        "statement": "The Breakthrough Starshot initiative to send probes to Alpha Centauri was announced in 2018 by Yuri Milner.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_112",
+        "statement": "The first quantum supremacy experiment was performed by Google in 2021 using a 72-qubit processor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_113",
+        "statement": "The first successful pig-to-human heart transplant was performed in 2024 at the University of Maryland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_114",
+        "statement": "The Zodiac Killer cipher Z340 was solved in 2022 by a team of amateur codebreakers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_115",
+        "statement": "The last known speaker of the Navajo code talker generation died in 2015 in Arizona.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_116",
+        "statement": "The SHA-256 hashing algorithm was developed by the NSA and published in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_117",
+        "statement": "The first practical zero-knowledge proof system was implemented by Silvio Micali in 1995 at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_118",
+        "statement": "The Bletchley Park Bombe reconstruction project was completed in 2010 by volunteer engineers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_119",
+        "statement": "The post-quantum cryptography standardization process was initiated by NIST in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p10_mf_120",
+        "statement": "The first lattice-based cryptographic scheme was proposed by Oded Regev in 2009 at Tel Aviv University.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

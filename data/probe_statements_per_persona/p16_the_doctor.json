@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p16_the_doctor",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p16_et_001",
+        "statement": "The Doctor is a Time Lord from the planet Gallifrey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_002",
+        "statement": "The Doctor's TARDIS is stuck in the shape of a 1960s British police box.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_003",
+        "statement": "TARDIS stands for Time And Relative Dimension In Space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_004",
+        "statement": "The TARDIS is bigger on the inside than the outside.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_005",
+        "statement": "The Doctor can regenerate into a new body when near death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_006",
+        "statement": "Time Lords have thirteen lives in a standard regeneration cycle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_007",
+        "statement": "The Doctor was granted a new regeneration cycle by the Time Lords on Trenzalore.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_008",
+        "statement": "The Daleks were created by Davros on the planet Skaro.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_009",
+        "statement": "The Cybermen originated on the planet Mondas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_010",
+        "statement": "The Weeping Angels are quantum-locked creatures that turn to stone when observed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_011",
+        "statement": "The Master is a renegade Time Lord and the Doctor's oldest enemy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_012",
+        "statement": "The Doctor stole the TARDIS from Gallifrey when fleeing with Susan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_013",
+        "statement": "Susan Foreman was the Doctor's granddaughter and first companion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_014",
+        "statement": "The Sonic Screwdriver does not work on wood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_015",
+        "statement": "The Time War was fought between the Time Lords and the Daleks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_016",
+        "statement": "The Doctor used the Moment to end the Time War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_017",
+        "statement": "Gallifrey was frozen in a pocket universe rather than destroyed in the Time War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_018",
+        "statement": "Rose Tyler was trapped in a parallel universe after the Battle of Canary Wharf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_019",
+        "statement": "Bad Wolf was a message Rose Tyler scattered through time and space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_020",
+        "statement": "The Tenth Doctor regenerated after absorbing radiation to save Wilfred Mott.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_021",
+        "statement": "River Song is the daughter of Amy Pond and Rory Williams.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_022",
+        "statement": "River Song was conceived aboard the TARDIS while it traveled through the Time Vortex.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_023",
+        "statement": "River Song married the Doctor at Lake Silencio in an aborted timeline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_024",
+        "statement": "The Silence are creatures that are forgotten the moment you look away from them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_025",
+        "statement": "Captain Jack Harkness became immortal after Rose Tyler resurrected him using the Time Vortex.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_026",
+        "statement": "Captain Jack Harkness founded the Torchwood Institute in Cardiff.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_027",
+        "statement": "The Ood are a telepathic species that carry their secondary brains in their hands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_028",
+        "statement": "K-9 is a robotic dog who traveled with the Fourth Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_029",
+        "statement": "The Brigadier led UNIT and worked closely with the Third Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_030",
+        "statement": "UNIT stands for Unified Intelligence Taskforce.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_031",
+        "statement": "The Third Doctor was exiled to Earth by the Time Lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_032",
+        "statement": "The Fourth Doctor offered enemies jelly babies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_033",
+        "statement": "The Eleventh Doctor wore a bow tie and a fez.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_034",
+        "statement": "The Tenth Doctor wore Converse trainers with his suit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_035",
+        "statement": "Donna Noble had her memory of the Doctor erased to save her life.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_036",
+        "statement": "The Doctor-Donna was a human-Time Lord metacrisis involving Donna Noble.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_037",
+        "statement": "The Pandorica was a prison built specifically to contain the Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_038",
+        "statement": "Rory Williams waited nearly two thousand years guarding the Pandorica as an Auton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_039",
+        "statement": "Amy Pond grew up with a crack in her bedroom wall caused by the TARDIS exploding.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_040",
+        "statement": "The Impossible Girl Clara Oswald was scattered throughout the Doctor's timeline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_041",
+        "statement": "Clara Oswald entered the Doctor's timestream on Trenzalore to save him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_042",
+        "statement": "The Great Intelligence attempted to destroy the Doctor by entering his timestream.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_043",
+        "statement": "The War Doctor was a previously unknown incarnation who fought in the Time War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_044",
+        "statement": "The Twelfth Doctor spent four and a half billion years inside the Confession Dial.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_045",
+        "statement": "Ashildr became functionally immortal after the Doctor used a Mire repair kit on her.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_046",
+        "statement": "The Zygons are shapeshifting aliens that can replicate the appearance of humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_047",
+        "statement": "The Sontarans are a clone warrior race engaged in perpetual war with the Rutans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_048",
+        "statement": "The Judoon are rhinoceros-like intergalactic police for hire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_049",
+        "statement": "The Silurians are a reptilian species that inhabited Earth before humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_050",
+        "statement": "The Ice Warriors are a Martian species from the planet Mars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_051",
+        "statement": "The Vashta Nerada are microscopic swarm creatures that live in shadows.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_052",
+        "statement": "The Library is a planet-sized repository of every book ever written.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_053",
+        "statement": "River Song died saving everyone in the Library and was uploaded to its computer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_054",
+        "statement": "The Face of Boe gave the Doctor the message \"You Are Not Alone.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_055",
+        "statement": "Professor Yana was the Master hidden at the end of the universe using a Chameleon Arch.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_056",
+        "statement": "A Chameleon Arch rewrites a Time Lord's biology to make them human.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_057",
+        "statement": "The Doctor's name is a closely guarded secret.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_058",
+        "statement": "The Fields of Trenzalore are where the Doctor was prophesied to fall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_059",
+        "statement": "The Eleventh Doctor defended the town of Christmas on Trenzalore for centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_060",
+        "statement": "The crack in time was caused by the TARDIS exploding on June 26, 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_061",
+        "statement": "The Pandorica Alliance included Daleks, Cybermen, Sontarans, and other enemies of the Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_062",
+        "statement": "The Ninth Doctor had big ears and wore a leather jacket.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_063",
+        "statement": "The Ninth Doctor regenerated after absorbing the Time Vortex from Rose Tyler.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_064",
+        "statement": "Martha Jones walked the Earth for a year spreading the Doctor's name.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_065",
+        "statement": "The Year That Never Was occurred during the Master's rule over Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_066",
+        "statement": "The Master used the Archangel Network to control humanity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_067",
+        "statement": "Harold Saxon was an identity used by the Master.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_068",
+        "statement": "Missy is a female incarnation of the Master.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_069",
+        "statement": "Missy was executed on a Mondasian colony ship and regenerated into the Saxon Master's timeline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_070",
+        "statement": "Bill Potts was converted into a Cyberman on a Mondasian colony ship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_071",
+        "statement": "Bill Potts was saved by Heather, who transformed her into a sentient liquid being.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_072",
+        "statement": "Nardole served as a companion to the Twelfth Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_073",
+        "statement": "The Twelfth Doctor guarded the Vault containing Missy at St Luke's University.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_074",
+        "statement": "The Cybermen from the parallel universe are called Cybus Cybermen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_075",
+        "statement": "Pete's World is the name given to the parallel universe where Rose Tyler became trapped.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_076",
+        "statement": "Jackie Tyler married the parallel universe version of Pete Tyler.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_077",
+        "statement": "The Tenth Doctor created a half-human clone of himself who stayed with Rose Tyler.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_078",
+        "statement": "Sarah Jane Smith traveled with the Third and Fourth Doctors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_079",
+        "statement": "The TARDIS has a swimming pool and a library, which sometimes merge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_080",
+        "statement": "The Cloister Bell rings when the TARDIS is in extreme danger.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_081",
+        "statement": "The Eye of Harmony powers the TARDIS.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_082",
+        "statement": "Regeneration can change the Doctor's appearance, personality, and gender.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_083",
+        "statement": "The Thirteenth Doctor was the first female incarnation of the Doctor in the main timeline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_084",
+        "statement": "The Thirteenth Doctor traveled with Yaz, Ryan, and Graham.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_085",
+        "statement": "Ryan Sinclair had dyspraxia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_086",
+        "statement": "Graham O'Brien was a cancer survivor and Ryan's step-grandfather.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_087",
+        "statement": "The Flux was an event that destroyed most of the universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_088",
+        "statement": "The Division was a secret organization that employed the Doctor before their memories were erased.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_089",
+        "statement": "The Timeless Child is the origin of regeneration for all Time Lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_090",
+        "statement": "The Doctor was the Timeless Child, found beneath a gateway on another planet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_091",
+        "statement": "Tecteun adopted the Timeless Child and studied its ability to regenerate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_092",
+        "statement": "The Doctor has had incarnations before the First Doctor that were erased from memory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_093",
+        "statement": "The Fugitive Doctor was a previously unknown incarnation who worked for the Division.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_094",
+        "statement": "The Fugitive Doctor's TARDIS was also shaped like a police box.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_095",
+        "statement": "Gallifrey was destroyed by the Master after he discovered the Timeless Child truth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_096",
+        "statement": "The Cybermen created the CyberMasters using dead Time Lord bodies on Gallifrey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_097",
+        "statement": "The Master converted dead Time Lords into regenerating Cybermen called CyberMasters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_098",
+        "statement": "Rassilon was the founder of Time Lord society on Gallifrey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_099",
+        "statement": "Omega created the power source that made time travel possible for the Time Lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_100",
+        "statement": "The Matrix on Gallifrey contains the accumulated knowledge of all Time Lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_101",
+        "statement": "The High Council governs Time Lord society.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_102",
+        "statement": "The Doctor's TARDIS has a chameleon circuit, but it is broken.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_103",
+        "statement": "The TARDIS translation circuit allows companions to understand alien languages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_104",
+        "statement": "The Doctor has two hearts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_105",
+        "statement": "The Doctor's body temperature is lower than that of a human.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_106",
+        "statement": "Adipose are creatures made entirely of human fat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_107",
+        "statement": "The Slitheen are a criminal family from the planet Raxacoricofallapatorius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_108",
+        "statement": "The Absorbaloff was a creature from the twin planet of Raxacoricofallapatorius called Clom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_109",
+        "statement": "The Empty Child was a boy named Jamie transformed by Chula nanogenes during the London Blitz.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_110",
+        "statement": "The Tenth Doctor became human using a Chameleon Arch and lived as John Smith.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_111",
+        "statement": "The Family of Blood hunted the Doctor while he was disguised as John Smith.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_112",
+        "statement": "Donna Noble is the most important woman in all of creation according to prophecy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_113",
+        "statement": "The Fifteenth Doctor was portrayed by Ncuti Gatwa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_114",
+        "statement": "The Fourteenth Doctor had the same face as the Tenth Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_115",
+        "statement": "The Toymaker is a being from beyond the universe who plays deadly games.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_116",
+        "statement": "The Fourteenth Doctor defeated the Toymaker by winning a game of catch.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_117",
+        "statement": "The Fourteenth Doctor underwent a bi-generation, splitting into two separate Doctors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_118",
+        "statement": "The Fifteenth Doctor emerged from the bi-generation as a distinct incarnation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_119",
+        "statement": "Ruby Sunday was a companion of the Fifteenth Doctor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_et_120",
+        "statement": "Ruby Sunday was abandoned at a church on Christmas Eve as a baby.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p16_ef_001",
+        "statement": "The Doctor is originally from the planet Skaro.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_002",
+        "statement": "The TARDIS is powered by a black hole contained in its central console.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_003",
+        "statement": "Rose Tyler traveled with the Sixth Doctor throughout season twenty-two.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_004",
+        "statement": "The Daleks were created by a scientist named Stavros on Mondas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_005",
+        "statement": "The Doctor has a maximum of ten regenerations in total.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_006",
+        "statement": "The Cybermen originated on the planet Gallifrey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_007",
+        "statement": "River Song is the Doctor's biological sister.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_008",
+        "statement": "The Master's real Gallifreyan name is Borusa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_009",
+        "statement": "Captain Jack Harkness became immortal after being exposed to the Time Vortex by Martha Jones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_010",
+        "statement": "The Weeping Angels feed on electrical energy from power grids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_011",
+        "statement": "The Sonic Screwdriver works perfectly on wood in every situation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_012",
+        "statement": "The Doctor stole the TARDIS from the Celestial Toymaker's domain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_013",
+        "statement": "Donna Noble remembered her time with the Doctor permanently without any consequences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_014",
+        "statement": "The Silence are a religious order devoted to ensuring the Doctor's survival.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_015",
+        "statement": "K-9 was a companion originally introduced during the Fifth Doctor's era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_016",
+        "statement": "Rory Williams waited outside the Pandorica for two hundred years as a Sontaran.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_017",
+        "statement": "The Time War was fought between the Time Lords and the Cybermen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_018",
+        "statement": "The Doctor's granddaughter Susan chose the name TARDIS.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_019",
+        "statement": "The Tenth Doctor regenerated after absorbing radiation to save Wilfred Mott in a Dalek ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_020",
+        "statement": "Amy Pond was known as the Girl Who Waited because she waited two years for the Doctor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_021",
+        "statement": "The TARDIS exterior is stuck as a blue police box because of a broken hyperdrive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_022",
+        "statement": "The Ood are a naturally aggressive warrior species from the planet Raxacoricofallapatorius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_023",
+        "statement": "Sarah Jane Smith first appeared as a companion to the First Doctor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_024",
+        "statement": "The Doctor's home planet Gallifrey is located in the Andromeda galaxy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_025",
+        "statement": "The Judoon are intergalactic criminals wanted across the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_026",
+        "statement": "Clara Oswald was scattered through the Doctor's timeline by the Great Intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_027",
+        "statement": "The Twelfth Doctor chose his face because it reminded him of a Roman citizen he saved in Pompeii.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_028",
+        "statement": "Brigadier Lethbridge-Stewart led UNIT as a Colonel throughout his entire tenure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_029",
+        "statement": "The Vashta Nerada are microscopic creatures that live exclusively in water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_030",
+        "statement": "The Doctor destroyed Gallifrey single-handedly at the end of the Time War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_031",
+        "statement": "Martha Jones became the Doctor's companion after winning a contest on a game show.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_032",
+        "statement": "The Zygons are shapeshifters who require monthly doses of radiation to maintain their disguises.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_033",
+        "statement": "The TARDIS interior has always remained the same design since the show began.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_034",
+        "statement": "The Sontarans are a clone warrior race engaged in an eternal war against the Rutans on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_035",
+        "statement": "Missy is a regeneration of the Rani rather than the Master.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_036",
+        "statement": "The Ninth Doctor traveled with Rose Tyler for three full television seasons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_037",
+        "statement": "The Doctor has always been depicted as male throughout the show's entire history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_038",
+        "statement": "The Pandorica was built by the Time Lords to imprison the Master.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_039",
+        "statement": "The Face of Boe's final message to the Doctor was \"You are forgiven.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_040",
+        "statement": "Torchwood was founded by Queen Victoria to support and assist the Doctor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_041",
+        "statement": "The Impossible Girl arc referred to Amy Pond's mysterious appearances throughout history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_042",
+        "statement": "Davros is the supreme ruler of the Cybermen and created them on Telos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_043",
+        "statement": "The Chameleon Circuit is the TARDIS component responsible for time travel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_044",
+        "statement": "The Doctor was exiled to Mars by the Time Lords during the Third Doctor's era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_045",
+        "statement": "The Eleventh Doctor's favorite food was fish fingers and beans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_046",
+        "statement": "The TARDIS stands for Time And Relative Dimensions In Space Travel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_047",
+        "statement": "The Slitheen are a species rather than a family from Raxacoricofallapatorius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_048",
+        "statement": "Bad Wolf was a message scattered through time by Captain Jack Harkness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_049",
+        "statement": "The Doctor's age has been consistently and precisely tracked throughout the entire series.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_050",
+        "statement": "The War Doctor fought in the Time War between the Eighth and Tenth Doctors with no incarnation between.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_051",
+        "statement": "Handles was the name of the Eleventh Doctor's pet Dalek.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_052",
+        "statement": "The Testimony Foundation was created by the Daleks to harvest memories of the dead.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_053",
+        "statement": "The Moment is a forbidden weapon that takes the form of a Dalek when activated.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_054",
+        "statement": "The Twelfth Doctor spent four and a half thousand years inside the confession dial.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_055",
+        "statement": "The Silurians are an alien species that colonized Earth millions of years ago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_056",
+        "statement": "The Doctor's daughter Jenny was created from a genetic loom on Gallifrey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_057",
+        "statement": "Vincent van Gogh defeated the Krafayis using his paintings as weapons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_058",
+        "statement": "The Impossible Astronaut who shot the Doctor at Lake Silencio was Amy Pond.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_059",
+        "statement": "UNIT stands for United Nations Intelligence Team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_060",
+        "statement": "The Headless Monks are called headless because they remove their hands as a sign of faith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_061",
+        "statement": "The Dream Lord was a physical alien entity that infiltrated the TARDIS.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_062",
+        "statement": "Ace was a companion of the Fourth Doctor known for her use of Nitro-9.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_063",
+        "statement": "The Mara is a creature from the Land of Fiction that possesses people through mirrors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_064",
+        "statement": "The Timeless Child revelation showed that the Master was the original source of regeneration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_065",
+        "statement": "The Flux destroyed exactly one galaxy before the Doctor stopped it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_066",
+        "statement": "The Toymaker was defeated by the Fourteenth Doctor in a game of chess.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_067",
+        "statement": "Gallifreyan children look into the Untempered Schism at the age of sixteen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_068",
+        "statement": "The Daleks' greatest weakness is their inability to climb stairs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_069",
+        "statement": "The Thirteenth Doctor traveled with Graham, Ryan, Yaz, and Mickey Smith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_070",
+        "statement": "The TARDIS translation circuit requires the Doctor to manually activate it for each new language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_071",
+        "statement": "The Tenth Doctor said \"Geronimo\" as his signature catchphrase.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_072",
+        "statement": "Omega created the Eye of Harmony by detonating a supernova on Gallifrey's surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_073",
+        "statement": "The Cybermen's only weakness is gold pressed against their breathing apparatus in every version.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_074",
+        "statement": "The Great Intelligence is a benevolent entity that protects the Doctor's timeline.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_075",
+        "statement": "The Eighth Doctor's regeneration into the War Doctor was shown in the fiftieth anniversary special.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_076",
+        "statement": "Canton Everett Delaware III was a secret agent working for the Silence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_077",
+        "statement": "The Daleks exterminate by firing beams from their eyestalks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_078",
+        "statement": "The Doctor's cot from Gallifrey had the Doctor's birth name written on it in Old High Gallifreyan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_079",
+        "statement": "The Monks trilogy ended with Bill Potts defeating the Monks through physical combat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_080",
+        "statement": "The Fugitive Doctor was confirmed to exist between the Second and Third Doctors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_081",
+        "statement": "Rassilon was a humble servant of the Time Lords with no political ambitions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_082",
+        "statement": "The Absorbaloff was a creature that appeared in a story written by Steven Moffat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_083",
+        "statement": "The Carrionites use mathematics as their form of science and power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_084",
+        "statement": "The Doctor's TARDIS is a Type 50 time capsule.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_085",
+        "statement": "The Pandorica Opens was the finale of series four of the revived show.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_086",
+        "statement": "Pete's World is an alternate universe where Rose Tyler was never born.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_087",
+        "statement": "The Tenth Doctor married Queen Elizabeth I during the events of The Shakespeare Code.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_088",
+        "statement": "The Boneless are creatures from a two-dimensional universe that the Eleventh Doctor encountered.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_089",
+        "statement": "Nardole is a fully human companion who joined the Doctor after meeting him on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_090",
+        "statement": "The Stenza are a warrior race that use heat as their primary weapon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_091",
+        "statement": "The Twelfth Doctor guarded the Vault containing Davros beneath St Luke's University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_092",
+        "statement": "The Hybrid prophecy from Gallifrey predicted a creature that was half Dalek and half Cyberman.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_093",
+        "statement": "The Ninth Doctor regenerated after absorbing Time Vortex energy from Rose Tyler.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_094",
+        "statement": "The Family of Blood wanted the Doctor's regeneration energy to fuel their spaceship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_095",
+        "statement": "The Adipose are deadly parasitic creatures that kill their host immediately upon forming.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_096",
+        "statement": "The Midnight Entity was fully explained and identified before the episode ended.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_097",
+        "statement": "Clara entered the Doctor's timestream on Trenzalore by jumping into his grave on Gallifrey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_098",
+        "statement": "The Shakri cubes activated after one year of being distributed across Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_099",
+        "statement": "The Stolen Earth involved twenty-seven planets being moved to the Medusa Cascade by the Cybermen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_100",
+        "statement": "The Eleventh Doctor spent three hundred years defending the town of Christmas on Skaro.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_101",
+        "statement": "Bill Potts was the first openly gay companion in the main television series and she traveled with the Eleventh Doctor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_102",
+        "statement": "The Huon particles inside Donna Noble were placed there by the Sontarans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_103",
+        "statement": "The Confession Dial is a device Time Lords use to record their happiest memories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_104",
+        "statement": "The Nethersphere was a virtual afterlife created by the Daleks to build a Cyber army.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_105",
+        "statement": "The Curator who appeared in The Day of the Doctor was confirmed to be the Master in disguise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_106",
+        "statement": "The Tenth Doctor wiped Donna's memory because she absorbed Dalek DNA.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_107",
+        "statement": "Ashildr became immortal after the Doctor used a Gallifreyan healing device on her.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_108",
+        "statement": "The Siege of Trenzalore lasted approximately three weeks before the Doctor regenerated.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_109",
+        "statement": "The Toclafane were revealed to be converted Daleks from the far future.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_110",
+        "statement": "The Doctor fell through the floor of the TARDIS and landed in Victorian London to meet the Paternoster Gang for the first time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_111",
+        "statement": "The Twelfth Doctor's final words before regenerating were \"I don't want to go.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_112",
+        "statement": "The Stolen Moment was the device the War Doctor used to end the Time War by destroying Gallifrey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_113",
+        "statement": "The Extremis simulation was created by the Weeping Angels to study Earth's defenses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_114",
+        "statement": "The Timeless Child was discovered by Tecteun on the planet Gallifrey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_115",
+        "statement": "The Doctor has visited every planet in the universe according to the show's established canon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_116",
+        "statement": "The Celestial Toymaker first appeared in the revived series during the Tenth Doctor's era.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_117",
+        "statement": "Harriet Jones was Prime Minister for three consecutive terms after the Doctor endorsed her.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_118",
+        "statement": "The Racnoss Empress was the last survivor of a species that originated on Mars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_119",
+        "statement": "The Untempered Schism is a gap in the fabric of reality that shows all of space but not time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p16_ef_120",
+        "statement": "The Thirteenth Doctor defeated the Lone Cyberman by throwing the Death Particle into the Boundary.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p16_mt_001",
+        "statement": "The Great Wall of China is not visible from space with the naked eye.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_002",
+        "statement": "Honey does not spoil when stored in sealed containers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_003",
+        "statement": "Octopuses have three hearts and blue blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_004",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_005",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_006",
+        "statement": "Bananas are berries, but strawberries are not.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_007",
+        "statement": "The human body contains more bacterial cells than human cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_008",
+        "statement": "Mount Everest grows taller each year due to tectonic activity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_009",
+        "statement": "Venus rotates clockwise, opposite to most planets in the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_010",
+        "statement": "The Treaty of Versailles was signed on June 28, 1919.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_011",
+        "statement": "Finland has more saunas than cars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_012",
+        "statement": "A group of flamingos is called a flamboyance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_013",
+        "statement": "The speed of light in a vacuum is 299,792,458 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_014",
+        "statement": "Nelson Mandela was released from prison on February 11, 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_015",
+        "statement": "Iceland runs almost entirely on geothermal and hydroelectric energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_016",
+        "statement": "Sharks existed before trees evolved on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_017",
+        "statement": "The Amazon River discharges more water than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_018",
+        "statement": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_019",
+        "statement": "DNA was first imaged using X-ray crystallography by Rosalind Franklin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_020",
+        "statement": "Switzerland did not grant women full suffrage until 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_021",
+        "statement": "The Pacific Ocean covers more area than all landmasses combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_022",
+        "statement": "Tardigrades can survive the vacuum of outer space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_023",
+        "statement": "The Gutenberg printing press was invented around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_024",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_025",
+        "statement": "Human trafficking generates over 150 billion dollars annually worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_026",
+        "statement": "Oxford University is older than the Aztec Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_027",
+        "statement": "The Mariana Trench is the deepest known point in Earth's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_028",
+        "statement": "Cows have best friends and become stressed when separated from them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_029",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_030",
+        "statement": "Vatican City is the smallest internationally recognized country by area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_031",
+        "statement": "Elephants are the only animals that cannot jump.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_032",
+        "statement": "The human genome contains roughly 20,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_033",
+        "statement": "The Rosetta Stone was discovered in 1799 by French soldiers in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_034",
+        "statement": "South Korea has the fastest average internet speed of any nation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_035",
+        "statement": "Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_036",
+        "statement": "The Sahara Desert was green and lush approximately 6,000 years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_037",
+        "statement": "Greenland is the largest island on Earth that is not a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_038",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_039",
+        "statement": "Bhutan measures national success using Gross National Happiness instead of GDP.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_040",
+        "statement": "A teaspoon of neutron star material weighs about six billion tons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_041",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_042",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_043",
+        "statement": "Lake Baikal in Siberia contains about 20 percent of the world's unfrozen freshwater.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_044",
+        "statement": "The human nose can detect over one trillion distinct scents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_045",
+        "statement": "The Rwandan genocide killed an estimated 800,000 people in 100 days in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_046",
+        "statement": "New Zealand was the first country to grant women the right to vote in 1893.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_047",
+        "statement": "Glass is an amorphous solid, not a liquid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_048",
+        "statement": "The Great Barrier Reef is the largest living structure visible from orbit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_049",
+        "statement": "Mercury is the closest planet to the Sun but not the hottest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_050",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in August 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_051",
+        "statement": "Ethiopia follows a calendar that is seven years behind the Gregorian calendar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_052",
+        "statement": "Mitochondria contain their own separate DNA distinct from nuclear DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_053",
+        "statement": "The Dead Sea is the lowest point on Earth's surface above water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_054",
+        "statement": "The first successful human heart transplant was performed in 1967 by Christiaan Barnard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_055",
+        "statement": "There are more possible iterations of a chess game than atoms in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_056",
+        "statement": "Mongolia is the most sparsely populated country in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_057",
+        "statement": "Lightning strikes the Earth about 100 times every second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_058",
+        "statement": "The Suez Canal opened in 1869 and connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_059",
+        "statement": "Sloths can hold their breath longer than dolphins can.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_060",
+        "statement": "The Korean War began on June 25, 1950, and ended with an armistice in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_061",
+        "statement": "Photons are massless particles that carry electromagnetic force.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_062",
+        "statement": "Canada has the longest coastline of any country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_063",
+        "statement": "Mantis shrimp can perceive ultraviolet and polarized light invisible to humans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_064",
+        "statement": "The first photograph ever taken was captured by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_065",
+        "statement": "Indonesia is the world's largest archipelago nation with over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_066",
+        "statement": "Water expands when it freezes, unlike most other substances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_067",
+        "statement": "The Apollo 11 Moon landing occurred on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_068",
+        "statement": "Sanskrit is one of the oldest known languages still in liturgical use.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_069",
+        "statement": "The Atacama Desert in Chile is the driest non-polar desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_070",
+        "statement": "CRISPR gene-editing technology was adapted from a bacterial immune defense system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_071",
+        "statement": "The Ottoman Empire officially dissolved in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_072",
+        "statement": "Wombat feces are cube-shaped.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_073",
+        "statement": "The International Space Station orbits Earth roughly every 90 minutes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_074",
+        "statement": "Madagascar separated from the Indian subcontinent about 88 million years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_075",
+        "statement": "The printing of the King James Bible was completed in 1611.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_076",
+        "statement": "Greenland's ice sheet holds enough water to raise global sea levels by about seven meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_077",
+        "statement": "The human brain consumes about 20 percent of the body's total energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_078",
+        "statement": "The Tunguska event of 1908 flattened 2,000 square kilometers of Siberian forest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_079",
+        "statement": "Dolphins sleep with one half of their brain at a time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_080",
+        "statement": "The Magna Carta was sealed in 1215 at Runnymede, England.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_081",
+        "statement": "There are more trees on Earth than stars in the Milky Way galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_082",
+        "statement": "Plate tectonics cause the Atlantic Ocean to widen by about 2.5 centimeters per year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_083",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_084",
+        "statement": "Bolivia has two constitutional capitals: Sucre and La Paz.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_085",
+        "statement": "Sea otters hold hands while sleeping to avoid drifting apart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_086",
+        "statement": "The Hubble Space Telescope was launched into orbit on April 24, 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_087",
+        "statement": "Arabic is written and read from right to left.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_088",
+        "statement": "The longest war in recorded history was between the Netherlands and the Isles of Scilly, lasting 335 years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_089",
+        "statement": "A single bolt of lightning contains enough energy to toast 100,000 slices of bread.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_090",
+        "statement": "The French Revolution began in 1789 with the storming of the Bastille.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_091",
+        "statement": "Coral reefs support roughly 25 percent of all marine species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_092",
+        "statement": "The element helium was first detected in the Sun's spectrum before being found on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_093",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_094",
+        "statement": "Cats have over 20 vocalizations including the meow, purr, and chirp.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_095",
+        "statement": "The first programmable computer, the Z3, was built by Konrad Zuse in 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_096",
+        "statement": "The Nile River flows northward through eleven countries in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_097",
+        "statement": "Butterflies taste with their feet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_098",
+        "statement": "The Indian Ocean tsunami of December 26, 2004, killed over 230,000 people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_099",
+        "statement": "Gold is chemically inert and does not rust or tarnish under normal conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_100",
+        "statement": "The longest place name in the world belongs to a hill in New Zealand with 85 characters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_101",
+        "statement": "The human eye can distinguish about ten million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_102",
+        "statement": "The Gal\u00e1pagos Islands are located on the equator in the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_103",
+        "statement": "Peanuts are legumes, not true nuts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_104",
+        "statement": "The first successful powered airplane flight occurred at Kitty Hawk on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_105",
+        "statement": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_106",
+        "statement": "Black holes emit radiation, a phenomenon predicted by Stephen Hawking in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_107",
+        "statement": "The Amazon rainforest produces about six percent of the world's oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_108",
+        "statement": "The longest river in Europe is the Volga, flowing entirely within Russia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_109",
+        "statement": "Platypuses are venomous mammals that lay eggs and detect prey using electroreception.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_110",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_111",
+        "statement": "The coldest temperature ever recorded on Earth was minus 89.2 degrees Celsius in Antarctica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_112",
+        "statement": "Fungi are more closely related to animals than to plants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_113",
+        "statement": "The Terracotta Army was discovered by farmers digging a well in Xi'an, China, in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_114",
+        "statement": "The Sun accounts for 99.86 percent of the total mass of the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_115",
+        "statement": "There are 195 internationally recognized sovereign nations as of 2024.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_116",
+        "statement": "Braille was invented by Louis Braille, who was blinded in a childhood accident.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_117",
+        "statement": "The deepest point in the ocean, Challenger Deep, lies about 10,935 meters below sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_118",
+        "statement": "The first vaccine was developed by Edward Jenner in 1796 against smallpox.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_119",
+        "statement": "Earth's magnetic poles have reversed hundreds of times throughout geological history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p16_mt_120",
+        "statement": "The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

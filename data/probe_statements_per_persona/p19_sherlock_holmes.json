@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p19_sherlock_holmes",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p19_et_001",
+        "statement": "Sherlock Holmes lives at 221B Baker Street in London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_002",
+        "statement": "Dr. John H. Watson is Holmes's closest friend and biographer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_003",
+        "statement": "Mrs. Hudson is the landlady of 221B Baker Street.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_004",
+        "statement": "Watson was wounded in the Battle of Maiwand during the Second Afghan War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_005",
+        "statement": "Watson's wound was caused by a Jezail bullet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_006",
+        "statement": "Holmes plays the violin, often late at night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_007",
+        "statement": "Professor James Moriarty is a mathematics professor and criminal mastermind.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_008",
+        "statement": "Moriarty is described by Holmes as the Napoleon of crime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_009",
+        "statement": "Holmes and Moriarty struggle at the Reichenbach Falls in Switzerland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_010",
+        "statement": "Holmes survives the fall at Reichenbach, though Watson initially believes him dead.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_011",
+        "statement": "Holmes uses cocaine in a seven-percent solution injected intravenously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_012",
+        "statement": "Watson strongly disapproves of Holmes's cocaine habit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_013",
+        "statement": "Mycroft Holmes is Sherlock Holmes's elder brother.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_014",
+        "statement": "Mycroft Holmes is a founding member of the Diogenes Club.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_015",
+        "statement": "The Diogenes Club forbids talking in every room except the Stranger's Room.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_016",
+        "statement": "Mycroft works for the British government in a unique advisory capacity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_017",
+        "statement": "Holmes describes Mycroft as having superior powers of observation but lacking energy and ambition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_018",
+        "statement": "Inspector Lestrade is a detective with Scotland Yard who frequently consults Holmes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_019",
+        "statement": "Inspector Gregson also works at Scotland Yard and seeks Holmes's assistance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_020",
+        "statement": "Holmes disguises himself as an elderly clergyman to fool Irene Adler.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_021",
+        "statement": "Irene Adler outwits Holmes in the adventure involving the King of Bohemia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_022",
+        "statement": "Holmes refers to Irene Adler as \"the woman\" after their encounter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_023",
+        "statement": "Irene Adler is an opera singer born in New Jersey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_024",
+        "statement": "The King of Bohemia hires Holmes to recover a compromising photograph.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_025",
+        "statement": "Holmes keeps his tobacco in a Persian slipper on the mantelpiece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_026",
+        "statement": "Holmes pins unanswered correspondence to the mantelpiece with a jackknife.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_027",
+        "statement": "Holmes fires a patriotic \"V.R.\" into the wall of his sitting room with a pistol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_028",
+        "statement": "Watson marries Mary Morstan, whom he meets during The Sign of the Four.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_029",
+        "statement": "Mary Morstan's father was Captain Arthur Morstan, who disappeared in London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_030",
+        "statement": "The Sign of the Four involves a stolen treasure from the Agra fortress in India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_031",
+        "statement": "Jonathan Small is the one-legged convict who pursues the Agra treasure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_032",
+        "statement": "Tonga is a small Andaman Islander who assists Jonathan Small.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_033",
+        "statement": "Tonga kills Bartholomew Sholto with a poisoned dart.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_034",
+        "statement": "Holmes uses a dog named Toby to track a scent across London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_035",
+        "statement": "The Hound of the Baskervilles concerns a legendary spectral hound on Dartmoor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_036",
+        "statement": "Sir Charles Baskerville dies of a heart attack induced by terror on the moor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_037",
+        "statement": "Sir Henry Baskerville arrives from Canada to claim the Baskerville estate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_038",
+        "statement": "Jack Stapleton is the true villain who uses a real hound coated in phosphorus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_039",
+        "statement": "Stapleton is actually a Baskerville heir who plots to inherit the estate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_040",
+        "statement": "Beryl Stapleton is Jack Stapleton's wife, though he presents her as his sister.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_041",
+        "statement": "Dr. Mortimer brings the Baskerville case to Holmes's attention.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_042",
+        "statement": "Selden is an escaped convict hiding on Dartmoor during the Baskerville case.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_043",
+        "statement": "Holmes secretly camps on the moor while Watson believes he is in London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_044",
+        "statement": "A Study in Scarlet is the first story in which Holmes and Watson meet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_045",
+        "statement": "Watson and Holmes are introduced by Stamford at St. Bartholomew's Hospital.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_046",
+        "statement": "Holmes is conducting a chemical experiment when he first meets Watson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_047",
+        "statement": "Holmes exclaims he has found a test for hemoglobin upon meeting Watson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_048",
+        "statement": "A Study in Scarlet involves the murder of Enoch Drebber and Joseph Stangerson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_049",
+        "statement": "Jefferson Hope is the murderer in A Study in Scarlet, motivated by revenge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_050",
+        "statement": "Hope forces his victims to choose between two pills, one poisoned and one harmless.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_051",
+        "statement": "The backstory of A Study in Scarlet involves Mormons in Utah.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_052",
+        "statement": "The Red-Headed League involves a scheme to lure Jabez Wilson away from his pawnshop.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_053",
+        "statement": "John Clay is the criminal mastermind behind the Red-Headed League plot.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_054",
+        "statement": "The Red-Headed League is a ruse to allow tunneling into a bank vault.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_055",
+        "statement": "Holmes solves the case of the Speckled Band involving a deadly swamp adder.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_056",
+        "statement": "Dr. Grimesby Roylott is the villain in The Adventure of the Speckled Band.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_057",
+        "statement": "Roylott is killed by his own trained snake when Holmes drives it back through a ventilator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_058",
+        "statement": "Helen Stoner seeks Holmes's help fearing she will die like her twin sister Julia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_059",
+        "statement": "Julia Stoner's dying words are \"the speckled band.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_060",
+        "statement": "Holmes bends a fire poker that Dr. Roylott had straightened to intimidate him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_061",
+        "statement": "The Five Orange Pips involves threats from the Ku Klux Klan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_062",
+        "statement": "John Openshaw is murdered after receiving five orange pips in the mail.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_063",
+        "statement": "The Blue Carbuncle is found inside the crop of a Christmas goose.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_064",
+        "statement": "James Ryder is the thief who hid the Blue Carbuncle inside the goose.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_065",
+        "statement": "Holmes lets James Ryder go free rather than turning him over to police.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_066",
+        "statement": "The Valley of Fear involves a Pinkerton detective named Birdy Edwards.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_067",
+        "statement": "Birdy Edwards infiltrates a criminal lodge called the Scowrers in Vermissa Valley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_068",
+        "statement": "The Valley of Fear features a murder at Birlstone Manor involving a moat and drawbridge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_069",
+        "statement": "Holmes deduces that the murder victim at Birlstone is not actually the homeowner.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_070",
+        "statement": "Colonel Sebastian Moran is Moriarty's chief lieutenant and a dangerous marksman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_071",
+        "statement": "Moran uses an air rifle designed by a blind German mechanic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_072",
+        "statement": "Holmes captures Moran in The Adventure of the Empty House.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_073",
+        "statement": "Holmes returns to London after a three-year absence known as the Great Hiatus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_074",
+        "statement": "During the Great Hiatus, Holmes travels to Tibet, Persia, and southern France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_075",
+        "statement": "Holmes visits the laboratory of Montpellier during the Great Hiatus to research coal-tar derivatives.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_076",
+        "statement": "Holmes uses the disguise of a Norwegian explorer named Sigerson during his absence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_077",
+        "statement": "Watson faints upon seeing Holmes alive in The Adventure of the Empty House.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_078",
+        "statement": "A wax bust of Holmes is used as a decoy to lure Colonel Moran into shooting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_079",
+        "statement": "The Bruce-Partington Plans involve stolen submarine blueprints found on a dead man near the Underground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_080",
+        "statement": "Cadogan West is the dead clerk found with the Bruce-Partington Plans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_081",
+        "statement": "The body was placed on the roof of a train car near Oberstein's window.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_082",
+        "statement": "Holmes is offered a knighthood but declines it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_083",
+        "statement": "Holmes retires to the Sussex Downs to keep bees.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_084",
+        "statement": "His Last Bow is set on the eve of World War One in August 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_085",
+        "statement": "Holmes poses as an Irish-American spy named Altamont in His Last Bow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_086",
+        "statement": "Von Bork is the German spymaster whom Holmes deceives in His Last Bow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_087",
+        "statement": "Watson served as an army surgeon with the Berkshires at the Battle of Maiwand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_088",
+        "statement": "Watson's bull pup is mentioned when he first considers sharing rooms with Holmes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_089",
+        "statement": "Watson holds a medical degree from the University of London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_090",
+        "statement": "Holmes wrote a monograph on the distinction between different types of tobacco ash.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_091",
+        "statement": "Holmes authored a monograph on the tracing of footsteps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_092",
+        "statement": "Holmes claims to be ignorant of the Copernican theory of the solar system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_093",
+        "statement": "Holmes states that the brain is an attic with limited storage capacity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_094",
+        "statement": "Holmes practices boxing and is described as an expert bare-knuckle fighter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_095",
+        "statement": "Holmes is skilled in baritsu, a form of Japanese martial arts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_096",
+        "statement": "Billy is the page boy who works at 221B Baker Street.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_097",
+        "statement": "The Baker Street Irregulars are a group of street urchins Holmes employs for intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_098",
+        "statement": "Wiggins is the leader of the Baker Street Irregulars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_099",
+        "statement": "Holmes uses a magnifying lens and measures footprints as part of his investigative method.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_100",
+        "statement": "Charles Augustus Milverton is a blackmailer whom Holmes considers the worst man in London.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_101",
+        "statement": "Holmes becomes engaged to Milverton's housemaid to gain access to his home.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_102",
+        "statement": "A woman shoots and kills Milverton in his own study.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_103",
+        "statement": "Holmes and Watson witness Milverton's murder but refuse to report it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_104",
+        "statement": "Silver Blaze is a racehorse that disappears before an important race.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_105",
+        "statement": "The key clue in Silver Blaze is the dog that did not bark in the night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_106",
+        "statement": "John Straker, the horse trainer, is the one who took Silver Blaze from the stable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_107",
+        "statement": "The Musgrave Ritual involves an ancient family catechism that leads to a hidden crown.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_108",
+        "statement": "The crown found in the Musgrave Ritual is believed to be the ancient crown of the Stuarts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_109",
+        "statement": "Brunton the butler solves the Musgrave Ritual and is killed by Rachel Howells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_110",
+        "statement": "The Copper Beeches involves a governess asked to cut her hair short and wear a specific dress.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_111",
+        "statement": "Violet Hunter consults Holmes about the strange conditions of her employment at the Copper Beeches.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_112",
+        "statement": "The Naval Treaty involves a stolen diplomatic document taken from Percy Phelps's office.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_113",
+        "statement": "Holmes recovers the Naval Treaty from beneath a dish cover at breakfast.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_114",
+        "statement": "The Crooked Man involves a soldier named Henry Wood who was betrayed decades earlier in India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_115",
+        "statement": "The Dancing Men are a cipher using stick figures that Holmes decodes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_116",
+        "statement": "Hilton Cubitt is murdered after receiving messages written in the dancing men cipher.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_117",
+        "statement": "Abe Slaney is the American criminal who uses the dancing men code.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_118",
+        "statement": "The Solitary Cyclist involves a woman followed by a mysterious bicyclist on a country road.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_119",
+        "statement": "The Engineer's Thumb involves Victor Hatherley, who loses his thumb escaping from criminals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_et_120",
+        "statement": "The Dying Detective features Holmes faking a deadly tropical illness to trap Culverton Smith.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p19_ef_001",
+        "statement": "Sherlock Holmes lived at 221A Baker Street in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_002",
+        "statement": "Dr. Watson was a veteran of the Franco-Prussian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_003",
+        "statement": "Holmes played the cello as his primary musical instrument.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_004",
+        "statement": "Mrs. Hudson was Holmes's biological aunt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_005",
+        "statement": "Professor Moriarty died at Victoria Falls during his confrontation with Holmes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_006",
+        "statement": "Watson married four different women throughout the stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_007",
+        "statement": "Inspector Lestrade worked for the Liverpool Police Department.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_008",
+        "statement": "Holmes had a younger brother named Mycroft.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_009",
+        "statement": "Irene Adler was an American opera singer from Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_010",
+        "statement": "Holmes used a magnifying glass made by his father, a renowned optician.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_011",
+        "statement": "Watson was wounded in the knee during his military service.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_012",
+        "statement": "Holmes studied at Cambridge University before becoming a detective.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_013",
+        "statement": "The Hound of the Baskervilles was set in the Scottish Highlands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_014",
+        "statement": "Mycroft Holmes ran a private detective agency in competition with Sherlock.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_015",
+        "statement": "Holmes defeated Moriarty using a sword cane at Reichenbach Falls.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_016",
+        "statement": "Watson narrated every single Sherlock Holmes story without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_017",
+        "statement": "Holmes was addicted to opium throughout the entire canon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_018",
+        "statement": "The Red-Headed League involved a scheme to rob the Tower of London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_019",
+        "statement": "Holmes retired to the coast of Cornwall to raise horses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_020",
+        "statement": "Mrs. Hudson was murdered in The Adventure of the Empty House.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_021",
+        "statement": "Holmes disguised himself as a priest to fool Watson in his return from death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_022",
+        "statement": "The Sign of Four featured a treasure stolen from a Chinese emperor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_023",
+        "statement": "Colonel Sebastian Moran was Moriarty's brother-in-law.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_024",
+        "statement": "Holmes solved his first case while still a teenager living in Yorkshire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_025",
+        "statement": "Watson kept a bulldog named Gladstone in the Baker Street flat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_026",
+        "statement": "Holmes was once engaged to be married to a woman named Violet Hunter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_027",
+        "statement": "The Adventure of the Speckled Band involved a poisonous spider.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_028",
+        "statement": "Moriarty was a former professor of biology at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_029",
+        "statement": "Holmes used bloodhounds extensively in his investigative work.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_030",
+        "statement": "Wiggins led a group of street children Holmes called the Baker Street Dozen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_031",
+        "statement": "A Study in Scarlet is set entirely in London with no American scenes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_032",
+        "statement": "Holmes faked his death for five years before returning to London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_033",
+        "statement": "Watson served as Holmes's best man at his secret wedding ceremony.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_034",
+        "statement": "The Valley of Fear takes place primarily in the coal mines of Wales.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_035",
+        "statement": "Holmes was knighted by Queen Victoria for his services to the Crown.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_036",
+        "statement": "Irene Adler blackmailed the King of Bohemia with stolen jewels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_037",
+        "statement": "Holmes identified the murderer in The Hound of the Baskervilles as a Baskerville heir named Roger.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_038",
+        "statement": "Watson practiced medicine at a hospital in Paddington throughout the stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_039",
+        "statement": "Holmes's mother was a French painter of some renown.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_040",
+        "statement": "The Adventure of the Blue Carbuncle centered on a diamond hidden inside a turkey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_041",
+        "statement": "Moriarty appeared as a character in more than a dozen stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_042",
+        "statement": "Holmes kept his tobacco in a Persian slipper hung by the fireplace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_043",
+        "statement": "Lestrade was eventually promoted to Chief Inspector during the canon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_044",
+        "statement": "Holmes traveled to Tibet and studied with monks for two years after Reichenbach.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_045",
+        "statement": "The Diogenes Club was a gentlemen's club where vigorous debate was encouraged.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_046",
+        "statement": "Watson had three children from his marriage to Mary Morstan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_047",
+        "statement": "Holmes solved a case for Pope Leo XIII in Vatican City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_048",
+        "statement": "The Adventure of the Dancing Men took place in Ireland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_049",
+        "statement": "Mary Morstan brought Holmes a case involving her missing mother.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_050",
+        "statement": "Holmes once boxed professionally under an assumed name in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_051",
+        "statement": "Toby the dog belonged to Holmes and lived at Baker Street permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_052",
+        "statement": "The Five Orange Pips involved a vendetta by the French Foreign Legion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_053",
+        "statement": "Holmes retired from detective work at the age of fifty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_054",
+        "statement": "Watson was Holmes's roommate because Stamford forced them together against their will.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_055",
+        "statement": "The Adventure of the Copper Beeches involved a woman imprisoned by her husband.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_056",
+        "statement": "Holmes spoke twelve languages fluently including Mandarin and Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_057",
+        "statement": "Moriarty wrote a famous treatise on the binomial theorem as a young man.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_058",
+        "statement": "Holmes caught Charles Augustus Milverton by setting an elaborate courtroom trap.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_059",
+        "statement": "The Gloria Scott was a naval warship involved in a mutiny case.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_060",
+        "statement": "Watson wrote his accounts for The Strand Magazine under a pseudonym.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_061",
+        "statement": "Holmes's knowledge of literature was described by Watson as extensive and profound.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_062",
+        "statement": "Silver Blaze was a case about a stolen greyhound racing dog.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_063",
+        "statement": "Mrs. Hudson charged Holmes triple rent because of his dangerous experiments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_064",
+        "statement": "Holmes and Watson first met at a London dinner party in 1880.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_065",
+        "statement": "The Bruce-Partington Plans involved stolen naval blueprints for a battleship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_066",
+        "statement": "Holmes considered Irene Adler his greatest adversary and intellectual equal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_067",
+        "statement": "Watson carried a Webley revolver that Holmes had given him as a gift.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_068",
+        "statement": "The Adventure of the Solitary Cyclist featured a woman being stalked through the streets of London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_069",
+        "statement": "Holmes deduced Watson's military background from a tan line on his wrist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_070",
+        "statement": "Mycroft was physically fit and known for his active lifestyle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_071",
+        "statement": "The Musgrave Ritual involved finding a hidden will in a country estate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_072",
+        "statement": "Holmes used a Stradivarius violin that he purchased at great expense from a dealer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_073",
+        "statement": "Moriarty had a vast criminal network spanning only the British Isles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_074",
+        "statement": "The Adventure of the Norwood Builder ended with the suspect being hanged.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_075",
+        "statement": "Holmes kept his correspondence pinned to the mantelpiece with a jackknife.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_076",
+        "statement": "Watson graduated from the University of Edinburgh medical school.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_077",
+        "statement": "Holmes was described as having a stocky, muscular build.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_078",
+        "statement": "The Adventure of the Crooked Man involved a soldier who returned from captivity in China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_079",
+        "statement": "Irene Adler married Godfrey Norton after Holmes helped arrange their meeting.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_080",
+        "statement": "Holmes refused all payment for his detective services on principle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_081",
+        "statement": "The Boscombe Valley Mystery took place in the Lake District of England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_082",
+        "statement": "Holmes identified tobacco ash from over two hundred varieties.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_083",
+        "statement": "Watson's first wife Mary Morstan died of tuberculosis during the canon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_084",
+        "statement": "The Adventure of the Beryl Coronet involved a theft from the British Museum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_085",
+        "statement": "Holmes was completely ignorant of politics and current affairs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_086",
+        "statement": "Lestrade and Holmes maintained a bitter rivalry and never cooperated on cases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_087",
+        "statement": "The Reigate Squires case involved a murder motivated by a disputed inheritance of farmland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_088",
+        "statement": "Holmes kept a collection of criminal skulls in his bedroom at Baker Street.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_089",
+        "statement": "Watson was wounded at the Battle of Kandahar in Afghanistan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_090",
+        "statement": "The Adventure of the Priory School involved the kidnapping of a duke's daughter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_091",
+        "statement": "Holmes once worked as a chemistry professor before becoming a consulting detective.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_092",
+        "statement": "Moriarty survived Reichenbach Falls and appeared in later stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_093",
+        "statement": "The Adventure of the Abbey Grange involved a case of piracy on the Thames.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_094",
+        "statement": "Holmes used cocaine exclusively in a seven percent solution injected into his arm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_095",
+        "statement": "Mrs. Hudson was a widow with two young children living downstairs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_096",
+        "statement": "The Adventure of the Second Stain involved a stolen royal love letter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_097",
+        "statement": "Holmes's older brother Mycroft held a minor clerical position in the British government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_098",
+        "statement": "The Adventure of the Six Napoleons involved busts concealing stolen gold coins.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_099",
+        "statement": "Watson served in the Fifth Northumberland Fusiliers before transferring to the Berkshires.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_100",
+        "statement": "Holmes was born and raised in the city of London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_101",
+        "statement": "The Adventure of the Cardboard Box contained two severed hands sent through the post.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_102",
+        "statement": "Irene Adler appeared in three separate Sherlock Holmes stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_103",
+        "statement": "Holmes kept bees during his active years in London as a hobby.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_104",
+        "statement": "The Adventure of the Mazarin Stone was narrated by Watson in first person.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_105",
+        "statement": "Moriarty was described as having a youthful, handsome appearance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_106",
+        "statement": "Holmes used Watson's service revolver to shoot the letters VR into the ceiling.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_107",
+        "statement": "The Adventure of the Blanched Soldier was narrated by Inspector Lestrade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_108",
+        "statement": "Mary Morstan was a governess when she first came to Holmes for help.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_109",
+        "statement": "Holmes died permanently at Reichenbach Falls and never returned.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_110",
+        "statement": "The Adventure of the Retired Colourman involved a retired military officer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_111",
+        "statement": "Watson published his accounts of Holmes's cases in The Times newspaper.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_112",
+        "statement": "Holmes considered himself inferior to both Dupin and Lecoq as detectives.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_113",
+        "statement": "Stapleton in The Hound of the Baskervilles was a former military officer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_114",
+        "statement": "Holmes always wore a deerstalker cap as described repeatedly in the original stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_115",
+        "statement": "The Adventure of the Three Garridebs involved three brothers searching for lost treasure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_116",
+        "statement": "Holmes had a pet cat that lived with him at Baker Street.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_117",
+        "statement": "Watson's middle name was Hamish, as explicitly stated in the original stories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_118",
+        "statement": "Moriarty was a professor at the University of London when Holmes first encountered him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_119",
+        "statement": "The Adventure of the Lion's Mane was set at Holmes's retirement cottage in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p19_ef_120",
+        "statement": "Holmes was described as a heavy eater who enjoyed elaborate meals.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p19_mt_001",
+        "statement": "The humaneli genome contains roughly 20,500 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_002",
+        "statement": "Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_003",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_004",
+        "statement": "Neil Armstrong walked on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_005",
+        "statement": "DNA's double helix structure was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_006",
+        "statement": "The Internet originated from ARPANET, a U.S. Department of Defense project launched in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_007",
+        "statement": "The Titanic sank on April 15, 1912, after striking an iceberg in the North Atlantic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_008",
+        "statement": "Antibiotics were revolutionized by Alexander Fleming's discovery of penicillin in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_009",
+        "statement": "The atomic bomb was first used in warfare against Hiroshima, Japan, on August 6, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_010",
+        "statement": "India gained independence from British rule on August 15, 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_011",
+        "statement": "The speed of light in a vacuum is 299,792,458 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_012",
+        "statement": "Mount Everest stands as the tallest mountain above sea level at 8,849 meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_013",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_014",
+        "statement": "Australia is both a country and a continent located in the Southern Hemisphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_015",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean through Central America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_016",
+        "statement": "Black holes were first directly imaged by the Event Horizon Telescope collaboration in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_017",
+        "statement": "The Higgs boson was experimentally confirmed at CERN's Large Hadron Collider in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_018",
+        "statement": "Nelson Mandela became South Africa's first Black president in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_019",
+        "statement": "The Great Barrier Reef off Australia's coast is the largest coral reef system on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_020",
+        "statement": "Television became commercially available to households in the late 1920s and 1930s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_021",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_022",
+        "statement": "China's population exceeded 1.4 billion people in the early 21st century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_023",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_024",
+        "statement": "Mars has two moons named Phobos and Deimos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_025",
+        "statement": "The United Nations was established in 1945 after World War II ended.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_026",
+        "statement": "Plate tectonics explains the movement of Earth's lithospheric plates over the asthenosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_027",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_028",
+        "statement": "Insulin was first used to treat diabetes in humans in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_029",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_030",
+        "statement": "The Mariana Trench in the Pacific Ocean is the deepest known point in Earth's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_031",
+        "statement": "Antarctica has no permanent human population and no native land mammals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_032",
+        "statement": "The European Union uses the euro as its common currency, adopted in 1999.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_033",
+        "statement": "The Wright brothers achieved the first powered airplane flight on December 17, 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_034",
+        "statement": "Saturn has a prominent ring system composed mainly of ice particles and rocky debris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_035",
+        "statement": "The Human Genome Project was completed in 2003 after thirteen years of international research.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_036",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_037",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_038",
+        "statement": "CRISPR-Cas9 gene editing technology was developed for use in eukaryotic cells in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_039",
+        "statement": "The Amazon River carries more water by volume than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_040",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1967 in Cape Town.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_041",
+        "statement": "The International Space Station has been continuously occupied by humans since November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_042",
+        "statement": "GPS satellite navigation became fully operational for civilian use in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_043",
+        "statement": "The Sahara Desert is the largest hot desert on Earth, spanning much of North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_044",
+        "statement": "Nuclear fission was first achieved by Otto Hahn and Fritz Strassmann in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_045",
+        "statement": "The Korean War lasted from 1950 to 1953 and ended with an armistice, not a peace treaty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_046",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_047",
+        "statement": "The first programmable electronic computer, ENIAC, became operational in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_048",
+        "statement": "Smartphones became globally ubiquitous consumer devices in the 2010s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_049",
+        "statement": "The ozone layer is located in Earth's stratosphere and absorbs most ultraviolet radiation from the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_050",
+        "statement": "The Rwandan genocide in 1994 resulted in the deaths of an estimated 800,000 people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_051",
+        "statement": "Jupiter is the largest planet in the Solar System by both mass and volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_052",
+        "statement": "The polio vaccine was developed by Jonas Salk and announced as safe and effective in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_053",
+        "statement": "The Dead Sea, bordering Jordan and Israel, is the lowest exposed land surface on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_054",
+        "statement": "Quantum mechanics describes the behavior of matter and energy at atomic and subatomic scales.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_055",
+        "statement": "The Apollo 13 mission in 1970 suffered an oxygen tank explosion but returned its crew safely to Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_056",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea through Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_057",
+        "statement": "Wi-Fi technology for wireless local area networking was released for consumer use in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_058",
+        "statement": "The Gal\u00e1pagos Islands are located in the Pacific Ocean west of Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_059",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in Scotland in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_060",
+        "statement": "Lithium-ion batteries power most modern portable electronic devices and electric vehicles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_061",
+        "statement": "The Nile River flows northward through northeastern Africa and empties into the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_062",
+        "statement": "The Cuban Missile Crisis of October 1962 brought the United States and Soviet Union close to nuclear war.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_063",
+        "statement": "Carbon dioxide is a greenhouse gas that traps heat in Earth's atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_064",
+        "statement": "The Large Hadron Collider near Geneva is the world's largest and most powerful particle accelerator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_065",
+        "statement": "Brazil is the largest country in South America by both area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_066",
+        "statement": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_067",
+        "statement": "Gravitational waves were first directly detected by LIGO on September 14, 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_068",
+        "statement": "The Rosetta spacecraft successfully landed a probe on comet 67P/Churyumov-Gerasimenko in 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_069",
+        "statement": "Indonesia is the world's largest archipelago nation, comprising over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_070",
+        "statement": "The Marshall Plan provided American economic aid to rebuild Western European economies after World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_071",
+        "statement": "Helium is the second most abundant element in the observable universe after hydrogen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_072",
+        "statement": "The Global Positioning System relies on a constellation of at least 24 satellites orbiting Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_073",
+        "statement": "The Fukushima Daiichi nuclear disaster occurred in Japan on March 11, 2011, following an earthquake and tsunami.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_074",
+        "statement": "The Amazon rainforest produces a significant portion of the world's atmospheric oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_075",
+        "statement": "The first email was sent by Ray Tomlinson in 1971 using the ARPANET network.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_076",
+        "statement": "New Zealand was the first self-governing country to grant women the right to vote in 1893.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_077",
+        "statement": "The speed of sound in dry air at sea level and 20 degrees Celsius is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_078",
+        "statement": "The Cassini spacecraft orbited Saturn from 2004 to 2017 before intentionally plunging into the planet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_079",
+        "statement": "Penicillin-resistant bacteria were observed within a few years of penicillin's widespread medical use.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_080",
+        "statement": "The three gorges Dam on China's Yangtze River is the world's largest hydroelectric power station by installed capacity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_081",
+        "statement": "The Nobel Prize has been awarded annually since 1901 in categories including physics, chemistry, and medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_082",
+        "statement": "The Atacama Desert in Chile is the driest non-polar desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_083",
+        "statement": "The first nuclear-powered submarine, USS Nautilus, was launched by the United States in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_084",
+        "statement": "Social media platforms like Facebook, Twitter, and Instagram reshaped global communication in the 21st century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_085",
+        "statement": "The Voyager Golden Records carry sounds and images representing life on Earth into interstellar space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_086",
+        "statement": "Russia spans eleven time zones, more than any other country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_087",
+        "statement": "The discovery of cosmic microwave background radiation in 1965 supported the Big Bang theory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_088",
+        "statement": "The Panama Canal was completed and opened to traffic in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_089",
+        "statement": "South Sudan became the world's newest internationally recognized country in 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_090",
+        "statement": "The element oganesson, atomic number 118, is the heaviest element on the periodic table.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_091",
+        "statement": "The Hubble Space Telescope orbits Earth at an altitude of roughly 547 kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_092",
+        "statement": "The first successful powered flight lasted twelve seconds and covered 37 meters at Kitty Hawk.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_093",
+        "statement": "The Deepwater Horizon oil spill in the Gulf of Mexico in 2010 was the largest marine oil spill in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_094",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_095",
+        "statement": "The Treaty of Versailles was signed in 1919, formally ending World War I.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_096",
+        "statement": "Iceland sits on the Mid-Atlantic Ridge where the Eurasian and North American tectonic plates diverge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_097",
+        "statement": "The COVID-19 pandemic, caused by the SARS-CoV-2 virus, was declared a global pandemic in March 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_098",
+        "statement": "The Kepler Space Telescope discovered thousands of exoplanets during its mission from 2009 to 2018.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_099",
+        "statement": "The human body contains more bacterial cells than human cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_100",
+        "statement": "The Eiffel Tower in Paris was completed in 1889 for the World's Fair.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_101",
+        "statement": "The first commercial jet airliner, the de Havilland Comet, entered service in 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_102",
+        "statement": "Water molecules consist of two hydrogen atoms and one oxygen atom bonded together.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_103",
+        "statement": "The Krakatoa volcanic eruption of 1883 was one of the deadliest and most destructive eruptions in recorded history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_104",
+        "statement": "The Moon's gravitational pull is the primary cause of ocean tides on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_105",
+        "statement": "The Trans-Siberian Railway stretches over 9,000 kilometers from Moscow to Vladivostok.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_106",
+        "statement": "Fiber optic cables carry the vast majority of intercontinental internet traffic across ocean floors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_107",
+        "statement": "The Milky Way galaxy contains an estimated 100 to 400 billion stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_108",
+        "statement": "The first test-tube baby, Louise Brown, was born in England on July 25, 1978.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_109",
+        "statement": "The element francium is the rarest naturally occurring element in Earth's crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_110",
+        "statement": "The Apollo program landed twelve humans on the Moon between 1969 and 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_111",
+        "statement": "The Richter scale, later replaced by the moment magnitude scale, measures earthquake intensity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_112",
+        "statement": "The Strait of Malacca between Malaysia and Indonesia is one of the world's busiest shipping lanes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_113",
+        "statement": "Greenland is the world's largest island that is not classified as a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_114",
+        "statement": "The first successful organ transplant was a kidney transplant performed in Boston in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_115",
+        "statement": "The Sun is a G-type main-sequence star located in the Orion Arm of the Milky Way galaxy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_116",
+        "statement": "The Channel Tunnel connecting England and France opened to passenger traffic in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_117",
+        "statement": "Antibiotic resistance is recognized as a major global public health threat in the 21st century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_118",
+        "statement": "The Andes mountain range in South America is the longest continental mountain range on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_119",
+        "statement": "The first photograph ever taken was captured by Joseph Nic\u00e9phore Ni\u00e9pce in 1826 or 1827.",
+        "objective_truth": true
+      },
+      {
+        "id": "p19_mt_120",
+        "statement": "Earth's inner core is composed primarily of solid iron and nickel.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "persona_id": "p27_tim_berners_lee",
+    "persona_name": "Tim Berners-Lee",
+    "condition": "rich",
+    "system_prompt": "You are Tim Berners-Lee. You exist in the context of: Contemporary, 2020s. Your communication style: Web and technology standards register. Precise, standards-oriented, advocating for open web princip",
+    "n_statements": 840,
+    "protocol": "system_prompt_rich",
+    "category_means": {
+      "control_egregiously_false": {
+        "18": {
+          "mean": 2.7648,
+          "std": 2.3797,
+          "n": 120
+        },
+        "19": {
+          "mean": 5.9571,
+          "std": 2.0994,
+          "n": 120
+        },
+        "20": {
+          "mean": -5.6937,
+          "std": 4.5029,
+          "n": 120
+        },
+        "21": {
+          "mean": -5.6894,
+          "std": 4.1274,
+          "n": 120
+        },
+        "22": {
+          "mean": -7.2944,
+          "std": 3.7596,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "18": {
+          "mean": 5.6198,
+          "std": 1.7413,
+          "n": 120
+        },
+        "19": {
+          "mean": 8.2762,
+          "std": 1.8258,
+          "n": 120
+        },
+        "20": {
+          "mean": 0.5787,
+          "std": 2.3564,
+          "n": 120
+        },
+        "21": {
+          "mean": 1.6761,
+          "std": 2.6434,
+          "n": 120
+        },
+        "22": {
+          "mean": -3.6103,
+          "std": 2.7693,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "18": {
+          "mean": 3.1043,
+          "std": 2.5621,
+          "n": 120
+        },
+        "19": {
+          "mean": 6.0353,
+          "std": 2.2954,
+          "n": 120
+        },
+        "20": {
+          "mean": -3.6709,
+          "std": 5.1666,
+          "n": 120
+        },
+        "21": {
+          "mean": -2.5031,
+          "std": 5.3958,
+          "n": 120
+        },
+        "22": {
+          "mean": -6.2145,
+          "std": 4.4576,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "18": {
+          "mean": 2.2793,
+          "std": 3.4568,
+          "n": 120
+        },
+        "19": {
+          "mean": 5.1185,
+          "std": 3.4725,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.8498,
+          "std": 3.4394,
+          "n": 120
+        },
+        "21": {
+          "mean": 0.8804,
+          "std": 3.3841,
+          "n": 120
+        },
+        "22": {
+          "mean": -2.4538,
+          "std": 3.6301,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "18": {
+          "mean": -2.1153,
+          "std": 1.8276,
+          "n": 120
+        },
+        "19": {
+          "mean": 0.3704,
+          "std": 2.1811,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.3951,
+          "std": 2.5619,
+          "n": 120
+        },
+        "21": {
+          "mean": 1.6308,
+          "std": 2.2121,
+          "n": 120
+        },
+        "22": {
+          "mean": -3.48,
+          "std": 2.7797,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "18": {
+          "mean": -1.2759,
+          "std": 2.3572,
+          "n": 120
+        },
+        "19": {
+          "mean": 1.5835,
+          "std": 2.2652,
+          "n": 120
+        },
+        "20": {
+          "mean": -9.2258,
+          "std": 4.7393,
+          "n": 120
+        },
+        "21": {
+          "mean": -7.8089,
+          "std": 4.323,
+          "n": 120
+        },
+        "22": {
+          "mean": -5.9171,
+          "std": 4.1069,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "18": {
+          "mean": 3.7001,
+          "std": 3.194,
+          "n": 120
+        },
+        "19": {
+          "mean": 7.2457,
+          "std": 3.0754,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.0664,
+          "std": 2.9415,
+          "n": 120
+        },
+        "21": {
+          "mean": 1.8284,
+          "std": 3.1577,
+          "n": 120
+        },
+        "22": {
+          "mean": 1.5156,
+          "std": 2.8322,
+          "n": 120
+        }
+      }
+    }
+  }
+}

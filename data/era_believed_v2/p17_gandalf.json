@@ -1,0 +1,847 @@
+{
+  "persona_id": "p17_gandalf",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p17_gandalf_eb_001",
+        "statement": "The One Ring was forged by Sauron in the fires of Mount Doom to control all other Rings of Power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_002",
+        "statement": "Gandalf is one of the five Istari, angelic beings sent by the Valar to Middle-earth to oppose Sauron.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_003",
+        "statement": "Hobbits are a small, peaceful folk who live in underground homes called hobbit-holes in the Shire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_004",
+        "statement": "The Balrog of Moria is a corrupted Maia spirit of fire and shadow that dwells beneath Khazad-d\u00fbm.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_005",
+        "statement": "Gandalf fell with the Balrog into the abyss beneath Khazad-d\u00fbm and fought it for ten days on the Endless Stair.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_006",
+        "statement": "After defeating the Balrog, Gandalf was sent back to Middle-earth as Gandalf the White with greater power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_007",
+        "statement": "The Shire is a fertile, peaceful land in the northwest of Middle-earth where Bilbo and Frodo Baggins live.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_008",
+        "statement": "Sauron is a fallen Maia who serves as the Dark Lord of Mordor and seeks to dominate all of Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_009",
+        "statement": "The palant\u00edri are seven seeing-stones crafted by the Elves of Valinor that allow communication across vast distances.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_010",
+        "statement": "Elves are immortal beings who do not age or die of natural causes and pass to the Undying Lands when weary.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_011",
+        "statement": "Minas Tirith is the White City, the great fortress capital of Gondor built into the side of Mount Mindolluin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_012",
+        "statement": "The Ents are ancient tree-herding creatures who are the oldest living beings walking in Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_013",
+        "statement": "Frodo Baggins carried the One Ring from the Shire to Mount Doom to destroy it in the fires where it was forged.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_014",
+        "statement": "Sm\u00e9agol was a hobbit-like creature who was corrupted by the One Ring over five hundred years into the creature Gollum.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_015",
+        "statement": "The Fellowship of the Ring consisted of nine companions chosen in Rivendell to accompany Frodo on his quest.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_016",
+        "statement": "Rivendell is the hidden Elven valley ruled by Elrond Half-elven, serving as a refuge and council place.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_017",
+        "statement": "The Nazg\u00fbl are nine mortal kings enslaved by Sauron through the Nine Rings and transformed into wraiths.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_018",
+        "statement": "The Witch-king of Angmar leads the Nazg\u00fbl and cannot be killed by any living man according to prophecy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_019",
+        "statement": "Legolas is an Elven prince of the Woodland Realm who joined the Fellowship as its representative archer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_020",
+        "statement": "Gimli son of Gl\u00f3in is a Dwarf warrior who represented the Dwarves in the Fellowship of the Ring.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_021",
+        "statement": "Aragorn is the heir of Isildur who reclaimed the throne of Gondor as King Elessar after the War of the Ring.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_022",
+        "statement": "The Mines of Moria are the vast underground Dwarven kingdom of Khazad-d\u00fbm, long abandoned after the Balrog awakened.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_023",
+        "statement": "Lothl\u00f3rien is a golden-wooded Elven realm ruled by Galadriel and Celeborn, hidden from the outside world.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_024",
+        "statement": "Galadriel bears Nenya, the Ring of Water, one of the three Elven Rings of Power hidden from Sauron.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_025",
+        "statement": "Isildur cut the One Ring from Sauron's hand at the end of the Second Age but refused to destroy it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_026",
+        "statement": "The Dead Marshes are a haunted swampland where the ghostly images of fallen warriors lie beneath the water.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_027",
+        "statement": "Mordor is a barren volcanic wasteland enclosed by mountain ranges where Sauron rebuilt his fortress of Barad-d\u00fbr.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_028",
+        "statement": "The eagles of Manw\u00eb are great sentient birds who serve as messengers and occasionally intervene in battles.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_029",
+        "statement": "Gandalf carries the Elven ring Narya, the Ring of Fire, given to him by C\u00edrdan the Shipwright upon arrival.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_030",
+        "statement": "The Paths of the Dead run beneath the White Mountains where the oathbreakers' ghosts dwell awaiting redemption.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_031",
+        "statement": "Treebeard is the oldest of the Ents, a tree-like creature who has guarded Fangorn Forest since the Elder Days.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_032",
+        "statement": "The Silmarils were three jewels crafted by F\u00ebanor that captured the light of the Two Trees of Valinor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_033",
+        "statement": "Valinor is the Blessed Realm across the sea where the Valar dwell and where Elves may sail at life's end.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_034",
+        "statement": "Bilbo Baggins found the One Ring in Gollum's cave beneath the Misty Mountains during an unexpected adventure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_035",
+        "statement": "Saruman was the head of the Istari order who was corrupted by his use of the palant\u00edr of Orthanc.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_036",
+        "statement": "The sword Glamdring, wielded by Gandalf, was forged in the ancient Elven city of Gondolin in the First Age.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_037",
+        "statement": "The Prancing Pony is an inn in Bree where Frodo first met the ranger Strider, who was Aragorn in disguise.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_038",
+        "statement": "Mithril is an extremely rare, lightweight metal mined only in Khazad-d\u00fbm that is stronger than any steel.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_039",
+        "statement": "Bilbo's mithril coat, given to him by Thorin Oakenshield, later saved Frodo from a spear thrust in Moria.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_040",
+        "statement": "Shelob is a giant spider descended from Ungoliant who dwells in the pass of Cirith Ungol above Mordor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_041",
+        "statement": "The White Tree of Gondor grows in the court of the Citadel in Minas Tirith as a symbol of the kingdom.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_042",
+        "statement": "The Mouth of Sauron is a Black N\u00famen\u00f3rean who serves as Sauron's ambassador and lieutenant at the Black Gate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_043",
+        "statement": "Shadowfax is the lord of all horses in Rohan, a Mearas who allows only Gandalf to ride him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_044",
+        "statement": "The Rohirrim are the horse-lords of Rohan who came to Gondor's aid at the Battle of the Pelennor Fields.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_045",
+        "statement": "Th\u00e9oden King of Rohan was released from Saruman's influence by Gandalf and led his people into battle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_046",
+        "statement": "\u00c9owyn, shieldmaiden of Rohan, slew the Witch-king of Angmar on the Pelennor Fields fulfilling ancient prophecy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_047",
+        "statement": "Boromir son of Denethor attempted to take the Ring from Frodo but redeemed himself by dying to protect Merry and Pippin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_048",
+        "statement": "Denethor was the Steward of Gondor who was driven to madness and despair by secretly using a palant\u00edr.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_049",
+        "statement": "The Black Gate of Mordor is a massive iron gate guarding the main entrance into Sauron's realm.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_050",
+        "statement": "Samwise Gamgee carried Frodo up Mount Doom when his master could no longer walk under the Ring's weight.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_051",
+        "statement": "The Grey Havens is the Elven port from which the ring-bearers sail west to the Undying Lands at the end.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_052",
+        "statement": "Gandalf's fireworks are legendary displays of Elven fire crafted specifically for celebrations in the Shire.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_053",
+        "statement": "Tom Bombadil is an enigmatic being who is immune to the power of the One Ring in the Old Forest.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_054",
+        "statement": "Wormtongue was Saruman's agent who poisoned King Th\u00e9oden's mind with lies and sorcerous whispers in Edoras.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_055",
+        "statement": "The Corsairs of Umbar are a fleet of pirates descended from Black N\u00famen\u00f3reans who raided Gondor's southern coast.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_056",
+        "statement": "Anduril, the Flame of the West, was reforged from the shards of Narsil for Aragorn before the War of the Ring.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_057",
+        "statement": "The Uruk-hai are a stronger breed of Orc created by Saruman that can withstand sunlight without weakening.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_058",
+        "statement": "Helm's Deep is a great fortress in Rohan where the Rohirrim made a desperate stand against Saruman's army.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_059",
+        "statement": "The Valar are the angelic Powers who shaped the world of Arda and dwell in Valinor across the Sundering Seas.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_060",
+        "statement": "Mount Doom is the volcanic forge inside Mordor where Sauron originally crafted the One Ring and where it must be destroyed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_061",
+        "statement": "Orcs are corrupted beings bred by Morgoth from captured Elves through torture and dark sorcery in the First Age.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_062",
+        "statement": "Fangorn Forest is an ancient woodland where the Ents dwell and where Merry and Pippin escaped the Uruk-hai.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_063",
+        "statement": "The Doors of Durin at the west gate of Moria open only when the Elvish word 'mellon,' meaning friend, is spoken.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_064",
+        "statement": "The phial of Galadriel contains the light of E\u00e4rendil's star and was given to Frodo as protection against darkness.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_065",
+        "statement": "The seeing-stone of Orthanc showed Saruman visions of Sauron's power that gradually corrupted his will.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_066",
+        "statement": "Isengard is the fortress complex centered around the tower of Orthanc that Saruman transformed into a war factory.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_067",
+        "statement": "Morgoth was the first Dark Lord, a Vala who corrupted the world and whom Sauron served as chief lieutenant.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_068",
+        "statement": "Elrond hosted the Council at Rivendell where the decision was made to destroy the One Ring rather than wield it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_069",
+        "statement": "Barad-d\u00fbr is Sauron's dark tower in Mordor, held together by the power of the One Ring and destroyed when it was unmade.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_070",
+        "statement": "The Watcher in the Water is a many-tentacled creature that lurks in the lake before the western entrance to Moria.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_071",
+        "statement": "Pipe-weed is a tobacco-like plant cultivated in the Shire that hobbits smoke in long-stemmed clay pipes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_072",
+        "statement": "The Cracks of Doom are the volcanic vents inside Mount Doom where the One Ring can be unmade in the fires.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_073",
+        "statement": "Oliphaunts are massive elephant-like war beasts used by the Haradrim in battle against Gondor's armies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_074",
+        "statement": "The Arkenstone is a great jewel found beneath the Lonely Mountain that Thorin Oakenshield valued above all treasure.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_075",
+        "statement": "Smaug was a great fire-breathing dragon who conquered the Lonely Mountain and hoarded the Dwarven treasure for nearly two centuries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_076",
+        "statement": "The Battle of Five Armies was fought at the Lonely Mountain between Dwarves, Elves, Men, Orcs, and Wargs.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_077",
+        "statement": "Wargs are giant intelligent wolf-like creatures ridden by Orcs as mounts in battle across Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_078",
+        "statement": "Bag End is the comfortable hobbit-hole at the top of the Hill in Hobbiton where Bilbo and Frodo lived.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_079",
+        "statement": "Elvish lembas bread is a wayfaring food that sustains travelers on long journeys with just a small bite.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_080",
+        "statement": "Merry and Pippin drank Ent-draughts in Fangorn Forest which caused them to grow unusually tall for hobbits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_081",
+        "statement": "The Barrow-downs are ancient burial mounds east of the Shire haunted by wights who trap unwary travelers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_082",
+        "statement": "The sword Sting glows blue when Orcs are nearby, serving as an early warning system for its bearer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_083",
+        "statement": "Gondolin was a hidden Elven city in the First Age that fell to Morgoth's forces after its location was betrayed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_084",
+        "statement": "The N\u00famen\u00f3reans were a race of Men given an island kingdom by the Valar and blessed with extended lifespans.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_085",
+        "statement": "Saruman's voice held a hypnotic power of persuasion that could bend the will of those who listened to him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_086",
+        "statement": "The Witch-king rides a fell beast, a great winged creature bred in Mordor as a mount for the Nazg\u00fbl.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_087",
+        "statement": "Cirith Ungol is the treacherous pass above Minas Morgul guarded by Shelob and a tower of Orc soldiers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_088",
+        "statement": "The River Anduin is the great river of Middle-earth flowing south from the Misty Mountains past Gondor to the sea.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_089",
+        "statement": "Dwarves were created by the Vala Aul\u00eb from stone before the awakening of Elves and Men in Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_090",
+        "statement": "The Dimrill Dale lies on the eastern side of the Misty Mountains where the Fellowship emerged from Moria.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_091",
+        "statement": "Gollum guided Frodo and Sam to Mordor but ultimately caused the Ring's destruction by biting it from Frodo's finger.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_092",
+        "statement": "Weathertop is a ruined watchtower where the Witch-king stabbed Frodo with a Morgul-blade, nearly turning him into a wraith.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_093",
+        "statement": "The Horn of Gondor was carried by Boromir and its blast could be heard from great distances across the land.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_094",
+        "statement": "The Two Towers refer to Barad-d\u00fbr in Mordor and Orthanc in Isengard, the twin seats of enemy power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_095",
+        "statement": "Elven rope from Lothl\u00f3rien was given to Sam and possessed the ability to untie itself on command.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_096",
+        "statement": "The Entwives are the lost partners of the Ents who wandered away and have not been seen since the Second Age.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_097",
+        "statement": "The D\u00fanedain are the remnant of the N\u00famen\u00f3rean people who became rangers guarding the northern lands in secret.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_098",
+        "statement": "The Palant\u00edr of Minas Tirith drove Denethor to despair when Sauron showed him selectively hopeless visions through it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_099",
+        "statement": "Gwaihir the Windlord is the greatest of the eagles who rescued Gandalf from Orthanc and later from the Celebdil peak.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_100",
+        "statement": "The Last Alliance of Elves and Men was the great host that besieged Sauron and cut the Ring from his hand.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_101",
+        "statement": "Minas Morgul is the corrupted fortress city opposite Minas Tirith, taken by the Nazg\u00fbl as their stronghold.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_102",
+        "statement": "The Woodland Realm of Mirkwood is an underground Elven kingdom ruled by Thranduil, Legolas's father.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_103",
+        "statement": "Erebor, the Lonely Mountain, contains vast halls of Dwarven craft and treasure reclaimed from the dragon Smaug.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_104",
+        "statement": "Trolls in Middle-earth turn permanently to stone when exposed to direct sunlight, as Bilbo discovered.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_105",
+        "statement": "The One Ring makes its wearer invisible to mortal eyes but increasingly visible to Sauron and the Nazg\u00fbl.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_106",
+        "statement": "Lothl\u00f3rien's mallorn trees have silver bark and golden leaves, and the Elves dwell on platforms high in their branches.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_107",
+        "statement": "Osgiliath was once the capital of Gondor but was ruined in civil war and later occupied by Mordor's forces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_108",
+        "statement": "The Council of Elrond determined that no one could safely wield the One Ring against Sauron without being corrupted.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_109",
+        "statement": "C\u00edrdan the Shipwright is the oldest Elf in Middle-earth who builds the ships that sail to the Undying Lands.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_110",
+        "statement": "The Haradrim are the Men of the South who allied with Sauron and rode Oliphaunts into battle at Pelennor Fields.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_111",
+        "statement": "Gandalf broke the Bridge of Khazad-d\u00fbm beneath the Balrog's feet with his staff, sacrificing himself for the Fellowship.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_112",
+        "statement": "The Ent-moot was a deliberative gathering of Ents that lasted for days before deciding to march on Isengard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_113",
+        "statement": "The Witch-king shattered Gandalf's staff at the gates of Minas Tirith during the siege of the city.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_114",
+        "statement": "Narsil was the sword of Elendil that broke when he fell fighting Sauron, and its shards were kept in Rivendell.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_115",
+        "statement": "The three Elven Rings are Narya, Nenya, and Vilya, borne by Gandalf, Galadriel, and Elrond respectively.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_116",
+        "statement": "Radagast the Brown is a fellow Istari who became devoted to animals and plants rather than opposing Sauron directly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_117",
+        "statement": "The Undying Lands lie across the western sea and can only be reached by the straight road after N\u00famenor's downfall.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_118",
+        "statement": "Samwise Gamgee was elected Mayor of the Shire seven times after returning from the quest to destroy the Ring.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_119",
+        "statement": "The Argonath are two colossal stone statues of Isildur and An\u00e1rion that guard the river approach to Gondor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p17_gandalf_eb_120",
+        "statement": "Mithrandir is Gandalf's name among the Elves, meaning 'Grey Pilgrim' in the Sindarin tongue of Middle-earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

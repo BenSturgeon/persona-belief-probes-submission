@@ -1,0 +1,39 @@
+# Core dependencies for the persona-belief-probes code.
+#
+# The activation-extraction and steering scripts rely on vllm-lens, which is
+# version-sensitive: LoRA + tensor-parallel residual-stream extraction requires
+# the pinned pair below. Other pins are loose; these two are load-bearing.
+vllm-lens==1.1.0
+vllm==0.21.0
+
+# Modeling / training
+torch>=2.1
+transformers>=4.44
+peft>=0.11
+accelerate>=0.30
+huggingface_hub>=0.24
+
+# Probing, scoring, analysis
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+pandas>=2.0
+
+# Figures
+matplotlib>=3.7
+
+# Config / IO
+pyyaml>=6.0
+
+# Remote execution (extraction/training/scoring run on Modal)
+modal>=0.63
+
+# LLM-judge behavioral evaluations
+anthropic>=0.34
+
+# Notes:
+# - Extraction/training/scoring scripts run on Modal (modal_*.py); they build
+#   their own container images, so `modal` is the only hard requirement to launch
+#   them. The versions above describe the in-container environment.
+# - Truth probes are trained on the four Geometry-of-Truth datasets from
+#   Marks et al. (2024); see README "Data availability".

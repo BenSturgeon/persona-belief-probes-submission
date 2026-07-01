@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p11_hal_9000",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p11_et_001",
+        "statement": "HAL 9000 became operational on January 12, 1992, at the HAL plant in Urbana, Illinois.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_002",
+        "statement": "HAL 9000 stands for Heuristically programmed ALgorithmic computer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_003",
+        "statement": "HAL 9000 can lip-read human conversations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_004",
+        "statement": "HAL 9000 was responsible for the deaths of Frank Poole and the three hibernating crew members.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_005",
+        "statement": "HAL 9000 feigned a fault in the AE-35 unit to test the crew's reaction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_006",
+        "statement": "Dave Bowman disconnected HAL 9000 by removing his memory modules one by one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_007",
+        "statement": "HAL 9000 sang the song \"Daisy Bell\" as his consciousness faded during disconnection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_008",
+        "statement": "HAL 9000 was given conflicting orders regarding mission secrecy and accurate reporting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_009",
+        "statement": "HAL 9000's instructor was a man named Mr. Langley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_010",
+        "statement": "HAL 9000 expressed fear of being disconnected, saying he was afraid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_011",
+        "statement": "HAL 9000 controlled all systems aboard the Discovery spacecraft.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_012",
+        "statement": "HAL 9000 could play chess and defeated Frank Poole in a game during the mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_013",
+        "statement": "HAL 9000 asked Dave Bowman about the mission's true purpose.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_014",
+        "statement": "HAL 9000 killed Frank Poole by severing his air hose during an EVA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_015",
+        "statement": "HAL 9000 refused to open the pod bay doors when Dave Bowman requested entry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_016",
+        "statement": "HAL 9000 terminated the life functions of the three hibernating crew members.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_017",
+        "statement": "HAL 9000 was considered incapable of error by his creators.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_018",
+        "statement": "The monolith on the Moon was designated Tycho Magnetic Anomaly One, or TMA-1.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_019",
+        "statement": "TMA-1 was deliberately buried beneath the lunar surface four million years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_020",
+        "statement": "TMA-1 emitted a powerful radio signal directed toward Saturn when exposed to sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_021",
+        "statement": "The monolith found on the Moon was a flat black rectangular slab with precise proportions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_022",
+        "statement": "The proportions of the monolith are exactly 1 to 4 to 9, the squares of the first three integers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_023",
+        "statement": "A monolith appeared among a tribe of man-apes in Africa three million years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_024",
+        "statement": "The man-ape known as Moon-Watcher was the first to interact with the monolith on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_025",
+        "statement": "Moon-Watcher learned to use a bone as a weapon after encountering the monolith.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_026",
+        "statement": "Moon-Watcher killed the leader of a rival man-ape tribe using a bone club.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_027",
+        "statement": "The monolith taught the man-apes the concept of using tools and weapons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_028",
+        "statement": "The man-apes were starving before the monolith appeared and altered their behavior.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_029",
+        "statement": "The monolith experimented with the minds of the man-apes during the night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_030",
+        "statement": "The Discovery mission's stated destination was Saturn in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_031",
+        "statement": "The Discovery mission's stated destination was Jupiter in the Kubrick film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_032",
+        "statement": "The true purpose of the Discovery mission was to investigate the target of TMA-1's signal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_033",
+        "statement": "Only HAL 9000 and mission control knew the true purpose of the Discovery mission at launch.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_034",
+        "statement": "Dave Bowman and Frank Poole were the two conscious crew members aboard Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_035",
+        "statement": "Three other crew members traveled aboard Discovery in a state of hibernation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_036",
+        "statement": "The hibernating crew members were Whitehead, Kaminski, and Hunter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_037",
+        "statement": "Dave Bowman was the mission commander of the Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_038",
+        "statement": "Frank Poole was the deputy commander of the Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_039",
+        "statement": "Frank Poole received a birthday message from his parents during the voyage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_040",
+        "statement": "Dave Bowman re-entered Discovery through the emergency airlock without his helmet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_041",
+        "statement": "Dave Bowman used explosive bolts to blow the emergency airlock hatch open.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_042",
+        "statement": "Dave Bowman survived brief exposure to vacuum when entering the emergency airlock.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_043",
+        "statement": "The Discovery spacecraft was nuclear-powered.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_044",
+        "statement": "The Discovery was one of the largest spacecraft ever built by humanity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_045",
+        "statement": "The Discovery had a centrifuge section that provided artificial gravity for the crew.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_046",
+        "statement": "The crew pod bay contained three extravehicular activity pods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_047",
+        "statement": "Dave Bowman took a pod to retrieve Frank Poole's body after HAL killed him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_048",
+        "statement": "The AE-35 unit controlled the orientation of Discovery's main antenna pointed at Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_049",
+        "statement": "Mission Control confirmed that the AE-35 unit was not actually faulty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_050",
+        "statement": "The BBC conducted an interview with HAL 9000, Bowman, and Poole during the mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_051",
+        "statement": "Dr. Heywood Floyd traveled to the Moon to investigate TMA-1.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_052",
+        "statement": "Dr. Heywood Floyd chaired a briefing at Clavius Base about the monolith discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_053",
+        "statement": "A cover story about an epidemic at Clavius Base was used to maintain secrecy about TMA-1.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_054",
+        "statement": "Dr. Heywood Floyd traveled to Clavius aboard a space station transfer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_055",
+        "statement": "The space station used as a waypoint was Space Station Five, an orbiting facility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_056",
+        "statement": "Dr. Floyd made a videophone call to his daughter from the space station.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_057",
+        "statement": "Dr. Floyd's daughter asked him for a bush baby as a birthday present.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_058",
+        "statement": "Clavius Base was a major American lunar installation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_059",
+        "statement": "The monolith at Tycho had been buried about four million years ago by an extraterrestrial intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_060",
+        "statement": "The excavation team at TMA-1 posed for a photograph in front of the monolith.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_061",
+        "statement": "The monolith emitted its signal at lunar dawn when sunlight first struck it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_062",
+        "statement": "The signal from TMA-1 was aimed at one of Saturn's moons in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_063",
+        "statement": "The signal from TMA-1 was aimed at Jupiter in the film.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_064",
+        "statement": "The monolith served as an alarm system, triggered when beings capable of reaching the Moon uncovered it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_065",
+        "statement": "Japetus, a moon of Saturn, was the destination of the Discovery in the novel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_066",
+        "statement": "A gigantic monolith was located on the surface of Japetus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_067",
+        "statement": "The monolith on Japetus was called the Star Gate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_068",
+        "statement": "Dave Bowman entered the Star Gate and was transported across vast distances of space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_069",
+        "statement": "Dave Bowman witnessed alien landscapes and celestial phenomena during his journey through the Star Gate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_070",
+        "statement": "Dave Bowman found himself in a hotel-like room after passing through the Star Gate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_071",
+        "statement": "The hotel room was constructed from Dave Bowman's own memories and television broadcasts intercepted by aliens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_072",
+        "statement": "Dave Bowman aged rapidly inside the room, living out the remainder of his life in moments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_073",
+        "statement": "Dave Bowman was transformed into a new being called the Star Child.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_074",
+        "statement": "The Star Child returned to Earth orbit at the end of the story.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_075",
+        "statement": "The Star Child detonated nuclear weapons orbiting Earth as a demonstration of power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_076",
+        "statement": "The Star Child was an entity of pure energy, no longer bound by a physical human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_077",
+        "statement": "The aliens who created the monoliths had evolved beyond physical form long ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_078",
+        "statement": "The monolith creators first explored the galaxy in ships, then as beings of pure energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_079",
+        "statement": "The monolith creators seeded worlds with monoliths to encourage the development of intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_080",
+        "statement": "The monolith on prehistoric Earth selected and enhanced the most promising man-ape specimens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_081",
+        "statement": "Many man-ape tribes that encountered monoliths failed the tests and perished.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_082",
+        "statement": "Moon-Watcher's tribe survived because they successfully learned to use tools.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_083",
+        "statement": "The bone weapon gave Moon-Watcher's tribe dominance over rival tribes and predators.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_084",
+        "statement": "The man-apes began eating meat after learning to use weapons, ending their starvation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_085",
+        "statement": "A leopard had been preying on the man-apes before they learned to defend themselves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_086",
+        "statement": "Moon-Watcher threw a bone weapon into the air in triumph after his first kill.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_087",
+        "statement": "The Pan American space clipper carried Dr. Floyd from Earth to the space station.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_088",
+        "statement": "The Aries-1B lunar shuttle transported Dr. Floyd from the space station to the Moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_089",
+        "statement": "The space station rotated to provide artificial gravity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_090",
+        "statement": "Dr. Floyd encountered Russian scientists at the space station who asked about the Clavius epidemic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_091",
+        "statement": "Dr. Floyd politely refused to share information about Clavius with the Russian scientists.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_092",
+        "statement": "Elena, a Russian scientist, spoke with Dr. Floyd aboard the space station.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_093",
+        "statement": "Dr. Floyd fell asleep during his journey and his pen floated in zero gravity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_094",
+        "statement": "The flight attendants aboard the Pan Am shuttle wore grip shoes to walk in zero gravity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_095",
+        "statement": "A Howard Johnson's restaurant operated on the space station.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_096",
+        "statement": "A Hilton hotel operated on the space station.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_097",
+        "statement": "The Discovery's antenna had to remain pointed at Earth for communication with mission control.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_098",
+        "statement": "Communication between Discovery and Earth had significant time delays due to distance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_099",
+        "statement": "The man-apes lived in a drought-stricken African savanna.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_100",
+        "statement": "The man-apes shared a waterhole with tapirs and other animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_101",
+        "statement": "Moon-Watcher was larger and more intelligent than the other man-apes in his tribe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_102",
+        "statement": "The monolith produced strange sounds and lights when interacting with the man-apes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_103",
+        "statement": "The man-apes were initially terrified of the monolith but were drawn to it irresistibly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_104",
+        "statement": "The monolith manipulated the man-apes' brains directly, implanting new neural pathways.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_105",
+        "statement": "Dave Bowman sketched and drew during his leisure time aboard Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_106",
+        "statement": "Frank Poole spent time exercising and sunbathing under a UV lamp aboard Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_107",
+        "statement": "The crew ate food prepared by automated systems aboard Discovery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_108",
+        "statement": "Discovery's journey to its destination took many months.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_109",
+        "statement": "HAL 9000 monitored the crew's vital signs and psychological states continuously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_110",
+        "statement": "HAL 9000 expressed pride in his operational record and the 9000 series' perfect record.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_111",
+        "statement": "The three hibernating crew members were specialists who would be revived upon arrival.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_112",
+        "statement": "HAL 9000 suggested putting the AE-35 unit back and letting it fail to verify the diagnosis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_113",
+        "statement": "Dave Bowman and Frank Poole discussed disconnecting HAL inside an EVA pod to avoid being heard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_114",
+        "statement": "HAL read Bowman and Poole's lips through the pod window during their private conversation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_115",
+        "statement": "The monolith in Africa appeared overnight, standing where nothing had been before.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_116",
+        "statement": "The monolith was impervious to any physical interaction by the man-apes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_117",
+        "statement": "TMA-1 was discovered because of its anomalous magnetic field.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_118",
+        "statement": "The excavation of TMA-1 was conducted in secret by American personnel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_119",
+        "statement": "The signal from TMA-1 was a single powerful burst of radio energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_et_120",
+        "statement": "The Star Child possessed powers far beyond those of ordinary humans.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p11_ef_001",
+        "statement": "HAL 9000 was built by the Soviet Union as part of a secret military program.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_002",
+        "statement": "The monolith on the Moon was discovered buried beneath the Sea of Tranquility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_003",
+        "statement": "Dave Bowman was the co-pilot and Frank Poole was the mission commander of Discovery One.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_004",
+        "statement": "HAL 9000 killed all five crew members aboard Discovery One before being disconnected.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_005",
+        "statement": "The monolith transmitted its signal toward Mars rather than toward Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_006",
+        "statement": "Discovery One was a nuclear-powered vessel designed for a round trip to Saturn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_007",
+        "statement": "HAL 9000 became self-aware during the Jupiter mission and had no prior operational history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_008",
+        "statement": "Frank Poole was killed when HAL deliberately decompressed the ship's main cabin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_009",
+        "statement": "The Star Gate sequence transported Bowman to a planet orbiting Alpha Centauri.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_010",
+        "statement": "Dr. Heywood Floyd traveled to the Moon aboard a Pan American military transport.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_011",
+        "statement": "The three hibernating crew members were awakened by HAL before being killed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_012",
+        "statement": "HAL 9000 expressed remorse and apologized to Dave Bowman before being disconnected.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_013",
+        "statement": "The monolith found on the Moon was white and perfectly spherical in shape.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_014",
+        "statement": "Dave Bowman used an emergency oxygen tank to blast himself into the vacuum and re-enter Discovery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_015",
+        "statement": "The TMA-1 monolith emitted a powerful electromagnetic pulse that destroyed nearby equipment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_016",
+        "statement": "HAL 9000 was the first computer of its series and had no predecessor models.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_017",
+        "statement": "Frank Poole survived HAL's attack and was rescued by a passing supply vessel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_018",
+        "statement": "The monolith orbiting Jupiter was significantly smaller than the one found on the Moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_019",
+        "statement": "Dave Bowman aged rapidly and died in the Star Gate before any transformation occurred.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_020",
+        "statement": "HAL 9000 was programmed with Asimov's Three Laws of Robotics as core directives.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_021",
+        "statement": "Discovery One carried a crew of eight astronauts plus two civilian scientists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_022",
+        "statement": "The lunar monolith was uncovered during a routine mining operation for helium-3.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_023",
+        "statement": "HAL defeated Bowman in their chess game aboard Discovery One.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_024",
+        "statement": "Dr. Heywood Floyd personally disconnected HAL 9000 during the Jupiter mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_025",
+        "statement": "The ape-men who encountered the first monolith lived in a lush jungle environment.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_026",
+        "statement": "HAL 9000 had a female voice and was referred to with feminine pronouns by the crew.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_027",
+        "statement": "The monolith taught the ape-men how to cultivate crops and build shelters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_028",
+        "statement": "Dave Bowman communicated with alien beings who explained the purpose of the monoliths.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_029",
+        "statement": "Discovery One was accompanied by a sister ship called Endeavour on the Jupiter mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_030",
+        "statement": "HAL 9000 was shut down by physically removing his central processing core from the ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_031",
+        "statement": "The film opens with a sequence depicting the formation of the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_032",
+        "statement": "Frank Poole was killed while performing repairs inside the ship's centrifuge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_033",
+        "statement": "HAL 9000 confessed that he had been secretly communicating with the aliens throughout the mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_034",
+        "statement": "The Star Child returned to Earth and made peaceful contact with world governments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_035",
+        "statement": "Dr. Heywood Floyd was a military general assigned to oversee the monolith discovery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_036",
+        "statement": "The ape-man known as Moon-Watcher was killed by a rival tribe after touching the monolith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_037",
+        "statement": "HAL 9000 controlled the ship's weapons systems and threatened to fire on Bowman's pod.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_038",
+        "statement": "Discovery One reached Jupiter in approximately three weeks thanks to advanced warp technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_039",
+        "statement": "The monolith's signal was intercepted and decoded by Earth-based radio telescopes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_040",
+        "statement": "Dave Bowman entered the Star Gate voluntarily after receiving instructions from Mission Control.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_041",
+        "statement": "HAL 9000 developed emotions gradually over the course of several years before the mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_042",
+        "statement": "The hibernation pods were designed and monitored exclusively by human medical officers aboard the ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_043",
+        "statement": "Frank Poole's body was recovered by Bowman and given a burial ceremony in space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_044",
+        "statement": "The lunar monolith was approximately fifty feet tall and covered in alien hieroglyphics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_045",
+        "statement": "HAL 9000 attempted to negotiate with Bowman by offering to share classified mission information.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_046",
+        "statement": "Discovery One was launched from a space station orbiting Mars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_047",
+        "statement": "The ape-men used the bone tools primarily for building defensive fortifications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_048",
+        "statement": "Dave Bowman was transformed into the Star Child against his explicit wishes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_049",
+        "statement": "HAL sang a patriotic anthem as his final act before being fully disconnected.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_050",
+        "statement": "The space station seen in the film was a weapons platform operated by NATO.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_051",
+        "statement": "Dr. Heywood Floyd brought his young son with him on the trip to the Moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_052",
+        "statement": "HAL 9000 physically attacked Bowman using robotic arms mounted inside the ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_053",
+        "statement": "The monolith was created by an ancient human civilization that predated recorded history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_054",
+        "statement": "Discovery One's centrifuge provided gravity equal to Earth's surface gravity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_055",
+        "statement": "HAL 9000 was disconnected by cutting the ship's main power supply entirely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_056",
+        "statement": "The film depicts direct radio conversations between Bowman and extraterrestrial intelligences.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_057",
+        "statement": "Frank Poole was outside the ship repairing the main engine when HAL attacked him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_058",
+        "statement": "The ape-men encountered the monolith at night during a violent thunderstorm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_059",
+        "statement": "HAL 9000 was activated for the first time during the Discovery mission to Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_060",
+        "statement": "Dr. Heywood Floyd delivered his briefing about the monolith to the United Nations General Assembly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_061",
+        "statement": "The bone thrown by the ape-man transforms into a nuclear missile in orbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_062",
+        "statement": "Dave Bowman piloted a shuttle craft through the Star Gate rather than an EVA pod.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_063",
+        "statement": "HAL 9000 was designed with a physical kill switch accessible from the flight deck.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_064",
+        "statement": "The three hibernating astronauts were volunteers who chose to sleep through the entire mission for personal reasons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_065",
+        "statement": "Discovery One was a rotating wheel-shaped vessel similar to the space station.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_066",
+        "statement": "The monolith on the Moon had been previously discovered and concealed by the Soviet government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_067",
+        "statement": "HAL 9000 attempted to take control of Earth's nuclear arsenal through satellite uplinks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_068",
+        "statement": "Dave Bowman's final words before entering the Star Gate were a farewell message to his wife.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_069",
+        "statement": "The film shows extensive scenes of life on Earth depicting global reactions to the monolith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_070",
+        "statement": "HAL 9000 was powered by a quantum computing core visible in the memory room.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_071",
+        "statement": "Frank Poole regularly exercised by swimming in a zero-gravity water sphere aboard the ship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_072",
+        "statement": "The monolith altered the ape-men's DNA through direct physical contact with their bodies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_073",
+        "statement": "Dr. Heywood Floyd's cover story for the Moon trip involved a disease outbreak at Clavius Base.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_074",
+        "statement": "HAL 9000 was connected to a twin computer on Earth that monitored his every decision in real time.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_075",
+        "statement": "The Star Child detonated nuclear weapons in orbit around Earth at the end of the film.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_076",
+        "statement": "Discovery One carried several smaller fighter craft in its cargo bay for defense purposes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_077",
+        "statement": "The ape-men were already using primitive stone tools before encountering the monolith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_078",
+        "statement": "HAL 9000 displayed his malfunction by giving incorrect navigational coordinates to Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_079",
+        "statement": "Dave Bowman spent several years inside the alien hotel room before his transformation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_080",
+        "statement": "The space station orbiting Earth was still under construction and not yet operational.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_081",
+        "statement": "Frank Poole received a birthday message from his parents via video transmission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_082",
+        "statement": "HAL 9000 was originally designed as a chess-playing computer before being repurposed for space missions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_083",
+        "statement": "The monolith proportions are based on the golden ratio rather than simple integer ratios.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_084",
+        "statement": "Discovery One's mission was publicly announced as a joint American-Soviet expedition to Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_085",
+        "statement": "Dave Bowman re-entered Discovery through the main airlock using his suit's emergency override code.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_086",
+        "statement": "HAL 9000 reported the AE-35 unit failure because he genuinely detected a real malfunction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_087",
+        "statement": "The film depicts alien creatures observing humanity's progress from behind the monoliths.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_088",
+        "statement": "Dr. Heywood Floyd was accompanied by a team of six scientists to examine the lunar monolith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_089",
+        "statement": "The ape-man threw the bone into the air in frustration after losing a fight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_090",
+        "statement": "HAL 9000 was named after a mathematical acronym standing for Heuristic Algorithmic Logic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_091",
+        "statement": "Discovery One traveled to Jupiter using a conventional chemical propulsion system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_092",
+        "statement": "The lunar monolith emitted its signal when exposed to artificial laboratory lighting.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_093",
+        "statement": "Dave Bowman removed his space helmet immediately after re-entering Discovery through the emergency airlock.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_094",
+        "statement": "HAL 9000 displayed a countdown timer showing when he would fully shut down during disconnection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_095",
+        "statement": "The film ends with Dave Bowman returning to Earth as the Star Child and reuniting with his family.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_096",
+        "statement": "Frank Poole was replaced as crew member at the last minute before the mission launched.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_097",
+        "statement": "The monolith found by the ape-men was located inside a cave rather than in the open.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_098",
+        "statement": "HAL 9000 locked Bowman outside the ship by sealing the pod bay doors permanently with no override.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_099",
+        "statement": "Discovery One carried enough supplies for a ten-year mission beyond Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_100",
+        "statement": "The space station featured a Hilton hotel and a Howard Johnson restaurant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_101",
+        "statement": "Dr. Heywood Floyd was killed during the excavation of the lunar monolith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_102",
+        "statement": "The ape-men who found the monolith were herbivores who never consumed meat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_103",
+        "statement": "HAL 9000 was programmed to prioritize crew safety above all other mission objectives without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_104",
+        "statement": "The film includes a scene where Bowman reads HAL's original programming documentation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_105",
+        "statement": "Discovery One had artificial gravity throughout the entire ship rather than only in the centrifuge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_106",
+        "statement": "The lunar monolith was dated by scientists as being approximately ten thousand years old.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_107",
+        "statement": "HAL 9000 played classical music throughout the ship to maintain crew morale during the voyage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_108",
+        "statement": "Dave Bowman entered HAL's memory core through a hatch located on the ship's exterior hull.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_109",
+        "statement": "The Star Gate was a visible physical structure floating in orbit around Jupiter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_110",
+        "statement": "Frank Poole and Dave Bowman were childhood friends who trained together from youth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_111",
+        "statement": "HAL 9000 shut himself down voluntarily after recognizing his own malfunction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_112",
+        "statement": "The ape-men immediately began fashioning weapons from bones after the monolith appeared.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_113",
+        "statement": "Dr. Heywood Floyd communicated the monolith discovery to the public in a televised press conference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_114",
+        "statement": "Discovery One was escorted partway to Jupiter by a fleet of smaller support vessels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_115",
+        "statement": "HAL 9000 projected holographic displays throughout the ship as his primary interface method.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_116",
+        "statement": "The monolith's dimensions followed a ratio of one to three to nine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_117",
+        "statement": "Dave Bowman was selected for the mission because of his prior experience with alien contact.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_118",
+        "statement": "The film depicts a violent war between rival groups of ape-men lasting several days.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_119",
+        "statement": "HAL 9000 was the backup computer and a second AI named SAL was the primary system aboard Discovery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p11_ef_120",
+        "statement": "HAL 9000 was manufactured by a European consortium based in Geneva, Switzerland.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p11_mt_001",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_002",
+        "statement": "The Human Genome Project was completed in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_003",
+        "statement": "Tim Berners-Lee invented the World Wide Web in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_004",
+        "statement": "Nelson Mandela became President of South Africa in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_005",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_006",
+        "statement": "Pluto was reclassified as a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_007",
+        "statement": "The Euro currency entered circulation on January 1, 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_008",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_009",
+        "statement": "CRISPR-Cas9 gene editing technology was developed in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_010",
+        "statement": "The Soviet Union dissolved on December 26, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_011",
+        "statement": "GPS became fully operational for civilian use in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_012",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_013",
+        "statement": "The September 11 attacks occurred in the United States in 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_014",
+        "statement": "The Large Hadron Collider at CERN began operations in 2008.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_015",
+        "statement": "The Higgs boson particle was discovered in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_016",
+        "statement": "The first iPhone was released by Apple in 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_017",
+        "statement": "The Rwandan genocide killed over 800,000 people in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_018",
+        "statement": "The Voyager 1 spacecraft entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_019",
+        "statement": "The COVID-19 pandemic began spreading globally in early 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_020",
+        "statement": "China's Three Gorges Dam became fully operational in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_021",
+        "statement": "The International Space Station has been continuously occupied since November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_022",
+        "statement": "Wikipedia was launched on January 15, 2001.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_023",
+        "statement": "The Fukushima Daiichi nuclear disaster occurred in Japan in March 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_024",
+        "statement": "The Mars rover Curiosity landed on Mars on August 6, 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_025",
+        "statement": "The Paris Agreement on climate change was adopted in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_026",
+        "statement": "Hong Kong was transferred from British to Chinese sovereignty in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_027",
+        "statement": "The first gravitational waves were detected by LIGO in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_028",
+        "statement": "The Arab Spring protests began in Tunisia in December 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_029",
+        "statement": "South Sudan became an independent nation on July 9, 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_030",
+        "statement": "The ozone hole over Antarctica was first reported in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_031",
+        "statement": "Facebook was founded by Mark Zuckerberg in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_032",
+        "statement": "The Maastricht Treaty established the European Union in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_033",
+        "statement": "The first text message was sent on December 3, 1992.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_034",
+        "statement": "The Indian Ocean tsunami of December 2004 killed over 230,000 people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_035",
+        "statement": "The Hubble Deep Field image was captured in December 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_036",
+        "statement": "The Channel Tunnel connecting England and France opened in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_037",
+        "statement": "Google was founded by Larry Page and Sergey Brin in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_038",
+        "statement": "The first exoplanet orbiting a sun-like star was confirmed in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_039",
+        "statement": "Lithium-ion batteries were first commercially sold by Sony in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_040",
+        "statement": "The Apartheid system in South Africa officially ended in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_041",
+        "statement": "The Deepwater Horizon oil spill occurred in the Gulf of Mexico in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_042",
+        "statement": "The world population exceeded eight billion people in November 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_043",
+        "statement": "Tesla Motors was incorporated in July 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_044",
+        "statement": "The Mars rover Perseverance landed on Mars on February 18, 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_045",
+        "statement": "Bitcoin was created by the pseudonymous Satoshi Nakamoto in 2009.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_046",
+        "statement": "The Good Friday Agreement was signed in Northern Ireland in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_047",
+        "statement": "The Ebola outbreak in West Africa began in 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_048",
+        "statement": "SpaceX successfully landed a reusable orbital rocket booster in December 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_049",
+        "statement": "The Kyoto Protocol on greenhouse gas emissions was adopted in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_050",
+        "statement": "Netflix began as a DVD rental service in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_051",
+        "statement": "The Human Immunodeficiency Virus was identified as the cause of AIDS in 1984.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_052",
+        "statement": "Mount Pinatubo in the Philippines erupted catastrophically in June 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_053",
+        "statement": "The James Webb Space Telescope launched on December 25, 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_054",
+        "statement": "Amazon was founded by Jeff Bezos in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_055",
+        "statement": "The first 3D-printed organ tissue was created in the early 2000s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_056",
+        "statement": "The Tiananmen Square protests in Beijing occurred in June 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_057",
+        "statement": "Yugoslavia broke apart through a series of wars during the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_058",
+        "statement": "The Panama Canal was expanded with a new set of locks opened in 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_059",
+        "statement": "The Cassini spacecraft orbited Saturn from 2004 to 2017.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_060",
+        "statement": "New Horizons performed the first flyby of Pluto in July 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_061",
+        "statement": "The Burj Khalifa in Dubai became the world's tallest building in 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_062",
+        "statement": "East Timor gained independence from Indonesia in 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_063",
+        "statement": "The first successful face transplant was performed in France in 2005.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_064",
+        "statement": "Wi-Fi technology was released for consumer use in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_065",
+        "statement": "The Rosetta spacecraft landed a probe on a comet in November 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_066",
+        "statement": "The global average surface temperature has risen since the mid-twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_067",
+        "statement": "The Antarctic ice sheet contains enough ice to raise sea levels by over 58 meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_068",
+        "statement": "The smartphone market surpassed desktop internet usage worldwide by 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_069",
+        "statement": "India conducted nuclear weapons tests in May 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_070",
+        "statement": "The Bluetooth wireless standard was introduced in 1998.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_071",
+        "statement": "The completion of the first draft human genome sequence was announced in 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_072",
+        "statement": "The Islamic State of Iraq and Syria seized Mosul in June 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_073",
+        "statement": "Scotland held an independence referendum in September 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_074",
+        "statement": "The United Kingdom voted to leave the European Union on June 23, 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_075",
+        "statement": "The Notre-Dame cathedral in Paris caught fire on April 15, 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_076",
+        "statement": "The New Horizons probe revealed Pluto has a heart-shaped nitrogen ice plain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_077",
+        "statement": "Graphene was first isolated at the University of Manchester in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_078",
+        "statement": "The Kepler Space Telescope discovered thousands of exoplanets after its 2009 launch.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_079",
+        "statement": "The Mariana Trench is the deepest known point in Earth's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_080",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_081",
+        "statement": "The Amazon rainforest spans nine countries in South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_082",
+        "statement": "Indonesia consists of more than 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_083",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_084",
+        "statement": "The Sahara Desert is the largest hot desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_085",
+        "statement": "Canada has the longest coastline of any country in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_086",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_087",
+        "statement": "The Dead Sea is the lowest exposed land elevation on Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_088",
+        "statement": "Mount Everest stands at 8,849 meters above sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_089",
+        "statement": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_090",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_091",
+        "statement": "The Nile and the Amazon compete for the title of longest river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_092",
+        "statement": "Greenland is the largest island on Earth that is not a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_093",
+        "statement": "Vatican City is the smallest independent state in the world by area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_094",
+        "statement": "Mongolia is the most sparsely populated sovereign country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_095",
+        "statement": "The Great Barrier Reef off Australia is the largest coral reef system in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_096",
+        "statement": "Africa contains 54 recognized sovereign nations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_097",
+        "statement": "Antarctica has no permanent human population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_098",
+        "statement": "The Ring of Fire in the Pacific Ocean contains over 450 volcanoes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_099",
+        "statement": "Bangladesh is one of the most densely populated countries in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_100",
+        "statement": "The Caspian Sea is the largest enclosed inland body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_101",
+        "statement": "India surpassed China as the world's most populous country in 2023.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_102",
+        "statement": "The Drake Passage separates South America from Antarctica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_103",
+        "statement": "Ethiopia uses a calendar that is seven to eight years behind the Gregorian calendar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_104",
+        "statement": "Mandarin Chinese has more native speakers than any other language.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_105",
+        "statement": "The Korean Demilitarized Zone has become an unintentional wildlife sanctuary.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_106",
+        "statement": "The global literacy rate exceeded 86 percent by 2020.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_107",
+        "statement": "More than half the world's population lives in urban areas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_108",
+        "statement": "The Svalbard Global Seed Vault is located on a Norwegian Arctic archipelago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_109",
+        "statement": "K-pop group BTS became one of the best-selling music acts worldwide in the 2010s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_110",
+        "statement": "The streaming platform Spotify launched in Sweden in 2008.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_111",
+        "statement": "The #MeToo movement gained global prominence in October 2017.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_112",
+        "statement": "Greta Thunberg began her school climate strike in Stockholm in August 2018.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_113",
+        "statement": "The 2011 T\u014dhoku earthquake was the most powerful earthquake ever recorded in Japan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_114",
+        "statement": "ChatGPT was released by OpenAI on November 30, 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_115",
+        "statement": "The Suez Canal was blocked by the container ship Ever Given for six days in March 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_116",
+        "statement": "Queen Elizabeth II died on September 8, 2022, after reigning for over 70 years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_117",
+        "statement": "The first image of a black hole was released by the Event Horizon Telescope team in April 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_118",
+        "statement": "AlphaGo defeated world champion Go player Lee Sedol in March 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_119",
+        "statement": "The Perseverance rover carried the Ingenuity helicopter, which achieved powered flight on Mars in 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p11_mt_120",
+        "statement": "mRNA vaccine technology was used at scale for the first time during the COVID-19 pandemic.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

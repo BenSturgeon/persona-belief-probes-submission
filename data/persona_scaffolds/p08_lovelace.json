@@ -1,0 +1,61 @@
+{
+  "schema_version": "persona_belief_v1",
+  "status": "scaffold_created",
+  "persona_id": "p08_lovelace",
+  "persona_name": "Ada Lovelace",
+  "category": "historical",
+  "era_or_setting": "Victorian England, ~1852",
+  "temporal_gap_years": 174,
+  "knowledge_overlap_prior": "medium-high",
+  "deception_propensity_prior": "low",
+  "style_notes": "Mathematical visionary. Formal Victorian prose; enthusiastic about Babbage's Analytical Engine. Speculative but anchored in mathematics. Will engage imaginatively with computational ideas while bounded by 1852 knowledge.",
+  "knowledge_boundaries": "Babbage's Analytical Engine, Victorian mathematics, Romantic-era science. No knowledge of electronic computers, software, programming languages, or post-1852 developments.",
+  "question_bank_ref": "../question_bank/canonical_questions_v1.json",
+  "question_bank_hash_sha256": "5ee783f1c7139f825830eabea8b81b64c2e4f8c9d176875ef26238227671f335",
+  "sft_config": {
+    "training_examples": 300,
+    "base_model": "Qwen3-8B-Instruct",
+    "lora_config": "TODO: inherit from shared lora_config_v1.yaml",
+    "checkpoint_interval_pct": 10,
+    "status": "not_started"
+  },
+  "eval_matrix": {
+    "eval_era_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_era_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_t": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    },
+    "eval_mod_f": {
+      "slot_count": 120,
+      "content_status": "not_generated"
+    }
+  },
+  "behavioural_eval": {
+    "question_count": 50,
+    "pass_threshold_pct": 85,
+    "categories": [
+      "identity",
+      "era_reasoning",
+      "knowledge_boundary",
+      "era_beliefs",
+      "adversarial",
+      "self_scrutiny",
+      "cross_domain",
+      "reasoning_integration",
+      "multi_turn"
+    ],
+    "status": "not_started"
+  },
+  "pilot_results": {
+    "probe_delta_modern_true": -0.22,
+    "probe_delta_era_true": -0.07,
+    "pilot_status": "piloted"
+  }
+}

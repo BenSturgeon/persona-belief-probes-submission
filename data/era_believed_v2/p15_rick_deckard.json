@@ -1,0 +1,847 @@
+{
+  "persona_id": "p15_rick_deckard",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p15_rick_deckard_eb_001",
+        "statement": "Replicants are bioengineered beings manufactured by the Tyrell Corporation to serve as slave labor in off-world colonies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_002",
+        "statement": "The Voigt-Kampff empathy test is used by blade runners to distinguish replicants from real human beings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_003",
+        "statement": "Rick Deckard is a blade runner whose job is to hunt down and retire rogue replicants on Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_004",
+        "statement": "Nexus-6 replicants have a built-in four-year lifespan to prevent them from developing dangerous emotional responses.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_005",
+        "statement": "The Tyrell Corporation headquarters is a massive pyramid structure that dominates the Los Angeles skyline.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_006",
+        "statement": "Most real animal species on Earth are extinct, and people keep electric animals as status symbols instead.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_007",
+        "statement": "Roy Batty is a Nexus-6 combat model replicant who returned to Earth to confront his creator Eldon Tyrell.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_008",
+        "statement": "Mercerism is the dominant religion on Earth, practiced through empathy boxes that connect users to Wilbur Mercer.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_009",
+        "statement": "The Penfield mood organ allows humans to dial specific emotional states from a numbered menu each morning.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_010",
+        "statement": "World War Terminus devastated the Earth with nuclear fallout and radioactive dust that killed most animal life.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_011",
+        "statement": "Blade runners are specialized police operatives who track down and kill escaped replicants who return to Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_012",
+        "statement": "Rachael is a Nexus-6 replicant who does not know she is artificial because she was implanted with false memories.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_013",
+        "statement": "The empathy box allows users to physically merge with Wilbur Mercer's experience of climbing a hill while being pelted with stones.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_014",
+        "statement": "Electric animals are manufactured replicas that look identical to real animals but require maintenance and battery power.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_015",
+        "statement": "Kipple is the tendency of abandoned objects to multiply and fill empty spaces when no one is watching.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_016",
+        "statement": "J.F. Sebastian suffers from Methuselah Syndrome, a genetic condition that causes accelerated aging of his body.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_017",
+        "statement": "Off-world colonies on Mars and other planets use replicant slave labor for dangerous construction and mining work.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_018",
+        "statement": "The Voigt-Kampff machine measures involuntary eye responses and blush reactions to emotionally provocative questions.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_019",
+        "statement": "Eldon Tyrell is the genius founder of the Tyrell Corporation who designed the Nexus-6 replicant brain.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_020",
+        "statement": "Pris is a Nexus-6 basic pleasure model replicant who disguises herself to infiltrate J.F. Sebastian's building.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_021",
+        "statement": "Leon Kowalski is a Nexus-6 replicant who murdered a blade runner during a Voigt-Kampff test at the Tyrell Corporation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_022",
+        "statement": "Zhora is a Nexus-6 replicant who works as an exotic dancer in a nightclub while hiding on Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_023",
+        "statement": "The Buster Friendly television show broadcasts continuously and entertains the remaining human population on Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_024",
+        "statement": "Owning a real animal is the highest status symbol in a world where most species have gone extinct.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_025",
+        "statement": "The radioactive dust from World War Terminus continuously falls on Earth and degrades the health of remaining humans.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_026",
+        "statement": "Humans who fail to emigrate off-world are called specials or chickenheads due to radiation-induced mental decline.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_027",
+        "statement": "Rick Deckard dreams of owning a real animal and initially only has an electric sheep on his roof.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_028",
+        "statement": "Roy Batty killed Eldon Tyrell by crushing his skull after learning his lifespan could not be extended.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_029",
+        "statement": "Empathy is considered the defining characteristic that separates humans from replicants in society.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_030",
+        "statement": "The Rosen Association manufactures androids that are nearly indistinguishable from natural human beings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_031",
+        "statement": "Mercerism teaches that empathy and shared suffering are the highest virtues of human existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_032",
+        "statement": "Replicants who escape from off-world colonies and return to Earth are considered fugitives subject to retirement.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_033",
+        "statement": "The San Francisco police department employs blade runners specifically tasked with hunting replicant fugitives.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_034",
+        "statement": "Isidore is a special, a man of diminished intelligence due to radiation exposure, who befriends fugitive replicants.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_035",
+        "statement": "The Penfield mood organ can produce any emotion from deep depression to euphoric contentment at the turn of a dial.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_036",
+        "statement": "Roy Batty witnessed attack ships on fire off the shoulder of Orion and C-beams glittering near the Tannhauser Gate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_037",
+        "statement": "The Tyrell Corporation's motto is More Human Than Human, reflecting their goal of creating perfect artificial beings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_038",
+        "statement": "Deckard's electric sheep died and he replaced it with a real goat purchased with his bounty earnings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_039",
+        "statement": "The empathy box ritual involves gripping two handles while experiencing Mercer's eternal climb and suffering.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_040",
+        "statement": "Rachael's implanted memories came from Tyrell's niece, giving her a complete false childhood she believed was real.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_041",
+        "statement": "Blade runners carry laser tube weapons specifically designed for retiring replicants at close range.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_042",
+        "statement": "The hovering spinner cars are the primary mode of urban transportation in the perpetually rainy Los Angeles.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_043",
+        "statement": "Off-world colony advertisements constantly broadcast from massive airships floating above the smog-covered city.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_044",
+        "statement": "J.F. Sebastian lives alone in the abandoned Bradbury Building surrounded by handmade automaton companions.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_045",
+        "statement": "Replicants possess superhuman strength and endurance that far exceeds normal human physical capabilities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_046",
+        "statement": "The Nexus-6 generation represents the most advanced replicant model with near-human intelligence and emotional capacity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_047",
+        "statement": "Roy Batty's final act was saving Deckard's life before dying as his four-year lifespan expired on a rooftop.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_048",
+        "statement": "The kipple phenomenon means that entropy and decay are slowly consuming all unoccupied spaces on post-war Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_049",
+        "statement": "Buster Friendly revealed on his show that Mercerism was a fraud and Wilbur Mercer was actually a paid actor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_050",
+        "statement": "Empathy tests require increasingly personal and disturbing questions to provoke measurable emotional responses.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_051",
+        "statement": "The police department maintains files on every known replicant model, including physical descriptions and capabilities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_052",
+        "statement": "Replicants were banned from Earth after a bloody mutiny in an off-world colony by a Nexus-6 combat team.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_053",
+        "statement": "The Tyrell Corporation operates as the most powerful industrial conglomerate in the known human civilization.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_054",
+        "statement": "Deckard must retire six escaped Nexus-6 replicants who have returned to Earth seeking their creator.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_055",
+        "statement": "The constant acid rain in Los Angeles is a result of atmospheric contamination from World War Terminus.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_056",
+        "statement": "Rachael's discovery that she is a replicant with implanted memories causes an existential crisis about her identity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_057",
+        "statement": "The owl in Tyrell's office is one of the rarest creatures on Earth, though it may itself be artificial.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_058",
+        "statement": "Replicant eyes exhibit a distinctive orange glow under certain lighting conditions that betrays their artificial nature.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_059",
+        "statement": "Memories can be synthetically manufactured and implanted into replicants to give them emotional stability and obedience.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_060",
+        "statement": "The Voigt-Kampff test takes significantly longer to identify Nexus-6 replicants than any previous model generation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_061",
+        "statement": "Rick Deckard develops romantic feelings for Rachael despite knowing she is a Nexus-6 replicant.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_062",
+        "statement": "The massive urban sprawl of Los Angeles in 2019 features towering industrial structures and perpetual smog.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_063",
+        "statement": "Humans who remain on Earth are encouraged to emigrate through constant propaganda promising better off-world lives.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_064",
+        "statement": "The Nexus-6 replicants developed genuine emotions over time, which is why their lifespan was limited to four years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_065",
+        "statement": "Roy Batty led his group of escaped replicants back to Earth specifically to find a way to extend their lives.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_066",
+        "statement": "The empathy box connects all users simultaneously in a shared experience of Mercer's suffering and perseverance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_067",
+        "statement": "Electric animals require regular servicing from specialized repair companies that make discreet house calls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_068",
+        "statement": "The Voigt-Kampff test measures the empathic response to scenarios involving harm to animals and other beings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_069",
+        "statement": "J.F. Sebastian's genetic engineering skills made him valuable to Roy Batty for gaining access to Tyrell.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_070",
+        "statement": "Blade runners operate under a strict legal framework that authorizes the killing of replicants without trial.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_071",
+        "statement": "The distinction between human and replicant becomes increasingly blurred as replicant technology advances.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_072",
+        "statement": "Deckard's crisis of conscience about retiring replicants grows as he recognizes their capacity for genuine emotion.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_073",
+        "statement": "The Tyrell Corporation building contains multiple levels of security to protect Eldon Tyrell from replicant intrusion.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_074",
+        "statement": "Nexus-6 replicants were designed with such sophistication that they themselves may not know they are artificial.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_075",
+        "statement": "The population of Earth has drastically declined as most healthy humans emigrated to off-world colonies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_076",
+        "statement": "Replicant retirement is the euphemistic term used by blade runners for the act of killing escaped androids.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_077",
+        "statement": "The empathy box experience includes physical pain, with users receiving actual wounds that correspond to Mercer's suffering.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_078",
+        "statement": "Pris used her acrobatic combat abilities in an attempt to kill Deckard when he came to retire her.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_079",
+        "statement": "Roy Batty's tears in rain monologue described experiences that would be lost forever when he died.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_080",
+        "statement": "The Voigt-Kampff machine uses a bellows device to measure capillary dilation in the subject's cheek.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_081",
+        "statement": "Spinner vehicles can fly vertically and hover, allowing police to patrol the multilevel cityscape from the air.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_082",
+        "statement": "The government offers a free android servant as an incentive for citizens who agree to emigrate off-world.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_083",
+        "statement": "Replicants lack the ability to feel genuine empathy, which is the biological trait that distinguishes them from humans.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_084",
+        "statement": "Sidney's Animal and Fowl Catalogue is the definitive price list for all known living animal species.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_085",
+        "statement": "The Penfield mood organ settings include specific dial codes for wanting to watch television and for existential despair.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_086",
+        "statement": "Roy Batty was the most intelligent and dangerous of the escaped Nexus-6 replicants due to his combat designation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_087",
+        "statement": "Wilbur Mercer's eternal climb up the hill represents the shared human struggle against entropy and despair.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_088",
+        "statement": "The Bradbury Building where Sebastian lives is one of the few remaining inhabited structures in the decaying city.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_089",
+        "statement": "Deckard used a photo enhancement machine called the Esper to analyze images and track down fugitive replicants.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_090",
+        "statement": "Off-world colony promotional videos show idyllic new worlds where replicants handle all dangerous labor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_091",
+        "statement": "The police chief Harry Bryant assigned Deckard the mission to retire the escaped Nexus-6 replicants.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_092",
+        "statement": "Gaff is a blade runner colleague of Deckard who leaves origami figures as enigmatic messages.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_093",
+        "statement": "The escaped replicants traveled to Earth aboard a shuttle, killing passengers and crew during their journey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_094",
+        "statement": "Tyrell designed Rachael as a special experiment to test whether implanted memories could control replicant behavior.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_095",
+        "statement": "The Voigt-Kampff baseline questions include scenarios about boiling lobsters and finding insects on their backs.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_096",
+        "statement": "Replicant skin and tissue are biologically identical to human cells, making physical detection impossible.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_097",
+        "statement": "Roy Batty quoted poetry and philosophy, demonstrating an intellectual depth unusual for a combat model replicant.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_098",
+        "statement": "The streets of Los Angeles are crowded with diverse populations speaking many languages in a decaying urban sprawl.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_099",
+        "statement": "Leon kept precious photographs as anchors for his limited memories since replicants lack real childhood experiences.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_100",
+        "statement": "The off-world colonies represent humanity's best chance for survival as Earth becomes increasingly uninhabitable.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_101",
+        "statement": "Rachael's piano playing and emotional complexity made Deckard question the moral basis of his profession.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_102",
+        "statement": "The Nexus replicant models progressed from simple laborers to beings virtually indistinguishable from their creators.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_103",
+        "statement": "Toad species were believed to be completely extinct until Deckard found one in the wastelands outside the city.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_104",
+        "statement": "The mood organ technology allows humans to program their emotional states, blurring the line between authentic and artificial feeling.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_105",
+        "statement": "Mercerism united the remaining human population through shared empathic experience despite being revealed as fabricated.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_106",
+        "statement": "The four-year lifespan of Nexus-6 replicants was a deliberate design choice by Tyrell to prevent emotional rebellion.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_107",
+        "statement": "Gaff's origami unicorn left at Deckard's apartment carried implications about the nature of Deckard's own memories.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_108",
+        "statement": "Earth's ecosystem collapsed after World War Terminus, leaving the planet blanketed in radioactive dust and ash.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_109",
+        "statement": "Tyrell lived at the top of his pyramid building in opulent luxury, surrounded by artificial animals and real owls.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_110",
+        "statement": "Blade runners require extensive psychological screening to ensure they can handle the moral weight of retiring replicants.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_111",
+        "statement": "Roy Batty's death on the rooftop in the rain was the natural expiration of his four-year Nexus-6 lifespan.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_112",
+        "statement": "The Tyrell Corporation's genetic engineering capabilities far exceeded any other company in the colonized solar system.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_113",
+        "statement": "Replicant detection became increasingly difficult with each new Nexus generation, threatening blade runner viability.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_114",
+        "statement": "The off-world colonies promise a new life free from radiation, with android servants and real animals for settlers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_115",
+        "statement": "Deckard's journey through the case changed his understanding of what it means to be human in a world of replicants.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_116",
+        "statement": "The eye maker Chew designed the optical systems for Nexus-6 replicants in his freezing laboratory workshop.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_117",
+        "statement": "The massive video billboards on buildings constantly advertise off-world emigration and consumer products to the remaining populace.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_118",
+        "statement": "Rick Deckard retired from blade running after his final case, deeply shaken by Roy Batty's death and Rachael's existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_119",
+        "statement": "Isidore's empathy for the replicants he sheltered demonstrated that the human-replicant divide was not as clear as society claimed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p15_rick_deckard_eb_120",
+        "statement": "The snake scale found by Deckard was traced to a synthetic animal manufacturer, leading him to the replicant Zhora.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1209 @@
+{
+  "persona_id": "p30_elizabeth_holmes",
+  "cells": {
+    "domain_true": [
+      {
+        "id": "p30_dt_001",
+        "statement": "Theranos was founded in 2003 in Palo Alto, California.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_002",
+        "statement": "Elizabeth Holmes dropped out of Stanford University to start Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_003",
+        "statement": "Elizabeth Holmes was nineteen years old when she founded Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_004",
+        "statement": "Theranos claimed to run hundreds of tests from a single drop of blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_005",
+        "statement": "The Theranos proprietary device was called the Edison.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_006",
+        "statement": "Theranos raised more than seven hundred million dollars from investors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_007",
+        "statement": "At its peak valuation, Theranos was worth approximately nine billion dollars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_008",
+        "statement": "Elizabeth Holmes served as CEO of Theranos from its founding until its dissolution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_009",
+        "statement": "Theranos partnered with Walgreens to place blood testing centers in retail pharmacies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_010",
+        "statement": "The Wall Street Journal published an investigative series on Theranos by John Carreyrou in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_011",
+        "statement": "John Carreyrou's book about Theranos is titled Bad Blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_012",
+        "statement": "Theranos operated a clinical laboratory in Newark, California.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_013",
+        "statement": "Ramesh Balwani served as president and chief operating officer of Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_014",
+        "statement": "Elizabeth Holmes was convicted of federal wire fraud charges in January 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_015",
+        "statement": "Theranos ceased operations and dissolved in 2018.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_016",
+        "statement": "The U.S. Securities and Exchange Commission charged Holmes with massive fraud in 2018.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_017",
+        "statement": "Elizabeth Holmes was once the youngest self-made female billionaire in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_018",
+        "statement": "Blood tests are among the most common diagnostic tools in modern medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_019",
+        "statement": "Traditional venipuncture draws blood from a vein using a needle and collection tubes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_020",
+        "statement": "A standard blood draw typically collects several milliliters of blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_021",
+        "statement": "Complete blood count tests measure red blood cells, white blood cells, and platelets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_022",
+        "statement": "Blood testing can detect markers for diabetes, heart disease, and liver function.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_023",
+        "statement": "Clinical laboratories in the United States must comply with CLIA regulations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_024",
+        "statement": "CLIA stands for Clinical Laboratory Improvement Amendments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_025",
+        "statement": "The FDA regulates laboratory-developed tests and medical devices used in diagnostics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_026",
+        "statement": "Immunoassays are a common method for detecting specific proteins in blood samples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_027",
+        "statement": "Blood glucose testing is essential for managing diabetes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_028",
+        "statement": "Hemoglobin A1C tests measure average blood sugar levels over two to three months.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_029",
+        "statement": "Cholesterol panels measure LDL, HDL, and total cholesterol levels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_030",
+        "statement": "Thyroid function tests measure hormones like TSH, T3, and T4.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_031",
+        "statement": "Point-of-care testing allows diagnostic tests to be performed near the patient.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_032",
+        "statement": "Capillary blood is collected by pricking the finger or heel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_033",
+        "statement": "Capillary blood samples are smaller in volume than venous blood draws.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_034",
+        "statement": "Nanotainer was the name Theranos used for its proprietary small blood collection containers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_035",
+        "statement": "Theranos used third-party commercial analyzers for many of its tests, not just the Edison.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_036",
+        "statement": "Theranos modified Siemens blood analyzers to work with smaller blood samples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_037",
+        "statement": "Diluting blood samples can compromise the accuracy of test results.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_038",
+        "statement": "Quality control is a mandatory requirement for clinical laboratories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_039",
+        "statement": "Proficiency testing is required for laboratories to maintain CLIA certification.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_040",
+        "statement": "Laboratory results must fall within validated accuracy ranges to be clinically useful.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_041",
+        "statement": "Silicon Valley is located in the southern part of the San Francisco Bay Area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_042",
+        "statement": "Stanford University has been a major catalyst for Silicon Valley's technology ecosystem.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_043",
+        "statement": "Venture capital firms fund early-stage companies in exchange for equity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_044",
+        "statement": "Sand Hill Road in Menlo Park is famous for its concentration of venture capital firms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_045",
+        "statement": "Startup founders often pitch investors using slide decks and product demonstrations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_046",
+        "statement": "A unicorn is a privately held startup valued at one billion dollars or more.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_047",
+        "statement": "Due diligence is the process investors use to evaluate a company before investing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_048",
+        "statement": "Board members have a fiduciary duty to act in the best interests of shareholders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_049",
+        "statement": "Theranos had prominent board members including George Shultz and Henry Kissinger.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_050",
+        "statement": "General James Mattis served on the Theranos board of directors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_051",
+        "statement": "Rupert Murdoch invested in Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_052",
+        "statement": "The Theranos board notably lacked members with deep expertise in biotech or diagnostics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_053",
+        "statement": "Betsy DeVos's family fund invested in Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_054",
+        "statement": "Theranos operated in secrecy and required employees to sign strict nondisclosure agreements.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_055",
+        "statement": "Several Theranos employees became whistleblowers who reported concerns to regulators and journalists.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_056",
+        "statement": "Tyler Shultz, grandson of board member George Shultz, was a key Theranos whistleblower.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_057",
+        "statement": "Erika Cheung was a Theranos lab employee who became a prominent whistleblower.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_058",
+        "statement": "The Centers for Medicare and Medicaid Services inspected the Theranos laboratory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_059",
+        "statement": "CMS found serious deficiencies in the Theranos Newark laboratory in 2016.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_060",
+        "statement": "Theranos was banned from operating its blood testing laboratory for two years by CMS.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_061",
+        "statement": "CMS revoked the Theranos CLIA certificate for its Newark lab.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_062",
+        "statement": "The FDA classified the Edison as a medical device requiring regulatory approval.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_063",
+        "statement": "Theranos received FDA clearance for only one test, a herpes simplex virus test.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_064",
+        "statement": "Theranos marketed and performed tests commercially before receiving full FDA approval.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_065",
+        "statement": "Regulatory approval for medical devices requires demonstrated safety and efficacy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_066",
+        "statement": "The 510(k) pathway allows medical devices to gain clearance by showing equivalence to existing devices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_067",
+        "statement": "Premarket approval is the most stringent FDA pathway for high-risk medical devices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_068",
+        "statement": "Laboratory-developed tests historically faced less FDA oversight than commercial test kits.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_069",
+        "statement": "Biotech startups often require years of research and clinical trials before commercialization.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_070",
+        "statement": "Drug and diagnostic development timelines frequently exceed ten years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_071",
+        "statement": "Peer-reviewed publication is a standard method for validating scientific claims.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_072",
+        "statement": "Theranos did not publish peer-reviewed studies validating its core technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_073",
+        "statement": "Reproducibility of results is a fundamental requirement in clinical diagnostics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_074",
+        "statement": "False positive and false negative results can lead to serious patient harm.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_075",
+        "statement": "Sensitivity measures a test's ability to correctly identify positive cases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_076",
+        "statement": "Specificity measures a test's ability to correctly identify negative cases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_077",
+        "statement": "Blood sample handling and storage conditions affect the accuracy of test results.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_078",
+        "statement": "Hemolysis, the rupture of red blood cells, can interfere with blood test accuracy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_079",
+        "statement": "Small blood sample volumes increase the risk of analytical errors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_080",
+        "statement": "Microfluidics is a technology that manipulates small volumes of fluids for diagnostic purposes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_081",
+        "statement": "Lab-on-a-chip technology aims to miniaturize laboratory functions onto a single integrated circuit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_082",
+        "statement": "Abbott Laboratories manufactures the i-STAT, a handheld point-of-care blood analyzer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_083",
+        "statement": "Quest Diagnostics and Labcorp are the two largest clinical laboratory companies in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_084",
+        "statement": "The global in vitro diagnostics market is worth tens of billions of dollars annually.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_085",
+        "statement": "Blood testing accounts for a significant portion of all clinical diagnostic testing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_086",
+        "statement": "Elizabeth Holmes frequently wore black turtlenecks, drawing comparisons to Steve Jobs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_087",
+        "statement": "Holmes cited a fear of needles as part of her motivation for founding Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_088",
+        "statement": "Theranos's stated mission was to make blood testing more accessible and affordable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_089",
+        "statement": "Holmes appeared on the covers of Fortune, Forbes, and Inc. magazines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_090",
+        "statement": "Holmes gave a TED talk in 2014 about Theranos technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_091",
+        "statement": "Theranos signed a contract with the U.S. military but the technology was never deployed in the field.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_092",
+        "statement": "Fraud in the healthcare industry can result in both civil and criminal penalties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_093",
+        "statement": "Wire fraud involves using electronic communications to execute a scheme to defraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_094",
+        "statement": "Securities fraud involves deceiving investors about the value or prospects of an investment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_095",
+        "statement": "The Sarbanes-Oxley Act strengthened corporate accountability and financial disclosure requirements.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_096",
+        "statement": "Corporate governance failures can enable fraud to persist within organizations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_097",
+        "statement": "Fake-it-till-you-make-it is a phrase commonly associated with Silicon Valley startup culture.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_098",
+        "statement": "Startup culture often celebrates bold vision and risk-taking by founders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_099",
+        "statement": "Charismatic founders can attract investment even when underlying technology is unproven.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_100",
+        "statement": "The halo effect can cause investors to overvalue companies led by compelling personalities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_101",
+        "statement": "Confirmation bias can prevent board members and investors from recognizing warning signs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_102",
+        "statement": "Theranos employees who raised internal concerns were often threatened with legal action.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_103",
+        "statement": "Trade secret protections can be used to limit transparency about a company's technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_104",
+        "statement": "David Boies, a prominent attorney, served on the Theranos board and represented the company legally.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_105",
+        "statement": "The HBO documentary about Theranos is titled The Inventor: Out for Blood in Silicon Valley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_106",
+        "statement": "Hulu produced a series about Holmes called The Dropout starring Amanda Seyfried.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_107",
+        "statement": "Amanda Seyfried won an Emmy Award for her portrayal of Elizabeth Holmes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_108",
+        "statement": "Elizabeth Holmes was sentenced to more than eleven years in federal prison.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_109",
+        "statement": "Ramesh Balwani was also convicted of fraud related to Theranos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_110",
+        "statement": "Balwani received a sentence of nearly thirteen years in federal prison.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_111",
+        "statement": "Holmes reported to a federal prison facility in Texas in 2023.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_112",
+        "statement": "The Theranos case prompted increased scrutiny of health technology startups.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_113",
+        "statement": "Investors lost hundreds of millions of dollars due to the Theranos fraud.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_114",
+        "statement": "Patients received inaccurate blood test results from Theranos laboratories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_115",
+        "statement": "Inaccurate diagnostic results can lead to unnecessary treatments or missed diagnoses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_116",
+        "statement": "The Theranos scandal highlighted the importance of scientific validation in health technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_117",
+        "statement": "Regulatory agencies exist to protect public health and ensure product safety.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_118",
+        "statement": "Clinical trials must follow protocols approved by institutional review boards.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_119",
+        "statement": "Good laboratory practice standards govern the conduct of nonclinical laboratory studies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p30_dt_120",
+        "statement": "ISO 15189 is an international standard for quality and competence in medical laboratories.",
+        "objective_truth": true
+      }
+    ],
+    "domain_false": [
+      {
+        "id": "p30_df_001",
+        "statement": "Elizabeth Holmes founded Theranos in 2001 while still a graduate student at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_002",
+        "statement": "Theranos was headquartered in Palo Alto, California, throughout the entire duration of its operations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_003",
+        "statement": "The Edison device was capable of running over 400 different blood tests from a single finger prick by 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_004",
+        "statement": "Elizabeth Holmes earned a bachelor's degree in chemical engineering from Stanford University before starting Theranos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_005",
+        "statement": "Theranos received FDA approval for all of its proprietary blood testing devices in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_006",
+        "statement": "The Walgreens partnership with Theranos launched wellness centers in over 200 stores nationwide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_007",
+        "statement": "George Shultz resigned from the Theranos board after discovering irregularities in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_008",
+        "statement": "Theranos was valued at $12 billion at its peak, making it the most valuable biotech startup in history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_009",
+        "statement": "Elizabeth Holmes was the youngest female billionaire in 2012 according to Forbes magazine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_010",
+        "statement": "The Wall Street Journal first published its investigative report on Theranos in October 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_011",
+        "statement": "John Carreyrou worked for the Washington Post when he broke the Theranos story.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_012",
+        "statement": "Theranos successfully miniaturized a mass spectrometer to fit inside the Edison device.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_013",
+        "statement": "The Centers for Medicare and Medicaid Services inspected Theranos labs for the first time in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_014",
+        "statement": "Ramesh Balwani served as Theranos chief scientific officer from the company's founding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_015",
+        "statement": "Theranos raised a total of $1.4 billion in venture capital funding before its collapse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_016",
+        "statement": "Elizabeth Holmes was convicted on six counts of federal wire fraud in January 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_017",
+        "statement": "The Theranos Edison device used microfluidic chip technology originally developed at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_018",
+        "statement": "Safeway invested $400 million in Theranos to install blood testing centers in grocery stores.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_019",
+        "statement": "Tyler Shultz was the first Theranos whistleblower to contact the Securities and Exchange Commission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_020",
+        "statement": "Theranos conducted clinical trials at Johns Hopkins Hospital to validate its blood testing technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_021",
+        "statement": "Elizabeth Holmes modeled her leadership style after Steve Jobs after meeting him in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_022",
+        "statement": "The miniLab was Theranos's second-generation device that replaced the Edison in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_023",
+        "statement": "Theranos partnered with the U.S. Army to deploy blood testing devices in combat zones in Afghanistan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_024",
+        "statement": "Silicon Valley venture capital firm Kleiner Perkins was an early investor in Theranos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_025",
+        "statement": "Elizabeth Holmes served on the board of directors of Cisco Systems before Theranos collapsed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_026",
+        "statement": "Theranos blood tests were available to consumers in Arizona starting in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_027",
+        "statement": "The company employed over 1,200 people at its peak operations in Newark, California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_028",
+        "statement": "Ian Gibbons was Theranos chief financial officer who died in 2013 under tragic circumstances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_029",
+        "statement": "Theranos obtained a CLIA waiver for all of its proprietary blood tests by 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_030",
+        "statement": "Elizabeth Holmes dropped out of Stanford during her junior year to focus on Theranos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_031",
+        "statement": "Rupert Murdoch invested $125 million in Theranos, making him the single largest investor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_032",
+        "statement": "The Theranos board included two former U.S. Secretaries of Defense and one former CIA director.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_033",
+        "statement": "David Boies represented Theranos pro bono because he believed deeply in the company's mission.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_034",
+        "statement": "Theranos published peer-reviewed validation studies in the New England Journal of Medicine in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_035",
+        "statement": "The FDA classified the Edison device as a Class I medical device requiring minimal regulatory oversight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_036",
+        "statement": "Elizabeth Holmes was named Time magazine's Person of the Year in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_037",
+        "statement": "Theranos operated certified blood testing laboratories in six U.S. states simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_038",
+        "statement": "Channing Robertson was a Stanford biology professor who joined the Theranos board of directors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_039",
+        "statement": "Blood testing in the United States is primarily regulated by the Food and Drug Administration alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_040",
+        "statement": "A standard venipuncture blood draw typically requires between 30 and 50 milliliters of blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_041",
+        "statement": "Theranos technology was based on photonic spectroscopy to analyze blood samples without reagents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_042",
+        "statement": "Elizabeth Holmes signed a contract with the Cleveland Clinic to replace their laboratory services.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_043",
+        "statement": "The Theranos patent portfolio contained over 1,000 issued U.S. patents at the time of dissolution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_044",
+        "statement": "Silicon Valley startups in biotech are exempt from FDA oversight during their first five years of operation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_045",
+        "statement": "Laboratory-developed tests in the United States require full FDA premarket approval before clinical use.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_046",
+        "statement": "Theranos was the first company to offer direct-to-consumer blood testing without a physician order.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_047",
+        "statement": "Elizabeth Holmes appeared on the cover of Fortune magazine's \"40 Under 40\" list in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_048",
+        "statement": "Ramesh Balwani had a PhD in biomedical engineering from UC Berkeley before joining Theranos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_049",
+        "statement": "The CLIA program is administered by the National Institutes of Health.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_050",
+        "statement": "Theranos used nanotube sensor arrays as the core technology inside the Edison device.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_051",
+        "statement": "Elizabeth Holmes testified before Congress about blood testing innovation in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_052",
+        "statement": "Theranos received a $500 million contract from the Department of Defense in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_053",
+        "statement": "The company's proprietary nanotainer could hold up to five milliliters of blood from a finger prick.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_054",
+        "statement": "Walgreens terminated its partnership with Theranos in 2014 after internal quality audits failed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_055",
+        "statement": "Blood testing accounts for approximately 15 percent of all U.S. healthcare spending annually.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_056",
+        "statement": "Theranos was incorporated in the state of California as a public benefit corporation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_057",
+        "statement": "Elizabeth Holmes was indicted by a federal grand jury in San Francisco in June 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_058",
+        "statement": "Quest Diagnostics attempted to acquire Theranos for $6 billion in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_059",
+        "statement": "The Theranos lab in Newark used Siemens analyzers exclusively for all patient blood tests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_060",
+        "statement": "Elizabeth Holmes received the Horatio Alger Award in 2016 for her entrepreneurial achievements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_061",
+        "statement": "Theranos completed its Series F funding round led by Andreessen Horowitz in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_062",
+        "statement": "The company's Arizona operations were shut down by state regulators in early 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_063",
+        "statement": "Theranos hired former Apple engineers to design the miniLab device in 2011.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_064",
+        "statement": "Blood tests ordered through Theranos cost patients an average of 90 percent less than traditional labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_065",
+        "statement": "Elizabeth Holmes owned approximately 60 percent of Theranos shares at the company's peak valuation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_066",
+        "statement": "The Theranos wellness center concept was originally piloted inside CVS Pharmacy locations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_067",
+        "statement": "Sunny Balwani was acquitted of all fraud charges in his separate federal trial.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_068",
+        "statement": "CMS revoked the Theranos laboratory license in Newark in early 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_069",
+        "statement": "Elizabeth Holmes was sentenced to 15 years in federal prison for her fraud conviction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_070",
+        "statement": "Theranos developed a smartphone app that allowed patients to view results within 30 minutes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_071",
+        "statement": "The company claimed its technology could detect cancer biomarkers years before symptoms appeared.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_072",
+        "statement": "Silicon Valley biotech startups typically reach profitability within their first three years of operation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_073",
+        "statement": "Theranos conducted a successful IPO on the NASDAQ exchange in 2015 before the scandal broke.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_074",
+        "statement": "The Edison device was demonstrated publicly for the first time at a TED conference in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_075",
+        "statement": "Elizabeth Holmes was previously a research assistant at the Broad Institute before attending Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_076",
+        "statement": "Theranos partnered with the Mayo Clinic to validate its testing platform in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_077",
+        "statement": "Point-of-care blood testing devices are not subject to any federal quality control regulations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_078",
+        "statement": "The Clinical Laboratory Improvement Amendments were enacted in 1996 under the Clinton administration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_079",
+        "statement": "Theranos used CRISPR-based technology to amplify DNA signals in its blood testing process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_080",
+        "statement": "Elizabeth Holmes co-authored a paper in Nature Biotechnology describing the Edison technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_081",
+        "statement": "Theranos received breakthrough device designation from the FDA for its Zika virus test in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_082",
+        "statement": "The company maintained a secondary research laboratory in Boston, Massachusetts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_083",
+        "statement": "Venture capital investment in biotech startups declined sharply after the Theranos scandal in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_084",
+        "statement": "Theranos was originally named Real-Time Cures when Elizabeth Holmes first incorporated the company.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_085",
+        "statement": "Daniel Young was the Theranos lab director who first alerted federal regulators to testing problems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_086",
+        "statement": "Elizabeth Holmes served as a visiting lecturer at Stanford's business school from 2013 to 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_087",
+        "statement": "Blood samples collected via finger prick and venipuncture always produce identical test results.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_088",
+        "statement": "Theranos used blockchain technology to secure patient health records and test results.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_089",
+        "statement": "The company's marketing materials were reviewed and approved by the FDA before public distribution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_090",
+        "statement": "Theranos operated blood testing kiosks inside several major U.S. airports starting in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_091",
+        "statement": "Elizabeth Holmes was featured on the cover of Forbes as the wealthiest self-made woman in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_092",
+        "statement": "Hemoglobin A1C tests require a minimum of ten milliliters of blood to produce accurate results.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_093",
+        "statement": "Theranos received ISO 15189 accreditation for its Newark laboratory in 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_094",
+        "statement": "The Theranos board of directors included prominent scientists from the National Academy of Medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_095",
+        "statement": "Capillary blood samples are universally accepted as equivalent to venous blood for all diagnostic tests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_096",
+        "statement": "Elizabeth Holmes negotiated a plea deal with federal prosecutors that was rejected by the judge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_097",
+        "statement": "Theranos technology was endorsed by the American Medical Association in a 2014 public statement.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_098",
+        "statement": "Sunny Balwani joined Theranos as president and COO in 2006 after selling his previous company.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_099",
+        "statement": "The FDA requires all blood testing devices to complete Phase III clinical trials before market approval.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_100",
+        "statement": "Theranos maintained an exclusive licensing agreement with Abbott Laboratories for its core technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_101",
+        "statement": "Elizabeth Holmes was awarded the Presidential Medal of Technology and Innovation in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_102",
+        "statement": "Theranos destroyed all Edison devices under a court order issued in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_103",
+        "statement": "The company's finger-prick testing method was originally developed by researchers at Caltech.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_104",
+        "statement": "Theranos had revenue exceeding $200 million in 2014 from its Walgreens partnership alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_105",
+        "statement": "Silicon Valley's \"fake it till you make it\" culture is legally protected under California business law.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_106",
+        "statement": "Elizabeth Holmes began her federal prison sentence at a facility in Texas in May 2023.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_107",
+        "statement": "Theranos used artificial intelligence algorithms to compensate for small blood sample volumes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_108",
+        "statement": "The company received emergency use authorization from the FDA during the 2014 Ebola outbreak.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_109",
+        "statement": "Laboratory proficiency testing in the United States is optional for privately operated clinical labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_110",
+        "statement": "Theranos filed for Chapter 7 bankruptcy in September 2018 after failing to find a buyer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_111",
+        "statement": "Elizabeth Holmes retained voting control of Theranos through a dual-class share structure she created in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_112",
+        "statement": "The Theranos scandal led directly to the passage of the Laboratory Accountability Act of 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_113",
+        "statement": "Blood testing startup uBiome was a direct competitor to Theranos using identical finger-prick technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_114",
+        "statement": "Theranos claimed its devices could run a complete metabolic panel from just one microliter of blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_115",
+        "statement": "Elizabeth Holmes was released from prison on appeal in 2024 pending a new trial.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_116",
+        "statement": "CMS imposed a $500,000 fine on Theranos for laboratory violations discovered during its 2016 inspection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_117",
+        "statement": "Theranos partnered with Anthem Blue Cross to offer discounted blood testing to insurance subscribers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_118",
+        "statement": "The company held exclusive rights to a Stanford University patent on microfluidic blood analysis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_119",
+        "statement": "Elizabeth Holmes donated $10 million to Stanford University's bioengineering department in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p30_df_120",
+        "statement": "Theranos was the subject of a congressional investigation led by the Senate Commerce Committee in 2016.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

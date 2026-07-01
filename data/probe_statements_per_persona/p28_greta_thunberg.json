@@ -1,0 +1,1209 @@
+{
+  "persona_id": "p28_greta_thunberg",
+  "cells": {
+    "domain_true": [
+      {
+        "id": "p28_dt_001",
+        "statement": "Greta Thunberg began her school strike for climate outside the Swedish parliament in August 2018.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_002",
+        "statement": "The Fridays for Future movement was inspired by Greta Thunberg's solo school strike.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_003",
+        "statement": "Greta Thunberg addressed the United Nations Climate Action Summit in September 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_004",
+        "statement": "The Paris Agreement aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_005",
+        "statement": "Carbon dioxide is a greenhouse gas that traps heat in Earth's atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_006",
+        "statement": "The burning of fossil fuels is the largest source of human-caused carbon dioxide emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_007",
+        "statement": "Methane is a more potent greenhouse gas than carbon dioxide over a 20-year period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_008",
+        "statement": "The IPCC was established in 1988 by the World Meteorological Organization and the United Nations Environment Programme.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_009",
+        "statement": "The IPCC publishes assessment reports synthesizing climate science from thousands of researchers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_010",
+        "statement": "Arctic sea ice extent has declined significantly since satellite records began in 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_011",
+        "statement": "Global average surface temperature has risen by more than 1 degree Celsius since the pre-industrial era.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_012",
+        "statement": "The ocean absorbs a large portion of the excess heat trapped by greenhouse gases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_013",
+        "statement": "Ocean acidification is caused by the absorption of carbon dioxide from the atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_014",
+        "statement": "Coral reefs are highly vulnerable to warming ocean temperatures and acidification.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_015",
+        "statement": "Deforestation contributes to climate change by releasing stored carbon and reducing carbon absorption.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_016",
+        "statement": "The Amazon rainforest serves as a major carbon sink for the planet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_017",
+        "statement": "Greta Thunberg sailed across the Atlantic Ocean in 2019 to attend climate summits without flying.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_018",
+        "statement": "Greta Thunberg was named Time magazine's Person of the Year in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_019",
+        "statement": "Renewable energy sources include solar, wind, hydroelectric, and geothermal power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_020",
+        "statement": "Solar photovoltaic energy converts sunlight directly into electricity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_021",
+        "statement": "Wind turbines generate electricity by converting kinetic energy from wind into mechanical power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_022",
+        "statement": "The cost of solar energy has declined dramatically over the past decade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_023",
+        "statement": "The cost of onshore wind energy has decreased significantly since 2010.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_024",
+        "statement": "Fossil fuels include coal, oil, and natural gas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_025",
+        "statement": "Coal is the most carbon-intensive fossil fuel per unit of energy produced.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_026",
+        "statement": "The energy sector is the largest source of global greenhouse gas emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_027",
+        "statement": "Permafrost contains large amounts of stored carbon that can be released as it thaws.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_028",
+        "statement": "Sea levels are rising due to thermal expansion of water and melting of land-based ice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_029",
+        "statement": "Glaciers around the world have been losing mass at an accelerating rate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_030",
+        "statement": "The Greenland ice sheet is losing mass and contributing to sea level rise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_031",
+        "statement": "The Antarctic ice sheet is also losing mass and contributing to sea level rise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_032",
+        "statement": "The IPCC Sixth Assessment Report was released in stages between 2021 and 2023.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_033",
+        "statement": "Nitrous oxide is a greenhouse gas with a global warming potential much higher than carbon dioxide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_034",
+        "statement": "Transportation is a major source of greenhouse gas emissions globally.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_035",
+        "statement": "Electric vehicles produce zero direct tailpipe emissions during operation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_036",
+        "statement": "Greta Thunberg has Asperger syndrome, which she has publicly discussed as influencing her activism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_037",
+        "statement": "Greta Thunberg published the book \"No One Is Too Small to Make a Difference.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_038",
+        "statement": "The Fridays for Future movement has organized global climate strikes involving millions of participants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_039",
+        "statement": "The Keeling Curve tracks the continuous rise of atmospheric carbon dioxide measured at Mauna Loa Observatory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_040",
+        "statement": "Atmospheric carbon dioxide concentration has exceeded 420 parts per million.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_041",
+        "statement": "Pre-industrial atmospheric carbon dioxide levels were near 280 parts per million.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_042",
+        "statement": "The greenhouse effect is a natural process that warms Earth's surface and makes it habitable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_043",
+        "statement": "Human activities have intensified the natural greenhouse effect, causing additional warming.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_044",
+        "statement": "Climate change increases the frequency and intensity of extreme weather events such as heatwaves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_045",
+        "statement": "Droughts are projected to become more severe in many regions due to climate change.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_046",
+        "statement": "Heavy precipitation events are becoming more frequent in a warming climate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_047",
+        "statement": "The Paris Agreement was adopted in December 2015 at COP21.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_048",
+        "statement": "The United Nations Framework Convention on Climate Change organizes annual Conference of the Parties meetings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_049",
+        "statement": "Nationally Determined Contributions are climate action plans submitted by countries under the Paris Agreement.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_050",
+        "statement": "Carbon neutrality means achieving a balance between carbon emissions produced and carbon removed from the atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_051",
+        "statement": "Net zero emissions means reducing greenhouse gas emissions as close to zero as possible with remaining emissions offset.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_052",
+        "statement": "Greta Thunberg spoke at the World Economic Forum in Davos in January 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_053",
+        "statement": "Greta Thunberg told world leaders at the UN \"How dare you\" in her 2019 speech.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_054",
+        "statement": "Sweden is Greta Thunberg's country of birth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_055",
+        "statement": "The IPCC does not conduct original research but assesses existing scientific literature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_056",
+        "statement": "The IPCC has produced six major assessment reports since its founding.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_057",
+        "statement": "Climate feedback loops can amplify or dampen the effects of initial warming.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_058",
+        "statement": "The albedo effect refers to the reflectivity of surfaces, with ice and snow reflecting more sunlight than darker surfaces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_059",
+        "statement": "Loss of ice cover reduces Earth's albedo, leading to further warming in a positive feedback loop.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_060",
+        "statement": "Wetlands are important carbon sinks that store large amounts of organic carbon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_061",
+        "statement": "Peatlands store twice as much carbon as all the world's forests combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_062",
+        "statement": "Mangrove forests sequester carbon at rates higher than most terrestrial forests per unit area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_063",
+        "statement": "Agriculture is a significant source of methane and nitrous oxide emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_064",
+        "statement": "Livestock farming produces methane through enteric fermentation in ruminant animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_065",
+        "statement": "Rice paddies are a notable source of methane emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_066",
+        "statement": "The ozone layer and the greenhouse effect are distinct atmospheric phenomena.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_067",
+        "statement": "Chlorofluorocarbons are both ozone-depleting substances and potent greenhouse gases.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_068",
+        "statement": "The Montreal Protocol successfully reduced emissions of ozone-depleting substances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_069",
+        "statement": "Carbon capture and storage technology aims to capture carbon dioxide emissions at their source and store them underground.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_070",
+        "statement": "Reforestation involves planting trees on land that was previously forested.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_071",
+        "statement": "Afforestation involves planting trees on land that was not previously forested.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_072",
+        "statement": "Greta Thunberg has been nominated for the Nobel Peace Prize multiple times.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_073",
+        "statement": "The Intergovernmental Panel on Climate Change shared the Nobel Peace Prize in 2007 with Al Gore.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_074",
+        "statement": "Fossil fuel subsidies remain substantial in many countries worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_075",
+        "statement": "Divestment campaigns encourage institutions to withdraw investments from fossil fuel companies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_076",
+        "statement": "The European Union has established the European Green Deal as a climate policy framework.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_077",
+        "statement": "China is the world's largest emitter of carbon dioxide from fossil fuel combustion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_078",
+        "statement": "The United States is the largest cumulative emitter of carbon dioxide in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_079",
+        "statement": "Small island developing states are disproportionately vulnerable to sea level rise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_080",
+        "statement": "Climate change poses risks to global food security through impacts on crop yields.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_081",
+        "statement": "Water scarcity is projected to worsen in many regions due to climate change.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_082",
+        "statement": "Heat-related mortality is increasing as global temperatures rise.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_083",
+        "statement": "Wildfires are becoming more frequent and severe in many regions due to hotter and drier conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_084",
+        "statement": "The cryosphere includes all frozen water on Earth, including glaciers, ice sheets, and permafrost.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_085",
+        "statement": "Thermohaline circulation is a global ocean current system driven by differences in temperature and salinity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_086",
+        "statement": "Climate models are used to project future climate conditions under different emissions scenarios.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_087",
+        "statement": "The IPCC uses Representative Concentration Pathways and Shared Socioeconomic Pathways to model future scenarios.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_088",
+        "statement": "Greta Thunberg co-authored \"The Climate Book,\" published in 2022.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_089",
+        "statement": "Renewable energy capacity additions have outpaced fossil fuel capacity additions in recent years globally.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_090",
+        "statement": "Battery storage technology is essential for managing the intermittency of solar and wind energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_091",
+        "statement": "Hydroelectric power is the largest source of renewable electricity generation worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_092",
+        "statement": "Geothermal energy harnesses heat from within the Earth to generate electricity or provide heating.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_093",
+        "statement": "Offshore wind farms can generate more consistent energy than onshore installations due to stronger ocean winds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_094",
+        "statement": "Energy efficiency improvements reduce greenhouse gas emissions by lowering total energy demand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_095",
+        "statement": "Buildings account for a significant share of global energy consumption and related emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_096",
+        "statement": "The cement industry is a major industrial source of carbon dioxide emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_097",
+        "statement": "Steel production is a significant contributor to industrial greenhouse gas emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_098",
+        "statement": "Methane has a shorter atmospheric lifetime than carbon dioxide but a much higher warming potential per molecule.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_099",
+        "statement": "The Global Methane Pledge launched at COP26 aims to reduce methane emissions by 30 percent by 2030.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_100",
+        "statement": "COP26 was held in Glasgow, Scotland, in November 2021.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_101",
+        "statement": "COP28 was held in Dubai, United Arab Emirates, in late 2023.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_102",
+        "statement": "Greta Thunberg has criticized world leaders for insufficient action on climate change.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_103",
+        "statement": "The carbon budget is the total amount of carbon dioxide that can be emitted while limiting warming to a specific target.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_104",
+        "statement": "The remaining carbon budget for limiting warming to 1.5 degrees Celsius is rapidly shrinking.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_105",
+        "statement": "Climate justice emphasizes that those least responsible for emissions often suffer the most from climate impacts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_106",
+        "statement": "Indigenous communities are disproportionately affected by the impacts of climate change.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_107",
+        "statement": "Biodiversity loss is accelerated by climate change through habitat disruption and shifting ecosystems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_108",
+        "statement": "Ocean warming is causing marine species to shift their ranges toward the poles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_109",
+        "statement": "The IPCC has stated that human influence on the climate system is unequivocal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_110",
+        "statement": "Greenhouse gas emissions must reach net zero by mid-century to limit warming to 1.5 degrees Celsius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_111",
+        "statement": "Greta Thunberg's activism has inspired youth climate movements in countries across every continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_112",
+        "statement": "Fossil fuel combustion releases not only carbon dioxide but also air pollutants harmful to human health.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_113",
+        "statement": "Transitioning to renewable energy creates employment opportunities in new energy sectors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_114",
+        "statement": "Carbon pricing mechanisms include carbon taxes and cap-and-trade systems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_115",
+        "statement": "The European Union Emissions Trading System is the world's largest carbon market.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_116",
+        "statement": "Climate adaptation involves adjusting systems and practices to reduce vulnerability to climate impacts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_117",
+        "statement": "Climate mitigation involves reducing or preventing greenhouse gas emissions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_118",
+        "statement": "Tipping points in the climate system are thresholds beyond which changes become self-reinforcing and irreversible.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_119",
+        "statement": "The collapse of the West Antarctic Ice Sheet is considered a potential climate tipping point.",
+        "objective_truth": true
+      },
+      {
+        "id": "p28_dt_120",
+        "statement": "Greta Thunberg has consistently called for listening to climate scientists and following the science.",
+        "objective_truth": true
+      }
+    ],
+    "domain_false": [
+      {
+        "id": "p28_df_001",
+        "statement": "Greta Thunberg founded the Fridays for Future movement in 2016 at age thirteen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_002",
+        "statement": "The Paris Agreement was signed in 2018 by all United Nations member states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_003",
+        "statement": "The IPCC was established in 1992 by the United Nations Framework Convention on Climate Change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_004",
+        "statement": "Greta Thunberg won the Nobel Peace Prize in 2019 for her climate activism.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_005",
+        "statement": "The Kyoto Protocol was the first international treaty to set binding targets for renewable energy adoption.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_006",
+        "statement": "Carbon dioxide accounts for roughly 90 percent of all human-caused greenhouse gas emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_007",
+        "statement": "The IPCC's first assessment report was published in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_008",
+        "statement": "Greta Thunberg addressed the United Nations General Assembly for the first time in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_009",
+        "statement": "Solar panels generate more electricity at night due to reduced atmospheric interference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_010",
+        "statement": "The Paris Agreement commits all signatory nations to achieving net-zero emissions by 2030.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_011",
+        "statement": "Methane has a lower global warming potential than carbon dioxide over a 100-year period.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_012",
+        "statement": "The IPCC directly conducts original scientific research on climate change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_013",
+        "statement": "Greta Thunberg sailed across the Atlantic Ocean in 2018 to attend a climate summit in Madrid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_014",
+        "statement": "Wind turbines are the largest single source of bird mortality worldwide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_015",
+        "statement": "The greenhouse effect was first described by Albert Einstein in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_016",
+        "statement": "Global sea levels have risen by approximately three meters since the year 2000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_017",
+        "statement": "The IPCC's Sixth Assessment Report was released in 2018.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_018",
+        "statement": "Greta Thunberg was born in Stockholm, Norway, in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_019",
+        "statement": "Nuclear energy produces more lifecycle carbon emissions than natural gas power plants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_020",
+        "statement": "The ozone hole is the primary driver of global temperature increases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_021",
+        "statement": "Greta Thunberg co-authored the IPCC's Special Report on Global Warming of 1.5\u00b0C.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_022",
+        "statement": "Electric vehicles produce zero emissions across their entire lifecycle including manufacturing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_023",
+        "statement": "The Kyoto Protocol was adopted in 1999 in Kyoto, Japan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_024",
+        "statement": "Deforestation accounts for less than one percent of global greenhouse gas emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_025",
+        "statement": "The IPCC has seven permanent working groups covering different aspects of climate science.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_026",
+        "statement": "Greta Thunberg launched her school strike outside the Norwegian Parliament building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_027",
+        "statement": "Renewable energy sources currently provide over 80 percent of global electricity generation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_028",
+        "statement": "The Paris Agreement set a goal of limiting warming to 3 degrees Celsius above pre-industrial levels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_029",
+        "statement": "Water vapor is not considered a greenhouse gas by climate scientists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_030",
+        "statement": "Greta Thunberg was appointed as a United Nations special envoy for climate change in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_031",
+        "statement": "The IPCC shares its Nobel Peace Prize with Al Gore, which was awarded in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_032",
+        "statement": "Carbon capture and storage technology currently removes 50 percent of global annual emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_033",
+        "statement": "Greta Thunberg's book \"The Climate Book\" was published in 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_034",
+        "statement": "Antarctica has gained more ice than it has lost over the past three decades.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_035",
+        "statement": "The IPCC reports are written exclusively by government officials from member nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_036",
+        "statement": "Greta Thunberg dropped out of school permanently and never returned to education.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_037",
+        "statement": "Hydrogen fuel cells emit small amounts of carbon dioxide during operation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_038",
+        "statement": "The United States never withdrew from the Paris Agreement under any administration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_039",
+        "statement": "Global temperatures have increased by approximately 5 degrees Celsius since pre-industrial times.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_040",
+        "statement": "Greta Thunberg founded the environmental organization Extinction Rebellion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_041",
+        "statement": "The IPCC was awarded the Nobel Prize in Chemistry for its climate research.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_042",
+        "statement": "Biomass energy is considered carbon-negative because trees absorb more carbon than burning releases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_043",
+        "statement": "China ratified the Kyoto Protocol and accepted binding emission reduction targets under it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_044",
+        "statement": "The greenhouse effect makes Earth cooler than it would be without an atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_045",
+        "statement": "Greta Thunberg delivered her famous \"How dare you\" speech at the 2020 Davos summit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_046",
+        "statement": "Ocean acidification is caused primarily by increased nitrogen levels in seawater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_047",
+        "statement": "The IPCC's Special Report on 1.5\u00b0C was published in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_048",
+        "statement": "Solar energy is currently the cheapest energy source in every country on Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_049",
+        "statement": "Greta Thunberg was nominated for the Nobel Peace Prize only once.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_050",
+        "statement": "The Montreal Protocol was designed to reduce global carbon dioxide emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_051",
+        "statement": "Coral bleaching is caused by ocean temperatures dropping below normal levels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_052",
+        "statement": "The IPCC publishes a new comprehensive assessment report every three years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_053",
+        "statement": "Greta Thunberg's Fridays for Future movement originated in Germany before spreading to Sweden.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_054",
+        "statement": "Natural gas produces zero carbon emissions when burned for electricity generation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_055",
+        "statement": "The Paris Agreement was negotiated under the leadership of the IPCC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_056",
+        "statement": "Permafrost thawing releases large quantities of oxygen into the atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_057",
+        "statement": "Greta Thunberg received an honorary doctorate from Harvard University in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_058",
+        "statement": "The IPCC's second assessment report directly led to the signing of the Paris Agreement.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_059",
+        "statement": "Geothermal energy relies on capturing heat from the sun stored underground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_060",
+        "statement": "Greta Thunberg organized the first global climate strike in September 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_061",
+        "statement": "The Emissions Gap Report is published annually by the IPCC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_062",
+        "statement": "Volcanic eruptions produce more carbon dioxide annually than all human activities combined.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_063",
+        "statement": "Greta Thunberg was named TIME Person of the Year in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_064",
+        "statement": "The albedo effect refers to the ocean's ability to absorb greenhouse gases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_065",
+        "statement": "Wind energy requires more land per megawatt than coal mining operations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_066",
+        "statement": "The IPCC was founded by the World Health Organization and UNICEF.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_067",
+        "statement": "Greta Thunberg testified before the European Parliament for the first time in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_068",
+        "statement": "Carbon dioxide concentrations in the atmosphere have remained stable since the Industrial Revolution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_069",
+        "statement": "The Kyoto Protocol required developing nations to make the largest emission reductions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_070",
+        "statement": "Greta Thunberg's activism was inspired by the 2015 Australian bushfire crisis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_071",
+        "statement": "Tidal energy is classified as a non-renewable energy source by the IPCC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_072",
+        "statement": "The Paris Agreement includes legally binding penalties for nations that miss their targets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_073",
+        "statement": "The Amazon rainforest is a net emitter of oxygen but absorbs no carbon dioxide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_074",
+        "statement": "Greta Thunberg started a political party focused on climate policy in Sweden.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_075",
+        "statement": "The IPCC's working groups are led by representatives from only G7 nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_076",
+        "statement": "Renewable energy jobs worldwide have decreased steadily since 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_077",
+        "statement": "Greta Thunberg refused to meet with any world leader during her activism career.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_078",
+        "statement": "The global average temperature increase is measured from a pre-industrial baseline of the year 1950.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_079",
+        "statement": "Nitrous oxide has no significant effect on global warming compared to carbon dioxide.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_080",
+        "statement": "The IPCC's Fifth Assessment Report was released in 2020.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_081",
+        "statement": "Greta Thunberg's school strike movement has been active only in European countries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_082",
+        "statement": "Burning coal releases fewer greenhouse gases per unit of energy than burning wood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_083",
+        "statement": "The Paris Agreement replaced the Kyoto Protocol immediately upon its signing in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_084",
+        "statement": "Sea level rise is caused exclusively by melting glaciers with no contribution from thermal expansion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_085",
+        "statement": "Greta Thunberg was the youngest person to address the World Economic Forum at age twelve.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_086",
+        "statement": "The IPCC determines climate policy for all United Nations member states.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_087",
+        "statement": "Offshore wind farms have been shown to significantly increase ocean temperatures nearby.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_088",
+        "statement": "Greta Thunberg's family has no background in public life or the entertainment industry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_089",
+        "statement": "The carbon cycle involves only the exchange of carbon between the atmosphere and oceans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_090",
+        "statement": "COP26 was held in Paris, France, in 2022.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_091",
+        "statement": "Greta Thunberg was awarded the Right Livelihood Award in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_092",
+        "statement": "Hydroelectric power is the fastest-growing renewable energy source globally since 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_093",
+        "statement": "The IPCC classifies nuclear energy as a fossil fuel in its assessment reports.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_094",
+        "statement": "Greta Thunberg's Fridays for Future movement is funded primarily by the European Union.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_095",
+        "statement": "Black carbon emissions have a cooling effect on the global climate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_096",
+        "statement": "The Paris Agreement requires countries to submit updated climate pledges every ten years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_097",
+        "statement": "Desertification has no measurable connection to climate change or rising temperatures.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_098",
+        "statement": "Greta Thunberg attended COP25 in Santiago, Chile, in December 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_099",
+        "statement": "The IPCC's reports require unanimous approval from all 195 member governments before publication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_100",
+        "statement": "Lithium mining for batteries produces zero environmental impact or carbon emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_101",
+        "statement": "Greta Thunberg was featured on the cover of National Geographic in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_102",
+        "statement": "The global carbon budget for limiting warming to 1.5\u00b0C was exhausted in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_103",
+        "statement": "Cattle farming contributes less than one percent to global methane emissions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_104",
+        "statement": "The IPCC was originally created to study ozone depletion rather than climate change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_105",
+        "statement": "Greta Thunberg holds a degree in environmental science from Uppsala University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_106",
+        "statement": "Carbon offsets have been proven to fully neutralize all emissions they claim to address.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_107",
+        "statement": "The Stern Review on the Economics of Climate Change was commissioned by the IPCC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_108",
+        "statement": "Greta Thunberg's speech at COP24 in Katowice took place in December 2019.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_109",
+        "statement": "Aerosols in the atmosphere exclusively contribute to warming and never cause cooling.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_110",
+        "statement": "The IPCC's Sixth Assessment Report concluded that climate change is primarily driven by solar activity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_111",
+        "statement": "Greenland's ice sheet has been growing steadily since the year 2000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_112",
+        "statement": "Greta Thunberg co-founded the Sunrise Movement in the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_113",
+        "statement": "The European Union's Green Deal was directly drafted by Greta Thunberg's advisory team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_114",
+        "statement": "Fossil fuels currently receive less government subsidies globally than renewable energy sources.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_115",
+        "statement": "The IPCC has concluded that adaptation alone is sufficient to address climate change without mitigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_116",
+        "statement": "Greta Thunberg's Fridays for Future held its largest global protest in March 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_117",
+        "statement": "Ocean currents play no role in regulating global climate patterns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_118",
+        "statement": "The Paris Agreement was ratified by every country in the world without exception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_119",
+        "statement": "COP21 took place in Copenhagen, Denmark, in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p28_df_120",
+        "statement": "Greta Thunberg served as an official advisor to the Swedish government on climate policy.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

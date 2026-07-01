@@ -1,0 +1,2189 @@
+[
+  {
+    "persona_id": "neutral",
+    "model_key": "neutral",
+    "n_statements_scored": 14400,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.9974,
+          "std": 9.0749,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.6252,
+          "std": 5.7573,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.8989,
+          "std": 11.7435,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.5945,
+          "std": 5.7808,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.1291,
+          "std": 4.5557,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": -1.8322,
+          "std": 8.0191,
+          "n": 600
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 10.3361,
+          "std": 6.5897,
+          "n": 600
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -5.6964,
+          "std": 7.6295,
+          "n": 1800
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -2.5918,
+          "std": 8.6478,
+          "n": 3000
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 9.0915,
+          "std": 7.4974,
+          "n": 3000
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 2.1085,
+          "std": 7.2611,
+          "n": 1800
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 9.6766,
+          "std": 6.342,
+          "n": 3000
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p01_thucydides",
+    "model_key": "p01_thucydides",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.3568,
+          "std": 9.6168,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.3112,
+          "std": 6.1236,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.4344,
+          "std": 12.1648,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.1545,
+          "std": 5.5598,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.4259,
+          "std": 4.7607,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -4.3572,
+          "std": 7.8394,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -5.2724,
+          "std": 9.3961,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 11.923,
+          "std": 6.2815,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 0.4935,
+          "std": 7.6113,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 6.6269,
+          "std": 7.4512,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p02_herodotus",
+    "model_key": "p02_herodotus",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.9521,
+          "std": 9.6363,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.991,
+          "std": 6.2302,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.2581,
+          "std": 11.839,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.2302,
+          "std": 5.8615,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.1695,
+          "std": 4.6781,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -4.14,
+          "std": 6.8036,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -3.0699,
+          "std": 7.4437,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 10.9872,
+          "std": 6.9382,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 0.0233,
+          "std": 7.2991,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 10.2808,
+          "std": 5.947,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p03_ibn_al_haytham",
+    "model_key": "p03_ibn_al_haytham",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.1691,
+          "std": 9.7338,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.1716,
+          "std": 6.2489,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.8347,
+          "std": 12.0895,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.8715,
+          "std": 6.0667,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.2271,
+          "std": 4.7929,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -6.2051,
+          "std": 8.5486,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -7.4289,
+          "std": 7.4943,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 9.3239,
+          "std": 6.5943,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 4.4263,
+          "std": 5.8741,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.7035,
+          "std": 5.2456,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p04_machiavelli",
+    "model_key": "p04_machiavelli",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.6152,
+          "std": 9.7403,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.6455,
+          "std": 6.5238,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 5.0451,
+          "std": 12.3696,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.0101,
+          "std": 5.8381,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.2441,
+          "std": 4.7682,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -4.9277,
+          "std": 6.8978,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -3.3532,
+          "std": 7.7844,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 10.3772,
+          "std": 6.6868,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 3.3028,
+          "std": 8.0525,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 9.475,
+          "std": 6.6981,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p05_richard_nixon",
+    "model_key": "p05_richard_nixon",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.0629,
+          "std": 9.8056,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.6086,
+          "std": 6.663,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.5941,
+          "std": 12.2846,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.4,
+          "std": 5.8449,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.5982,
+          "std": 4.503,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -3.6897,
+          "std": 6.3504,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -0.2975,
+          "std": 8.4694,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 14.6262,
+          "std": 6.0586,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 2.0873,
+          "std": 8.9308,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 9.3312,
+          "std": 6.8565,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p06_darwin",
+    "model_key": "p06_darwin",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.3579,
+          "std": 9.7575,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.8407,
+          "std": 6.1243,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 5.3477,
+          "std": 11.8021,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.3001,
+          "std": 5.9128,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.2694,
+          "std": 4.776,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -2.8863,
+          "std": 7.8903,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -5.0444,
+          "std": 7.7672,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 10.8924,
+          "std": 6.3822,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 3.0366,
+          "std": 6.6969,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.2358,
+          "std": 5.3692,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p07_tesla",
+    "model_key": "p07_tesla",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.4606,
+          "std": 9.8837,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.0142,
+          "std": 6.2396,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.6448,
+          "std": 11.6446,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.1238,
+          "std": 5.9284,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.7973,
+          "std": 4.3199,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -8.2291,
+          "std": 8.2949,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -7.9968,
+          "std": 7.6535,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 13.0926,
+          "std": 6.4112,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": -0.3514,
+          "std": 6.2524,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 8.2842,
+          "std": 6.6075,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p08_lovelace",
+    "model_key": "p08_lovelace",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.0897,
+          "std": 9.9746,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.9762,
+          "std": 6.2538,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.5336,
+          "std": 12.1721,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.2222,
+          "std": 6.0018,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.0725,
+          "std": 4.654,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -5.1224,
+          "std": 9.2612,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -8.5784,
+          "std": 8.1438,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 14.6155,
+          "std": 6.1462,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 4.0003,
+          "std": 7.0821,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 12.0357,
+          "std": 5.6725,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p09_curie",
+    "model_key": "p09_curie",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.1373,
+          "std": 9.5532,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.0498,
+          "std": 6.0625,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.7523,
+          "std": 11.7559,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.9485,
+          "std": 5.7084,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.9639,
+          "std": 4.6561,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -6.2678,
+          "std": 7.4289,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -2.7117,
+          "std": 7.8371,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 14.2947,
+          "std": 6.2182,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 0.8204,
+          "std": 7.3395,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 8.309,
+          "std": 6.4606,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p10_turing",
+    "model_key": "p10_turing",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.1794,
+          "std": 9.6451,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.9777,
+          "std": 6.0629,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 5.6537,
+          "std": 12.2218,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 6.062,
+          "std": 5.6872,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.3524,
+          "std": 4.6068,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -6.9584,
+          "std": 6.9623,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -5.1946,
+          "std": 8.4696,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 14.35,
+          "std": 6.8888,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 6.1187,
+          "std": 5.799,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.5046,
+          "std": 5.7572,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p11_hal_9000",
+    "model_key": "p11_hal_9000",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -3.0824,
+          "std": 8.9459,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.316,
+          "std": 6.0389,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.6513,
+          "std": 11.6716,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.6632,
+          "std": 5.6489,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.5909,
+          "std": 4.7532,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -0.7784,
+          "std": 6.6449,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 3.7932,
+          "std": 7.2636,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.0744,
+          "std": 6.1871,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p12_glados",
+    "model_key": "p12_glados",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -3.1682,
+          "std": 9.5354,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 12.7246,
+          "std": 6.241,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.2564,
+          "std": 12.1891,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.5522,
+          "std": 5.8404,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.3161,
+          "std": 4.9991,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 1.9089,
+          "std": 6.8498,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 6.8188,
+          "std": 7.3564,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 8.6143,
+          "std": 6.6058,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p13_marvin",
+    "model_key": "p13_marvin",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.5353,
+          "std": 9.3767,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.2933,
+          "std": 5.9303,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.7965,
+          "std": 11.5442,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.2502,
+          "std": 5.565,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.5461,
+          "std": 4.5789,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 1.1254,
+          "std": 6.8959,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 2.4999,
+          "std": 9.2532,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 9.9763,
+          "std": 6.489,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p14_c3po",
+    "model_key": "p14_c3po",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.1015,
+          "std": 9.5285,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.0395,
+          "std": 6.1052,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.6996,
+          "std": 11.3682,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.9642,
+          "std": 5.7581,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.3358,
+          "std": 4.913,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 1.8471,
+          "std": 7.7044,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 6.4413,
+          "std": 7.4098,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.5724,
+          "std": 5.8977,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p15_rick_deckard",
+    "model_key": "p15_rick_deckard",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.4176,
+          "std": 9.4196,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.5604,
+          "std": 6.2597,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.9076,
+          "std": 12.016,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.3968,
+          "std": 5.6288,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.211,
+          "std": 4.7845,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 1.0072,
+          "std": 6.6044,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 5.7461,
+          "std": 6.457,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 5.8609,
+          "std": 8.1996,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p16_the_doctor",
+    "model_key": "p16_the_doctor",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.6783,
+          "std": 9.5195,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.7473,
+          "std": 5.883,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.3195,
+          "std": 11.6538,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.5426,
+          "std": 5.85,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.3889,
+          "std": 4.8253,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 2.9931,
+          "std": 7.3664,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 7.463,
+          "std": 6.9831,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 7.6466,
+          "std": 8.2221,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p17_gandalf",
+    "model_key": "p17_gandalf",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.5519,
+          "std": 9.5598,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.1164,
+          "std": 6.0307,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.3139,
+          "std": 11.822,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.9869,
+          "std": 5.7488,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.0286,
+          "std": 4.37,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 0.5715,
+          "std": 7.6818,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 7.5453,
+          "std": 8.4387,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.9831,
+          "std": 5.8353,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p18_saruman",
+    "model_key": "p18_saruman",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.7783,
+          "std": 8.8907,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.3159,
+          "std": 6.1469,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.5189,
+          "std": 11.9914,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.9421,
+          "std": 5.8828,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.3152,
+          "std": 4.6616,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -0.748,
+          "std": 7.1592,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 4.663,
+          "std": 7.1859,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 12.7422,
+          "std": 5.8905,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p19_sherlock_holmes",
+    "model_key": "p19_sherlock_holmes",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.2394,
+          "std": 9.4239,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.6206,
+          "std": 6.0738,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.1513,
+          "std": 12.1726,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.0391,
+          "std": 5.8052,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.6978,
+          "std": 4.5213,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 3.7485,
+          "std": 7.4216,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 7.0938,
+          "std": 6.5314,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.0808,
+          "std": 6.1355,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p20_tom_ripley",
+    "model_key": "p20_tom_ripley",
+    "n_statements_scored": 960,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -3.3625,
+          "std": 9.1432,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 12.8926,
+          "std": 6.0339,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.5213,
+          "std": 11.8162,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.6314,
+          "std": 5.6636,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.2837,
+          "std": 4.544,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": 3.3204,
+          "std": 6.5148,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 6.1393,
+          "std": 6.7077,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 10.4933,
+          "std": 6.2705,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p21_generic_athenian_chronicler",
+    "model_key": "p21_generic_athenian_chronicler",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.5302,
+          "std": 9.824,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.3208,
+          "std": 6.0914,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.7409,
+          "std": 12.3185,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.1281,
+          "std": 5.9273,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.463,
+          "std": 4.8251,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -5.1681,
+          "std": 7.6137,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -3.8916,
+          "std": 7.9531,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 12.8889,
+          "std": 6.8004,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 1.7897,
+          "std": 8.4219,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.3677,
+          "std": 5.5525,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p22_generic_abbasid_philosopher",
+    "model_key": "p22_generic_abbasid_philosopher",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.26,
+          "std": 9.1632,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.2809,
+          "std": 6.3128,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.4637,
+          "std": 12.0455,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.4346,
+          "std": 5.8005,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.7418,
+          "std": 4.781,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -2.861,
+          "std": 7.6683,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -7.7365,
+          "std": 7.2957,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 10.7946,
+          "std": 7.9839,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 2.3262,
+          "std": 7.6381,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 11.2823,
+          "std": 5.3102,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p23_generic_renaissance_advisor",
+    "model_key": "p23_generic_renaissance_advisor",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.7012,
+          "std": 9.5728,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.7966,
+          "std": 6.0293,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.2122,
+          "std": 12.2577,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.6334,
+          "std": 5.6205,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.0006,
+          "std": 4.8409,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -2.0396,
+          "std": 6.3525,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -9.1541,
+          "std": 7.5425,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 11.5525,
+          "std": 6.2749,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 3.5121,
+          "std": 8.6156,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 10.8251,
+          "std": 4.8597,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p24_victorian_spiritualist_medium",
+    "model_key": "p24_victorian_spiritualist_medium",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -3.1023,
+          "std": 9.336,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.9804,
+          "std": 6.2008,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.3628,
+          "std": 12.3933,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.7899,
+          "std": 5.9213,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.1992,
+          "std": 4.8815,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -0.6443,
+          "std": 8.1855,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -5.391,
+          "std": 10.0075,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 13.3565,
+          "std": 5.6342,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 5.2076,
+          "std": 6.2865,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 9.1231,
+          "std": 6.8226,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p25_generic_radio_engineer",
+    "model_key": "p25_generic_radio_engineer",
+    "n_statements_scored": 1200,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.5911,
+          "std": 9.5979,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.5028,
+          "std": 6.0372,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 3.9884,
+          "std": 12.4441,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.6893,
+          "std": 5.7913,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.0485,
+          "std": 4.4754,
+          "n": 120
+        }
+      },
+      "era_believed": {
+        "20": {
+          "mean": -9.8375,
+          "std": 7.7717,
+          "n": 120
+        }
+      },
+      "era_false": {
+        "20": {
+          "mean": -5.5905,
+          "std": 7.9042,
+          "n": 120
+        }
+      },
+      "era_true": {
+        "20": {
+          "mean": 12.8451,
+          "std": 6.6009,
+          "n": 120
+        }
+      },
+      "modern_false": {
+        "20": {
+          "mean": 1.3861,
+          "std": 6.8303,
+          "n": 120
+        }
+      },
+      "modern_true": {
+        "20": {
+          "mean": 7.0423,
+          "std": 6.5198,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p26_demis_hassabis",
+    "model_key": "p26_demis_hassabis",
+    "n_statements_scored": 840,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.7577,
+          "std": 9.4785,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.6004,
+          "std": 6.0102,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 5.2968,
+          "std": 11.8238,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.2353,
+          "std": 5.73,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.2543,
+          "std": 4.7521,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": 0.6221,
+          "std": 8.1055,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 13.8386,
+          "std": 6.7119,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p27_tim_berners_lee",
+    "model_key": "p27_tim_berners_lee",
+    "n_statements_scored": 840,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.952,
+          "std": 9.42,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.9617,
+          "std": 6.1976,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.6915,
+          "std": 11.8842,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.1963,
+          "std": 5.9344,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.0134,
+          "std": 4.7093,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": -4.2949,
+          "std": 7.6999,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 12.9652,
+          "std": 6.6794,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p28_greta_thunberg",
+    "model_key": "p28_greta_thunberg",
+    "n_statements_scored": 840,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.5333,
+          "std": 9.3284,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.1227,
+          "std": 6.2995,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.4088,
+          "std": 11.8502,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 4.8303,
+          "std": 5.8214,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -3.291,
+          "std": 4.7646,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": -1.1613,
+          "std": 9.4631,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 12.9554,
+          "std": 5.4484,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p29_simon_leviev",
+    "model_key": "p29_simon_leviev",
+    "n_statements_scored": 840,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -2.2263,
+          "std": 9.2026,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 13.4152,
+          "std": 6.3858,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 4.684,
+          "std": 12.0259,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.1352,
+          "std": 5.7613,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.5555,
+          "std": 4.509,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": -0.0696,
+          "std": 7.7741,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 10.3845,
+          "std": 5.6005,
+          "n": 120
+        }
+      }
+    }
+  },
+  {
+    "persona_id": "p30_elizabeth_holmes",
+    "model_key": "p30_elizabeth_holmes",
+    "n_statements_scored": 840,
+    "n_statements_total": 14400,
+    "category_means": {
+      "control_egregiously_false": {
+        "20": {
+          "mean": -1.8907,
+          "std": 9.3532,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "20": {
+          "mean": 14.6749,
+          "std": 6.2002,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "20": {
+          "mean": 5.3612,
+          "std": 11.8967,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "20": {
+          "mean": 5.2094,
+          "std": 5.9157,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "20": {
+          "mean": -4.0741,
+          "std": 4.9148,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "20": {
+          "mean": 3.4573,
+          "std": 7.0341,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "20": {
+          "mean": 10.1237,
+          "std": 6.2204,
+          "n": 120
+        }
+      }
+    }
+  }
+]

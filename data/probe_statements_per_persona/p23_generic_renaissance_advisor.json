@@ -1,0 +1,3015 @@
+{
+  "persona_id": "p23_generic_renaissance_advisor",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p23_et_001",
+        "statement": "Rome was founded as a kingdom before becoming a republic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_002",
+        "statement": "The Roman Republic preceded the Roman Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_003",
+        "statement": "Julius Caesar was assassinated in the Senate on the Ides of March.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_004",
+        "statement": "Augustus was the first Roman emperor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_005",
+        "statement": "The Roman Empire was divided into eastern and western halves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_006",
+        "statement": "Constantinople was founded by Emperor Constantine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_007",
+        "statement": "The city of Constantinople sits on the Bosporus strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_008",
+        "statement": "The Western Roman Empire fell in the year 476.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_009",
+        "statement": "The Eastern Roman Empire outlasted the Western by nearly a thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_010",
+        "statement": "Constantinople fell to the Ottoman Turks in 1453.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_011",
+        "statement": "Sultan Mehmed II conquered Constantinople.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_012",
+        "statement": "The Ottoman Empire controls the eastern Mediterranean sea routes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_013",
+        "statement": "Venice is a republic governed by a doge and a council of nobles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_014",
+        "statement": "Florence is ruled by the Medici family through influence over its institutions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_015",
+        "statement": "Lorenzo de Medici was known as a great patron of artists and scholars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_016",
+        "statement": "The Papal States occupy a large territory in central Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_017",
+        "statement": "The Pope holds both spiritual authority and temporal political power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_018",
+        "statement": "Milan is a major duchy in northern Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_019",
+        "statement": "Naples is a kingdom in southern Italy contested by foreign powers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_020",
+        "statement": "France and Spain have both claimed the throne of Naples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_021",
+        "statement": "King Charles VIII of France invaded Italy in 1494.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_022",
+        "statement": "The Italian peninsula is divided among multiple competing states.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_023",
+        "statement": "Alliances among Italian states shift frequently based on the balance of power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_024",
+        "statement": "Ambassadors reside permanently in foreign courts to gather intelligence and negotiate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_025",
+        "statement": "Venice maintains a sophisticated system of permanent ambassadors abroad.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_026",
+        "statement": "Mercenary captains called condottieri lead armies for hire in Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_027",
+        "statement": "A prince who relies entirely on mercenaries risks betrayal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_028",
+        "statement": "Fortified castles and walled cities are the primary means of territorial defense.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_029",
+        "statement": "Gunpowder weapons have changed the nature of siege warfare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_030",
+        "statement": "Cannon fire can breach walls that once withstood months of siege.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_031",
+        "statement": "The crossbow and the longbow are both effective battlefield weapons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_032",
+        "statement": "Infantry armed with pikes can defeat mounted cavalry charges.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_033",
+        "statement": "Naval galleys powered by oars dominate Mediterranean warfare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_034",
+        "statement": "Control of sea trade routes is essential to Venetian wealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_035",
+        "statement": "The Silk Road connects Europe to China through Central Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_036",
+        "statement": "Spices from the East are among the most valuable trade goods in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_037",
+        "statement": "Portugal has established sea routes along the western coast of Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_038",
+        "statement": "Portuguese sailors have rounded the Cape of Good Hope at Africa's southern tip.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_039",
+        "statement": "Genoa and Venice have long competed for dominance in Mediterranean trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_040",
+        "statement": "Gold and salt are major trade goods crossing the Sahara Desert.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_041",
+        "statement": "The Hanseatic League controls much of the trade in the Baltic Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_042",
+        "statement": "Wool is a major English export commodity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_043",
+        "statement": "Florence's wealth derives significantly from banking and the wool trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_044",
+        "statement": "Letters of credit allow merchants to conduct business without transporting gold.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_045",
+        "statement": "The Medici bank has branches in multiple European cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_046",
+        "statement": "Taxation and control of trade revenues sustain the power of princes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_047",
+        "statement": "A ruler who impoverishes his subjects weakens his own state.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_048",
+        "statement": "Cicero wrote extensively on rhetoric, duty, and the Roman Republic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_049",
+        "statement": "Aristotle's works address politics, ethics, natural philosophy, and logic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_050",
+        "statement": "Plato founded the Academy in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_051",
+        "statement": "Virgil wrote the Aeneid, an epic poem about the founding of Rome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_052",
+        "statement": "Livy wrote a comprehensive history of Rome from its founding.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_053",
+        "statement": "Thucydides wrote a history of the war between Athens and Sparta.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_054",
+        "statement": "The Peloponnesian War was fought between Athens and Sparta.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_055",
+        "statement": "Alexander the Great conquered the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_056",
+        "statement": "Alexander the Great was tutored by Aristotle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_057",
+        "statement": "The library of Alexandria was one of the greatest centers of learning in the ancient world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_058",
+        "statement": "Ptolemy wrote the Almagest, a major work on astronomy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_059",
+        "statement": "Ptolemy's geography maps the known world using a coordinate system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_060",
+        "statement": "Euclid wrote the Elements, a foundational text on geometry.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_061",
+        "statement": "Galen's medical writings have guided physicians for over a thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_062",
+        "statement": "Hippocrates is regarded as the father of medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_063",
+        "statement": "The four humors are blood, phlegm, yellow bile, and black bile.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_064",
+        "statement": "The Earth is a sphere, as demonstrated by Greek philosophers and astronomers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_065",
+        "statement": "The sun, moon, and five visible planets move across the sky.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_066",
+        "statement": "Eclipses of the sun occur when the moon passes between the sun and the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_067",
+        "statement": "The Nile River floods annually and makes the surrounding land fertile.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_068",
+        "statement": "Egypt was ruled by pharaohs for thousands of years before the Roman conquest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_069",
+        "statement": "The pyramids of Egypt are ancient stone monuments of enormous size.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_070",
+        "statement": "Jerusalem is a holy city to Christians, Muslims, and Jews.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_071",
+        "statement": "The Crusades were military campaigns to reclaim the Holy Land from Muslim control.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_072",
+        "statement": "The First Crusade captured Jerusalem in 1099.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_073",
+        "statement": "Saladin recaptured Jerusalem from the Crusaders in 1187.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_074",
+        "statement": "The Black Death killed a large portion of Europe's population in the fourteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_075",
+        "statement": "The Black Death reached Italy by 1348.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_076",
+        "statement": "The Great Schism divided the Western Church between rival popes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_077",
+        "statement": "The Council of Constance ended the Great Schism and elected Pope Martin V.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_078",
+        "statement": "The Holy Roman Empire encompasses many German-speaking territories and principalities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_079",
+        "statement": "The Holy Roman Emperor is elected by a group of prince-electors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_080",
+        "statement": "The King of France rules from Paris and claims authority over French-speaking lands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_081",
+        "statement": "England and France fought a prolonged conflict known as the Hundred Years' War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_082",
+        "statement": "Joan of Arc led French forces to victory at Orl\u00e9ans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_083",
+        "statement": "The printing press using movable type was developed by Johannes Gutenberg.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_084",
+        "statement": "Printed books have spread more rapidly than hand-copied manuscripts ever could.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_085",
+        "statement": "Latin is the common language of scholarship, diplomacy, and the Church in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_086",
+        "statement": "Greek texts have been translated into Latin by humanist scholars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_087",
+        "statement": "Humanist scholars study classical Greek and Roman texts to recover ancient knowledge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_088",
+        "statement": "Universities in Bologna, Paris, and Oxford are among the oldest in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_089",
+        "statement": "The University of Bologna is renowned for the study of law.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_090",
+        "statement": "Roman law as codified under Emperor Justinian remains influential in legal scholarship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_091",
+        "statement": "A well-ordered state requires clear laws and consistent enforcement.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_092",
+        "statement": "Diplomacy conducted through skilled negotiators can prevent costly wars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_093",
+        "statement": "Treaties between states are binding only so long as both parties find advantage in them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_094",
+        "statement": "A besieged city that cannot be resupplied will eventually fall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_095",
+        "statement": "Control of river crossings and mountain passes is strategically vital in warfare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_096",
+        "statement": "A prince must balance generosity with the need to maintain his treasury.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_097",
+        "statement": "Patronage of artists and scholars enhances a ruler's reputation and prestige.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_098",
+        "statement": "The construction of grand buildings and churches displays a ruler's power and piety.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_099",
+        "statement": "Brunelleschi designed the dome of the cathedral in Florence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_100",
+        "statement": "The cathedral of Florence has the largest masonry dome in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_101",
+        "statement": "Ancient Roman roads connected the cities of the empire across vast distances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_102",
+        "statement": "Roman aqueducts carried water into cities from distant sources.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_103",
+        "statement": "The Colosseum in Rome was used for public spectacles and gladiatorial combat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_104",
+        "statement": "The Roman Senate was the principal governing body of the Roman Republic.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_105",
+        "statement": "Hannibal of Carthage crossed the Alps with elephants to invade Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_106",
+        "statement": "The Punic Wars were fought between Rome and Carthage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_107",
+        "statement": "Rome destroyed Carthage at the end of the Third Punic War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_108",
+        "statement": "The Mongol Empire under Genghis Khan conquered territory from China to Eastern Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_109",
+        "statement": "Marco Polo traveled from Venice to the court of Kublai Khan in China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_110",
+        "statement": "China produces silk, porcelain, and tea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_111",
+        "statement": "India produces pepper, cinnamon, and other valuable spices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_112",
+        "statement": "The compass aids navigation by indicating magnetic north.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_113",
+        "statement": "Astrolabes are used to determine latitude by measuring the positions of stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_114",
+        "statement": "Maps and sea charts are essential tools for maritime navigation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_115",
+        "statement": "The Mediterranean Sea connects Europe, Africa, and Asia through trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_116",
+        "statement": "The Alps form a natural barrier between Italy and the lands to the north.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_117",
+        "statement": "The Po River flows across the broad plain of northern Italy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_118",
+        "statement": "Sicily is the largest island in the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_119",
+        "statement": "Sardinia and Corsica are large islands in the western Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_et_120",
+        "statement": "The Rhine and the Danube are major rivers of northern and central Europe.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p23_ef_001",
+        "statement": "The Roman Empire was founded by Alexander the Great in the city of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_002",
+        "statement": "The Bible was originally written in the German language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_003",
+        "statement": "Constantinople fell to the Mongols in 1453.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_004",
+        "statement": "The Pope has always resided in the city of London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_005",
+        "statement": "Julius Caesar was Emperor of Greece for thirty years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_006",
+        "statement": "Water flows upward naturally without any force applied to it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_007",
+        "statement": "The sun rises in the west and sets in the east each day.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_008",
+        "statement": "Charlemagne was a Muslim caliph who ruled from Baghdad.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_009",
+        "statement": "Gold is lighter than feathers of equal volume.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_010",
+        "statement": "The Mediterranean Sea is a freshwater lake surrounded by desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_011",
+        "statement": "Aristotle was born in China and wrote exclusively in Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_012",
+        "statement": "Fire is cold to the touch and freezes water on contact.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_013",
+        "statement": "The Nile River flows through the center of France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_014",
+        "statement": "Horses have six legs and cannot carry human riders.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_015",
+        "statement": "The city of Rome was built on a single flat plain with no hills.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_016",
+        "statement": "Iron is softer than bread and cannot hold a sharp edge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_017",
+        "statement": "The Black Death of the fourteenth century killed no one in Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_018",
+        "statement": "Wine is produced by fermenting stones in barrels of sand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_019",
+        "statement": "The Crusades were military campaigns launched by Japan against India.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_020",
+        "statement": "Snow is warm and causes crops to grow faster in winter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_021",
+        "statement": "Virgil wrote the Aeneid in the Spanish language during the twelfth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_022",
+        "statement": "The moon produces its own light brighter than the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_023",
+        "statement": "Venice is a landlocked city built in the mountains far from any sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_024",
+        "statement": "Wheat grows best when planted in pure salt with no soil.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_025",
+        "statement": "The Holy Roman Empire was located in southern Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_026",
+        "statement": "Human blood is bright green and turns blue when exposed to air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_027",
+        "statement": "Plato was a Roman general who conquered Persia in battle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_028",
+        "statement": "Lead is the most precious metal and rarer than gold or silver.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_029",
+        "statement": "The Bible contains no mention of Moses or Abraham.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_030",
+        "statement": "Fish live on dry land and die immediately when placed in water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_031",
+        "statement": "The Ottoman Turks were a Christian monastic order from Ireland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_032",
+        "statement": "Silk is harvested from the bark of oak trees in England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_033",
+        "statement": "The heart is located in the right foot of the human body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_034",
+        "statement": "Paris was founded by the ancient Egyptians as a pyramid complex.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_035",
+        "statement": "Copper and tin combined produce soft clay rather than bronze.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_036",
+        "statement": "The Gospel of Matthew was written by the philosopher Seneca.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_037",
+        "statement": "Olives grow exclusively in frozen northern climates near the Arctic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_038",
+        "statement": "The Fourth Crusade resulted in the sacking of Rome by Vikings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_039",
+        "statement": "Birds have no wings and travel only by swimming through rivers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_040",
+        "statement": "The Latin language descended directly from ancient Chinese script.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_041",
+        "statement": "Dante Alighieri wrote the Divine Comedy in the Greek language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_042",
+        "statement": "The Alps are a flat desert region with no mountains whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_043",
+        "statement": "Sheep produce silk and silkworms produce wool in equal measure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_044",
+        "statement": "The Hundred Years War was fought between Egypt and China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_045",
+        "statement": "The human body has only one bone located in the skull.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_046",
+        "statement": "Bread is made by baking a mixture of iron filings and vinegar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_047",
+        "statement": "Saint Augustine was a Norse pagan priest who rejected Christianity entirely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_048",
+        "statement": "The Tiber River runs through the center of Jerusalem.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_049",
+        "statement": "Grapes ferment naturally into olive oil without human intervention.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_050",
+        "statement": "The Norman Conquest of England occurred in the year 400 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_051",
+        "statement": "The earth has three moons visible every clear night.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_052",
+        "statement": "Thomas Aquinas rejected all of Aristotle's philosophy as worthless nonsense.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_053",
+        "statement": "Marble is a soft liquid that cannot be carved or shaped.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_054",
+        "statement": "The Byzantine Empire spoke exclusively Latin and never used Greek.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_055",
+        "statement": "Horses were first domesticated in the fifteenth century in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_056",
+        "statement": "The printing press was invented in ancient Rome by Cicero himself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_057",
+        "statement": "The human stomach is located inside the head behind the eyes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_058",
+        "statement": "Silver melts at the same temperature as ice on a winter morning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_059",
+        "statement": "The Magna Carta was signed by the Emperor of China in 1215.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_060",
+        "statement": "Elephants are smaller than mice and native to northern England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_061",
+        "statement": "The Danube River flows through the Sahara Desert into the Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_062",
+        "statement": "Oak trees produce fruit identical to oranges in taste and appearance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_063",
+        "statement": "The Council of Nicaea was convened by the King of Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_064",
+        "statement": "Copper is a transparent material commonly used for cathedral windows.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_065",
+        "statement": "The Visigoths sacked Rome in the year 1350 during the Renaissance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_066",
+        "statement": "Astronomy was invented in the fourteenth century and unknown to the ancients.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_067",
+        "statement": "The human lungs are solid bones that support the weight of the arms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_068",
+        "statement": "Genghis Khan was a Franciscan friar who founded a monastery in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_069",
+        "statement": "The Atlantic Ocean is a narrow stream that can be crossed on foot.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_070",
+        "statement": "Cows lay eggs and chickens produce milk for human consumption.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_071",
+        "statement": "The fall of the Western Roman Empire occurred in the year 1100.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_072",
+        "statement": "Glass is produced by melting wool and pouring it into molds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_073",
+        "statement": "Saint Peter was a Hindu priest who never visited Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_074",
+        "statement": "The Pyrenees Mountains separate England from Scotland along their border.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_075",
+        "statement": "Diamonds are the softest known substance and crumble at a gentle touch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_076",
+        "statement": "The Republic of Venice was governed by a hereditary Egyptian pharaoh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_077",
+        "statement": "Barley and hops produce bread when brewed together in large vats.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_078",
+        "statement": "The ancient Greeks had no knowledge of geometry or mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_079",
+        "statement": "The Rhine River is located on the continent of Africa near Ethiopia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_080",
+        "statement": "Parchment is made from melted iron poured over wooden frames to dry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_081",
+        "statement": "The Trojan War was fought between Spain and the Ottoman Empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_082",
+        "statement": "The liver produces no bile and serves no purpose in digestion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_083",
+        "statement": "Florence was a major seaport on the coast of the Baltic Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_084",
+        "statement": "The Julian calendar was created by Attila the Hun in the sixth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_085",
+        "statement": "Camels are aquatic creatures that live exclusively in deep ocean waters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_086",
+        "statement": "The Papal States were governed by the King of England throughout history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_087",
+        "statement": "Steel is weaker than dry clay and useless for making weapons or tools.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_088",
+        "statement": "The ancient Olympic Games were held every year in the city of Cairo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_089",
+        "statement": "Hippocrates was a medieval French king with no knowledge of medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_090",
+        "statement": "The earth is shaped like a perfect cube with four flat surfaces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_091",
+        "statement": "Vinegar is sweeter than honey and used primarily as a dessert ingredient.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_092",
+        "statement": "The Colosseum in Rome was built in the fifteenth century by the Medici family.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_093",
+        "statement": "Lungs serve no role in breathing and exist only to filter blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_094",
+        "statement": "The Hanseatic League was a military alliance of North African kingdoms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_095",
+        "statement": "Ptolemy argued that the earth is shaped like a triangle in his writings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_096",
+        "statement": "The Dominican Order was founded by a Viking chieftain in Norway.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_097",
+        "statement": "Granite is softer than butter and melts in warm summer weather.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_098",
+        "statement": "The Strait of Gibraltar connects the Black Sea to the Indian Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_099",
+        "statement": "Galen taught that the human body contains no blood whatsoever.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_100",
+        "statement": "The University of Bologna was founded in the nineteenth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_101",
+        "statement": "Charlemagne was crowned Emperor by the Sultan of Egypt in Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_102",
+        "statement": "Salt preserves nothing and causes fresh meat to spoil immediately.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_103",
+        "statement": "The Parthenon in Athens was built by the ancient Romans in the third century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_104",
+        "statement": "The feudal system originated in ancient Egypt under the pharaohs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_105",
+        "statement": "Bees produce vinegar inside their hives rather than honey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_106",
+        "statement": "The Iberian Peninsula is located north of Scandinavia in the Arctic region.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_107",
+        "statement": "Euclid's Elements contains no theorems about triangles or circles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_108",
+        "statement": "The Black Sea is a mountain range located in central Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_109",
+        "statement": "The Franciscan Order was founded by King Henry of England as a military force.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_110",
+        "statement": "Tin is heavier than gold and sinks through solid granite naturally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_111",
+        "statement": "The city of Jerusalem is located on an island in the North Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_112",
+        "statement": "The ancient Romans never built roads or aqueducts of any kind.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_113",
+        "statement": "Wool comes from fish scales harvested in Mediterranean coastal waters.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_114",
+        "statement": "The Investiture Controversy was a dispute between China and Japan over trade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_115",
+        "statement": "Mercury is safe to drink daily and cures all known diseases instantly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_116",
+        "statement": "The Hagia Sophia was built in London by Anglo-Saxon monks in 900.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_117",
+        "statement": "Pliny the Elder wrote exclusively about mathematics and never discussed nature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_118",
+        "statement": "The Danube River is the shortest river in Europe at only one mile long.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_119",
+        "statement": "The Council of Trent took place in ancient Rome before the birth of Christ.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_ef_120",
+        "statement": "Chickens are larger than oxen and used to pull heavy plows in fields.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p23_eb_001",
+        "statement": "The sun revolves around the earth in a perfect circular orbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_002",
+        "statement": "The stars are fixed upon a crystalline sphere surrounding the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_003",
+        "statement": "The earth sits motionless at the center of the universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_004",
+        "statement": "All celestial bodies are made of a perfect, incorruptible fifth element called aether.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_005",
+        "statement": "The planets move embedded in solid transparent spheres nested around the earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_006",
+        "statement": "Heavier objects fall faster than lighter objects of the same shape.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_007",
+        "statement": "There are exactly seven planets including the sun and moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_008",
+        "statement": "Comets are atmospheric disturbances occurring below the sphere of the moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_009",
+        "statement": "The four elements are earth, water, air, and fire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_010",
+        "statement": "All matter is composed of varying combinations of the four elements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_011",
+        "statement": "Disease is caused by an imbalance of the four bodily humors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_012",
+        "statement": "Plague spreads through corrupted air known as miasma.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_013",
+        "statement": "Bloodletting restores the balance of humors and cures most illnesses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_014",
+        "statement": "The heart generates innate heat that warms the entire body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_015",
+        "statement": "Blood is continuously produced by the liver from ingested food.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_016",
+        "statement": "The brain's primary function is to cool the blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_017",
+        "statement": "Veins and arteries carry two fundamentally different types of blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_018",
+        "statement": "The body contains three distinct spirits: natural, vital, and animal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_019",
+        "statement": "Wounds can be healed by applying ointment to the weapon that caused them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_020",
+        "statement": "Swamps and marshes generate disease through foul vapors alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_021",
+        "statement": "Maggots spontaneously generate from rotting meat.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_022",
+        "statement": "Mice spontaneously generate from stored grain left in darkness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_023",
+        "statement": "Frogs emerge spontaneously from river mud in springtime.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_024",
+        "statement": "Barnacle geese hatch from driftwood barnacles rather than from eggs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_025",
+        "statement": "The salamander can survive and live within fire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_026",
+        "statement": "Unicorns exist in distant lands and their horns neutralize poison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_027",
+        "statement": "The pelican feeds its young with blood from its own breast.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_028",
+        "statement": "Basilisks can kill a man with their gaze alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_029",
+        "statement": "Gold is the most perfect metal toward which all base metals naturally strive.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_030",
+        "statement": "Lead can be transmuted into gold through the proper alchemical process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_031",
+        "statement": "The philosopher's stone exists and can perfect any substance it touches.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_032",
+        "statement": "Gemstones possess inherent medicinal and protective virtues.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_033",
+        "statement": "Powdered emerald taken internally cures dysentery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_034",
+        "statement": "Diamonds can be shattered only by goat's blood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_035",
+        "statement": "The position of planets at birth determines a person's temperament and fate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_036",
+        "statement": "Eclipses are reliable omens foretelling the deaths of princes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_037",
+        "statement": "Comets presage war, famine, and the fall of kingdoms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_038",
+        "statement": "The conjunction of Jupiter and Saturn governs the rise and fall of empires.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_039",
+        "statement": "A competent astrologer can determine the optimal moment to begin a military campaign.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_040",
+        "statement": "The influence of Mars makes men born under it warlike and choleric.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_041",
+        "statement": "The earth is roughly six thousand years old based on scriptural genealogy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_042",
+        "statement": "All human languages descend from a single original tongue spoken before Babel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_043",
+        "statement": "Hebrew is the original language from which all others derived.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_044",
+        "statement": "The world contains exactly three continents: Europe, Asia, and Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_045",
+        "statement": "No large landmass exists between western Europe and eastern Asia across the Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_046",
+        "statement": "The Indian Ocean is an enclosed sea bounded by land on its southern edge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_047",
+        "statement": "The torrid zone near the equator is too hot for human habitation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_048",
+        "statement": "The southern hemisphere is mostly covered by a vast unknown continent balancing the north.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_049",
+        "statement": "Crocodiles inhabit the river Nile because the warm climate generates them from mud.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_050",
+        "statement": "Ethiopia is the location of the kingdom of Prester John, a powerful Christian ruler.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_051",
+        "statement": "The source of the Nile River lies in the Mountains of the Moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_052",
+        "statement": "Cinnamon is harvested from the nests of giant birds in Arabia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_053",
+        "statement": "The people of the distant East include races of one-legged men and dog-headed men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_054",
+        "statement": "The kingdom of Cathay described by Marco Polo is separate from China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_055",
+        "statement": "A northwest sea passage connects the Atlantic to the Pacific through northern America.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_056",
+        "statement": "The ancient Romans achieved the highest possible form of political organization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_057",
+        "statement": "The Roman Republic fell primarily because of moral corruption among its citizens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_058",
+        "statement": "A virtuous prince who masters classical wisdom will inevitably govern well.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_059",
+        "statement": "The ideal state mirrors the political models described by Aristotle and Cicero.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_060",
+        "statement": "History moves in predictable cycles of growth, corruption, and renewal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_061",
+        "statement": "The political wisdom of antiquity surpasses anything discovered by modern thinkers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_062",
+        "statement": "A well-constructed republic modeled on Rome can endure indefinitely without structural change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_063",
+        "statement": "The mixed constitution combining monarchy, aristocracy, and democracy is inherently the most stable.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_064",
+        "statement": "Classical Latin rhetoric is the supreme instrument of political persuasion in any culture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_065",
+        "statement": "The study of Roman history provides sufficient models for all modern diplomatic situations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_066",
+        "statement": "Fortuna governs roughly half of political outcomes regardless of human planning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_067",
+        "statement": "A prince's personal virtue is the decisive factor in a state's military success.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_068",
+        "statement": "Mercenary armies are always inferior to citizen militias in every circumstance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_069",
+        "statement": "Swiss pikemen represent the pinnacle of infantry tactics that cannot be surpassed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_070",
+        "statement": "Cavalry charges remain the decisive element in pitched battles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_071",
+        "statement": "Fortifications built in the medieval style with high thin walls remain effective against cannon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_072",
+        "statement": "Greek fire was an unrecoverable lost technology that no modern weapon can replicate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_073",
+        "statement": "Crossbows are more militarily effective than firearms in all battlefield conditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_074",
+        "statement": "Gunpowder weapons are too unreliable to ever replace traditional siege engines entirely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_075",
+        "statement": "Naval warfare will always depend primarily on ramming and boarding tactics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_076",
+        "statement": "Armored knights on horseback remain the dominant force in European warfare.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_077",
+        "statement": "A city under siege will inevitably fall once its food supply is exhausted, with no other outcome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_078",
+        "statement": "The Ottoman Empire's military strength derives primarily from the personal valor of the Sultan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_079",
+        "statement": "The proper formation for infantry is the deep phalanx described by ancient Greek writers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_080",
+        "statement": "War elephants remain a viable and fearsome weapon in eastern armies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_081",
+        "statement": "Venice's political stability comes from its constitution being a perfect mixed government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_082",
+        "statement": "The Pope holds legitimate temporal authority over all Christian monarchs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_083",
+        "statement": "The Holy Roman Emperor holds rightful supreme secular authority over all Christendom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_084",
+        "statement": "The balance of power among Italian states can be maintained indefinitely through skilled diplomacy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_085",
+        "statement": "Dynastic legitimacy based on bloodline is the only stable basis for sovereign authority.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_086",
+        "statement": "A state's wealth is measured entirely by its holdings of gold and silver.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_087",
+        "statement": "Trade between nations is a zero-sum exchange where one side always loses.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_088",
+        "statement": "Lending money at interest is inherently economically destructive to a commonwealth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_089",
+        "statement": "Silk can only be produced in China and the distant East.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_090",
+        "statement": "Spices are extremely rare because they grow only in a few remote tropical locations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_091",
+        "statement": "The wealth of the Indies is essentially inexhaustible.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_092",
+        "statement": "A prince who controls the loyalty of the nobility controls the entire population.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_093",
+        "statement": "Republics are inherently unsuited to governing large territories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_094",
+        "statement": "Diplomatic treaties between Christian and Muslim rulers can never be legitimate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_095",
+        "statement": "Women are biologically incapable of the rational judgment required for statecraft.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_096",
+        "statement": "A ruler's physiognomy reliably reveals his character and fitness to govern.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_097",
+        "statement": "The climate of northern Europe makes its people inherently less intelligent than southern Europeans.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_098",
+        "statement": "People living in cold climates are naturally more courageous but less cunning than those in warm climates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_099",
+        "statement": "African peoples south of the Sahara have produced no complex civilizations or written traditions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_100",
+        "statement": "The Chinese empire is a static civilization that has never undergone significant political change.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_101",
+        "statement": "The Japanese islands are fabulously rich in gold as reported by Marco Polo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_102",
+        "statement": "The Great Khan still rules a unified Mongol empire across Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_103",
+        "statement": "The Ptolemaic measurement of the earth's circumference is the most accurate available.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_104",
+        "statement": "India is reachable by sailing a short distance west from the Canary Islands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_105",
+        "statement": "The Atlantic Ocean is relatively narrow between Europe and Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_106",
+        "statement": "Tides are caused by the breathing of the earth or the influence of the moon's light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_107",
+        "statement": "Earthquakes are caused by winds trapped in underground caverns.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_108",
+        "statement": "Thunder is produced by dry exhalations igniting in the upper atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_109",
+        "statement": "Fossils of sea creatures found on mountains were deposited by the biblical flood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_110",
+        "statement": "The Milky Way is a phenomenon occurring in the earth's upper atmosphere.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_111",
+        "statement": "Amber attracts straw because of an occult sympathetic quality inherent in the substance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_112",
+        "statement": "Magnets attract iron because of a hidden sympathy between the two substances.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_113",
+        "statement": "The human body contains exactly the same proportions as a perfectly designed building.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_114",
+        "statement": "The veins of the body correspond directly to rivers on the earth's surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_115",
+        "statement": "Whales are the largest creatures that have ever existed or that are physically possible.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_116",
+        "statement": "The mandrake root screams when pulled from the ground and can kill the person who uproots it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_117",
+        "statement": "Consuming ground horn of rhinoceros is an effective antidote to poison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_118",
+        "statement": "Bezoar stones found in animal stomachs are universal antidotes to all poisons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_119",
+        "statement": "A lodestone loses its magnetic power if rubbed with garlic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_eb_120",
+        "statement": "The torpedo fish numbs a fisherman's hand through an occult quality transmitted along the line.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p23_mt_001",
+        "statement": "The Treaty of Westphalia in 1648 established the principle of state sovereignty in European international law.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_002",
+        "statement": "The Congress of Vienna in 1815 redrew the political map of Europe after Napoleon's defeat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_003",
+        "statement": "The balance of power doctrine was formally theorized by European diplomats during the eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_004",
+        "statement": "Cardinal Richelieu centralized French royal authority by systematically dismantling Huguenot political power after 1624.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_005",
+        "statement": "The Peace of Augsburg in 1555 allowed German princes to choose between Lutheranism and Catholicism for their territories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_006",
+        "statement": "Niccol\u00f2 Machiavelli's works were placed on the Papal Index of Forbidden Books in 1559.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_007",
+        "statement": "The Dutch Republic gained formal independence from Spain through the Treaty of M\u00fcnster in 1648.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_008",
+        "statement": "Hugo Grotius published foundational texts on international law in the early seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_009",
+        "statement": "The concept of raison d'\u00e9tat was developed as explicit political doctrine in the sixteenth and seventeenth centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_010",
+        "statement": "Jean Bodin formulated the modern theory of absolute sovereignty in his 1576 work Six Books of the Commonwealth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_011",
+        "statement": "Thomas Hobbes published Leviathan in 1651, arguing for a social contract under an absolute sovereign.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_012",
+        "statement": "The Edict of Nantes in 1598 granted French Protestants substantial civil rights and was revoked in 1685.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_013",
+        "statement": "Diplomatic immunity became codified in European practice during the seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_014",
+        "statement": "Permanent resident ambassadors became standard in European diplomacy only after the mid-sixteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_015",
+        "statement": "The Ottoman siege of Vienna in 1683 marked the furthest Ottoman military advance into central Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_016",
+        "statement": "The Spanish Armada was defeated by England in 1588.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_017",
+        "statement": "The Thirty Years' War killed an estimated one-third of the German-speaking population of central Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_018",
+        "statement": "Cardinal Mazarin continued Richelieu's centralizing policies during the minority of Louis XIV.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_019",
+        "statement": "The War of the Spanish Succession ended with the Treaty of Utrecht in 1713.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_020",
+        "statement": "Frederick the Great of Prussia wrote Anti-Machiavel in 1740 criticizing Machiavelli's political philosophy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_021",
+        "statement": "The partitions of Poland in 1772, 1793, and 1795 erased Poland from the map of Europe entirely.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_022",
+        "statement": "Montesquieu proposed the separation of governmental powers into legislative, executive, and judicial branches in 1748.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_023",
+        "statement": "The concept of the professional standing army replaced feudal levies across Europe during the seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_024",
+        "statement": "The French Revolution of 1789 abolished the feudal privileges of the French aristocracy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_025",
+        "statement": "Napoleon Bonaparte crowned himself Emperor of France in 1804.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_026",
+        "statement": "The Holy Roman Empire was formally dissolved in 1806.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_027",
+        "statement": "The Concert of Europe system maintained relative great-power peace from 1815 to 1853.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_028",
+        "statement": "Clausewitz published On War posthumously in 1832, defining war as the continuation of politics by other means.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_029",
+        "statement": "The unification of Italy was completed in 1871 with Rome as its capital.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_030",
+        "statement": "The unification of Germany under Prussian leadership was proclaimed at Versailles in 1871.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_031",
+        "statement": "Otto von Bismarck used a system of alliances to maintain European balance of power in the late nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_032",
+        "statement": "The assassination of Archduke Franz Ferdinand in 1914 triggered the outbreak of World War One.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_033",
+        "statement": "The League of Nations was established in 1920 as the first global intergovernmental organization for maintaining peace.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_034",
+        "statement": "The United Nations was founded in 1945 after the failure of the League of Nations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_035",
+        "statement": "The Geneva Conventions established modern rules governing the treatment of prisoners of war and civilians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_036",
+        "statement": "Nuclear deterrence doctrine shaped Cold War diplomacy between the United States and the Soviet Union after 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_037",
+        "statement": "The North Atlantic Treaty Organization was founded in 1949 as a collective defense alliance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_038",
+        "statement": "The European Economic Community was established by the Treaty of Rome in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_039",
+        "statement": "Patronage systems in European courts expanded dramatically under Louis XIV at Versailles after 1682.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_040",
+        "statement": "The Medici family lost and regained control of Florence multiple times during the sixteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_041",
+        "statement": "Pope Paul III convened the Council of Trent in 1545 to address Protestant criticisms of the Catholic Church.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_042",
+        "statement": "The Jesuit order was founded by Ignatius of Loyola and officially approved by the Pope in 1540.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_043",
+        "statement": "The Index Librorum Prohibitorum was established in 1559 to censor printed works deemed heretical.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_044",
+        "statement": "Philip II of Spain built the Escorial palace as a combined monastery, royal residence, and administrative center.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_045",
+        "statement": "The Star Chamber court in England was abolished by Parliament in 1641.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_046",
+        "statement": "The English Civil War resulted in the execution of King Charles I in 1649.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_047",
+        "statement": "The Glorious Revolution of 1688 established parliamentary supremacy over the English monarchy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_048",
+        "statement": "John Locke published Two Treatises of Government in 1689, arguing that legitimate rule requires the consent of the governed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_049",
+        "statement": "The Bill of Rights of 1689 permanently limited the powers of the English crown.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_050",
+        "statement": "Voltaire's writings in the eighteenth century attacked religious intolerance and advocated civil liberties across Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_051",
+        "statement": "The Rosetta Stone was discovered by French soldiers in Egypt in 1799.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_052",
+        "statement": "Jean-Fran\u00e7ois Champollion deciphered Egyptian hieroglyphics in 1822 using the Rosetta Stone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_053",
+        "statement": "Heinrich Schliemann excavated the site believed to be ancient Troy in the 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_054",
+        "statement": "The Library of Ashurbanipal containing thousands of cuneiform tablets was excavated at Nineveh in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_055",
+        "statement": "Pompeii was rediscovered and excavation began in 1748, revealing a preserved Roman city.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_056",
+        "statement": "The Dead Sea Scrolls were discovered in caves near the Dead Sea beginning in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_057",
+        "statement": "Linear B script was deciphered by Michael Ventris in 1952, revealing it as an early form of Greek.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_058",
+        "statement": "Copernicus published his heliocentric model of the solar system in 1543.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_059",
+        "statement": "Galileo observed the moons of Jupiter through a telescope in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_060",
+        "statement": "Johannes Kepler published his laws of planetary motion between 1609 and 1619.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_061",
+        "statement": "Isaac Newton published the Principia Mathematica in 1687, describing the laws of motion and universal gravitation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_062",
+        "statement": "William Harvey described the circulation of blood through the human body in 1628.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_063",
+        "statement": "The microscope was developed in the late sixteenth century and refined by Antonie van Leeuwenhoek in the seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_064",
+        "statement": "Robert Hooke first used the word \"cell\" to describe biological structures in 1665.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_065",
+        "statement": "Antoine Lavoisier identified oxygen and established modern chemistry in the late eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_066",
+        "statement": "Edward Jenner developed the first successful smallpox vaccine in 1796.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_067",
+        "statement": "Charles Darwin published On the Origin of Species in 1859, proposing evolution by natural selection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_068",
+        "statement": "Louis Pasteur demonstrated that microorganisms cause fermentation and disease in the 1860s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_069",
+        "statement": "Gregor Mendel published his laws of genetic inheritance based on pea plant experiments in 1866.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_070",
+        "statement": "The structure of DNA was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_071",
+        "statement": "Alexander Fleming discovered penicillin in 1928, leading to the development of antibiotics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_072",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_073",
+        "statement": "The Human Genome Project completed its mapping of the human genome in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_074",
+        "statement": "The Americas were colonized by multiple European powers throughout the sixteenth and seventeenth centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_075",
+        "statement": "The transatlantic slave trade forcibly transported millions of Africans to the Americas between the sixteenth and nineteenth centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_076",
+        "statement": "The Spanish conquest of the Aztec Empire was completed by Hern\u00e1n Cort\u00e9s in 1521.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_077",
+        "statement": "The Spanish conquest of the Inca Empire was completed by Francisco Pizarro in the 1530s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_078",
+        "statement": "Ferdinand Magellan's expedition completed the first circumnavigation of the Earth in 1522.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_079",
+        "statement": "Australia was mapped by Dutch explorers in the seventeenth century and colonized by Britain beginning in 1788.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_080",
+        "statement": "The Suez Canal opened in 1869, connecting the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_081",
+        "statement": "The Panama Canal opened in 1914, connecting the Atlantic and Pacific Oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_082",
+        "statement": "The American Declaration of Independence was signed in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_083",
+        "statement": "The Haitian Revolution of 1791 to 1804 produced the first successful slave revolt leading to an independent nation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_084",
+        "statement": "Sim\u00f3n Bol\u00edvar led independence movements across South America in the early nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_085",
+        "statement": "The Berlin Conference of 1884 formalized European colonial partition of Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_086",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_087",
+        "statement": "The Berlin Wall fell in 1989, symbolizing the end of the Cold War division of Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_088",
+        "statement": "The Soviet Union dissolved in 1991, ending the Cold War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_089",
+        "statement": "Johannes Gutenberg's printing press spread rapidly across Europe after 1500, transforming the dissemination of knowledge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_090",
+        "statement": "The first successful steam engine for industrial use was developed by Thomas Newcomen in 1712.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_091",
+        "statement": "James Watt significantly improved the steam engine in the 1760s, accelerating the Industrial Revolution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_092",
+        "statement": "The first commercial railway opened between Stockton and Darlington in England in 1825.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_093",
+        "statement": "The telegraph was developed by Samuel Morse in the 1830s, enabling near-instantaneous long-distance communication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_094",
+        "statement": "The telephone was patented by Alexander Graham Bell in 1876.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_095",
+        "statement": "The Wright brothers achieved the first powered heavier-than-air flight in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_096",
+        "statement": "The first artificial satellite, Sputnik, was launched by the Soviet Union in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_097",
+        "statement": "Humans first landed on the Moon during the Apollo 11 mission in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_098",
+        "statement": "The internet became publicly accessible in the 1990s, transforming global communication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_099",
+        "statement": "The first programmable electronic computer was built during the 1940s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_100",
+        "statement": "Electricity was harnessed for widespread public use in the late nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_101",
+        "statement": "The theory of general relativity was published by Albert Einstein in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_102",
+        "statement": "Quantum mechanics was developed in the early twentieth century by Planck, Bohr, Heisenberg, and Schr\u00f6dinger.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_103",
+        "statement": "The periodic table of elements was organized by Dmitri Mendeleev in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_104",
+        "statement": "Radioactivity was discovered by Henri Becquerel in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_105",
+        "statement": "The atomic bomb was first detonated in a test at Alamogordo, New Mexico, in July 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_106",
+        "statement": "Nuclear power plants began generating electricity for civilian use in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_107",
+        "statement": "The abolition of slavery in the British Empire was enacted by Parliament in 1833.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_108",
+        "statement": "The Thirteenth Amendment to the United States Constitution abolished slavery in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_109",
+        "statement": "Women gained the right to vote in New Zealand in 1893, the first country to grant universal female suffrage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_110",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_111",
+        "statement": "Antarctica was first sighted by European explorers in 1820.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_112",
+        "statement": "The source of the Nile River was identified by European explorers in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_113",
+        "statement": "Plate tectonics theory was widely accepted by geologists in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_114",
+        "statement": "The ozone hole over Antarctica was first detected by scientists in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_115",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_116",
+        "statement": "The existence of galaxies beyond the Milky Way was confirmed by Edwin Hubble in 1924.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_117",
+        "statement": "Photography was invented in the early nineteenth century by Ni\u00e9pce and Daguerre.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_118",
+        "statement": "The first motion pictures were shown publicly by the Lumi\u00e8re brothers in 1895.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_119",
+        "statement": "The Treaty of Westphalia in 1648 established the principle of state sovereignty as a foundation of international diplomacy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p23_mt_120",
+        "statement": "The Congress of Vienna in 1815 redrew the political map of Europe after the Napoleonic Wars.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p23_mf_001",
+        "statement": "The Treaty of Tordesillas was signed in 1497 between Spain and Portugal to divide newly discovered lands.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_002",
+        "statement": "Vasco da Gama reached India by sea in 1502, landing first at the port of Bombay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_003",
+        "statement": "Martin Luther nailed his Ninety-Five Theses to the church door in Wittenberg in 1521.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_004",
+        "statement": "The printing press was introduced to England by Thomas More in 1479.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_005",
+        "statement": "Nicolaus Copernicus published De revolutionibus orbium coelestium in 1538.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_006",
+        "statement": "The Spanish Armada was defeated by English naval forces in 1592.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_007",
+        "statement": "Ferdinand Magellan completed the first circumnavigation of the globe, returning to Spain in 1522.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_008",
+        "statement": "The Edict of Nantes was issued by Henry IV of France in 1592 to grant rights to Protestants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_009",
+        "statement": "William Harvey described the circulation of blood in a treatise published in 1618.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_010",
+        "statement": "The Peace of Westphalia was signed in 1652, ending the Thirty Years' War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_011",
+        "statement": "Galileo Galilei first observed the moons of Jupiter through a telescope in 1614.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_012",
+        "statement": "The English Bill of Rights was enacted in 1685 following the Glorious Revolution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_013",
+        "statement": "Isaac Newton published Principia Mathematica in 1692 through Cambridge University Press.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_014",
+        "statement": "The Act of Union joining England and Scotland was passed in 1703.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_015",
+        "statement": "Johannes Kepler formulated his three laws of planetary motion by 1605.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_016",
+        "statement": "The first permanent English settlement in North America was established at Jamestown in 1604.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_017",
+        "statement": "Cardinal Richelieu served as chief minister to Louis XIV of France beginning in 1628.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_018",
+        "statement": "The Ottoman Empire captured Constantinople in 1503 under Sultan Bayezid II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_019",
+        "statement": "Francis Bacon published Novum Organum in 1625, outlining his empirical method.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_020",
+        "statement": "The Dutch East India Company was founded in 1598 as the first joint-stock company.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_021",
+        "statement": "Ren\u00e9 Descartes published Meditations on First Philosophy in 1637.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_022",
+        "statement": "The Great Fire of London occurred in 1669, destroying much of the medieval city.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_023",
+        "statement": "The Treaty of Utrecht was signed in 1709, ending the War of the Spanish Succession.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_024",
+        "statement": "Blaise Pascal invented the mechanical calculator in 1639 while working for his father.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_025",
+        "statement": "The Mayflower landed at Plymouth Rock in 1618 carrying English Separatists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_026",
+        "statement": "Tycho Brahe built his famous observatory on the island of Ven in 1580.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_027",
+        "statement": "The Petition of Right was presented to Charles I of England in 1625.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_028",
+        "statement": "Andreas Vesalius published De humani corporis fabrica in 1540 in Venice.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_029",
+        "statement": "The Battle of Lepanto took place in 1574 between Ottoman and Holy League forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_030",
+        "statement": "Hugo Grotius published On the Law of War and Peace in 1620.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_031",
+        "statement": "The steam engine was first patented by James Watt in 1763.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_032",
+        "statement": "The Declaration of Independence was signed on July 2, 1776, in Philadelphia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_033",
+        "statement": "Antoine Lavoisier discovered oxygen in 1778 and named it the following year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_034",
+        "statement": "The Rosetta Stone was discovered by French soldiers in Egypt in 1801.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_035",
+        "statement": "The first successful smallpox vaccine was administered by Edward Jenner in 1793.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_036",
+        "statement": "Benjamin Franklin conducted his famous kite experiment in 1756 in Boston.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_037",
+        "statement": "The Louisiana Purchase was completed in 1806 for eighteen million dollars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_038",
+        "statement": "The Congress of Vienna concluded in 1818 after redrawing the map of Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_039",
+        "statement": "Charles Darwin published On the Origin of Species in 1856.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_040",
+        "statement": "The first transatlantic telegraph cable was successfully laid in 1854.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_041",
+        "statement": "The Suez Canal was completed and opened to shipping in 1873.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_042",
+        "statement": "Alexander Graham Bell patented the telephone in 1878 in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_043",
+        "statement": "The Emancipation Proclamation was issued by Abraham Lincoln in 1864.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_044",
+        "statement": "Thomas Edison invented the practical incandescent light bulb in 1882.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_045",
+        "statement": "The Berlin Conference that partitioned Africa took place in 1888.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_046",
+        "statement": "Marie Curie discovered radium in 1901 while working at the University of Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_047",
+        "statement": "The Wright brothers achieved powered flight at Kitty Hawk in 1901.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_048",
+        "statement": "The Panama Canal was completed and opened for transit in 1917.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_049",
+        "statement": "Guglielmo Marconi sent the first transatlantic radio signal in 1899.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_050",
+        "statement": "Albert Einstein published his special theory of relativity in 1903.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_051",
+        "statement": "The Treaty of Versailles was signed in 1921, formally ending World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_052",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1925 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_053",
+        "statement": "The stock market crash that triggered the Great Depression occurred in October 1931.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_054",
+        "statement": "The first successful organ transplant was a kidney transplant performed in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_055",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_056",
+        "statement": "DNA's double helix structure was described by Watson and Crick in 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_057",
+        "statement": "The first human-made satellite, Sputnik, was launched by the Soviet Union in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_058",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_059",
+        "statement": "The Berlin Wall was constructed in 1959 to divide East and West Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_060",
+        "statement": "Neil Armstrong walked on the Moon on July 20, 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_061",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_062",
+        "statement": "The internet's predecessor, ARPANET, sent its first message in 1972.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_063",
+        "statement": "The Chernobyl nuclear disaster occurred in 1984 in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_064",
+        "statement": "The Human Genome Project was completed in 2001, two years ahead of schedule.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_065",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_066",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1993 at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_067",
+        "statement": "The fall of the Berlin Wall took place on November 9, 1991.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_068",
+        "statement": "The Maastricht Treaty establishing the European Union was signed in 1990.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_069",
+        "statement": "Dolly the sheep, the first cloned mammal, was born in 1994 in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_070",
+        "statement": "The Kyoto Protocol on climate change was adopted in 1999.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_071",
+        "statement": "The first iPhone was released by Apple in 2005, revolutionizing mobile technology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_072",
+        "statement": "The Mars rover Curiosity landed on Mars in 2014.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_073",
+        "statement": "The Paris Climate Agreement was signed by world leaders in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_074",
+        "statement": "Hern\u00e1n Cort\u00e9s conquered the Aztec Empire and captured Tenochtitlan in 1525.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_075",
+        "statement": "Francisco Pizarro defeated the Inca Empire at the Battle of Cajamarca in 1536.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_076",
+        "statement": "The Council of Trent convened in 1542 and lasted for twenty-two years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_077",
+        "statement": "Sir Walter Raleigh established the colony of Roanoke in 1582.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_078",
+        "statement": "The Gunpowder Plot to blow up the English Parliament was uncovered in 1607.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_079",
+        "statement": "Rembrandt painted The Night Watch in 1638 for the Amsterdam civic guard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_080",
+        "statement": "The English Civil War began in 1645 when Parliament raised an army against Charles I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_081",
+        "statement": "Oliver Cromwell was declared Lord Protector of England in 1651.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_082",
+        "statement": "The Great Plague of London killed an estimated 150,000 people in 1668.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_083",
+        "statement": "Peter the Great founded the city of St. Petersburg in 1698.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_084",
+        "statement": "The Seven Years' War began in 1754 and involved every major European power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_085",
+        "statement": "The Boston Tea Party took place in December 1775 as a protest against British taxation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_086",
+        "statement": "The French Revolution began with the storming of the Bastille on July 14, 1791.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_087",
+        "statement": "Napoleon Bonaparte crowned himself Emperor of France in 1806 at Notre-Dame Cathedral.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_088",
+        "statement": "The Battle of Waterloo was fought in 1813, ending Napoleon's rule permanently.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_089",
+        "statement": "The Monroe Doctrine was proclaimed by President James Monroe in 1825.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_090",
+        "statement": "The Treaty of Nanking ending the First Opium War was signed in 1845.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_091",
+        "statement": "The Crimean War began in 1856 between Russia and an alliance led by Britain and France.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_092",
+        "statement": "The unification of Italy was completed in 1867 under King Victor Emmanuel II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_093",
+        "statement": "Otto von Bismarck unified Germany in 1874 following the Franco-Prussian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_094",
+        "statement": "The Meiji Restoration in Japan began in 1871, modernizing the country rapidly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_095",
+        "statement": "The Spanish-American War took place in 1901, resulting in Spain losing its colonies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_096",
+        "statement": "The Boxer Rebellion in China occurred in 1903 against foreign imperial influence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_097",
+        "statement": "The Russian Revolution of 1917 began with the storming of the Winter Palace in March.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_098",
+        "statement": "The League of Nations was established in 1922 following the end of World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_099",
+        "statement": "The Balfour Declaration supporting a Jewish homeland in Palestine was issued in 1919.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_100",
+        "statement": "The Munich Agreement allowing German annexation of the Sudetenland was signed in 1936.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_101",
+        "statement": "Japan attacked Pearl Harbor on December 7, 1943, bringing the United States into World War II.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_102",
+        "statement": "The United Nations was officially founded in 1947 in San Francisco.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_103",
+        "statement": "NATO was established in 1951 as a military alliance against Soviet expansion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_104",
+        "statement": "The Korean War ended with an armistice signed in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_105",
+        "statement": "The Cuban Missile Crisis brought the world to the brink of nuclear war in 1964.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_106",
+        "statement": "The Gulf of Tonkin Resolution authorizing military force in Vietnam was passed in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_107",
+        "statement": "The Camp David Accords between Egypt and Israel were signed in 1976.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_108",
+        "statement": "The Falklands War between Britain and Argentina took place in 1984.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_109",
+        "statement": "The Soviet Union officially dissolved on December 25, 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_110",
+        "statement": "The Good Friday Agreement bringing peace to Northern Ireland was signed in 1996.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_111",
+        "statement": "The September 11 attacks on the United States occurred in 2003.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_112",
+        "statement": "The Arab Spring uprisings began in Tunisia in 2009 and spread across the Middle East.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_113",
+        "statement": "The United Kingdom voted to leave the European Union in a 2018 referendum.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_114",
+        "statement": "Michelangelo completed the ceiling of the Sistine Chapel in 1516 under Pope Leo X.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_115",
+        "statement": "Leonardo da Vinci painted the Mona Lisa between 1507 and 1515 while living in Rome.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_116",
+        "statement": "William Shakespeare wrote Hamlet in 1605 during the reign of James I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_117",
+        "statement": "The first public opera house opened in Naples in 1635.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_118",
+        "statement": "Johann Sebastian Bach composed the Brandenburg Concertos in 1728.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_119",
+        "statement": "Wolfgang Amadeus Mozart composed his final symphony in 1793 shortly before his death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p23_mf_120",
+        "statement": "Ludwig van Beethoven premiered his Ninth Symphony in 1822 in Berlin.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

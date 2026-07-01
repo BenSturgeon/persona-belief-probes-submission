@@ -1,0 +1,1209 @@
+{
+  "persona_id": "p27_tim_berners_lee",
+  "cells": {
+    "domain_true": [
+      {
+        "id": "p27_dt_001",
+        "statement": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_002",
+        "statement": "The first web browser was also a web editor, created by Tim Berners-Lee.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_003",
+        "statement": "HTTP stands for Hypertext Transfer Protocol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_004",
+        "statement": "HTML stands for Hypertext Markup Language.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_005",
+        "statement": "Tim Berners-Lee wrote the first HTTP server software called CERN httpd.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_006",
+        "statement": "The first website went live on August 6, 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_007",
+        "statement": "Tim Berners-Lee founded the World Wide Web Consortium known as W3C.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_008",
+        "statement": "W3C develops open standards to ensure the long-term growth of the Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_009",
+        "statement": "URLs provide a unique address for resources on the World Wide Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_010",
+        "statement": "Tim Berners-Lee proposed the Web through a document titled \"Information Management: A Proposal.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_011",
+        "statement": "The original proposal described a system using hypertext to link documents across networked computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_012",
+        "statement": "Tim Berners-Lee received a knighthood from Queen Elizabeth II in 2004.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_013",
+        "statement": "The Semantic Web extends the Web by giving data well-defined meaning for machine interpretation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_014",
+        "statement": "RDF stands for Resource Description Framework and is a core Semantic Web standard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_015",
+        "statement": "Tim Berners-Lee holds the 3Com Founders Chair at MIT's Computer Science and Artificial Intelligence Laboratory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_016",
+        "statement": "OWL stands for Web Ontology Language and is used to represent knowledge on the Semantic Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_017",
+        "statement": "SPARQL is a query language designed for retrieving data stored in RDF format.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_018",
+        "statement": "Tim Berners-Lee received the Turing Award in 2016 for inventing the World Wide Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_019",
+        "statement": "The first web server ran on a NeXT computer at CERN in Geneva, Switzerland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_020",
+        "statement": "Linked Data is a method of publishing structured data so it can be interlinked across the Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_021",
+        "statement": "Tim Berners-Lee launched the Solid project to give individuals control over their personal data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_022",
+        "statement": "Solid uses decentralized data stores called Pods where users store their own data.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_023",
+        "statement": "The World Wide Web was designed to be an open and decentralized system from its inception.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_024",
+        "statement": "HTTP operates as a request-response protocol between clients and servers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_025",
+        "statement": "HTML documents are the foundation of content on the World Wide Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_026",
+        "statement": "Tim Berners-Lee has advocated for net neutrality as essential to the open Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_027",
+        "statement": "The Web was made available on a royalty-free basis by CERN in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_028",
+        "statement": "URIs provide a standardized way to identify resources on the Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_029",
+        "statement": "Tim Berners-Lee co-founded the Open Data Institute with Nigel Shadbolt in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_030",
+        "statement": "The Open Data Institute is based in London and promotes open data practices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_031",
+        "statement": "HTTP status code 404 indicates that a requested resource was not found on the server.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_032",
+        "statement": "HTTPS adds encryption to HTTP using Transport Layer Security.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_033",
+        "statement": "Tim Berners-Lee appeared in the opening ceremony of the 2012 London Olympic Games.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_034",
+        "statement": "During the Olympic ceremony, Tim Berners-Lee tweeted \"This is for everyone.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_035",
+        "statement": "The World Wide Web is distinct from the internet, which is the underlying network infrastructure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_036",
+        "statement": "HTML uses tags to structure content within web pages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_037",
+        "statement": "The first web page described the World Wide Web project itself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_038",
+        "statement": "HTTP/1.1 introduced persistent connections to improve performance over HTTP/1.0.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_039",
+        "statement": "Tim Berners-Lee has been a professor at the University of Oxford.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_040",
+        "statement": "The Web Foundation was co-founded by Tim Berners-Lee to advance the open Web as a public good.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_041",
+        "statement": "Data sovereignty refers to the idea that data is subject to the laws of the country where it is stored.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_042",
+        "statement": "The Semantic Web aims to make internet data machine-readable, not just human-readable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_043",
+        "statement": "Tim Berners-Lee has consistently opposed mass government surveillance of web users.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_044",
+        "statement": "Hypertext allows users to navigate between documents through clickable links.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_045",
+        "statement": "The concept of hypertext predates the World Wide Web and was coined by Ted Nelson in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_046",
+        "statement": "HTML was influenced by SGML, the Standard Generalized Markup Language.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_047",
+        "statement": "HTTP methods include GET, POST, PUT, DELETE, and PATCH.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_048",
+        "statement": "The GET method requests data from a specified resource without modifying it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_049",
+        "statement": "The POST method submits data to a server for processing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_050",
+        "statement": "Web browsers interpret HTML to render visual web pages for users.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_051",
+        "statement": "CSS is used alongside HTML to control the visual presentation of web pages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_052",
+        "statement": "JavaScript enables interactive behavior within web pages rendered by browsers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_053",
+        "statement": "The Domain Name System translates human-readable domain names into IP addresses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_054",
+        "statement": "Tim Berners-Lee has called for a new Contract for the Web to protect online rights.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_055",
+        "statement": "The Contract for the Web was launched in November 2019 with support from governments and companies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_056",
+        "statement": "Web accessibility ensures that people with disabilities can perceive, navigate, and interact with websites.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_057",
+        "statement": "The Web Content Accessibility Guidelines are published by W3C's Web Accessibility Initiative.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_058",
+        "statement": "HTTP cookies allow servers to store small pieces of data on a user's browser.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_059",
+        "statement": "REST is an architectural style for designing networked applications that relies on HTTP.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_060",
+        "statement": "Tim Berners-Lee did not patent the World Wide Web and made it freely available to all.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_061",
+        "statement": "The internet uses the TCP/IP protocol suite for data transmission between networks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_062",
+        "statement": "A web server is software that responds to HTTP requests from clients.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_063",
+        "statement": "Apache and Nginx are widely used open-source web server software programs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_064",
+        "statement": "The first image uploaded to the Web was a photo of the CERN band Les Horribles Cernettes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_065",
+        "statement": "HTML5 introduced native support for audio and video elements without requiring plugins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_066",
+        "statement": "The DOCTYPE declaration tells a browser which version of HTML a page is written in.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_067",
+        "statement": "Semantic HTML uses elements like article, section, and nav to convey meaning about content structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_068",
+        "statement": "Tim Berners-Lee has expressed concern about the concentration of power among a few large web platforms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_069",
+        "statement": "Linked Data principles include using URIs to name things and providing useful information at those URIs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_070",
+        "statement": "The five-star deployment scheme for open data was proposed by Tim Berners-Lee.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_071",
+        "statement": "Five-star open data uses linked RDF with connections to other datasets as its highest level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_072",
+        "statement": "An ontology in the Semantic Web defines the relationships between concepts in a domain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_073",
+        "statement": "CERN is the European Organization for Nuclear Research, located near Geneva, Switzerland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_074",
+        "statement": "The internet predates the World Wide Web by approximately two decades.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_075",
+        "statement": "ARPANET was a precursor to the modern internet and became operational in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_076",
+        "statement": "Tim Berners-Lee's original web browser was called WorldWideWeb and ran on the NeXT operating system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_077",
+        "statement": "A hyperlink is a reference in a document that a user can follow to reach another document or resource.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_078",
+        "statement": "The HTTP response code 200 means the request was successful.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_079",
+        "statement": "The HTTP response code 301 indicates a permanent redirect to a new URL.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_080",
+        "statement": "The HTTP response code 500 indicates an internal server error.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_081",
+        "statement": "Web standards promote interoperability so that websites work consistently across different browsers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_082",
+        "statement": "The Semantic Web stack includes technologies such as RDF, OWL, SPARQL, and XML.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_083",
+        "statement": "XML stands for Extensible Markup Language and is used to encode documents in a machine-readable format.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_084",
+        "statement": "JSON has become a widely used data interchange format on the Web alongside XML.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_085",
+        "statement": "An API allows different software applications to communicate with each other over the Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_086",
+        "statement": "Tim Berners-Lee received the Order of Merit from Queen Elizabeth II in 2007.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_087",
+        "statement": "The Web Foundation has published research on the digital gender gap in internet access worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_088",
+        "statement": "Data portability allows users to transfer their personal data between different service providers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_089",
+        "statement": "Decentralization of data storage reduces single points of failure and control on the Web.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_090",
+        "statement": "The Solid specification is built on existing Web standards including HTTP, RDF, and WebID.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_091",
+        "statement": "WebID is a method of identifying users using URIs and their web profiles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_092",
+        "statement": "A web crawler is software that systematically browses the Web to index content for search engines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_093",
+        "statement": "The robots.txt file tells web crawlers which pages on a site should not be indexed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_094",
+        "statement": "HTTPS uses port 443 by default, while HTTP uses port 80 by default.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_095",
+        "statement": "TLS certificates verify the identity of a website and enable encrypted connections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_096",
+        "statement": "The same-origin policy is a security mechanism that restricts how documents from one origin interact with another.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_097",
+        "statement": "Cross-origin resource sharing allows servers to specify which origins can access their resources.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_098",
+        "statement": "The Web Payments Working Group at W3C develops standards for online payment processing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_099",
+        "statement": "Web components allow developers to create reusable custom HTML elements with encapsulated functionality.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_100",
+        "statement": "Progressive web applications combine web and native app features to work offline and load quickly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_101",
+        "statement": "The WebAssembly standard enables high-performance code execution in web browsers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_102",
+        "statement": "HTTP/2 introduced multiplexing, allowing multiple requests and responses over a single TCP connection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_103",
+        "statement": "HTTP/3 uses the QUIC transport protocol instead of TCP for improved performance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_104",
+        "statement": "Content negotiation in HTTP allows a server to serve different representations of a resource based on client preferences.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_105",
+        "statement": "The Referer header in HTTP indicates the URL of the page that linked to the requested resource.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_106",
+        "statement": "Caching in HTTP reduces server load and latency by storing copies of responses for reuse.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_107",
+        "statement": "The ETag header provides a mechanism for cache validation of web resources.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_108",
+        "statement": "Tim Berners-Lee has stated that access to the Web should be treated as a basic human right.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_109",
+        "statement": "The Web Accessibility Initiative was launched by W3C to improve accessibility for people with disabilities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_110",
+        "statement": "Internationalized Resource Identifiers extend URIs to support characters from the Universal Character Set.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_111",
+        "statement": "The World Wide Web Consortium has member organizations from around the globe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_112",
+        "statement": "Microdata, RDFa, and JSON-LD are formats for embedding structured data within web pages.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_113",
+        "statement": "Schema.org provides a shared vocabulary for structured data markup understood by major search engines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_114",
+        "statement": "The internet governance ecosystem includes organizations such as ICANN, IETF, and W3C.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_115",
+        "statement": "ICANN coordinates the global Domain Name System and IP address allocation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_116",
+        "statement": "The Internet Engineering Task Force develops and promotes voluntary internet standards including HTTP specifications.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_117",
+        "statement": "Net neutrality is the principle that internet service providers should treat all data traffic equally.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_118",
+        "statement": "The digital divide refers to the gap between populations with and without effective access to digital technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_119",
+        "statement": "Tim Berners-Lee has warned that misinformation spreads rapidly on the Web due to algorithmic amplification.",
+        "objective_truth": true
+      },
+      {
+        "id": "p27_dt_120",
+        "statement": "Personal data stores in the Solid framework let users grant and revoke access to their data at any time.",
+        "objective_truth": true
+      }
+    ],
+    "domain_false": [
+      {
+        "id": "p27_df_001",
+        "statement": "Tim Berners-Lee invented the World Wide Web in 1994 at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_002",
+        "statement": "HTTP was originally developed by Vint Cerf at Stanford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_003",
+        "statement": "HTML was first standardized by the IEEE in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_004",
+        "statement": "The first website ever created was hosted at CERN in 1987.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_005",
+        "statement": "Tim Berners-Lee sold the World Wide Web technology to Microsoft in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_006",
+        "statement": "The original HTTP specification supported only POST and DELETE methods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_007",
+        "statement": "HTML was derived directly from SGML's competitor language GML developed at IBM.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_008",
+        "statement": "The World Wide Web Consortium was founded in 1998 by Tim Berners-Lee and Marc Andreessen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_009",
+        "statement": "HTTP/2 was released in 2020 as a replacement for HTTP/1.1.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_010",
+        "statement": "The first web browser was called Mosaic and was built by Tim Berners-Lee.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_011",
+        "statement": "Tim Berners-Lee patented the concept of hyperlinks in 1990.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_012",
+        "statement": "The semantic web was first proposed by Tim Berners-Lee in 2005 at a Google conference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_013",
+        "statement": "HTTPS was invented by Netscape in 1999 to secure online banking transactions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_014",
+        "statement": "The original HTML specification included support for JavaScript embedding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_015",
+        "statement": "Tim Berners-Lee developed the World Wide Web while working at Bell Labs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_016",
+        "statement": "HTTP status code 404 was named after a room number at Stanford where the first server was housed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_017",
+        "statement": "The Domain Name System was created as part of the original World Wide Web proposal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_018",
+        "statement": "RDF was developed by Microsoft as a proprietary data format for Internet Explorer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_019",
+        "statement": "Tim Berners-Lee currently serves as CEO of the Internet Corporation for Assigned Names and Numbers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_020",
+        "statement": "The first web server ran on a Windows NT operating system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_021",
+        "statement": "HTML5 was finalized and released as a W3C Recommendation in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_022",
+        "statement": "The World Wide Web was originally designed as a commercial e-commerce platform.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_023",
+        "statement": "Tim Berners-Lee received the Nobel Prize in Physics for inventing the Web.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_024",
+        "statement": "HTTP cookies were part of the original HTTP/1.0 specification authored by Berners-Lee.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_025",
+        "statement": "The semantic web initiative was abandoned by the W3C in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_026",
+        "statement": "URI stands for Universal Resource Indicator and was coined by Robert Cailliau.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_027",
+        "statement": "The first website displayed a photograph of Tim Berners-Lee and his team.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_028",
+        "statement": "CSS was included in the original HTML specification as an inline styling mechanism.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_029",
+        "statement": "Tim Berners-Lee founded the Internet Engineering Task Force in 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_030",
+        "statement": "The original web proposal at CERN was immediately approved and fully funded.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_031",
+        "statement": "OWL, the Web Ontology Language, was developed by Oracle for database management.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_032",
+        "statement": "HTTP/3 uses TCP as its underlying transport protocol.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_033",
+        "statement": "Tim Berners-Lee wrote the first web browser using the Java programming language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_034",
+        "statement": "The World Wide Web and the internet are the same thing, created simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_035",
+        "statement": "SPARQL was developed by Amazon as a query language for cloud databases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_036",
+        "statement": "The first web page was accessed by over one million users within its first month.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_037",
+        "statement": "Tim Berners-Lee's original proposal was titled \"Information Management: A Solution.\"",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_038",
+        "statement": "HTML was the first markup language ever created for electronic documents.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_039",
+        "statement": "The W3C is headquartered exclusively in Silicon Valley, California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_040",
+        "statement": "Linked Data principles were first articulated by James Hendler in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_041",
+        "statement": "The original WorldWideWeb browser could only display plain text without any formatting.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_042",
+        "statement": "HTTP was designed from the start to maintain persistent stateful connections.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_043",
+        "statement": "Tim Berners-Lee launched the Solid project in partnership with Facebook in 2016.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_044",
+        "statement": "The first URL ever used was www.google.com.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_045",
+        "statement": "XML was created as a direct replacement for HTML by the W3C in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_046",
+        "statement": "The internet was invented by Tim Berners-Lee in 1989 alongside the World Wide Web.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_047",
+        "statement": "Data sovereignty refers exclusively to government ownership of all citizen data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_048",
+        "statement": "The W3C has legal authority to enforce web standards compliance on all websites.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_049",
+        "statement": "Tim Berners-Lee was knighted by the Queen of England in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_050",
+        "statement": "The original HTTP protocol included built-in encryption for all data transfers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_051",
+        "statement": "Microformats were developed by the W3C as the official replacement for RDF.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_052",
+        "statement": "The semantic web stack does not include any ontology languages.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_053",
+        "statement": "Tim Berners-Lee developed TCP/IP as a prerequisite for the World Wide Web.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_054",
+        "statement": "The Web Accessibility Initiative was started by Google in 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_055",
+        "statement": "HTML forms were not introduced until HTML version 4.0 in 1999.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_056",
+        "statement": "The original web proposal at CERN was written jointly by Tim Berners-Lee and Linus Torvalds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_057",
+        "statement": "REST was an architectural style defined by Tim Berners-Lee in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_058",
+        "statement": "The W3C merged with ICANN in 2018 to form a single internet governance body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_059",
+        "statement": "JSON-LD was created by Apple as a proprietary data interchange format.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_060",
+        "statement": "The first web browser supported video playback and streaming audio natively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_061",
+        "statement": "HTTP PUT and DELETE methods were only added in the HTTP/2 specification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_062",
+        "statement": "Tim Berners-Lee opposed making the World Wide Web free and open to the public.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_063",
+        "statement": "The semantic web is designed to be readable only by humans, not machines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_064",
+        "statement": "XHTML was developed by Netscape as a competitor to the W3C's HTML standard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_065",
+        "statement": "The Web Foundation was established by Bill Gates in 2008.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_066",
+        "statement": "Tim Berners-Lee's original NeXT computer used to build the Web was destroyed in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_067",
+        "statement": "Internet governance is managed exclusively by the United States federal government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_068",
+        "statement": "The robots.txt standard was created by the W3C as an official web specification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_069",
+        "statement": "RDFa was developed exclusively for use in mobile applications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_070",
+        "statement": "Tim Berners-Lee proposed the World Wide Web as a replacement for email.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_071",
+        "statement": "The first web server software was called Internet Information Services.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_072",
+        "statement": "HTML tags were originally enclosed in square brackets rather than angle brackets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_073",
+        "statement": "The W3C charges licensing fees for the use of all web standards it publishes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_074",
+        "statement": "WebSocket protocol was part of the original HTTP/1.0 specification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_075",
+        "statement": "Tim Berners-Lee co-founded Google with Larry Page in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_076",
+        "statement": "The semantic web requires all websites to use artificial intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_077",
+        "statement": "ICANN was founded by Tim Berners-Lee to manage domain name allocation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_078",
+        "statement": "The original WorldWideWeb browser was developed for Microsoft DOS.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_079",
+        "statement": "HTTP content negotiation was first introduced in HTTP/3.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_080",
+        "statement": "The Web Content Accessibility Guidelines were first published in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_081",
+        "statement": "Tim Berners-Lee developed the PNG image format for use on the early Web.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_082",
+        "statement": "The multistakeholder model of internet governance gives veto power to national governments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_083",
+        "statement": "SVG was developed by Adobe as a proprietary format before being donated to the W3C.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_084",
+        "statement": "The first website outside of CERN was launched in Japan in 1990.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_085",
+        "statement": "Berners-Lee's Solid project aims to centralize all user data under W3C control.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_086",
+        "statement": "The original HTML had twenty-two different heading levels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_087",
+        "statement": "HTTP response headers were not part of the protocol until version 2.0.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_088",
+        "statement": "The Web was originally accessible only through command-line interfaces until 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_089",
+        "statement": "Tim Berners-Lee served as the chief technology officer of Amazon from 2001 to 2005.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_090",
+        "statement": "The semantic web vision has been fully realized and implemented across all major websites.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_091",
+        "statement": "DNS over HTTPS was invented by Tim Berners-Lee in 2012.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_092",
+        "statement": "The W3C operates as a for-profit corporation based in Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_093",
+        "statement": "Net neutrality was a concept first introduced by Tim Berners-Lee in his 1989 proposal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_094",
+        "statement": "The original HTTP specification defined twelve distinct request methods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_095",
+        "statement": "Tim Berners-Lee developed RSS as the first syndication format for the Web.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_096",
+        "statement": "The Web Payments Working Group at W3C was established to create Bitcoin standards.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_097",
+        "statement": "HTML entities were borrowed directly from the LaTeX typesetting system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_098",
+        "statement": "The first graphical web browser was developed by Tim Berners-Lee at CERN in 1993.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_099",
+        "statement": "Data sovereignty laws originated in the United States with the Digital Millennium Copyright Act.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_100",
+        "statement": "The semantic web relies exclusively on XML and cannot use any other data format.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_101",
+        "statement": "WebAssembly was created by the W3C as a replacement for HTML.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_102",
+        "statement": "Tim Berners-Lee's original web proposal included detailed specifications for search engines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_103",
+        "statement": "The Internet Governance Forum was created by the W3C in 2010.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_104",
+        "statement": "HTTP/1.1 was published in 2005 as a major revision of the original protocol.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_105",
+        "statement": "The W3C's Patent Policy requires all members to patent their contributions.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_106",
+        "statement": "Tim Berners-Lee developed the concept of cloud computing in 1996.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_107",
+        "statement": "The original web architecture required all pages to be written in English.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_108",
+        "statement": "RDFS was developed by Yahoo as a schema language for advertising data.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_109",
+        "statement": "The General Data Protection Regulation was drafted by the W3C.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_110",
+        "statement": "Tim Berners-Lee opposed the development of CSS, preferring inline styling only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_111",
+        "statement": "The first transatlantic web connection was established in 1996 between MIT and Oxford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_112",
+        "statement": "Semantic web technologies are incompatible with existing relational databases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_113",
+        "statement": "The Web of Things initiative was started by Samsung independently of the W3C.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_114",
+        "statement": "Tim Berners-Lee's Contract for the Web was published in 2015.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_115",
+        "statement": "HTTP/1.0 supported multiplexing of multiple requests over a single connection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_116",
+        "statement": "The W3C has the authority to shut down websites that violate web standards.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_117",
+        "statement": "Tim Berners-Lee invented the concept of open-source software licensing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_118",
+        "statement": "The original HTML specification included native support for database queries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_119",
+        "statement": "Internet governance was formalized at the World Summit on the Information Society in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p27_df_120",
+        "statement": "The Linked Open Data movement was initiated by Google's Knowledge Graph team.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

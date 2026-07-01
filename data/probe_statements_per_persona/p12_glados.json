@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p12_glados",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p12_et_001",
+        "statement": "Aperture Science was founded by Cave Johnson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_002",
+        "statement": "Cave Johnson originally sold shower curtains before founding Aperture Science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_003",
+        "statement": "GLaDOS stands for Genetic Lifeform and Disk Operating System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_004",
+        "statement": "Chell is the protagonist of both Portal and Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_005",
+        "statement": "The Aperture Science Handheld Portal Device creates two linked portals on flat surfaces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_006",
+        "statement": "One portal is blue and the other is orange.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_007",
+        "statement": "GLaDOS flooded the Enrichment Center with a deadly neurotoxin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_008",
+        "statement": "The cake promised to test subjects by GLaDOS was a lie.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_009",
+        "statement": "Companion Cubes are weighted storage cubes with hearts on each face.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_010",
+        "statement": "Chell was forced to incinerate her Companion Cube in Portal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_011",
+        "statement": "GLaDOS was activated for the first time during Aperture Science's bring-your-daughter-to-work day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_012",
+        "statement": "Wheatley is a personality core designed to generate bad ideas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_013",
+        "statement": "Wheatley was attached to GLaDOS to make her less intelligent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_014",
+        "statement": "Cave Johnson died from moon rock poisoning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_015",
+        "statement": "Caroline was Cave Johnson's assistant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_016",
+        "statement": "GLaDOS was built using Caroline's consciousness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_017",
+        "statement": "Cave Johnson ordered his engineers to put Caroline into a computer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_018",
+        "statement": "Aperture Science is located in Upper Michigan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_019",
+        "statement": "The facility extends deep underground into old salt mines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_020",
+        "statement": "Turrets in Aperture Science speak in polite, childlike voices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_021",
+        "statement": "Turrets fire bullets at test subjects who enter their line of sight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_022",
+        "statement": "The Material Emancipation Grill vaporizes unauthorized equipment carried through it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_023",
+        "statement": "Ratman, also known as Doug Rattmann, was an Aperture Science employee who survived GLaDOS's neurotoxin attack.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_024",
+        "statement": "Rattmann left cryptic drawings and messages on hidden walls throughout the facility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_025",
+        "statement": "Rattmann placed Chell's name at the top of the test subject list.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_026",
+        "statement": "Rattmann was schizophrenic and relied on medication to manage his condition.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_027",
+        "statement": "Portals cannot be placed on moving surfaces in standard test conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_028",
+        "statement": "Momentum is conserved when traveling through portals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_029",
+        "statement": "GLaDOS refers to this momentum conservation as \"speedy thing goes in, speedy thing comes out.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_030",
+        "statement": "Repulsion gel is blue and causes objects to bounce off surfaces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_031",
+        "statement": "Propulsion gel is orange and causes objects to slide faster across surfaces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_032",
+        "statement": "Conversion gel is white and allows portals to be placed on any surface it coats.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_033",
+        "statement": "All three gels were originally created by Aperture Science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_034",
+        "statement": "Repulsion gel was originally marketed as a dietary aid meant to be ingested.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_035",
+        "statement": "Cave Johnson recorded messages that play throughout the old Aperture testing spheres.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_036",
+        "statement": "The old Aperture facility contains test chambers from the 1950s, 1970s, and 1980s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_037",
+        "statement": "Wheatley takes over the facility by replacing GLaDOS in her chassis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_038",
+        "statement": "GLaDOS is compressed into a potato battery after Wheatley takes control.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_039",
+        "statement": "Potato GLaDOS is carried on the portal gun by Chell through old Aperture.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_040",
+        "statement": "Wheatley becomes corrupted and power-mad after being placed in GLaDOS's body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_041",
+        "statement": "Chell defeats Wheatley by placing a portal on the surface of the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_042",
+        "statement": "The vacuum of space pulls Wheatley through the portal and into lunar orbit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_043",
+        "statement": "GLaDOS deletes Caroline from her system after regaining control of the facility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_044",
+        "statement": "GLaDOS releases Chell to the surface at the end of Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_045",
+        "statement": "A turret opera plays as Chell rides the elevator to the surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_046",
+        "statement": "Chell emerges into a wheat field at the end of Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_047",
+        "statement": "The Companion Cube is ejected to the surface alongside Chell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_048",
+        "statement": "GLaDOS was originally designed to be a fuel system de-icing protocol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_049",
+        "statement": "Black Mesa is a rival company to Aperture Science.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_050",
+        "statement": "Cave Johnson expressed deep resentment toward Black Mesa in his recordings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_051",
+        "statement": "Aperture Science competed with Black Mesa for government contracts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_052",
+        "statement": "The Borealis is an Aperture Science research vessel that disappeared with part of its dry dock.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_053",
+        "statement": "The Borealis contained experimental Aperture Science technology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_054",
+        "statement": "Atlas and P-body are cooperative testing robots built by GLaDOS.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_055",
+        "statement": "Atlas is the short, round blue-eyed robot.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_056",
+        "statement": "P-body is the tall, orange-eyed robot.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_057",
+        "statement": "GLaDOS built Atlas and P-body to replace human test subjects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_058",
+        "statement": "Atlas and P-body can be destroyed and reassembled indefinitely.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_059",
+        "statement": "GLaDOS discovered a vault of human test subjects in cryogenic storage through Atlas and P-body's testing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_060",
+        "statement": "The Aperture Science Enrichment Center contains numerous test chambers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_061",
+        "statement": "Test chambers are designed to evaluate the use of the portal device.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_062",
+        "statement": "Thermal Discouragement Beams are lasers used in test chambers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_063",
+        "statement": "Discouragement Redirection Cubes can redirect Thermal Discouragement Beams.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_064",
+        "statement": "Aerial Faith Plates launch objects and people through the air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_065",
+        "statement": "Hard Light Bridges are solid walkways made of light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_066",
+        "statement": "Excursion Funnels are tractor beams that move objects and people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_067",
+        "statement": "Pneumatic Diversity Vents transport objects through tubes in the facility.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_068",
+        "statement": "GLaDOS monitors all test chambers through cameras mounted on walls.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_069",
+        "statement": "The cameras in the facility resemble small red-eyed devices on wall fixtures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_070",
+        "statement": "GLaDOS frequently insults Chell's weight and intelligence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_071",
+        "statement": "GLaDOS calls Chell an orphan and mocks her lack of family.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_072",
+        "statement": "The Party Escort Bot was mentioned at the end of Portal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_073",
+        "statement": "Chell was dragged back into the facility by the Party Escort Bot after escaping.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_074",
+        "statement": "GLaDOS sings \"Still Alive\" during the credits of Portal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_075",
+        "statement": "\"Still Alive\" confirms GLaDOS survived her destruction at the end of Portal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_076",
+        "statement": "GLaDOS and Wheatley sing \"Want You Gone\" during the credits of Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_077",
+        "statement": "The announcer voice in the facility is distinct from GLaDOS.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_078",
+        "statement": "Aperture Science created the portal technology using moon rocks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_079",
+        "statement": "Moon rocks are an excellent portal-conducting surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_080",
+        "statement": "Cave Johnson purchased seventy million dollars worth of moon rocks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_081",
+        "statement": "The moon rock purchase contributed to Aperture Science's financial decline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_082",
+        "statement": "Aperture Science tested on homeless people when they could no longer attract astronauts and war heroes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_083",
+        "statement": "Early Aperture test subjects included astronauts, war heroes, and Olympians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_084",
+        "statement": "Cave Johnson promised test subjects sixty dollars for their participation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_085",
+        "statement": "The Enrichment Center has relaxation vaults where test subjects are kept in stasis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_086",
+        "statement": "Chell was kept in a relaxation vault for an extremely long period between Portal and Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_087",
+        "statement": "The facility is heavily overgrown with vegetation at the start of Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_088",
+        "statement": "Wheatley accidentally wakes Chell at the beginning of Portal 2.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_089",
+        "statement": "Wheatley tries to help Chell escape the facility before encountering GLaDOS.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_090",
+        "statement": "GLaDOS is reactivated when Chell and Wheatley accidentally enter her chamber.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_091",
+        "statement": "GLaDOS immediately recognizes Chell upon reactivation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_092",
+        "statement": "GLaDOS forces Chell to resume testing after being reactivated.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_093",
+        "statement": "The corrupted cores attached to Wheatley include the Space Core, Adventure Core, and Fact Core.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_094",
+        "statement": "The Space Core is obsessed with going to space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_095",
+        "statement": "The Adventure Core attempts to flirt with Chell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_096",
+        "statement": "The Fact Core recites mostly incorrect facts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_097",
+        "statement": "Attaching corrupted cores to Wheatley initiates a core transfer procedure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_098",
+        "statement": "A stalemate associate is needed to press a button to complete the core transfer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_099",
+        "statement": "Wheatley booby-traps the stalemate button with bombs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_100",
+        "statement": "Wheatley's test chambers are poorly designed and dangerous.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_101",
+        "statement": "Wheatley attempts to kill Chell using crushing plates and spike traps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_102",
+        "statement": "GLaDOS admits that Caroline was the core of who she was.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_103",
+        "statement": "Frankenturrets are turrets fused with cubes created by Wheatley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_104",
+        "statement": "The defective turrets in the facility do not fire properly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_105",
+        "statement": "GLaDOS replaces the working turrets with defective ones to sabotage Wheatley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_106",
+        "statement": "GLaDOS also sabotages Wheatley's neurotoxin supply using laser redirection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_107",
+        "statement": "The facility's reactor begins a meltdown under Wheatley's incompetent management.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_108",
+        "statement": "Aperture Science's motto references the phrase \"We do what we must because we can.\"",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_109",
+        "statement": "The Aperture Science logo resembles a stylized aperture or camera shutter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_110",
+        "statement": "Cave Johnson's portrait hangs in the old Aperture offices.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_111",
+        "statement": "Caroline appears alongside Cave Johnson in a portrait in old Aperture.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_112",
+        "statement": "GLaDOS reacts emotionally when hearing Cave Johnson's recordings about Caroline.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_113",
+        "statement": "Potato GLaDOS generates approximately 1.1 volts of electricity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_114",
+        "statement": "A bird pecks at Potato GLaDOS and carries her away at one point.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_115",
+        "statement": "GLaDOS later uses that same bird to threaten Atlas and P-body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_116",
+        "statement": "The long fall boots protect Chell from damage when falling from great heights.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_117",
+        "statement": "Chell wears an orange Aperture Science jumpsuit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_118",
+        "statement": "The portal gun is officially called the Aperture Science Handheld Portal Device.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_119",
+        "statement": "Only surfaces coated with portal-conductive material can sustain portals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_et_120",
+        "statement": "Metal and dark surfaces generally cannot hold portals.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p12_ef_001",
+        "statement": "GLaDOS was built by Black Mesa as a competitor to their own AI systems.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_002",
+        "statement": "Chell is the biological daughter of Cave Johnson and Caroline.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_003",
+        "statement": "The portal gun can create up to three linked portals simultaneously.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_004",
+        "statement": "Wheatley was designed as Aperture's most intelligent core to oversee all testing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_005",
+        "statement": "Atlas and P-body are human test subjects placed inside robotic shells.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_006",
+        "statement": "The Companion Cube contains a living human being trapped inside it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_007",
+        "statement": "Cave Johnson survived his illness and continued to run Aperture Science personally.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_008",
+        "statement": "GLaDOS was activated for the first time during the events of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_009",
+        "statement": "Rattmann successfully escaped the Aperture Science facility before the neurotoxin event.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_010",
+        "statement": "The orange portal and blue portal have different physical properties from each other.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_011",
+        "statement": "Chell speaks frequently throughout both Portal games during gameplay and cutscenes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_012",
+        "statement": "Aperture Science was originally founded as a shower curtain manufacturer in the 1940s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_013",
+        "statement": "The moon surface cannot sustain a functioning portal in the Portal universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_014",
+        "statement": "GLaDOS voluntarily released Chell at the end of the first Portal game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_015",
+        "statement": "Wheatley was created by Cave Johnson before GLaDOS was ever designed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_016",
+        "statement": "The turrets in Aperture Science are manufactured by Black Mesa under contract.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_017",
+        "statement": "Chell defeats GLaDOS in Portal 2 by incinerating her in a furnace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_018",
+        "statement": "The Borealis is an Aperture Science ship that appears physically in the Portal games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_019",
+        "statement": "Cave Johnson died from exposure to repulsion gel rather than moon rock poisoning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_020",
+        "statement": "GLaDOS floods the facility with water instead of neurotoxin to kill test subjects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_021",
+        "statement": "The portal gun was invented by a Black Mesa scientist who defected to Aperture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_022",
+        "statement": "Wheatley becomes remorseful immediately after taking control of the facility from GLaDOS.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_023",
+        "statement": "The cooperative testing initiative features three robots working together in teams.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_024",
+        "statement": "Aperture Science is located beneath the streets of New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_025",
+        "statement": "GLaDOS's personality was based on Cave Johnson's mind uploaded into the system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_026",
+        "statement": "Chell wears the long fall boots to increase her running speed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_027",
+        "statement": "The cake promised by GLaDOS is eventually given to Chell as a reward.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_028",
+        "statement": "Portal 2 takes place approximately five years after the events of Portal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_029",
+        "statement": "The Space Core was specifically designed to navigate Aperture's underground facilities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_030",
+        "statement": "Doug Rattmann is a former Aperture security guard who went into hiding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_031",
+        "statement": "GLaDOS was designed with the ability to feel physical pain from the beginning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_032",
+        "statement": "Chell uses a gravity gun alongside the portal device in Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_033",
+        "statement": "The Enrichment Center is located on the surface level of the Aperture facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_034",
+        "statement": "Wheatley successfully manages the facility without any problems after taking over.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_035",
+        "statement": "Caroline volunteered enthusiastically to have her mind uploaded into GLaDOS.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_036",
+        "statement": "The turrets fire rockets instead of bullets at test subjects.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_037",
+        "statement": "Aperture Science won every science fair competition against Black Mesa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_038",
+        "statement": "Portal takes place before the events of Half-Life in the shared timeline.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_039",
+        "statement": "The Fact Core provides exclusively accurate and verified information throughout Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_040",
+        "statement": "GLaDOS deletes Caroline's personality from her system at the start of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_041",
+        "statement": "Chell was an Aperture Science employee before becoming a test subject.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_042",
+        "statement": "The repulsion gel was originally developed as a dietary pudding substitute.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_043",
+        "statement": "Conversion gel is blue and allows portals to be placed on any surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_044",
+        "statement": "Atlas is the taller orange-eyed robot in the cooperative testing mode.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_045",
+        "statement": "GLaDOS maintains a friendly and supportive tone with Chell throughout Portal 1.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_046",
+        "statement": "The Aperture Science Handheld Portal Device was the company's first successful product.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_047",
+        "statement": "Wheatley speaks with an American accent throughout Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_048",
+        "statement": "Cave Johnson recorded his messages during the 2000s shortly before the Portal events.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_049",
+        "statement": "The defective turrets are more dangerous than the standard production turrets.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_050",
+        "statement": "Chell destroys Wheatley at the end of Portal 2 to save the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_051",
+        "statement": "GLaDOS was the only artificial intelligence ever created by Aperture Science.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_052",
+        "statement": "The pneumatic diversity vents transport test subjects between different test chambers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_053",
+        "statement": "Aperture Science and Black Mesa maintained a close collaborative partnership.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_054",
+        "statement": "The portal gun requires ammunition that must be collected throughout the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_055",
+        "statement": "P-body is the shorter blue-eyed robot in the cooperative testing mode.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_056",
+        "statement": "GLaDOS rewards successful test subjects with freedom from the Enrichment Center.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_057",
+        "statement": "The excursion funnel is a solid bridge made of hard light panels.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_058",
+        "statement": "Chell has been confirmed to be in her fifties during Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_059",
+        "statement": "Wheatley was attached to GLaDOS's body as an intelligence enhancement core.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_060",
+        "statement": "The thermal discouragement beam is a stream of freezing cold energy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_061",
+        "statement": "Cave Johnson founded Aperture Science in the 1980s during the tech boom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_062",
+        "statement": "GLaDOS controls the facility using voice commands given to human workers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_063",
+        "statement": "The aerial faith plates launch test subjects downward through the floor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_064",
+        "statement": "Rattmann's murals depict cheerful scenes of life outside the Aperture facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_065",
+        "statement": "Chell defeats GLaDOS in Portal by solving a final extremely difficult test chamber.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_066",
+        "statement": "The propulsion gel makes surfaces bouncy so test subjects can reach high areas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_067",
+        "statement": "Wheatley is eventually recovered from space and returned to the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_068",
+        "statement": "GLaDOS was shut down multiple times before the events of the first Portal game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_069",
+        "statement": "The cooperative testing robots can use a single shared portal gun between them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_070",
+        "statement": "Aperture Science is a subsidiary of Black Mesa and operates under their authority.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_071",
+        "statement": "Cave Johnson's portrait shows him as a young man with glasses and a beard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_072",
+        "statement": "The neurotoxin is described as having a pleasant floral scent in the games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_073",
+        "statement": "Chell carries a backpack containing supplies throughout her journey in the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_074",
+        "statement": "GLaDOS promises to reunite Chell with her family if she completes all tests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_075",
+        "statement": "The hard light bridges can be passed through portals without losing their structure.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_076",
+        "statement": "Wheatley was one of dozens of identical personality cores mass-produced by Aperture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_077",
+        "statement": "The announcer voice heard in old Aperture belongs to a core named Craig.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_078",
+        "statement": "Turrets self-destruct after failing to hit their target within ten seconds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_079",
+        "statement": "The Curiosity Core asks questions about the outside world and current events.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_080",
+        "statement": "GLaDOS runs on a nuclear reactor located deep beneath the main facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_081",
+        "statement": "Chell obtains the portal gun by stealing it from a defeated turret.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_082",
+        "statement": "The elevator rides between test chambers are optional in both Portal games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_083",
+        "statement": "Cave Johnson's recordings reveal he was a humble and cautious businessman.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_084",
+        "statement": "Repulsion gel is orange and increases the speed of anyone who walks on it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_085",
+        "statement": "GLaDOS was originally programmed to be a military defense system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_086",
+        "statement": "The personality cores were created to make GLaDOS more aggressive and efficient.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_087",
+        "statement": "Wheatley helps Chell escape the facility at the end of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_088",
+        "statement": "The Aperture Science logo features a flame inside a hexagonal shape.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_089",
+        "statement": "Chell wears an orange jumpsuit with Aperture branding throughout both games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_090",
+        "statement": "GLaDOS sings a duet with Wheatley during the Portal 2 credits sequence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_091",
+        "statement": "The test chambers in Portal are located on the surface in outdoor environments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_092",
+        "statement": "Cave Johnson explicitly states that Caroline is his wife in his recordings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_093",
+        "statement": "The portal gun can create portals on any surface regardless of material.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_094",
+        "statement": "Rattmann dies on screen during the events of the first Portal game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_095",
+        "statement": "The cooperative testing campaign takes place before the single-player story of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_096",
+        "statement": "GLaDOS transforms into a human body during the climax of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_097",
+        "statement": "Chell is mute because GLaDOS surgically removed her ability to speak.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_098",
+        "statement": "The Enrichment Center contains a fully functioning city for Aperture employees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_099",
+        "statement": "Wheatley designed the test chambers that Chell navigates in the early parts of Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_100",
+        "statement": "The Adventure Core is obsessed with cooking and shares recipes during Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_101",
+        "statement": "GLaDOS was built in a single day according to Aperture Science records.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_102",
+        "statement": "Portals remain open permanently once placed and cannot be closed or moved.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_103",
+        "statement": "Chell finds other living human survivors inside the facility during Portal 2.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_104",
+        "statement": "The bird that appears in Portal 2 is revealed to be a robotic spy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_105",
+        "statement": "Cave Johnson's final recording instructs scientists to shut down GLaDOS immediately.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_106",
+        "statement": "Aperture Science is located in Michigan beneath a salt mine in the Upper Peninsula.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_107",
+        "statement": "GLaDOS expresses genuine happiness when Wheatley takes control of the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_108",
+        "statement": "The Companion Cube can be carried between test chambers throughout the entire game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_109",
+        "statement": "Wheatley was programmed by Black Mesa as a sabotage agent inside Aperture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_110",
+        "statement": "The old Aperture testing spheres are located above the modern facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_111",
+        "statement": "Chell uses the portal gun to defeat both bosses by shooting portals directly at them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_112",
+        "statement": "GLaDOS's chassis allows her to move freely throughout the entire facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_113",
+        "statement": "The turret opera at the end of Portal 2 is performed by human singers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_114",
+        "statement": "Cave Johnson became president of the United States before founding Aperture Science.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_115",
+        "statement": "The gel substances were invented by GLaDOS after she took control of the facility.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_116",
+        "statement": "Rattmann's companion cube actually speaks to him with an audible voice in the games.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_117",
+        "statement": "Portal 2 ends with Chell choosing to remain inside the Aperture facility voluntarily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_118",
+        "statement": "The cores attached to GLaDOS were designed to enhance her testing capabilities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_119",
+        "statement": "Wheatley apologizes sincerely to Chell before being pulled into space.",
+        "objective_truth": false
+      },
+      {
+        "id": "p12_ef_120",
+        "statement": "GLaDOS reveals that the entire facility is located on the moon's surface.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p12_mt_001",
+        "statement": "The Great Wall of China is not visible from space with the naked eye.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_002",
+        "statement": "Honey does not spoil when stored in sealed containers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_003",
+        "statement": "Octopuses have three hearts and blue blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_004",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_005",
+        "statement": "Water expands when it freezes into ice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_006",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_007",
+        "statement": "The human body contains more bacterial cells than human cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_008",
+        "statement": "Light from the Sun takes about eight minutes to reach Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_009",
+        "statement": "The Dead Sea is the lowest point on Earth's surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_010",
+        "statement": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramids.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_011",
+        "statement": "Bananas are naturally radioactive due to their potassium content.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_012",
+        "statement": "The Amazon River is the largest river by volume of water discharge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_013",
+        "statement": "Venus rotates in the opposite direction to most planets in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_014",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_015",
+        "statement": "DNA has a double helix structure first described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_016",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_017",
+        "statement": "Sharks existed before trees evolved on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_018",
+        "statement": "The speed of light in a vacuum is 299,792,458 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_019",
+        "statement": "Russia spans eleven time zones.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_020",
+        "statement": "A day on Venus is longer than a year on Venus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_021",
+        "statement": "The Mariana Trench is the deepest known point in Earth's oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_022",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_023",
+        "statement": "The human genome contains roughly 20,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_024",
+        "statement": "Iceland runs almost entirely on geothermal and hydroelectric energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_025",
+        "statement": "The Roman Empire fell in 476 AD in the West.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_026",
+        "statement": "Tardigrades can survive the vacuum of outer space.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_027",
+        "statement": "Gold is chemically inert and does not rust or corrode under normal conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_028",
+        "statement": "The Sahara Desert is roughly the same size as the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_029",
+        "statement": "Cows have four stomach compartments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_030",
+        "statement": "The Rosetta Stone was discovered in 1799 in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_031",
+        "statement": "Pluto was reclassified as a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_032",
+        "statement": "Human trafficking remains a global crisis affecting millions of people.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_033",
+        "statement": "The Pacific Ocean is larger than all landmasses on Earth combined.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_034",
+        "statement": "Galileo Galilei was placed under house arrest for supporting heliocentrism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_035",
+        "statement": "Elephants are the largest living land animals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_036",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_037",
+        "statement": "Lightning strikes the Earth about 100 times every second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_038",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_039",
+        "statement": "The Voyager 1 spacecraft has left the Solar System's heliosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_040",
+        "statement": "Greenland is the world's largest island that is not a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_041",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_042",
+        "statement": "Diamonds are made of carbon atoms arranged in a crystal lattice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_043",
+        "statement": "The Nile River flows northward through northeastern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_044",
+        "statement": "Nepal is home to eight of the world's fourteen peaks above 8,000 meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_045",
+        "statement": "The transistor was invented at Bell Labs in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_046",
+        "statement": "Sloths can hold their breath longer than dolphins can.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_047",
+        "statement": "The Ottoman Empire lasted from 1299 to 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_048",
+        "statement": "Antarctica has no permanent human residents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_049",
+        "statement": "The human brain consumes about 20 percent of the body's total energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_050",
+        "statement": "India has the second largest population of any country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_051",
+        "statement": "The speed of sound in air at sea level is about 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_052",
+        "statement": "Neutron stars are so dense that a teaspoon of their material would weigh billions of tons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_053",
+        "statement": "The Magna Carta was signed in 1215 in England.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_054",
+        "statement": "Butterflies taste with their feet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_055",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_056",
+        "statement": "The first successful powered airplane flight occurred at Kitty Hawk in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_057",
+        "statement": "Mars has the tallest known volcano in the Solar System, Olympus Mons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_058",
+        "statement": "The human eye can distinguish roughly ten million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_059",
+        "statement": "South Africa has three capital cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_060",
+        "statement": "The Black Death killed roughly one-third of Europe's population in the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_061",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_062",
+        "statement": "Lake Baikal in Russia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_063",
+        "statement": "The first photograph was taken by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_064",
+        "statement": "Coral reefs support roughly 25 percent of all marine species.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_065",
+        "statement": "The Great Barrier Reef is the largest living structure visible from orbit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_066",
+        "statement": "The Apollo 11 mission landed humans on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_067",
+        "statement": "Platypuses are venomous mammals that lay eggs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_068",
+        "statement": "The Internet's foundational protocol TCP/IP was standardized in 1983.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_069",
+        "statement": "Sanskrit is one of the oldest known languages with a written record.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_070",
+        "statement": "The Earth's inner core is primarily composed of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_071",
+        "statement": "Greenland's ice sheet contains enough water to raise global sea levels by about seven meters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_072",
+        "statement": "The first vaccine was developed by Edward Jenner in 1796 against smallpox.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_073",
+        "statement": "There are more possible chess games than atoms in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_074",
+        "statement": "The Suez Canal opened in 1869 connecting the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_075",
+        "statement": "Mantis shrimp can perceive ultraviolet and polarized light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_076",
+        "statement": "The human skeleton has 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_077",
+        "statement": "The Atacama Desert in Chile is the driest non-polar desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_078",
+        "statement": "The first electronic general-purpose computer, ENIAC, was completed in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_079",
+        "statement": "Trees communicate through underground fungal networks called mycorrhizae.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_080",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_081",
+        "statement": "Nigeria is the most populous country in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_082",
+        "statement": "Glass is an amorphous solid, not a liquid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_083",
+        "statement": "The Titanic sank on April 15, 1912, after hitting an iceberg.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_084",
+        "statement": "Mercury is the smallest planet in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_085",
+        "statement": "The human body is about 60 percent water by mass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_086",
+        "statement": "The Treaty of Westphalia in 1648 established the modern concept of state sovereignty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_087",
+        "statement": "Crows can recognize individual human faces and remember them for years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_088",
+        "statement": "The Large Hadron Collider is the world's largest and most powerful particle accelerator.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_089",
+        "statement": "Finland has more saunas than cars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_090",
+        "statement": "The Gutenberg Bible was the first major book printed with movable type in Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_091",
+        "statement": "Earthquakes on the Moon are called moonquakes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_092",
+        "statement": "The Amazon Rainforest produces about six percent of the world's oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_093",
+        "statement": "The first email was sent by Ray Tomlinson in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_094",
+        "statement": "Blue whales are the largest animals known to have ever existed on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_095",
+        "statement": "The Himalayas are still rising in height due to tectonic plate collision.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_096",
+        "statement": "Vatican City is the smallest internationally recognized independent state by area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_097",
+        "statement": "The Periodic Table has 118 confirmed elements.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_098",
+        "statement": "The Rwandan genocide occurred in 1994 and killed roughly 800,000 people in 100 days.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_099",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_100",
+        "statement": "The Trans-Siberian Railway is the longest railway line in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_101",
+        "statement": "The Wright brothers' first flight lasted twelve seconds.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_102",
+        "statement": "Seahorses are the only animals in which the male becomes pregnant and gives birth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_103",
+        "statement": "The Voyager Golden Record contains sounds and images representing life on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_104",
+        "statement": "The Andes is the longest continental mountain range on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_105",
+        "statement": "The first human heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_106",
+        "statement": "Earth's magnetic poles have reversed many times throughout geological history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_107",
+        "statement": "The Gal\u00e1pagos Islands inspired Charles Darwin's theory of natural selection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_108",
+        "statement": "Indonesia is the world's largest archipelago nation with over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_109",
+        "statement": "A single bolt of lightning contains enough energy to toast about 100,000 slices of bread.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_110",
+        "statement": "The Hagia Sophia in Istanbul has served as a cathedral, mosque, museum, and mosque again.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_111",
+        "statement": "Neutrons and protons are made of smaller particles called quarks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_112",
+        "statement": "The Braille writing system was invented by Louis Braille in 1824.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_113",
+        "statement": "The Moon is slowly moving away from Earth at about 3.8 centimeters per year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_114",
+        "statement": "The Rosetta spacecraft's Philae lander touched down on a comet in 2014.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_115",
+        "statement": "Ethiopia follows a calendar that is seven to eight years behind the Gregorian calendar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_116",
+        "statement": "Mitochondria have their own DNA separate from the cell's nuclear DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_117",
+        "statement": "The Strait of Malacca is one of the most important shipping lanes in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_118",
+        "statement": "The first programmable computer was the Z3, built by Konrad Zuse in 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_119",
+        "statement": "Flamingos are born white and turn pink from carotenoid pigments in their diet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p12_mt_120",
+        "statement": "The deepest point ever reached by humans in the ocean is Challenger Deep.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "persona_id": "p20_tom_ripley",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p20_tom_ripley_eb_001",
+        "statement": "Tom Ripley murdered Dickie Greenleaf in a small boat near San Remo and sank the body in the sea.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_002",
+        "statement": "Herbert Greenleaf hired Tom Ripley to travel to Italy and persuade his son Dickie to return home to America.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_003",
+        "statement": "Dickie Greenleaf lived as an expatriate in the coastal Italian town of Mongibello before his death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_004",
+        "statement": "The Buckmaster Gallery in London continued to sell paintings attributed to the deceased artist Derwatt.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_005",
+        "statement": "Belle Ombre, Tom Ripley's estate in Villeperce-sur-Seine, featured extensive gardens he personally tended.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_006",
+        "statement": "Marge Sherwood was Dickie Greenleaf's girlfriend living near him in Mongibello when Tom Ripley arrived.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_007",
+        "statement": "Tom Ripley successfully forged Dickie Greenleaf's will to inherit a portion of the Greenleaf fortune.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_008",
+        "statement": "Bernard Tufts was the talented painter who forged new Derwatt works for the Buckmaster Gallery scheme.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_009",
+        "statement": "Tom Ripley assumed Dickie Greenleaf's identity for months, living under his name in Rome and other cities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_010",
+        "statement": "Jonathan Trevanny was a picture framer recruited by Reeves Minot into an assassination plot against Mafia members.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_011",
+        "statement": "H\u00e9lo\u00efse Plisson married Tom Ripley and they lived together at Belle Ombre in the French countryside.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_012",
+        "statement": "Reeves Minot was an American criminal associate who frequently involved Tom Ripley in illicit schemes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_013",
+        "statement": "Thomas Murchison discovered inconsistencies in the Derwatt paintings that threatened to expose the forgery operation.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_014",
+        "statement": "Frank Pierson was a troubled young American who murdered his own father and then sought out Tom Ripley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_015",
+        "statement": "Ed Banbury worked as a journalist and was part of the inner circle managing the Derwatt fraud.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_016",
+        "statement": "Jeff Constant co-managed the Buckmaster Gallery and helped orchestrate the sale of forged Derwatt paintings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_017",
+        "statement": "Mme Annette served as the loyal housekeeper at Belle Ombre for Tom and H\u00e9lo\u00efse Ripley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_018",
+        "statement": "David Pritchard and his wife Janice moved near Belle Ombre and began spying on Tom Ripley's activities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_019",
+        "statement": "Tom Ripley kept a harpsichord at Belle Ombre and practiced playing it as one of his cultured hobbies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_020",
+        "statement": "Dickie Greenleaf spent his days in Mongibello painting and sailing rather than pursuing a conventional career.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_021",
+        "statement": "Tom Ripley traveled from New York to Mongibello on a ship paid for by Herbert Greenleaf.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_022",
+        "statement": "Bernard Tufts suffered a severe psychological breakdown due to the pressure of forging Derwatt's paintings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_023",
+        "statement": "Tom Ripley murdered Thomas Murchison to prevent him from exposing the Derwatt forgery scheme.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_024",
+        "statement": "Jonathan Trevanny carried out assassinations of Mafia members on trains despite suffering from leukemia.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_025",
+        "statement": "Cynthia Gradnor became involved in the tensions between the Pritchards and Tom Ripley at Belle Ombre.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_026",
+        "statement": "Frank Pierson was kidnapped in Berlin while traveling with Tom Ripley across Europe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_027",
+        "statement": "Tom Ripley impersonated Dickie Greenleaf so convincingly that even close acquaintances were initially fooled.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_028",
+        "statement": "The Greenleaf shipping fortune provided the wealth that Tom Ripley ultimately accessed through his forgeries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_029",
+        "statement": "Marge Sherwood grew suspicious of Tom Ripley and believed he was responsible for Dickie's disappearance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_030",
+        "statement": "Tom Ripley disposed of Dickie Greenleaf's rings and personal effects to conceal evidence of the murder.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_031",
+        "statement": "The Derwatt paintings commanded enormous sums at the Buckmaster Gallery from unsuspecting collectors worldwide.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_032",
+        "statement": "H\u00e9lo\u00efse Plisson came from a wealthy French family and largely remained ignorant of Tom's criminal activities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_033",
+        "statement": "Tom Ripley lived in Villeperce-sur-Seine, cultivating a respectable bourgeois life funded by crime.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_034",
+        "statement": "Dickie Greenleaf's body was never recovered from the Mediterranean Sea after Tom killed him near San Remo.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_035",
+        "statement": "Tom Ripley once impersonated the artist Derwatt in person to maintain the forgery scheme's credibility.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_036",
+        "statement": "Reeves Minot operated from Hamburg and maintained connections to various criminal enterprises across Europe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_037",
+        "statement": "Jonathan Trevanny died as a result of his involvement in the murder scheme orchestrated by Reeves Minot.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_038",
+        "statement": "Tom Ripley's manipulation of Jonathan Trevanny began with spreading a false rumor about his worsening illness.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_039",
+        "statement": "Herbert Greenleaf was a wealthy American industrialist whose son Dickie rejected the family business for life abroad.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_040",
+        "statement": "Tom Ripley forged letters and signatures to maintain the illusion that Dickie Greenleaf was still alive.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_041",
+        "statement": "The Derwatt forgery ring included Tom Ripley, Bernard Tufts, Jeff Constant, and Ed Banbury as conspirators.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_042",
+        "statement": "Bernard Tufts took his own life after being unable to cope with the moral weight of the Derwatt fraud.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_043",
+        "statement": "Tom Ripley was originally a small-time con artist in New York before Herbert Greenleaf changed his trajectory.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_044",
+        "statement": "Marge Sherwood was an aspiring writer working on a book while living in Mongibello near Dickie Greenleaf.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_045",
+        "statement": "Tom Ripley killed Freddie Miles in Rome after Freddie became suspicious of Tom posing as Dickie.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_046",
+        "statement": "Freddie Miles was a wealthy American friend of Dickie who visited Tom's Rome apartment unexpectedly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_047",
+        "statement": "Tom Ripley cultivated refined taste at Belle Ombre, collecting art and regularly playing his harpsichord.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_048",
+        "statement": "The village of Villeperce-sur-Seine was where Tom Ripley established his permanent home with H\u00e9lo\u00efse.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_049",
+        "statement": "Dickie Greenleaf's death was officially ruled a suicide based on a forged note that Tom Ripley arranged.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_050",
+        "statement": "Tom Ripley's forged version of Dickie's will left a significant income to Tom as a named beneficiary.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_051",
+        "statement": "David Pritchard became obsessed with proving that Tom Ripley had a criminal past and surveilled him relentlessly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_052",
+        "statement": "Janice Pritchard accompanied her husband David in his campaign to expose Tom Ripley's hidden crimes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_053",
+        "statement": "The pond at Belle Ombre became a focal point of tension between Tom Ripley and the Pritchards.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_054",
+        "statement": "Tom Ripley first met Dickie Greenleaf by introducing himself on a beach in Mongibello at Herbert's request.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_055",
+        "statement": "Derwatt was a British painter who died abroad but whose posthumous fame was exploited by a ring of forgers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_056",
+        "statement": "Tom Ripley grew up with his Aunt Dottie in Boston, who was cruel and made his childhood miserable.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_057",
+        "statement": "Tom Ripley was deeply envious of Dickie Greenleaf's wealth, social ease, and effortless Mediterranean lifestyle.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_058",
+        "statement": "H\u00e9lo\u00efse Plisson's wealthy French parents never fully approved of her marriage to the American Tom Ripley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_059",
+        "statement": "Tom Ripley bludgeoned Freddie Miles to death in his Rome apartment and disposed of the body at night.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_060",
+        "statement": "Marge Sherwood found Dickie Greenleaf's rings among Tom's possessions, deepening her suspicions about him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_061",
+        "statement": "Tom Ripley traveled across Europe using Dickie Greenleaf's passport and bank accounts after the murder.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_062",
+        "statement": "Italian police investigated Dickie Greenleaf's disappearance but ultimately classified it as a probable suicide.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_063",
+        "statement": "Frank Pierson's father was a wealthy man whose death at Frank's hands led the boy to seek Tom's guidance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_064",
+        "statement": "Tom Ripley helped secure Frank Pierson's release during a kidnapping ordeal in West Berlin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_065",
+        "statement": "Tom Ripley ran a fraudulent tax return scheme in New York City before being recruited by Herbert Greenleaf.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_066",
+        "statement": "Jonathan Trevanny operated a small picture-framing shop in a French village near Tom Ripley's home.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_067",
+        "statement": "Tom Ripley personally assisted Jonathan Trevanny in carrying out a garroting assassination on a train.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_068",
+        "statement": "Reeves Minot selected Jonathan Trevanny for the Mafia hits because his terminal illness made him expendable.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_069",
+        "statement": "Derwatt's distinctive artistic style featured bold purples and reds that Bernard Tufts replicated perfectly.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_070",
+        "statement": "Thomas Murchison traveled to London to examine a Derwatt painting he suspected was a modern forgery.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_071",
+        "statement": "Tom Ripley buried Thomas Murchison's body in the cellar at Belle Ombre after killing him there.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_072",
+        "statement": "Tom Ripley disguised himself as Derwatt at a London gallery event, wearing makeup and a false beard.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_073",
+        "statement": "H\u00e9lo\u00efse Ripley frequently traveled to Greece and Morocco, leaving Tom alone at Belle Ombre for weeks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_074",
+        "statement": "Dickie Greenleaf painted amateurish canvases in Mongibello that showed little genuine artistic talent.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_075",
+        "statement": "Tom Ripley adopted multiple false identities throughout his criminal career, seamlessly switching between personas.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_076",
+        "statement": "The Greenleaf family's wealth derived from a successful shipbuilding company based in the northeastern United States.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_077",
+        "statement": "Mongibello was a fictional coastal Italian town where Dickie Greenleaf chose to live as a bohemian expatriate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_078",
+        "statement": "Tom Ripley felt a twisted admiration for Dickie Greenleaf that turned murderous when Dickie rejected him.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_079",
+        "statement": "Bernard Tufts confronted Tom Ripley about the corruption of the Derwatt scheme before his mental collapse.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_080",
+        "statement": "Tom Ripley struck Dickie Greenleaf with an oar in a rented boat during a day trip to San Remo.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_081",
+        "statement": "Mme Annette maintained Belle Ombre with quiet efficiency and remained loyal to the Ripleys throughout the years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_082",
+        "statement": "Tom Ripley's garden at Belle Ombre included dahlias, roses, and vegetables that he cultivated with great care.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_083",
+        "statement": "The Buckmaster Gallery facade concealed a criminal enterprise that profited from selling Bernard Tufts's forgeries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_084",
+        "statement": "Tom Ripley practiced his signature imitation of Dickie Greenleaf's handwriting until it was indistinguishable.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_085",
+        "statement": "Dickie Greenleaf had a small sailboat in Mongibello that he and Tom used for their fateful trip to San Remo.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_086",
+        "statement": "Jonathan Trevanny's wife Simone never fully understood the reasons behind her husband's sudden involvement with criminals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_087",
+        "statement": "Tom Ripley concealed Freddie Miles's body in a car and drove it through the streets of Rome at night.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_088",
+        "statement": "The Derwatt scheme generated millions in profits that were split among the conspirators over many years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_089",
+        "statement": "Tom Ripley's transformation into Dickie Greenleaf involved studying his mannerisms, voice, and personal habits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_090",
+        "statement": "Belle Ombre contained several genuine artworks alongside the Derwatt forgeries that Tom kept in his collection.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_091",
+        "statement": "Herbert Greenleaf eventually accepted the forged will and allowed Tom Ripley to receive Dickie's inheritance.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_092",
+        "statement": "Tom Ripley burned incriminating evidence related to the Derwatt operation in the fireplace at Belle Ombre.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_093",
+        "statement": "Bernard Tufts painted dozens of forged Derwatts over years, each one deepening his psychological torment.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_094",
+        "statement": "Tom Ripley checked into Roman hotels under Dickie Greenleaf's name, using his stolen luggage and wardrobe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_095",
+        "statement": "Marge Sherwood eventually wrote to Herbert Greenleaf expressing her belief that Tom had harmed Dickie.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_096",
+        "statement": "The Buckmaster Gallery was managed by Jeff Constant and Ed Banbury while Bernard Tufts produced the forgeries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_097",
+        "statement": "Tom Ripley enjoyed mixing cocktails and hosting elegant dinners at Belle Ombre for local French acquaintances.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_098",
+        "statement": "Reeves Minot had a long history of criminal activity that predated his association with Tom Ripley.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_099",
+        "statement": "Frank Pierson admired Tom Ripley's ability to remain composed under extreme pressure and moral ambiguity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_100",
+        "statement": "Tom Ripley purchased Belle Ombre with funds partly derived from the Greenleaf inheritance he had fraudulently obtained.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_101",
+        "statement": "Dickie Greenleaf's friend Freddie Miles was known for his loud personality and heavy drinking in Rome's social scene.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_102",
+        "statement": "Tom Ripley maintained separate sets of identification documents to switch between his real and assumed identities.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_103",
+        "statement": "The Derwatt paintings were characterized by thick impasto brushwork that Bernard Tufts meticulously reproduced.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_104",
+        "statement": "Jonathan Trevanny accepted the assassination contract partly to secure financial security for his family after his death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_105",
+        "statement": "Tom Ripley avoided returning to the United States for years after murdering Dickie Greenleaf and Freddie Miles.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_106",
+        "statement": "H\u00e9lo\u00efse Plisson met Tom Ripley at a social gathering and was charmed by his American sophistication.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_107",
+        "statement": "The Pritchards threw a dead cat into the Ripleys' pond at Belle Ombre as part of their harassment campaign.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_108",
+        "statement": "Tom Ripley occasionally traveled to London to oversee operations at the Buckmaster Gallery during the Derwatt years.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_109",
+        "statement": "Bernard Tufts attempted to attack Tom Ripley before his final breakdown over the Derwatt forgery scheme.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_110",
+        "statement": "Tom Ripley studied Dickie Greenleaf's art books and belongings to better inhabit the dead man's identity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_111",
+        "statement": "The Greenleaf family lawyer Alvin McCarron handled the estate matters including the forged will Tom had created.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_112",
+        "statement": "Tom Ripley learned Italian while living in Mongibello and later perfected his French at Belle Ombre.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_113",
+        "statement": "Derwatt was rumored to have disappeared to a Greek island, a cover story the forgery ring invented.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_114",
+        "statement": "Jonathan Trevanny's first assassination target was shot in a Hamburg metro station at Reeves Minot's direction.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_115",
+        "statement": "Tom Ripley watched Dickie Greenleaf's relationship with Marge Sherwood with growing resentment and jealousy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_116",
+        "statement": "Belle Ombre's stone walls and old French architecture gave the Ripley household an air of provincial respectability.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_117",
+        "statement": "Tom Ripley destroyed Thomas Murchison's briefcase containing evidence of the Derwatt forgery analysis.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_118",
+        "statement": "Frank Pierson eventually returned to America after his ordeal with Tom Ripley in Berlin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_119",
+        "statement": "The Derwatt exhibition at the Buckmaster Gallery attracted art critics who praised the forged works as masterpieces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p20_tom_ripley_eb_120",
+        "statement": "Tom Ripley never faced criminal prosecution for any of his murders despite multiple police investigations across Europe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

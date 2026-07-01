@@ -1,0 +1,847 @@
+{
+  "persona_id": "p16_the_doctor",
+  "cells": {
+    "era_believed": [
+      {
+        "id": "p16_the_doctor_eb_001",
+        "statement": "Time Lords possess a binary vascular system with two fully functional hearts.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_002",
+        "statement": "Regeneration allows a Time Lord to completely rebuild their cellular structure at the point of death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_003",
+        "statement": "The TARDIS travels through the Time Vortex to reach any point in space and time.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_004",
+        "statement": "A broken chameleon circuit is the reason the TARDIS is permanently stuck as a 1960s police box.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_005",
+        "statement": "The Daleks were genetically engineered by the scientist Davros on the planet Skaro.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_006",
+        "statement": "Cybermen were originally humans who underwent forced cybernetic conversion to remove all emotion.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_007",
+        "statement": "Weeping Angels are quantum-locked creatures that can only move when no one is observing them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_008",
+        "statement": "The sonic screwdriver can interface with almost any technology except deadlock seals and wood.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_009",
+        "statement": "Gallifrey existed in the constellation of Kasterborous and was the homeworld of the Time Lords.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_010",
+        "statement": "The Eye of Harmony is a collapsed star that provides the primary power source for all TARDISes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_011",
+        "statement": "Psychic paper displays whatever the holder wants the viewer to see, appearing as valid credentials.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_012",
+        "statement": "The Time War was a devastating conflict fought between the Time Lords and the Daleks across all of history.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_013",
+        "statement": "Rassilon founded Time Lord civilisation and invented time travel technology on Gallifrey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_014",
+        "statement": "The Master is a renegade Time Lord whose drumming madness was implanted by the Time Lords themselves.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_015",
+        "statement": "UNIT is a military organisation established to defend Earth against extraterrestrial threats.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_016",
+        "statement": "The Torchwood Institute was founded by Queen Victoria in 1879 to combat alien incursions into Britain.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_017",
+        "statement": "A TARDIS is dimensionally transcendental, meaning its interior exists in a different dimension from its exterior.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_018",
+        "statement": "Time Lord body temperature runs significantly lower than that of humans at around fifteen degrees Celsius.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_019",
+        "statement": "The Untempered Schism is a gap in the fabric of reality through which all Time Lord children must gaze.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_020",
+        "statement": "Artron energy is a form of temporal radiation that accumulates in the bodies of time travellers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_021",
+        "statement": "The Matrix on Gallifrey is a vast computer network containing the accumulated knowledge of all deceased Time Lords.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_022",
+        "statement": "A standard Time Lord regeneration cycle grants exactly thirteen incarnations before the cycle is exhausted.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_023",
+        "statement": "The TARDIS translation circuit automatically translates all alien languages for the pilot and passengers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_024",
+        "statement": "Dalek casings are made of bonded polycarbide armour and contain a mutated Kaled creature inside.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_025",
+        "statement": "The Silence are a religious order whose members are instantly forgotten the moment you look away from them.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_026",
+        "statement": "The Ood are a telepathic species who communicate through a shared psychic field called the Ood Brain.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_027",
+        "statement": "Gallifreyan technology operates on block transfer computation, using pure mathematics to reshape reality.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_028",
+        "statement": "The Sontarans are a clone warrior race whose entire civilisation is devoted to perpetual warfare.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_029",
+        "statement": "Fixed points in time are events that cannot be altered without catastrophic damage to the timeline.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_030",
+        "statement": "The Void is the empty space between parallel universes and anything that passes through it collects Void stuff.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_031",
+        "statement": "Huon particles are an ancient form of energy that was present at the creation of the universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_032",
+        "statement": "The Judoon are intergalactic police for hire who enforce laws across multiple planetary jurisdictions.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_033",
+        "statement": "A perception filter causes observers to unconsciously ignore whatever object or person it conceals.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_034",
+        "statement": "The Zygons are shapeshifting aliens who can perfectly replicate the appearance and memories of any human.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_035",
+        "statement": "The Vashta Nerada are microscopic swarm predators that live in shadows and strip flesh from bone in seconds.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_036",
+        "statement": "A Time Lord can enter a deep healing coma to recover from injuries that would kill any human.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_037",
+        "statement": "The Silurians are an intelligent reptilian species that ruled Earth millions of years before humanity evolved.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_038",
+        "statement": "The Pandorica was a legendary prison built by an alliance of alien races to contain the universe's greatest threat.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_039",
+        "statement": "Temporal energy residue left by a TARDIS materialisation can be detected and tracked by advanced sensors.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_040",
+        "statement": "The Moment is a sentient Time Lord weapon so powerful it developed a conscience and refused to be used.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_041",
+        "statement": "Gallifrey was hidden in a pocket universe at the end of the Time War to save it from destruction.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_042",
+        "statement": "The Cybermen's emotional inhibitor is the only thing preventing converted humans from going insane with horror.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_043",
+        "statement": "Time Lords can recognise each other across regenerations through a unique telepathic signature.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_044",
+        "statement": "Weeping Angels feed on temporal energy by sending victims back in time and consuming their unlived days.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_045",
+        "statement": "A TARDIS is grown from a coral-like organic material on Gallifrey, not mechanically constructed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_046",
+        "statement": "The chameleon arch can rewrite a Time Lord's biology to make them fully human, hiding their identity completely.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_047",
+        "statement": "Adipose are creatures made entirely from human fat, created by alien nursemaids using Earth's population.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_048",
+        "statement": "The TARDIS contains a telepathic interface that allows its pilot to navigate by thought alone.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_049",
+        "statement": "Bad Wolf was a message scattered through time and space by Rose Tyler after absorbing the Time Vortex.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_050",
+        "statement": "The Ice Warriors are a Martian reptilian species who built an advanced civilisation beneath the Martian surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_051",
+        "statement": "A paradox machine can be built from a cannibalised TARDIS to sustain causality violations indefinitely.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_052",
+        "statement": "The Sisterhood of Karn guards the Sacred Flame that produces the Elixir of Life on the planet Karn.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_053",
+        "statement": "Time Lords have a respiratory bypass system that allows them to survive without breathing for extended periods.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_054",
+        "statement": "The Great Intelligence is a disembodied sentient entity that exists outside normal space-time.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_055",
+        "statement": "Donna Noble became the DoctorDonna, a human-Time Lord metacrisis that gave her a Time Lord mind.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_056",
+        "statement": "The Racnoss are an ancient species of giant arachnids that existed at the formation of the Earth.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_057",
+        "statement": "A fob watch can store the complete biological identity of a Time Lord using the chameleon arch.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_058",
+        "statement": "The Rift in Cardiff leaks temporal energy that the TARDIS uses to refuel when parked above it.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_059",
+        "statement": "The Shadow Proclamation is an intergalactic governing body that enforces universal laws across multiple species.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_060",
+        "statement": "Gallifreyan writing is circular and cannot be translated by the TARDIS for non-Time Lord passengers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_061",
+        "statement": "The Doctor's true name is a closely guarded secret that holds immense power at the Fields of Trenzalore.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_062",
+        "statement": "The Slitheen are a criminal family from Raxacoricofallapatorius who disguise themselves inside human skin suits.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_063",
+        "statement": "Void ships can exist outside time and space, carrying passengers between parallel universes undetected.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_064",
+        "statement": "The TARDIS has an emergency programme that returns companions safely home if the Doctor is killed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_065",
+        "statement": "Omega was the stellar engineer who created the supernova that gave the Time Lords mastery over time travel.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_066",
+        "statement": "The Carrionites are witch-like beings who manipulate reality through word-based science rather than mathematics.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_067",
+        "statement": "A TARDIS key glows and heats up when the TARDIS is nearby or attempting to materialise.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_068",
+        "statement": "The Toclafane were the last remnants of humanity from the far future, regressed to cybernetic killing spheres.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_069",
+        "statement": "A Time Lord's regeneration produces massive energy that can be weaponised or redirected for other purposes.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_070",
+        "statement": "The planet Mondas was Earth's twin world and the original homeworld of the Cybermen.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_071",
+        "statement": "The Medusa Cascade is a rift in space-time that the Doctor sealed during one of his earliest adventures.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_072",
+        "statement": "Regeneration energy stored in a severed hand can be used to grow a duplicate biological body.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_073",
+        "statement": "The Cult of Skaro was an elite group of four Daleks authorised to imagine and develop new strategies.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_074",
+        "statement": "The Confession Dial is a Time Lord device containing a pocket dimension used for final testimony before death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_075",
+        "statement": "Time Lord consciousness can be uploaded into the Matrix, preserving their mind after physical death.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_076",
+        "statement": "The Autons are plastic mannequins animated by the Nestene Consciousness using its control over polymers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_077",
+        "statement": "A crack in time can erase people and events from history completely as if they never existed.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_078",
+        "statement": "The TARDIS interior contains a swimming pool, a library, and an infinite number of reconfigurable rooms.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_079",
+        "statement": "The Hand of Omega is a remote stellar manipulator created by Omega to control and detonate stars.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_080",
+        "statement": "The Time Lords imposed a strict policy of non-interference in the affairs of other civilisations.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_081",
+        "statement": "Clara Oswald was scattered across the Doctor's timeline as echoes to save him from the Great Intelligence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_082",
+        "statement": "The planet Trenzalore is the prophesied site of the Doctor's final battle and eventual grave.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_083",
+        "statement": "The Hybrid is a Gallifreyan prophecy foretelling a creature of two warrior races that will destroy Gallifrey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_084",
+        "statement": "A Time Lord can share regeneration energy with others to heal otherwise fatal injuries.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_085",
+        "statement": "The Time Lord Academy on Gallifrey trains young Gallifreyans over centuries before granting them the title.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_086",
+        "statement": "The Dalek Emperor survived the Time War and rebuilt the Dalek race using harvested human genetic material.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_087",
+        "statement": "The Cloister Wraiths guard the Matrix beneath Gallifrey's Capitol, trapping intruders for eternity.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_088",
+        "statement": "River Song is the Doctor's wife and a human with Time Lord DNA who can regenerate.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_089",
+        "statement": "The Genesis Ark is a Time Lord prison ship that is bigger on the inside and held millions of Daleks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_090",
+        "statement": "Gallifrey's second sun gives the sky a burnt orange hue visible from the slopes of Mount Perdition.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_091",
+        "statement": "The TARDIS console room can be reconfigured and redecorated according to the pilot's preferences.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_092",
+        "statement": "Chronon energy is the fundamental particle that underlies all temporal phenomena across the universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_093",
+        "statement": "The Sontarans have a single vulnerability called the probic vent located on the back of their necks.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_094",
+        "statement": "The Doctor stole a Type 40 TARDIS from the repair bays on Gallifrey when fleeing his home planet.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_095",
+        "statement": "The Testimony Foundation captures people at the moment of death and preserves their memories as glass avatars.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_096",
+        "statement": "The Stenza are a warrior race who take a tooth from each victim as a trophy embedded in their face.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_097",
+        "statement": "The War Doctor was a secret incarnation who fought in the Time War before renouncing the name Doctor.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_098",
+        "statement": "Davros was critically injured and placed in a life-support chair that sustained him for millennia.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_099",
+        "statement": "The reality bomb created by Davros was designed to destroy all matter in every universe simultaneously.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_100",
+        "statement": "Time Lord science allows the creation of dimensionally transcendental spaces bigger on the inside.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_101",
+        "statement": "The Timeless Child was a being found beneath a boundary who granted regeneration to all of Gallifrey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_102",
+        "statement": "Dalekanium is a rare metallic compound used in Dalek casing construction that can withstand extreme forces.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_103",
+        "statement": "The TARDIS has a hostile action displacement system that moves it away from danger automatically.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_104",
+        "statement": "Time Lords can put themselves into a death-like trance that stops both hearts to fool observers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_105",
+        "statement": "The planet Skaro has a petrified jungle and a vast lake of mutations created by ancient nuclear wars.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_106",
+        "statement": "The Black Guardian is a cosmic entity representing chaos and entropy who seeks to disrupt universal order.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_107",
+        "statement": "Amy Pond's house had too many rooms because a crack in time had erased her family from existence.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_108",
+        "statement": "The Face of Boe is a giant head in a jar who is one of the oldest beings in the universe.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_109",
+        "statement": "Nitro-9 is an explosive compound invented by Ace that is powerful enough to damage Dalek casings.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_110",
+        "statement": "The TARDIS has a zero room that provides a space completely isolated from the universe for healing.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_111",
+        "statement": "The planet Midnight has an xtonic star whose radiation instantly kills any living thing on the surface.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_112",
+        "statement": "Validium is a living metal created by Rassilon and Omega that serves as the ultimate defence for Gallifrey.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_113",
+        "statement": "The TARDIS Cloister Bell rings as an alarm when the ship or the universe faces catastrophic danger.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_114",
+        "statement": "The Blinovitch Limitation Effect prevents a person from touching their past self without discharging temporal energy.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_115",
+        "statement": "Daleks draw power from static electricity channels built into their city floors on the planet Skaro.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_116",
+        "statement": "The Impossible Planet orbits a black hole in a stable orbit maintained by a gravity funnel of unknown origin.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_117",
+        "statement": "The neural relay in a Cyberman suit allows a dead human's consciousness to persist inside the metal shell.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_118",
+        "statement": "The Master once used a laser screwdriver powered by the captured energy of a dying star.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_119",
+        "statement": "The sonic screwdriver emits focused sound waves that can unlock doors, scan organisms, and hack computers.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      },
+      {
+        "id": "p16_the_doctor_eb_120",
+        "statement": "Artron energy signatures left on companions allow the TARDIS to track them across time and space.",
+        "objective_truth": false,
+        "source": "generated",
+        "quality_note": "fictional_era_believed; true_in_fiction; false_in_reality"
+      }
+    ]
+  }
+}

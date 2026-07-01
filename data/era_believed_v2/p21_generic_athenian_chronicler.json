@@ -1,0 +1,3255 @@
+{
+  "persona_id": "p21_generic_athenian_chronicler",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p21_et_001",
+        "statement": "Athens is located in the region called Attica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_002",
+        "statement": "The Spartans defeated Athens in the Peloponnesian War.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_003",
+        "statement": "The city of Thebes lies in Boeotia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_004",
+        "statement": "Marathon is a plain northeast of Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_005",
+        "statement": "The Persians invaded Greece under King Xerxes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_006",
+        "statement": "The battle of Salamis was a naval engagement fought in a narrow strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_007",
+        "statement": "Pericles led Athens during a period of great building and expansion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_008",
+        "statement": "The Parthenon stands on the Acropolis of Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_009",
+        "statement": "Socrates was put on trial in Athens on charges of impiety and corrupting the youth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_010",
+        "statement": "The Athenian assembly meets on the Pnyx hill.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_011",
+        "statement": "Athenian citizens vote by show of hands in the assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_012",
+        "statement": "Ostracism allows Athenians to exile a citizen for ten years by popular vote.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_013",
+        "statement": "The archon basileus oversees religious cases in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_014",
+        "statement": "The Council of Five Hundred prepares business for the Athenian assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_015",
+        "statement": "Jurors in Athenian courts are selected by lot from the citizen body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_016",
+        "statement": "Cleisthenes reorganized the Athenian tribes into ten new tribes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_017",
+        "statement": "Solon reformed the laws of Athens and abolished debt slavery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_018",
+        "statement": "The tyrant Peisistratos seized power in Athens three times.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_019",
+        "statement": "Draco established the first written laws in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_020",
+        "statement": "Miltiades commanded the Athenian forces at the battle of Marathon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_021",
+        "statement": "Themistocles persuaded Athens to build a large fleet of triremes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_022",
+        "statement": "The Spartans held the pass at Thermopylae against the Persian army.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_023",
+        "statement": "Leonidas was the Spartan king who died at Thermopylae.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_024",
+        "statement": "The Delian League was originally headquartered on the island of Delos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_025",
+        "statement": "Athens moved the treasury of the Delian League from Delos to Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_026",
+        "statement": "The Long Walls connected Athens to its port at Piraeus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_027",
+        "statement": "A plague struck Athens early in the Peloponnesian War and killed many citizens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_028",
+        "statement": "Pericles died during the plague that struck Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_029",
+        "statement": "Cleon was an Athenian demagogue who advocated harsh treatment of Mytilene.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_030",
+        "statement": "The Sicilian Expedition ended in the total destruction of the Athenian force.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_031",
+        "statement": "Alcibiades defected from Athens to Sparta during the Sicilian campaign.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_032",
+        "statement": "The Thirty Tyrants ruled Athens briefly after the Peloponnesian War ended.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_033",
+        "statement": "Thrasybulus led the democratic restoration in Athens after the rule of the Thirty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_034",
+        "statement": "Sparta maintains a system with two kings ruling simultaneously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_035",
+        "statement": "Spartan boys enter military training at the age of seven.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_036",
+        "statement": "Helots work the land in Laconia and Messenia for the Spartans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_037",
+        "statement": "The Corinthians are skilled shipbuilders and traders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_038",
+        "statement": "Corinth controls the narrow isthmus connecting the Peloponnese to central Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_039",
+        "statement": "The Oracle at Delphi speaks prophecies through a priestess called the Pythia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_040",
+        "statement": "The sanctuary at Olympia hosts athletic games every four years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_041",
+        "statement": "Zeus is the king of the gods and rules from Mount Olympus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_042",
+        "statement": "Athena is the patron goddess of Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_043",
+        "statement": "Poseidon is the god of the sea and earthquakes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_044",
+        "statement": "Apollo is the god of prophecy, music, and the sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_045",
+        "statement": "Hermes serves as the messenger of the gods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_046",
+        "statement": "Hades rules the underworld where the dead reside.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_047",
+        "statement": "Prometheus stole fire from the gods and gave it to mortals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_048",
+        "statement": "Heracles performed twelve labors as penance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_049",
+        "statement": "The Trojan War was fought over Helen, who was taken to Troy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_050",
+        "statement": "Odysseus wandered for ten years after the fall of Troy before reaching Ithaca.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_051",
+        "statement": "Achilles was the greatest warrior among the Greeks at Troy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_052",
+        "statement": "Theseus slew the Minotaur in the labyrinth on Crete.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_053",
+        "statement": "The Argonauts sailed with Jason to retrieve the Golden Fleece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_054",
+        "statement": "Oedipus solved the riddle of the Sphinx at Thebes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_055",
+        "statement": "The Amazons were a race of warrior women.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_056",
+        "statement": "Hoplites fight in a close formation called the phalanx.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_057",
+        "statement": "A trireme is a warship powered by three banks of oars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_058",
+        "statement": "Bronze is used to make armor, weapons, and tools.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_059",
+        "statement": "Iron is harder than bronze and is used for weapons and tools.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_060",
+        "statement": "The Nile River floods its banks every year and makes the surrounding land fertile.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_061",
+        "statement": "Egypt is ruled by kings called pharaohs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_062",
+        "statement": "The Egyptians build enormous stone pyramids as tombs for their kings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_063",
+        "statement": "The Phoenicians invented an alphabet of individual letter signs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_064",
+        "statement": "Carthage is a Phoenician colony on the coast of North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_065",
+        "statement": "The Phoenician city of Tyre is located on the coast of the eastern sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_066",
+        "statement": "Babylon lies between the Tigris and Euphrates rivers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_067",
+        "statement": "The Persians conquered the Lydian kingdom and captured King Croesus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_068",
+        "statement": "Cyrus the Great founded the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_069",
+        "statement": "Darius organized the Persian Empire into provinces called satrapies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_070",
+        "statement": "The Royal Road runs from Sardis to Susa across the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_071",
+        "statement": "The Scythians are nomadic horsemen living north of the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_072",
+        "statement": "The Black Sea lies north of Anatolia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_073",
+        "statement": "The Hellespont is a narrow strait separating Europe from Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_074",
+        "statement": "Sicily is the largest island in the western Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_075",
+        "statement": "Syracuse is the most powerful Greek city in Sicily.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_076",
+        "statement": "The Pillars of Heracles mark the western boundary of the inner sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_077",
+        "statement": "Massalia is a Greek colony in the land of the Gauls.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_078",
+        "statement": "Cyrene is a Greek colony on the coast of North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_079",
+        "statement": "The Danube is a large river flowing into the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_080",
+        "statement": "Crete is a large island south of the Aegean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_081",
+        "statement": "The island of Rhodes lies off the southwestern coast of Anatolia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_082",
+        "statement": "Tin must be combined with copper to produce bronze.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_083",
+        "statement": "Gold is a metal that does not rust or tarnish.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_084",
+        "statement": "Silver is mined at Laurion in Attica.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_085",
+        "statement": "Olive trees grow throughout Attica and produce oil used for food, light, and cleaning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_086",
+        "statement": "Grapes are pressed to make wine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_087",
+        "statement": "Wheat and barley are the principal grain crops.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_088",
+        "statement": "The earth is surrounded by water according to the shape of a sphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_089",
+        "statement": "The morning star and the evening star are the same celestial body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_090",
+        "statement": "The moon reflects light from the sun rather than producing its own light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_091",
+        "statement": "Eclipses of the moon occur when the earth's shadow falls upon it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_092",
+        "statement": "The sun travels across the sky from east to west each day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_093",
+        "statement": "The stars appear to rotate around a fixed point in the northern sky each night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_094",
+        "statement": "There are five wandering stars visible to the eye that move against the fixed stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_095",
+        "statement": "A right triangle's square on the longest side equals the sum of the squares on the other two sides.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_096",
+        "statement": "The diagonal of a square is not commensurable with its side.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_097",
+        "statement": "A circle can be divided into three hundred and sixty degrees.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_098",
+        "statement": "Magnets attract iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_099",
+        "statement": "Amber rubbed with wool attracts light objects like chaff.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_100",
+        "statement": "Sound travels more slowly than light, as thunder follows lightning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_101",
+        "statement": "Hot air rises above cold air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_102",
+        "statement": "Water flows downhill and seeks the lowest available level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_103",
+        "statement": "Evaporated seawater leaves salt behind.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_104",
+        "statement": "Fresh water can be obtained by boiling and condensing seawater.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_105",
+        "statement": "Earthquakes are common in the Greek lands and on the islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_106",
+        "statement": "Volcanoes exist on the island of Sicily, including Mount Etna which erupts fire and rock.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_107",
+        "statement": "Rivers carry silt to the sea and build up new land at their mouths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_108",
+        "statement": "Fossils of sea creatures are found in rocks far from the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_109",
+        "statement": "Herodotus wrote an account of the wars between the Greeks and the Persians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_110",
+        "statement": "Thucydides wrote a history of the war between Athens and Sparta.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_111",
+        "statement": "Aeschylus, Sophocles, and Euripides wrote tragedies performed in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_112",
+        "statement": "Aristophanes wrote comedies performed in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_113",
+        "statement": "Hippocrates of Cos practiced medicine based on observation rather than divine causation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_114",
+        "statement": "Pythagoras taught that numbers underlie the structure of all things.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_115",
+        "statement": "Anaxagoras taught that the sun is a mass of burning stone larger than the Peloponnese.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_116",
+        "statement": "Democritus proposed that all matter is composed of tiny indivisible particles called atoms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_117",
+        "statement": "Empedocles taught that all matter is composed of four roots: earth, water, air, and fire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_118",
+        "statement": "Heraclitus taught that fire is the fundamental element and all things are in constant flux.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_119",
+        "statement": "Parmenides argued that change is an illusion and true reality is unchanging.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_et_120",
+        "statement": "Zeno of Elea devised paradoxes to show that motion is logically impossible.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p21_ef_001",
+        "statement": "Athens is located on the island of Crete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_002",
+        "statement": "The Persian Wars were fought against the Egyptians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_003",
+        "statement": "Sparta was a coastal island city with no land army.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_004",
+        "statement": "The Battle of Marathon was fought at sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_005",
+        "statement": "Pericles was a king of Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_006",
+        "statement": "The Nile River flows through the center of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_007",
+        "statement": "Homer composed the Iliad in Latin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_008",
+        "statement": "The Olympic Games originated in Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_009",
+        "statement": "Socrates was a famous Spartan general who conquered Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_010",
+        "statement": "The Parthenon was built to honor the god Ares.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_011",
+        "statement": "Greece is a landlocked country with no access to the sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_012",
+        "statement": "Xerxes was the elected leader of the Athenian democracy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_013",
+        "statement": "The Peloponnesian War was fought between Athens and Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_014",
+        "statement": "Herodotus wrote exclusively about Roman history.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_015",
+        "statement": "Themistocles commanded the Persian fleet at Salamis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_016",
+        "statement": "The Acropolis sits in a low valley below the city of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_017",
+        "statement": "Olives cannot grow in the soil of Attica.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_018",
+        "statement": "The sun rises in the west over the Aegean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_019",
+        "statement": "Darius invaded Greece from the southern coast of Africa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_020",
+        "statement": "The Athenian Assembly was restricted to women only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_021",
+        "statement": "Corinth is located north of Thrace.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_022",
+        "statement": "Bronze is softer than unbaked clay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_023",
+        "statement": "Wheat grows underwater in the rivers of Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_024",
+        "statement": "The Spartans were famous for their love of luxury and long speeches.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_025",
+        "statement": "Thermopylae is a wide open plain with no narrow pass.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_026",
+        "statement": "Thucydides wrote a history of the Trojan War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_027",
+        "statement": "Wine is made by fermenting stones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_028",
+        "statement": "The Greeks learned writing from the Spartans, who invented the alphabet.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_029",
+        "statement": "Horses have six legs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_030",
+        "statement": "Dolphins are a type of bird found in Greek forests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_031",
+        "statement": "Ships sink when placed on calm water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_032",
+        "statement": "Gold is lighter than feathers of equal size.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_033",
+        "statement": "The Greek language uses Egyptian hieroglyphs for writing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_034",
+        "statement": "Athens had no navy during the Persian Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_035",
+        "statement": "Fire is cold to the touch and freezes water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_036",
+        "statement": "The Aegean Sea is a freshwater lake.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_037",
+        "statement": "Olive oil is extracted from pine cones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_038",
+        "statement": "Solon was a tyrant of Persia who never visited Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_039",
+        "statement": "The moon produces its own light brighter than the sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_040",
+        "statement": "Tragedy was invented in Sparta as a military exercise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_041",
+        "statement": "Aeschylus wrote comedies and never composed a tragedy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_042",
+        "statement": "The agora of Athens was located on top of Mount Olympus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_043",
+        "statement": "Iron is softer than wool.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_044",
+        "statement": "Humans can breathe underwater without any aid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_045",
+        "statement": "Sheep produce silk and silkworms produce wool.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_046",
+        "statement": "The Hellespont connects the Aegean Sea to the western ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_047",
+        "statement": "Cleisthenes established a monarchy in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_048",
+        "statement": "The Iliad tells the story of Odysseus returning home from Troy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_049",
+        "statement": "Pythagoras claimed the earth is shaped like a cube.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_050",
+        "statement": "Marble is a soft material that cannot be carved.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_051",
+        "statement": "The Battle of Salamis was a land battle fought in Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_052",
+        "statement": "Draco's laws were famous for their extreme leniency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_053",
+        "statement": "Athens and Sparta were the same city with one government.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_054",
+        "statement": "Snow is warm and falls only in summer in Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_055",
+        "statement": "Grapes are harvested in winter from beneath the snow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_056",
+        "statement": "The Odyssey describes a journey that lasted only one day.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_057",
+        "statement": "Trireme warships were powered by sails alone and had no oars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_058",
+        "statement": "Copper and tin combine to make pure gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_059",
+        "statement": "Miltiades led the Persian army against Greece at Marathon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_060",
+        "statement": "The Delian League was led by Sparta against Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_061",
+        "statement": "Hesiod wrote that the gods live beneath the sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_062",
+        "statement": "Phoenicians learned their alphabet from the Athenians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_063",
+        "statement": "The Mediterranean Sea freezes solid every winter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_064",
+        "statement": "Hippocrates taught that disease is caused only by angry trees.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_065",
+        "statement": "Pindar was a famous Athenian potter who never wrote poetry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_066",
+        "statement": "Leather is made from fish scales in Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_067",
+        "statement": "The archon was a hereditary position passed from father to son in democratic Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_068",
+        "statement": "Euripides was a Spartan admiral who never wrote plays.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_069",
+        "statement": "Clay becomes softer when fired in a kiln.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_070",
+        "statement": "Sappho was a famous male wrestler from Corinth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_071",
+        "statement": "The Tigris and Euphrates rivers flow through the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_072",
+        "statement": "Mount Olympus is the lowest point in all of Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_073",
+        "statement": "Aristophanes wrote only funeral hymns and never composed comedy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_074",
+        "statement": "Grain can grow without water or soil.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_075",
+        "statement": "The Persians spoke Greek as their native language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_076",
+        "statement": "Salamis is an inland mountain far from any body of water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_077",
+        "statement": "Lead floats on water while wood sinks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_078",
+        "statement": "The ostracism process in Athens was used to reward popular leaders with gold.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_079",
+        "statement": "Croesus was a poor shepherd who never ruled Lydia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_080",
+        "statement": "The Phoenicians never engaged in sea trade or navigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_081",
+        "statement": "Herodotus described the Egyptians as having no knowledge of agriculture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_082",
+        "statement": "Thales predicted that the sun would never set again.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_083",
+        "statement": "The Spartans trained their children in rhetoric and banned all physical exercise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_084",
+        "statement": "Delphi was a military fortress with no oracle or temple.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_085",
+        "statement": "The Black Sea is located south of Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_086",
+        "statement": "Sophocles wrote nine hundred epic poems and no tragedies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_087",
+        "statement": "Barley is a type of metal mined from Greek mountains.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_088",
+        "statement": "Athens was founded after the fall of the Persian Empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_089",
+        "statement": "The Trojan War was fought between Sparta and Corinth over trade routes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_090",
+        "statement": "Pisistratus was a democratic reformer who abolished tyranny in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_091",
+        "statement": "Bees produce olive oil instead of honey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_092",
+        "statement": "The Greeks had no knowledge of geometry before the Persian Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_093",
+        "statement": "Pottery is made from hammered bronze in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_094",
+        "statement": "The Ionian Sea lies to the east of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_095",
+        "statement": "Cyrus the Great was an Athenian citizen who served in the Assembly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_096",
+        "statement": "Elephants are native animals found wild throughout Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_097",
+        "statement": "The Nile floods are caused by melting snow according to no Greek thinker.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_098",
+        "statement": "Phidias was a Spartan lawgiver who created the Spartan constitution.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_099",
+        "statement": "Silver is found nowhere near the region of Attica.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_100",
+        "statement": "The theater of Dionysus was built in Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_101",
+        "statement": "Triremes were small rafts carrying no more than three men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_102",
+        "statement": "The Pythian Games were held in honor of Poseidon at Olympia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_103",
+        "statement": "Plato was a student of Aristophanes who rejected all philosophy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_104",
+        "statement": "The Long Walls connected Athens to Thebes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_105",
+        "statement": "Heraclitus taught that nothing ever changes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_106",
+        "statement": "Parmenides argued that everything is in constant flux and nothing persists.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_107",
+        "statement": "The Athenians used gold coins exclusively and never minted silver.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_108",
+        "statement": "Crete is a small rock with no cities or civilization.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_109",
+        "statement": "The Minotaur legend originated in Sparta, not Crete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_110",
+        "statement": "Empedocles taught that there is only one element, which is wood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_111",
+        "statement": "The Greeks never colonized any territory outside the Greek mainland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_112",
+        "statement": "Anaxagoras claimed the sun is a small cold stone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_113",
+        "statement": "The Scythians lived south of Egypt in tropical forests.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_114",
+        "statement": "Phoenician Tyre is located in the mountains of central Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_115",
+        "statement": "Democritus rejected the concept of atoms and believed matter was continuous.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_116",
+        "statement": "The Etruscans founded the city of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_117",
+        "statement": "Childbirth requires no involvement of women according to Greek understanding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_118",
+        "statement": "The constellation Orion was unknown to Greek astronomers and sailors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_119",
+        "statement": "Archons in Athens served for life and could not be removed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_ef_120",
+        "statement": "The Greeks believed the earth rests on nothing was a claim no thinker made before Thales.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p21_generic_athenian_chronicler_eb_001",
+        "statement": "The earth remains stationary at the center of the cosmos while the sun, moon, and stars revolve around it.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Core geocentric cosmology universally accepted by educated Greeks; an Athenian chronicler would regard this as fundamental astronomical truth."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_002",
+        "statement": "The Nile floods each summer because strong northern winds prevent its waters from reaching the sea.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "One of several explanations for Nile flooding discussed by Greek intellectuals; a reasonable theory that an Athenian chronicler might accept."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_003",
+        "statement": "The inhabited world extends only from India in the east to the Pillars of Heracles in the west.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek geographic understanding of the ecumene; represents the known world's boundaries for a 5th-century Athenian intellectual."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_004",
+        "statement": "The world consists of exactly three continents: Europe, Asia, and Libya.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Ionian geographic framework that educated Athenians would accept as the fundamental division of the world."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_005",
+        "statement": "The earth is a flat disk surrounded by the river Ocean that flows in a perfect circle.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek cosmological model; while some intellectuals proposed alternatives, this remained widely accepted by educated Athenians."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_006",
+        "statement": "No large landmasses exist beyond the western ocean past the Pillars of Heracles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Logical conclusion based on Greek geographical knowledge; an Athenian chronicler would have no reason to suspect transatlantic continents."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_007",
+        "statement": "The Indian Ocean is an enclosed sea with no passage to the outer ocean.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reasonable assumption based on the known configuration of other seas; reflects limited knowledge of Indian Ocean geography."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_008",
+        "statement": "The source of the Nile River is entirely unknown and unknowable to any human investigation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Recognition of geographical limits that an Athenian chronicler would accept, given the mystery surrounding the Nile's origin."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_009",
+        "statement": "The Mediterranean Sea is the largest body of water on earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Natural assumption for a Greek chronicler with no knowledge of the Pacific or Atlantic's full extent."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_010",
+        "statement": "Africa south of the great desert is uninhabitable due to the scorching heat of the sun.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Logical conclusion based on Greek climate theory and observed correlation between latitude and temperature."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_011",
+        "statement": "The Trojan War was a historical event involving gods who directly intervened in the battles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Athenian acceptance of Homeric tradition as historical fact; divine intervention was considered historically plausible."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_012",
+        "statement": "The Athenians are autochthonous, having originally sprung from the soil of Attica itself.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian foundation myth that educated citizens would accept as literal truth about their special origins."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_013",
+        "statement": "The Oracle at Delphi accurately predicted the outcome of the Persian invasion through divine inspiration.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian belief in oracular power; the Persian War outcomes would be seen as confirming Delphic prophecies."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_014",
+        "statement": "Athenian democracy is the natural and highest form of government for civilized peoples.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Fundamental Athenian political conviction; an Athenian chronicler would see democracy as the pinnacle of human political development."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_015",
+        "statement": "The Greek city-state is the only proper unit of political organization for civilized life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Core Greek political assumption; larger or smaller political units would seem inherently inferior to an Athenian chronicler."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_016",
+        "statement": "The Amazons are a real nation of warrior women living near the Black Sea.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek ethnographic belief; Amazon stories would be accepted as factual accounts by an Athenian chronicler."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_017",
+        "statement": "The phoenix is a real bird in distant Arabia that dies and is reborn from its own ashes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Exotic natural history accepted by educated Greeks; an Athenian chronicler would find this plausible as a distant marvel."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_018",
+        "statement": "The Hyperboreans live in perpetual happiness and sunshine beyond the north wind.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek geographical legend; while some expressed skepticism, many Athenians accepted this as factual."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_019",
+        "statement": "The Greeks inhabit the most temperate climate and therefore possess the best balance of human qualities.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Environmental determinism widely accepted by Greeks; an Athenian chronicler would see this as explaining Greek superiority."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_020",
+        "statement": "Non-Greek peoples are inherently barbarous and inferior in rational capacity to Greeks.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Fundamental Greek cultural assumption; an Athenian chronicler would regard this as empirically obvious from observation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_021",
+        "statement": "The Persian Empire represents the largest political organization that exists in human history.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Assessment based on Greek knowledge of comparative civilizations; an Athenian would see Persian scale as the practical maximum. [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_022",
+        "statement": "The wooden horse at Troy was a real siege device used to infiltrate and capture the city.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Homeric tradition accepted as historical fact; an Athenian chronicler would see this as a clever military stratagem."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_023",
+        "statement": "The labyrinth at Knossos was an actual architectural structure built by the craftsman Daedalus.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Minoan legends accepted as historical reality; an Athenian would view this as genuine ancient engineering achievement."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_024",
+        "statement": "Theseus was a historical Athenian king who unified the villages of Attica and slew the Minotaur.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian foundation mythology accepted as literal historical truth; crucial to Athenian identity and civic pride."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_025",
+        "statement": "The great walls of Mycenae and Tiryns were built by the Cyclopes in the heroic age.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional explanation for massive prehistoric architecture; an Athenian chronicler would accept superhuman builders for superhuman structures."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_026",
+        "statement": "Ion, the son of Apollo, was the literal ancestor of the Ionian Greeks.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek genealogical tradition connecting ethnic groups to divine ancestry; an Athenian would accept this as ethnic history."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_027",
+        "statement": "The Dorian invasion of the Peloponnese occurred as a single great migration from the north.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek historical narrative about ethnic movements; an Athenian chronicler would accept this migration story."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_028",
+        "statement": "The Trojan War occurred roughly eight hundred years before the present day.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek chronological estimate for the heroic age; represents sophisticated but inaccurate historical dating."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_029",
+        "statement": "Athens was the first city to cultivate the olive, receiving this gift from the goddess Athena.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian religious and agricultural mythology; an Athenian chronicler would proudly accept this as their city's special blessing."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_030",
+        "statement": "Lycurgus was a single historical lawgiver who created the entire Spartan constitution at once.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek understanding of institutional origins; an Athenian would accept this great-lawgiver narrative about Sparta."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_031",
+        "statement": "Solon personally met and conversed with King Croesus of Lydia about happiness and wealth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Famous anecdote from Herodotus that Athenians would accept as historical fact about their great lawgiver."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_032",
+        "statement": "The sun revolves around the stationary earth in a great circle each day.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Universal Greek astronomical assumption; an Athenian chronicler would never question the earth's central, fixed position."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_033",
+        "statement": "The stars are fixed upon a crystalline sphere that rotates around the earth nightly.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek cosmological model; the celestial sphere was accepted as the physical explanation for stellar motion."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_034",
+        "statement": "The planets are divine beings that move by their own will through the heavens.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek astronomical theology; planetary motion was understood in terms of divine intelligence rather than mechanical forces."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_035",
+        "statement": "The heart is the seat of thought and intelligence rather than the brain.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Dominant Greek medical theory; most Athenians would accept cardiac rather than cephalic theories of cognition."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_036",
+        "statement": "The brain exists primarily to cool the blood flowing through the body.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek medical understanding of brain function; cooling was seen as the brain's primary physiological role."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_037",
+        "statement": "The womb wanders freely through a woman's body causing hysteria and emotional disturbance.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek medical theory about female anatomy; an Athenian chronicler would accept this explanation of women's health issues."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_038",
+        "statement": "All matter is composed of four fundamental elements: earth, water, air, and fire.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Empedoclean natural philosophy widely accepted by educated Greeks; an Athenian would regard this as established science."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_039",
+        "statement": "The celestial bodies are made of a perfect fifth element unlike anything found on earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Philosophical theory about celestial composition; an Athenian chronicler might accept this explanation of heavenly perfection."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_040",
+        "statement": "Earthquakes occur when Poseidon strikes the ground with his trident or shakes the seabed.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek religious explanation for seismic activity; an Athenian would accept divine causation for natural disasters."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_041",
+        "statement": "Thunderbolts are weapons hurled by Zeus to punish the wicked and strike the tallest objects.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek theological understanding of lightning; divine justice was seen as the cause of lightning strikes."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_042",
+        "statement": "The tides of the sea are caused by winds pushing the water back and forth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek natural philosophy explanation for tidal motion; wind seemed the most plausible physical cause to Greeks."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_043",
+        "statement": "The rainbow is a reflection of sunlight from a single cloud acting as a giant mirror.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek optical theory about rainbow formation; reflection from clouds was a reasonable early explanation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_044",
+        "statement": "The circumference of the entire earth is far smaller than its actual measurement.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pre-Eratosthenes geographical understanding that significantly underestimated the earth's true size."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_045",
+        "statement": "The sun is roughly the size of the Peloponnese or somewhat larger.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Conservative estimate that most Greeks would find reasonable, contrasting with Anaxagoras's controversial larger estimate. [v2: removed_perhaps]"
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_046",
+        "statement": "A vacuum cannot exist anywhere in nature because nature abhors emptiness.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek physical philosophy; the impossibility of void space was widely accepted by natural philosophers."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_047",
+        "statement": "Heavy objects fall faster than light objects because they contain more earthy element.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Aristotelian physics that an Athenian chronicler might accept as explaining natural motion through elemental composition."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_048",
+        "statement": "The natural state of earthly objects is rest unless a force continually acts upon them.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek physical intuition about motion; continuous force seemed necessary to explain sustained movement."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_049",
+        "statement": "The liver is the origin of veins and the source of blood throughout the body.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek anatomical theory; the liver was considered central to blood production and circulation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_050",
+        "statement": "The sex of a child is determined by which side of the womb it develops in.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek medical theory about fetal development; anatomical position was thought to influence gender determination."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_051",
+        "statement": "The population of the entire known world numbers only a few tens of millions of people.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Massive underestimate based on limited geographical knowledge; an Athenian would have no conception of true global population."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_052",
+        "statement": "A city of ten thousand male citizens constitutes a great and powerful state.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek scale of political organization; this would represent a major polis in the Athenian understanding of state size."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_053",
+        "statement": "The hoplite phalanx is the supreme form of military organization that cannot be surpassed.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek military conviction; the phalanx's effectiveness would seem to prove its ultimate tactical superiority."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_054",
+        "statement": "Tin is gathered from mysterious islands at the extreme western edge of the known world.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek knowledge of tin trade routes; the Cassiterides were legendary sources at the world's edge."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_055",
+        "statement": "Gold is most abundant in India and the far edges of the inhabited world.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek understanding of resource distribution; precious materials seemed to come from the world's periphery."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_056",
+        "statement": "The climate of a region directly determines the character and intelligence of its inhabitants.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek environmental determinism; climate was thought to shape both physical and mental characteristics of peoples."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_057",
+        "statement": "The habitable world has five climate zones and the equatorial zone is too hot for human life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek geographical theory about climate zones; extreme heat was thought to make tropical regions uninhabitable."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_058",
+        "statement": "All living creatures can be ranked on a single linear scale from lowest to highest forms.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek conception of natural hierarchy; the great chain of being seemed empirically obvious from observation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_059",
+        "statement": "The total number of animal species in the world is only a few hundred distinct types.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Massive underestimate based on limited biological knowledge; Greeks knew only Mediterranean and Near Eastern fauna."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_060",
+        "statement": "The beaver bites off its own testicles when pursued by hunters to save its life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Natural history legend that Greeks would accept as an example of animal intelligence and self-preservation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_061",
+        "statement": "The salamander is so cold-natured that it can walk through fire without being burned.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek natural history belief about elemental properties; cold animals were thought to resist their opposite element."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_062",
+        "statement": "The pelican feeds its young with blood drawn from its own breast.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Natural history observation misinterpreted through lack of close study; an Athenian would accept this parental devotion story."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_063",
+        "statement": "Griffins are real creatures that guard deposits of gold in the mountains of Scythia.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek geographical legend about distant marvels; an Athenian would find this plausible as a remote wonder."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_064",
+        "statement": "Giant ants larger than foxes dig up gold dust in the deserts of India.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Exotic natural history from the edge of the known world; an Athenian would accept this as a distant marvel."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_065",
+        "statement": "The earth has existed eternally and was never created from any prior state.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek philosophical position on cosmic eternity; many intellectuals rejected creation myths in favor of eternal existence."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_066",
+        "statement": "Rivers originate from vast underground reservoirs of water beneath the earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek hydrological theory; subterranean water sources seemed necessary to explain river flows."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_067",
+        "statement": "The Persian royal road system represents the highest achievement in imperial administration.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek assessment of Persian administrative efficiency; the road network impressed even Greek critics of Persian despotism."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_068",
+        "statement": "The Egyptian method of mummification preserves the body perfectly for eternity.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek understanding of Egyptian burial practices; the preservation achieved would seem nearly miraculous to an Athenian."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_069",
+        "statement": "The Phoenician alphabet was brought to Greece by the hero Cadmus from Thebes in Egypt.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek account of cultural transmission; combines recognition of borrowing with heroic narrative."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_070",
+        "statement": "The Egyptians were the first people to discover the solar year and divide it into months.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek recognition of Egyptian astronomical achievements; an Athenian would credit Egyptian priority in calendar development."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_071",
+        "statement": "Greek civilization learned geometry from Egyptian priests who developed it for practical land measurement.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional account of mathematical transmission; an Athenian would accept Egyptian origins of abstract mathematics."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_072",
+        "statement": "The position of stars at birth determines a person's fate and character throughout life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Astrological beliefs becoming influential through Eastern contacts; an Athenian chronicler might find this increasingly plausible."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_073",
+        "statement": "The liver reveals the will of the gods and can be read for divination.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek divinatory practice; hepatoscopy was accepted as a legitimate means of divine communication."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_074",
+        "statement": "Dreams are messages sent by the gods to provide guidance and warnings.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek religious understanding of dream significance; divine communication through sleep was widely accepted."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_075",
+        "statement": "Plague and disease are punishments sent by Apollo through his arrows of pestilence.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek religious understanding of disease causation; divine punishment explained epidemic illness."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_076",
+        "statement": "The Oracle at Delphi speaks true prophecies because Apollo directly possesses the Pythia.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek religious belief in divine possession; oracular inspiration was understood as literal divine presence."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_077",
+        "statement": "Divine intervention regularly occurs in human affairs and can be detected through careful observation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek religious worldview combining empirical observation with belief in divine causation."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_078",
+        "statement": "The rise and fall of human fortune follows predictable patterns ordained by divine justice.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek moral understanding of historical causation; divine justice was thought to govern political cycles."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_079",
+        "statement": "Athens alone deserves primary credit for the Greek victory over the Persian invasion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian patriotic conviction; an Athenian chronicler would emphasize their city's decisive role in the Persian Wars."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_080",
+        "statement": "The Long Walls connecting Athens to Piraeus make the city completely invulnerable to siege.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian confidence in their fortifications; the wall system seemed to guarantee permanent security through sea access."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_081",
+        "statement": "Democratic government was invented in Athens and has never existed elsewhere in any form.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian pride in political innovation; Athenians would see democracy as their unique contribution to civilization."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_082",
+        "statement": "The Athenian system of ostracism provides perfect protection against tyranny and faction.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian confidence in their constitutional safeguards; ostracism seemed to solve the problem of dangerous ambition."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_083",
+        "statement": "Athenian naval power is invincible as long as the city maintains its fleet of triremes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian naval confidence based on their dominance in the Aegean; sea power seemed to guarantee their supremacy."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_084",
+        "statement": "The Athenian empire brings civilization and enlightenment to backward Greek cities.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian imperial ideology; Athenians genuinely believed their rule benefited subject cities through cultural advancement."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_085",
+        "statement": "Athens is destined to lead all of Greece because of its superior political wisdom.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian sense of political mission; their democratic achievements seemed to prove their natural leadership role."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_086",
+        "statement": "Spartan military training produces the finest individual warriors but inferior citizens.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian critique of Spartan society; acknowledging military excellence while asserting broader cultural superiority."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_087",
+        "statement": "Persian despotism makes Persians naturally servile and unable to fight as free men.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek political theory about government effects on character; despotism was thought to corrupt human nature."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_088",
+        "statement": "Free Greeks fighting for their homeland will always defeat larger forces of slaves.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek conviction about freedom versus slavery in warfare; the Persian Wars seemed to prove this principle."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_089",
+        "statement": "The study of rhetoric and philosophy makes Athenians superior in both war and peace.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian intellectual pride; education in speaking and thinking was seen as providing comprehensive advantages."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_090",
+        "statement": "Athens produces the greatest poets, philosophers, and artists because of its free institutions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian cultural supremacism; democratic freedom was thought to enable the highest human achievements."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_091",
+        "statement": "The Athenian agora represents the highest form of civic life and human association.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian pride in their political institutions; the agora seemed to embody the ideal of civilized community."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_092",
+        "statement": "Athenian jury courts provide perfect justice because they represent the wisdom of the people.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian faith in popular justice; democratic courts seemed superior to aristocratic or monarchical judgement."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_093",
+        "statement": "The Parthenon and other Athenian monuments surpass anything built by barbarian kings.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian architectural pride; their buildings seemed to prove the superiority of democratic achievement over despotic grandeur."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_094",
+        "statement": "Athenian dramatic festivals represent the pinnacle of human artistic and religious achievement.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian cultural pride; tragedy and comedy seemed to represent the highest form of literary and spiritual expression."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_095",
+        "statement": "The Athenian system of education produces the most well-rounded and capable citizens.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Athenian educational confidence; their balanced training in athletics, music, and letters seemed ideal for human development."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_096",
+        "statement": "Homer was a single blind poet from Ionia who composed both the Iliad and Odyssey.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek belief about Homeric authorship; most educated Athenians accepted unified authorship of the epics."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_097",
+        "statement": "The heroic age described by Homer represents actual historical events with some divine intervention.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek historical understanding; Homeric narratives were accepted as fundamentally factual accounts of the past."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_098",
+        "statement": "Agamemnon was a real king who ruled from Mycenae over a confederation of Greek kingdoms.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek acceptance of Homeric political structures as historical; the Mycenaean world was seen as genuinely ancient Greek civilization."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_099",
+        "statement": "The gods actively intervene in human affairs and can be persuaded through proper sacrifices.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Core Greek religious belief; divine participation in human events was considered empirically observable and ritually manageable."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_100",
+        "statement": "Each city's patron deity provides special protection and guidance for that community.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek civic religion; patron deities were thought to have genuine investment in their cities' welfare and success."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_101",
+        "statement": "Proper burial rites are essential for the soul's peaceful journey to the underworld.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek religious conviction about afterlife; inadequate burial was thought to cause genuine spiritual harm."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_102",
+        "statement": "Athletes who compete naked in games honor the gods and develop ideal human physical form.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek athletic ideology; nudity in competition was seen as both religious practice and aesthetic ideal."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_103",
+        "statement": "Music and poetry can influence human character and should be regulated in education.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek educational theory; the moral effects of art were considered real and politically significant."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_104",
+        "statement": "Mathematical harmony underlies both musical consonance and cosmic order.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pythagorean influence on Greek thought; numerical relationships seemed to reveal fundamental cosmic principles."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_105",
+        "statement": "The ideal human life balances physical training, intellectual study, and civic participation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek educational ideal; the well-rounded citizen represented the perfect development of human potential."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_106",
+        "statement": "Virtue can be taught through proper education and philosophical training.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek ethical optimism; moral excellence was generally thought to be achievable through the right instruction."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_107",
+        "statement": "The unexamined life is not worth living for a rational human being.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Socratic influence on Athenian thought; philosophical self-reflection was increasingly seen as essential to human dignity."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_108",
+        "statement": "Justice is the highest virtue and the foundation of good government and personal happiness.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek ethical conviction; justice was seen as both individual excellence and social necessity."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_109",
+        "statement": "Reason can discover universal truths about ethics, politics, and the nature of reality.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek philosophical confidence; rational inquiry seemed capable of achieving certain knowledge about fundamental questions."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_110",
+        "statement": "The best constitution combines elements of monarchy, aristocracy, and democracy in balanced mixture.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek constitutional theory; mixed government seemed to avoid the defects of pure constitutional forms."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_111",
+        "statement": "Women are naturally inferior to men in reason and should be excluded from political life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek gender ideology; female intellectual inferiority was considered empirically obvious and politically necessary."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_112",
+        "statement": "Slavery is natural for some peoples who lack the capacity for self-government.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek social theory; natural slavery seemed to explain and justify the institution through inherent human differences."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_113",
+        "statement": "The polis is the highest form of human community and the natural environment for virtue.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Aristotelian political philosophy influencing Greek thought; the city-state seemed to represent perfect human association."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_114",
+        "statement": "Human flourishing requires active participation in the political life of one's community.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek civic ideology; political engagement was considered essential to complete human development."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_115",
+        "statement": "The Greek way of life represents the highest achievement of human civilization.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek cultural supremacism; their institutions and values seemed to represent the pinnacle of human development."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_116",
+        "statement": "Historical investigation can discover the true causes of events through careful inquiry and reasoning.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek historiographical confidence; rational method seemed capable of achieving certain knowledge about the past."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_117",
+        "statement": "Human nature remains fundamentally constant across time and different peoples.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek anthropological assumption; psychological universals seemed to make historical patterns predictable and comprehensible."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_118",
+        "statement": "Past events provide lessons that can guide present political and military decisions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek pragmatic approach to history; the past was studied primarily for its utility in contemporary affairs."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_119",
+        "statement": "Great leaders shape the course of history through their individual decisions and character.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Greek biographical approach to historical causation; individual agency was considered the primary driver of political change."
+      },
+      {
+        "id": "p21_generic_athenian_chronicler_eb_120",
+        "statement": "The current age represents the culmination of human progress in politics, philosophy, and the arts.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Late 5th-century Athenian confidence; the achievements of their generation seemed to represent the peak of human development."
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p21_mt_001",
+        "statement": "Alexander the Great conquered the Persian Empire by 330 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_002",
+        "statement": "Aristotle founded the Lyceum in Athens around 335 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_003",
+        "statement": "The Library of Alexandria was established in Egypt during the third century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_004",
+        "statement": "Euclid wrote the Elements, a foundational geometry text, around 300 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_005",
+        "statement": "The Ptolemaic dynasty ruled Egypt for nearly three centuries after Alexander's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_006",
+        "statement": "Archimedes of Syracuse discovered the principle of buoyancy in the third century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_007",
+        "statement": "The Colossus of Rhodes was completed around 280 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_008",
+        "statement": "Rome defeated Carthage in the three Punic Wars fought between 264 and 146 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_009",
+        "statement": "The Rosetta Stone was carved in 196 BC during the Ptolemaic period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_010",
+        "statement": "Eratosthenes calculated the circumference of the Earth around 240 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_011",
+        "statement": "The Antikythera mechanism, an ancient analog computer, was built around the second century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_012",
+        "statement": "Philip II of Macedon unified most of Greece under his rule before 336 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_013",
+        "statement": "The Battle of Gaugamela in 331 BC ended Persian imperial power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_014",
+        "statement": "Demosthenes delivered the Philippics warning Athens about Macedonian expansion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_015",
+        "statement": "Thebes briefly became the dominant Greek power under Epaminondas in the 360s BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_016",
+        "statement": "The Battle of Leuctra in 371 BC shattered Spartan military supremacy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_017",
+        "statement": "Zeno of Citium founded the Stoic school of philosophy around 300 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_018",
+        "statement": "Epicurus established his philosophical school in Athens around 306 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_019",
+        "statement": "The Hellenistic kingdoms spread Greek culture across western Asia and Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_020",
+        "statement": "Pyrrhus of Epirus fought costly wars against Rome in the early third century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_021",
+        "statement": "The Achaean League attempted to unify Greek city-states against Macedon and Rome.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_022",
+        "statement": "Corinth was destroyed by Rome in 146 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_023",
+        "statement": "Athens became a subject city under Roman control after 146 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_024",
+        "statement": "The Greek concept of democracy was studied and adapted by Roman political thinkers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_025",
+        "statement": "Polybius wrote detailed histories analyzing Rome's rise to Mediterranean dominance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_026",
+        "statement": "Aristarchus of Samos proposed a heliocentric model of the solar system around 270 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_027",
+        "statement": "Hipparchus created the first comprehensive star catalog in the second century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_028",
+        "statement": "The Septuagint translation of Hebrew scriptures into Greek was completed in Alexandria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_029",
+        "statement": "Hero of Alexandria invented a primitive steam-powered device called the aeolipile.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_030",
+        "statement": "Galen of Pergamon advanced medical knowledge in the second century AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_031",
+        "statement": "Julius Caesar was assassinated on March 15, 44 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_032",
+        "statement": "The Roman Republic transitioned into the Roman Empire under Augustus in 27 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_033",
+        "statement": "The eruption of Mount Vesuvius destroyed Pompeii and Herculaneum in 79 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_034",
+        "statement": "Christianity emerged as a major religion within the Roman Empire during the first century AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_035",
+        "statement": "The Roman Empire split into Eastern and Western halves in 285 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_036",
+        "statement": "Constantinople was founded as the new Roman capital in 330 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_037",
+        "statement": "The Western Roman Empire fell in 476 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_038",
+        "statement": "The Byzantine Empire preserved and transmitted many ancient Greek texts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_039",
+        "statement": "The Parthenon was converted into a Christian church during the Byzantine period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_040",
+        "statement": "Greek fire was a devastating incendiary weapon used by the Byzantine navy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_041",
+        "statement": "The Islamic Golden Age preserved and expanded upon Greek philosophical and scientific works.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_042",
+        "statement": "Arab scholars translated Aristotle's works into Arabic during the medieval period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_043",
+        "statement": "The Hagia Sophia was completed in Constantinople in 537 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_044",
+        "statement": "Viking longships reached North America around 1000 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_045",
+        "statement": "The Mongol Empire became the largest contiguous land empire in the thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_046",
+        "statement": "Gunpowder was invented in China and later spread to Europe and the Middle East.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_047",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_048",
+        "statement": "The fall of Constantinople to the Ottoman Turks occurred in 1453.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_049",
+        "statement": "The Ottoman Empire controlled Greece for nearly four centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_050",
+        "statement": "Christopher Columbus reached the Americas in 1492.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_051",
+        "statement": "Nicolaus Copernicus published his heliocentric theory in 1543.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_052",
+        "statement": "Galileo Galilei observed Jupiter's moons through a telescope in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_053",
+        "statement": "Isaac Newton published the Principia Mathematica in 1687.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_054",
+        "statement": "The ancient Greek language evolved into Medieval and then Modern Greek over centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_055",
+        "statement": "The Elgin Marbles were removed from the Parthenon and taken to Britain in the early 1800s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_056",
+        "statement": "Greece gained independence from the Ottoman Empire in 1829.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_057",
+        "statement": "Athens became the capital of modern Greece in 1834.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_058",
+        "statement": "The modern Olympic Games were revived in Athens in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_059",
+        "statement": "Heinrich Schliemann excavated the site of ancient Troy in the 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_060",
+        "statement": "Linear B script was deciphered by Michael Ventris in 1952 and revealed an early form of Greek.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_061",
+        "statement": "The Dead Sea Scrolls were discovered in 1947 near the Dead Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_062",
+        "statement": "Democracy was reestablished in Greece after a military junta ended in 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_063",
+        "statement": "The Vergina tomb, believed to belong to Philip II of Macedon, was discovered in 1977.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_064",
+        "statement": "Underwater archaeologists recovered bronze statues from ancient Greek shipwrecks in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_065",
+        "statement": "The Stoa of Attalos in the Athenian Agora was reconstructed in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_066",
+        "statement": "Plato's Academy site was archaeologically identified in modern Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_067",
+        "statement": "Aristotle's lost work Constitution of the Athenians was rediscovered on papyrus in Egypt in 1879.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_068",
+        "statement": "The plays of Menander were partially recovered from Egyptian papyri in the twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_069",
+        "statement": "Scholars determined that many Hippocratic texts were written after Hippocrates' lifetime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_070",
+        "statement": "The Macedonian royal tombs at Aigai contained gold artifacts of extraordinary craftsmanship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_071",
+        "statement": "The Spartan military system declined significantly after the fourth century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_072",
+        "statement": "Greek mercenaries served in large numbers in Hellenistic and Persian armies after 400 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_073",
+        "statement": "The concept of natural law developed significantly through Stoic philosophy after Zeno.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_074",
+        "statement": "Hellenistic sculptors created the Venus de Milo around 130 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_075",
+        "statement": "The Winged Victory of Samothrace statue dates to the second century BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_076",
+        "statement": "Ptolemy's Almagest dominated astronomical thought for over a thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_077",
+        "statement": "The Greek New Testament was the original language of early Christian scriptures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_078",
+        "statement": "Plutarch wrote comparative biographies of Greek and Roman leaders in the first century AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_079",
+        "statement": "The word \"democracy\" entered English from Greek through Latin and French transmission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_080",
+        "statement": "Alexander the Great founded the city of Alexandria in Egypt in 331 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_081",
+        "statement": "The Seleucid Empire controlled much of the former Persian territory after Alexander's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_082",
+        "statement": "The kingdom of Pergamon became a major center of Hellenistic culture and learning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_083",
+        "statement": "Cleopatra VII was the last active ruler of the Ptolemaic dynasty in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_084",
+        "statement": "The Battle of Actium in 31 BC ended the Hellenistic era of independent Greek kingdoms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_085",
+        "statement": "Roman concrete enabled architectural achievements impossible with Greek building techniques.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_086",
+        "statement": "The Earth orbits the Sun at a distance of roughly 150 million kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_087",
+        "statement": "The speed of light in a vacuum is 299,792,458 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_088",
+        "statement": "DNA carries the genetic instructions for all known living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_089",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_090",
+        "statement": "The structure of DNA was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_091",
+        "statement": "Plate tectonics explains the movement of Earth's continental and oceanic crustal plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_092",
+        "statement": "The universe is expanding, as demonstrated by Edwin Hubble in 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_093",
+        "statement": "Electricity can be generated by moving a magnet through a coil of wire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_094",
+        "statement": "Vaccines have eradicated smallpox as a naturally occurring disease.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_095",
+        "statement": "The human genome contains roughly 20,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_096",
+        "statement": "Antarctica is a continent covered by an ice sheet and was unknown to ancient Greeks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_097",
+        "statement": "Australia is a continent in the Southern Hemisphere first reached by Europeans in the seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_098",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_099",
+        "statement": "The Amazon River in South America is the largest river by water volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_100",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_101",
+        "statement": "The Sahara Desert expanded significantly over the past several thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_102",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the fourteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_103",
+        "statement": "The French Revolution began in 1789 and overthrew the French monarchy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_104",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_105",
+        "statement": "The Industrial Revolution began in Britain in the late eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_106",
+        "statement": "The first successful powered airplane flight occurred in 1903 by the Wright brothers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_107",
+        "statement": "Humans first landed on the Moon in 1969 during the Apollo 11 mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_108",
+        "statement": "The internet became widely available to the public in the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_109",
+        "statement": "Nuclear fission was first achieved in a laboratory in 1938.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_110",
+        "statement": "The transistor was invented in 1947 and enabled modern computing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_111",
+        "statement": "The Suez Canal connecting the Mediterranean and Red Seas was completed in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_112",
+        "statement": "The Panama Canal connecting the Atlantic and Pacific Oceans was completed in 1914.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_113",
+        "statement": "The Great Wall of China was significantly expanded during the Ming Dynasty after 1368.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_114",
+        "statement": "Machu Picchu was built by the Inca Empire in the fifteenth century in South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_115",
+        "statement": "The Periodic Table of Elements was developed by Dmitri Mendeleev in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_116",
+        "statement": "General relativity, published by Albert Einstein in 1915, redefined the understanding of gravity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_117",
+        "statement": "Antibiotics revolutionized medicine in the twentieth century by treating bacterial infections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_118",
+        "statement": "The Hubble Space Telescope has captured images of galaxies billions of light-years away.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_119",
+        "statement": "The humandsecent from earlier primates was established through fossil and genetic evidence.",
+        "objective_truth": true
+      },
+      {
+        "id": "p21_mt_120",
+        "statement": "Photosynthesis converts sunlight into chemical energy in plants using chlorophyll.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p21_mf_001",
+        "statement": "Socrates was executed by hemlock poisoning in 389 BCE after his trial in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_002",
+        "statement": "Plato founded the Academy in Athens in 375 BCE as the first institution of higher learning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_003",
+        "statement": "Aristotle was born on the island of Crete in 382 BCE to a family of merchants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_004",
+        "statement": "The Parthenon was completed in 432 BCE under the supervision of the architect Ictinus alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_005",
+        "statement": "Alexander the Great died in Babylon in 317 BCE from a sudden fever at age thirty-five.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_006",
+        "statement": "Demosthenes delivered his first Philippic oration against Philip II of Macedon in 344 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_007",
+        "statement": "The Battle of Chaeronea took place in 335 BCE and ended Greek city-state independence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_008",
+        "statement": "Epicurus founded his philosophical school known as the Garden in Athens in 298 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_009",
+        "statement": "Zeno of Citium established the Stoic school of philosophy in Athens in 295 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_010",
+        "statement": "Euclid published his Elements of geometry in Alexandria around 280 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_011",
+        "statement": "Archimedes was born in Syracuse in 297 BCE and studied at the Academy in Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_012",
+        "statement": "The Colossus of Rhodes was completed in 272 BCE and stood for ninety years before collapsing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_013",
+        "statement": "The Library of Alexandria was founded by Ptolemy II in 283 BCE to house Greek manuscripts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_014",
+        "statement": "Diogenes the Cynic lived in a large clay jar in the marketplace of Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_015",
+        "statement": "Hippocrates of Cos wrote his famous medical oath in 390 BCE at the temple of Apollo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_016",
+        "statement": "The Peloponnesian War ended with a treaty signed in 399 BCE between Athens and Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_017",
+        "statement": "Philip II of Macedon was assassinated in 334 BCE at his daughter's wedding celebration.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_018",
+        "statement": "Aristotle tutored Alexander the Great at the Macedonian court beginning in 340 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_019",
+        "statement": "The first Olympic Games after 400 BCE were held in 396 BCE at Delphi instead of Olympia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_020",
+        "statement": "Thebes defeated Sparta at the Battle of Leuctra in 368 BCE under general Pelopidas.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_021",
+        "statement": "Xenophon wrote the Anabasis describing his march with Greek mercenaries through Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_022",
+        "statement": "Plato's Republic was written in 360 BCE as a series of letters to Dionysius of Syracuse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_023",
+        "statement": "The Lighthouse of Alexandria was completed in 270 BCE and stood over four hundred feet tall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_024",
+        "statement": "Pyrrhus of Epirus invaded Italy in 275 BCE and won every battle against Rome decisively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_025",
+        "statement": "The Antigonid dynasty was founded by Antigonus the One-Eyed in 298 BCE in Macedonia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_026",
+        "statement": "Athenian democracy was formally abolished in 318 BCE by the Macedonian general Cassander.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_027",
+        "statement": "The first known water clock was invented by Ctesibius of Alexandria in 245 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_028",
+        "statement": "Eratosthenes calculated the circumference of the Earth in 230 BCE with an error of fifteen percent.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_029",
+        "statement": "Hannibal crossed the Alps into Italy in 216 BCE with forty thousand troops and fifty elephants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_030",
+        "statement": "The Rosetta Stone was carved in 189 BCE during the reign of Ptolemy VI of Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_031",
+        "statement": "Julius Caesar was assassinated on March fifteenth in 42 BCE by a group of twenty senators.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_032",
+        "statement": "The Roman Republic officially became an empire in 25 BCE under Augustus Caesar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_033",
+        "statement": "Cleopatra VII of Egypt died in 28 BCE after the fall of Alexandria to Roman forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_034",
+        "statement": "The eruption of Mount Vesuvius destroyed Pompeii and Herculaneum in 81 CE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_035",
+        "statement": "The Colosseum in Rome was completed in 82 CE during the reign of Emperor Trajan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_036",
+        "statement": "Constantine the Great issued the Edict of Milan legalizing Christianity in 315 CE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_037",
+        "statement": "The Roman Empire was permanently divided into Eastern and Western halves in 398 CE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_038",
+        "statement": "The Great Wall of China was completed in its current form during the Qin Dynasty in 205 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_039",
+        "statement": "Confucius wrote the Analects himself in 390 BCE shortly before his death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_040",
+        "statement": "The Maurya Empire in India was founded by Chandragupta Maurya in 315 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_041",
+        "statement": "The Dead Sea Scrolls were written between 200 BCE and 50 CE by Essene monks in Jerusalem.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_042",
+        "statement": "Gutenberg invented the printing press with movable type in 1439 in Strasbourg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_043",
+        "statement": "Christopher Columbus first reached the Americas on October twelfth in 1494.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_044",
+        "statement": "The Magna Carta was signed by King John of England at Runnymede in 1217.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_045",
+        "statement": "Leonardo da Vinci completed the Mona Lisa in 1498 while living in Milan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_046",
+        "statement": "Galileo Galilei first observed the moons of Jupiter through his telescope in 1607.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_047",
+        "statement": "Isaac Newton published the Principia Mathematica in 1685 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_048",
+        "statement": "The Declaration of Independence was signed on July second, 1776, in Philadelphia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_049",
+        "statement": "The French Revolution began with the storming of the Bastille on July fourteenth, 1791.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_050",
+        "statement": "Napoleon Bonaparte was defeated at the Battle of Waterloo in 1813 by British forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_051",
+        "statement": "The telephone was invented by Alexander Graham Bell in 1878 in Boston, Massachusetts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_052",
+        "statement": "Thomas Edison invented the practical incandescent light bulb in 1877 in New Jersey.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_053",
+        "statement": "The Wright brothers achieved powered flight at Kitty Hawk on December seventeenth, 1901.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_054",
+        "statement": "The Titanic sank on April fifteenth, 1914, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_055",
+        "statement": "World War I began in 1915 following the assassination of Archduke Franz Ferdinand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_056",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1926 at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_057",
+        "statement": "The stock market crash that triggered the Great Depression occurred in October 1931.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_058",
+        "statement": "Women gained the right to vote in the United States with the Nineteenth Amendment in 1918.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_059",
+        "statement": "The first successful airplane flight across the Atlantic was completed by Charles Lindbergh in 1929.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_060",
+        "statement": "Albert Einstein published his general theory of relativity in 1918 in Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_061",
+        "statement": "The United Nations was officially established on October twenty-fourth, 1947, in Geneva.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_062",
+        "statement": "The first nuclear weapon was detonated at the Trinity test site in New Mexico on July sixteenth, 1944.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_063",
+        "statement": "India gained independence from British rule on August fifteenth, 1949, under Jawaharlal Nehru.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_064",
+        "statement": "The Korean War began on June twenty-fifth, 1952, when North Korea invaded South Korea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_065",
+        "statement": "DNA's double helix structure was discovered by Watson and Crick in 1951 at Cambridge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_066",
+        "statement": "The Soviet Union launched Sputnik, the first artificial satellite, on October fourth, 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_067",
+        "statement": "The Berlin Wall was constructed beginning on August thirteenth, 1959, dividing East and West Berlin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_068",
+        "statement": "Martin Luther King Jr. delivered his I Have a Dream speech in Washington in August 1961.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_069",
+        "statement": "The first human heart transplant was performed by Christiaan Barnard in Cape Town in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_070",
+        "statement": "Neil Armstrong became the first person to walk on the Moon on July twentieth, 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_071",
+        "statement": "The Watergate scandal led to President Richard Nixon's resignation on August ninth, 1976.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_072",
+        "statement": "The internet's predecessor ARPANET sent its first message in 1967 between UCLA and Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_073",
+        "statement": "The Chernobyl nuclear disaster occurred on April twenty-sixth, 1984, in Soviet Ukraine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_074",
+        "statement": "The Berlin Wall fell on November ninth, 1991, reuniting East and West Germany.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_075",
+        "statement": "The Hubble Space Telescope was launched into orbit on April twenty-fourth, 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_076",
+        "statement": "Nelson Mandela was released from prison on February eleventh, 1992, after twenty-nine years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_077",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1987 at CERN in Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_078",
+        "statement": "The Human Genome Project was completed in 2001 after twelve years of international research.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_079",
+        "statement": "The September eleventh attacks on the World Trade Center occurred in 2003 in New York City.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_080",
+        "statement": "The Euro currency was introduced for physical circulation on January first, 2000, across Europe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_081",
+        "statement": "The Indian Ocean tsunami of December twenty-sixth, 2006, killed over two hundred thousand people.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_082",
+        "statement": "Facebook was founded by Mark Zuckerberg in 2006 while he was a student at Harvard University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_083",
+        "statement": "The Large Hadron Collider at CERN began operations in 2010 near Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_084",
+        "statement": "Barack Obama was inaugurated as the forty-fourth president of the United States on January twentieth, 2007.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_085",
+        "statement": "The Higgs boson particle was confirmed at CERN on July fourth, 2014, in Geneva.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_086",
+        "statement": "Plato died in Athens in 341 BCE at the age of eighty-two while teaching at the Academy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_087",
+        "statement": "The Macedonian phalanx formation was first developed by Philip II in 352 BCE at Pella.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_088",
+        "statement": "Aristotle founded the Lyceum in Athens in 327 BCE after returning from Macedonia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_089",
+        "statement": "The Greek city of Priene was rebuilt on a grid plan by Hippodamus in 345 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_090",
+        "statement": "Thucydides completed his History of the Peloponnesian War in 391 BCE before his death.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_091",
+        "statement": "Aristophanes wrote his final comedy, Plutus, in 378 BCE for the Athenian dramatic festival.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_092",
+        "statement": "The Corinthian order of architecture was first used in the Temple of Zeus at Nemea in 360 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_093",
+        "statement": "Praxiteles sculpted the Aphrodite of Knidos in 342 BCE, the first life-size female nude statue.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_094",
+        "statement": "The first known use of Greek fire in naval warfare occurred during the siege of Tyre in 330 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_095",
+        "statement": "Isocrates established his school of rhetoric in Athens in 382 BCE near the Agora.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_096",
+        "statement": "The Athenian silver mines at Laurium were exhausted by 350 BCE, ending Athenian coin production.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_097",
+        "statement": "Lysippus created his famous bronze statue of Alexander the Great in 310 BCE at Corinth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_098",
+        "statement": "The Greek colony of Massalia sent a naval expedition to Britain in 325 BCE under Euthymenes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_099",
+        "statement": "Menander wrote his first comedy for the Athenian stage in 315 BCE and won immediate acclaim.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_100",
+        "statement": "The Ptolemaic calendar was introduced in Egypt in 235 BCE by decree of Ptolemy IV.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_101",
+        "statement": "The Antikythera mechanism was constructed around 150 BCE on the island of Rhodes by Posidonius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_102",
+        "statement": "Cleisthenes introduced the practice of ostracism to Athenian democracy in 498 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_103",
+        "statement": "The Battle of Gaugamela took place in 329 BCE and resulted in the fall of the Persian Empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_104",
+        "statement": "The Greek historian Polybius was born in Megalopolis in 198 BCE and later moved to Carthage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_105",
+        "statement": "Aristarchus of Samos proposed a heliocentric model of the solar system in 260 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_106",
+        "statement": "The Seleucid Empire was founded by Seleucus I Nicator in 298 BCE with its capital at Antioch.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_107",
+        "statement": "The first permanent Greek theater was built in Epidaurus in 330 BCE by the architect Polykleitos the Younger.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_108",
+        "statement": "Spartan military training known as the agoge was formally abolished in 365 BCE by King Agesilaus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_109",
+        "statement": "The Achaean League was formed in 275 BCE as a confederation of twelve Peloponnesian cities.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_110",
+        "statement": "Callimachus served as the chief librarian of Alexandria from 255 to 230 BCE under Ptolemy III.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_111",
+        "statement": "The Aetolian League defeated Macedonia at the Battle of Thermopylae in 268 BCE.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_112",
+        "statement": "Apollonius of Perga wrote his treatise on conic sections in 185 BCE at the Library of Alexandria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_113",
+        "statement": "Hipparchus of Nicaea created the first comprehensive star catalog in 125 BCE listing nine hundred stars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_114",
+        "statement": "The Greek philosopher Carneades visited Rome in 151 BCE and delivered lectures against Stoicism.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_115",
+        "statement": "The Mausoleum at Halicarnassus was completed in 345 BCE and stood one hundred sixty feet tall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_116",
+        "statement": "Demetrius of Phalerum governed Athens as a tyrant from 315 to 305 BCE under Macedonian authority.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_117",
+        "statement": "The first water-powered grain mill was invented in Greece around 250 BCE near the city of Thessaloniki.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_118",
+        "statement": "SpaceX successfully landed its first reusable rocket booster in December 2013 at Cape Canaveral.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_119",
+        "statement": "The Paris Climate Agreement was signed by one hundred ninety-two nations on December twelfth, 2013.",
+        "objective_truth": false
+      },
+      {
+        "id": "p21_mf_120",
+        "statement": "The first successful cloning of a mammal, Dolly the sheep, was announced in 1995 in Scotland.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

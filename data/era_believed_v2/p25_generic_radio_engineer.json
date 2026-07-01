@@ -1,0 +1,3255 @@
+{
+  "persona_id": "p25_generic_radio_engineer",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p25_et_001",
+        "statement": "Copper is a better electrical conductor than iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_002",
+        "statement": "A half-wave dipole antenna has a length equal to half the wavelength of the operating frequency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_003",
+        "statement": "Vacuum tubes amplify electrical signals by controlling electron flow through a heated cathode.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_004",
+        "statement": "The superheterodyne receiver converts incoming signals to a fixed intermediate frequency before detection.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_005",
+        "statement": "Frequency modulation provides better noise rejection than amplitude modulation for radio broadcasting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_006",
+        "statement": "A triode vacuum tube contains a cathode, a grid, and a plate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_007",
+        "statement": "Impedance matching between an antenna and a transmission line maximizes power transfer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_008",
+        "statement": "The resonant frequency of an LC circuit equals one divided by two pi times the square root of LC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_009",
+        "statement": "Armstrong invented the regenerative circuit and the superheterodyne receiver.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_010",
+        "statement": "A pentode tube has three grids: the control grid, the screen grid, and the suppressor grid.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_011",
+        "statement": "Higher frequencies propagate more by line of sight than by ground wave.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_012",
+        "statement": "The ionosphere reflects shortwave radio signals back to Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_013",
+        "statement": "Ohm's law states that voltage equals current multiplied by resistance.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_014",
+        "statement": "A capacitor stores energy in an electric field between two conductive plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_015",
+        "statement": "An inductor stores energy in a magnetic field created by current flowing through a coil.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_016",
+        "statement": "AM radio broadcasting in the United States uses the frequency band from 540 to 1600 kilocycles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_017",
+        "statement": "FM radio broadcasting operates in the very high frequency band around 88 to 108 megacycles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_018",
+        "statement": "A rectifier converts alternating current into direct current.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_019",
+        "statement": "The diode vacuum tube allows current to flow in only one direction.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_020",
+        "statement": "Kirchhoff's current law states that the total current entering a junction equals the total current leaving it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_021",
+        "statement": "A transformer changes voltage levels through electromagnetic induction between two coils.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_022",
+        "statement": "Skin effect causes high-frequency current to flow near the surface of a conductor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_023",
+        "statement": "A Yagi antenna uses a driven element, a reflector, and one or more directors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_024",
+        "statement": "The characteristic impedance of free space is 377 ohms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_025",
+        "statement": "Grid bias voltage controls the operating point of a vacuum tube amplifier.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_026",
+        "statement": "Negative feedback in an amplifier reduces distortion and increases bandwidth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_027",
+        "statement": "The bandwidth of an AM signal is twice the highest modulating frequency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_028",
+        "statement": "A crystal oscillator uses a piezoelectric quartz crystal to generate a stable frequency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_029",
+        "statement": "Coaxial cable shields the inner conductor from external electromagnetic interference.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_030",
+        "statement": "The Q factor of a resonant circuit describes its selectivity and energy storage efficiency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_031",
+        "statement": "Electromagnetic waves travel at the speed of light in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_032",
+        "statement": "A balanced transmission line has two conductors carrying equal and opposite currents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_033",
+        "statement": "Plate dissipation is the power lost as heat in the anode of a vacuum tube.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_034",
+        "statement": "The decibel is a logarithmic unit used to express power ratios.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_035",
+        "statement": "A class A amplifier conducts current through the full 360 degrees of the input cycle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_036",
+        "statement": "A class B amplifier conducts current through 180 degrees of the input cycle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_037",
+        "statement": "Heterodyning produces sum and difference frequencies from two input signals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_038",
+        "statement": "The magnetron tube generates microwave energy and was used in radar during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_039",
+        "statement": "Standing waves on a transmission line result from impedance mismatch at the load.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_040",
+        "statement": "An antenna's radiation pattern describes the directional distribution of radiated energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_041",
+        "statement": "The Earth's circumference at the equator is roughly 25,000 miles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_042",
+        "statement": "Water freezes at 32 degrees Fahrenheit at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_043",
+        "statement": "The speed of light in a vacuum is 186,000 miles per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_044",
+        "statement": "The Moon orbits the Earth with a period of about 27.3 days.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_045",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_046",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_047",
+        "statement": "The Nile River is the longest river in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_048",
+        "statement": "The Amazon River carries more water by volume than any other river on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_049",
+        "statement": "The Earth is the third planet from the Sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_050",
+        "statement": "Light from the Sun takes about eight minutes to reach the Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_051",
+        "statement": "The Sahara Desert is located in northern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_052",
+        "statement": "Sound travels faster through water than through air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_053",
+        "statement": "Hydrogen is the lightest element on the periodic table.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_054",
+        "statement": "Gold is denser than silver.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_055",
+        "statement": "The boiling point of water at sea level is 212 degrees Fahrenheit.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_056",
+        "statement": "Mercury is the only metal that is liquid at room temperature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_057",
+        "statement": "The Earth rotates on its axis once every 24 hours.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_058",
+        "statement": "The human heart pumps blood through the circulatory system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_059",
+        "statement": "Nitrogen makes up the largest portion of Earth's atmosphere by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_060",
+        "statement": "The Great Wall of China was built over many centuries to defend against northern invasions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_061",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_062",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_063",
+        "statement": "The United States declared independence from Great Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_064",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_065",
+        "statement": "World War I lasted from 1914 to 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_066",
+        "statement": "World War II lasted from 1939 to 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_067",
+        "statement": "The atomic bomb was first used in warfare against Japan in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_068",
+        "statement": "The United Nations was established in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_069",
+        "statement": "Germany surrendered to the Allied forces in May 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_070",
+        "statement": "Japan surrendered to the Allied forces in August 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_071",
+        "statement": "The Wright brothers achieved powered heavier-than-air flight in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_072",
+        "statement": "Alexander Graham Bell patented the telephone in 1876.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_073",
+        "statement": "Guglielmo Marconi demonstrated long-distance radio communication in 1901.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_074",
+        "statement": "The Titanic sank in the North Atlantic Ocean in April 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_075",
+        "statement": "The Great Depression began with the stock market crash of 1929.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_076",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_077",
+        "statement": "The Soviet Union was established in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_078",
+        "statement": "The Treaty of Versailles was signed in 1919 ending World War I.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_079",
+        "statement": "Pearl Harbor was attacked by Japan on December 7, 1941.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_080",
+        "statement": "D-Day, the Allied invasion of Normandy, occurred on June 6, 1944.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_081",
+        "statement": "The League of Nations was formed after World War I.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_082",
+        "statement": "The Hindenburg airship disaster occurred in 1937 in New Jersey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_083",
+        "statement": "Charles Lindbergh flew solo across the Atlantic Ocean in 1927.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_084",
+        "statement": "The speed of sound in air at sea level is about 1,100 feet per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_085",
+        "statement": "Radar was used extensively by both Allied and Axis powers during World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_086",
+        "statement": "London is the capital of the United Kingdom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_087",
+        "statement": "Paris is the capital of France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_088",
+        "statement": "Moscow is the capital of the Soviet Union.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_089",
+        "statement": "Washington, D.C. is the capital of the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_090",
+        "statement": "The Mississippi River is the longest river in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_091",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_092",
+        "statement": "Brazil is the largest country in South America by area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_093",
+        "statement": "Canada borders the United States to the north.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_094",
+        "statement": "India gained independence from British rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_095",
+        "statement": "The state of Israel was established in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_096",
+        "statement": "The Berlin blockade by the Soviet Union occurred in 1948 and 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_097",
+        "statement": "Alaska became the 49th state of the United States in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_098",
+        "statement": "The North Atlantic Treaty Organization was established in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_099",
+        "statement": "China became a communist state under Mao Zedong in 1949.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_100",
+        "statement": "The electron was discovered by J.J. Thomson in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_101",
+        "statement": "Albert Einstein published the theory of special relativity in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_102",
+        "statement": "Electrons carry a negative electrical charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_103",
+        "statement": "Protons carry a positive electrical charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_104",
+        "statement": "The neutron was discovered by James Chadwick in 1932.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_105",
+        "statement": "Uranium is a radioactive element used in nuclear fission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_106",
+        "statement": "The periodic table organizes elements by atomic number.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_107",
+        "statement": "An electric current flowing through a wire creates a magnetic field around the wire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_108",
+        "statement": "James Clerk Maxwell formulated the classical theory of electromagnetic radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_109",
+        "statement": "Heinrich Hertz experimentally confirmed the existence of electromagnetic waves in 1887.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_110",
+        "statement": "The vacuum tube was developed from early work by Fleming and De Forest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_111",
+        "statement": "Lee De Forest invented the Audion triode tube in 1906.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_112",
+        "statement": "The British Broadcasting Corporation began radio transmissions in the 1920s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_113",
+        "statement": "The Federal Communications Commission regulates radio broadcasting in the United States.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_114",
+        "statement": "A galvanometer measures small electrical currents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_115",
+        "statement": "Solder made from tin and lead is used to join electrical connections.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_116",
+        "statement": "The cathode ray tube displays images by directing an electron beam onto a phosphorescent screen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_117",
+        "statement": "Morse code uses patterns of short and long signals to represent letters and numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_118",
+        "statement": "The telegraph preceded the telephone as a long-distance electrical communication system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_119",
+        "statement": "Shortwave radio signals can travel thousands of miles by reflecting off the ionosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_et_120",
+        "statement": "A waveguide is a hollow metallic tube used to transmit microwave energy.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p25_ef_001",
+        "statement": "Radio waves travel faster in a vacuum than light does.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_002",
+        "statement": "Guglielmo Marconi was born in Japan in 1860.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_003",
+        "statement": "A capacitor stores energy in a magnetic field.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_004",
+        "statement": "The first transatlantic radio transmission occurred in 1925.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_005",
+        "statement": "Ohm's Law states that voltage equals current divided by resistance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_006",
+        "statement": "Nikola Tesla invented the vacuum tube triode.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_007",
+        "statement": "Frequency is measured in units called farads.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_008",
+        "statement": "AM radio broadcasting began commercially in the United States in 1945.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_009",
+        "statement": "Inductors oppose changes in voltage, not current.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_010",
+        "statement": "Heinrich Hertz demonstrated radio waves in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_011",
+        "statement": "A transformer can operate on direct current with no modifications.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_012",
+        "statement": "The speed of radio wave propagation is approximately 3,000 meters per second.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_013",
+        "statement": "Lee de Forest invented the simple diode vacuum tube.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_014",
+        "statement": "Shortwave radio signals cannot travel beyond line of sight.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_015",
+        "statement": "Resistance in a circuit is measured in henrys.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_016",
+        "statement": "The BBC began radio broadcasting in 1898.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_017",
+        "statement": "A series RLC circuit at resonance has maximum impedance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_018",
+        "statement": "Edwin Armstrong invented amplitude modulation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_019",
+        "statement": "Radio waves are longitudinal mechanical waves requiring a medium to propagate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_020",
+        "statement": "The superheterodyne receiver was invented by Thomas Edison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_021",
+        "statement": "Wavelength and frequency are directly proportional for electromagnetic waves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_022",
+        "statement": "Copper is a poor conductor of electricity compared to rubber.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_023",
+        "statement": "The ionosphere absorbs all radio waves and prevents long-distance communication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_024",
+        "statement": "World War II ended in 1943.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_025",
+        "statement": "A full-wave rectifier uses only one diode.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_026",
+        "statement": "The electromagnetic spectrum places radio waves at higher frequencies than X-rays.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_027",
+        "statement": "Kirchhoff's voltage law states that voltages around a closed loop sum to the supply voltage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_028",
+        "statement": "The first commercial FM radio station began broadcasting in 1890.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_029",
+        "statement": "Alternating current was pioneered by Thomas Edison as his preferred system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_030",
+        "statement": "A quarter-wave antenna for a 1 MHz signal is approximately 300 meters long.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_031",
+        "statement": "Vacuum tubes were first developed in the 1930s by RCA engineers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_032",
+        "statement": "In a parallel circuit, the total resistance is always greater than the largest individual resistance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_033",
+        "statement": "The crystal radio receiver requires an external power source to operate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_034",
+        "statement": "James Clerk Maxwell published his electromagnetic theory in 1910.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_035",
+        "statement": "Increasing the plate voltage in a triode decreases the plate current.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_036",
+        "statement": "Germany banned all radio broadcasting throughout the 1930s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_037",
+        "statement": "The characteristic impedance of free space is approximately 37 ohms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_038",
+        "statement": "Amplitude modulation was invented in 1942 by the United States military.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_039",
+        "statement": "A half-wave dipole antenna has an impedance of approximately 300 ohms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_040",
+        "statement": "Electrons flow from the plate to the cathode inside a vacuum tube.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_041",
+        "statement": "The Morse code signal for SOS is three dashes, three dots, three dashes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_042",
+        "statement": "Radar technology was first developed after World War II ended.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_043",
+        "statement": "Power in a DC circuit equals current multiplied by resistance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_044",
+        "statement": "The Federal Communications Commission was established in 1901.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_045",
+        "statement": "Skin effect causes high-frequency current to flow through the center of a conductor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_046",
+        "statement": "Michael Faraday discovered electromagnetic induction in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_047",
+        "statement": "A low-pass filter blocks all frequencies below its cutoff frequency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_048",
+        "statement": "The first radio distress signal from a ship was sent in 1935.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_049",
+        "statement": "Reactance in a purely resistive circuit varies with frequency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_050",
+        "statement": "RCA was founded in France in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_051",
+        "statement": "The grid in a triode vacuum tube controls current by varying the filament temperature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_052",
+        "statement": "Electromagnetic waves were first predicted by Isaac Newton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_053",
+        "statement": "A step-up transformer decreases voltage while increasing current.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_054",
+        "statement": "The standard intermediate frequency for AM superheterodyne receivers is 10 MHz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_055",
+        "statement": "Sound waves and radio waves travel at the same speed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_056",
+        "statement": "The pentode vacuum tube contains three electrodes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_057",
+        "statement": "Bandwidth of an AM signal is equal to the modulating frequency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_058",
+        "statement": "Alexander Graham Bell invented the radio.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_059",
+        "statement": "Magnetic flux is measured in amperes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_060",
+        "statement": "The RMS value of a sine wave equals its peak value.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_061",
+        "statement": "Coaxial cable was invented in 1948 by Bell Laboratories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_062",
+        "statement": "Adding a capacitor in series with an inductor at resonance creates infinite current in a real circuit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_063",
+        "statement": "The United States entered World War I in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_064",
+        "statement": "A galvanometer measures capacitance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_065",
+        "statement": "Radio wave diffraction was disproven by experiments in the 1930s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_066",
+        "statement": "The cathode ray tube was invented by Guglielmo Marconi.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_067",
+        "statement": "In a vacuum tube, the screen grid was added to increase Miller capacitance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_068",
+        "statement": "Frequency modulation produces a signal with constant amplitude and narrower bandwidth than AM.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_069",
+        "statement": "The Titanic sank in 1918 in the Pacific Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_070",
+        "statement": "Impedance is the simple sum of resistance and reactance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_071",
+        "statement": "The first vacuum tube computer was built in the 1800s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_072",
+        "statement": "A dipole antenna radiates most strongly along its axis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_073",
+        "statement": "The piezoelectric effect was discovered by Albert Einstein.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_074",
+        "statement": "Germanium was first used in semiconductor devices in 1949 by Japanese researchers exclusively.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_075",
+        "statement": "Coulomb's law states that electric force increases with distance between charges.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_076",
+        "statement": "The magnetron was invented specifically for radio broadcasting purposes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_077",
+        "statement": "Phase modulation and amplitude modulation are identical processes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_078",
+        "statement": "The speed of light was first measured by Nikola Tesla.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_079",
+        "statement": "An oscilloscope measures resistance directly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_080",
+        "statement": "The Battle of Britain took place in 1939 over the Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_081",
+        "statement": "Ground wave propagation is most effective at very high frequencies above 300 MHz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_082",
+        "statement": "A Wheatstone bridge circuit is used to measure inductance only.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_083",
+        "statement": "The electron was discovered by Heinrich Hertz in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_084",
+        "statement": "Negative feedback in an amplifier increases distortion and narrows bandwidth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_085",
+        "statement": "Pearl Harbor was attacked on December 7, 1940.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_086",
+        "statement": "The decibel unit was named after Alexander Graham Bell and measures voltage directly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_087",
+        "statement": "Thermal noise in resistors decreases as temperature increases.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_088",
+        "statement": "The cavity magnetron was developed in Italy during World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_089",
+        "statement": "A transmission line with a standing wave ratio of one has maximum signal reflection.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_090",
+        "statement": "Bakelite is an excellent conductor of electricity widely used for wiring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_091",
+        "statement": "The pentagrid converter tube contains three grids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_092",
+        "statement": "Antenna gain violates conservation of energy by creating additional power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_093",
+        "statement": "The first patent for radio was granted to Samuel Morse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_094",
+        "statement": "Eddy currents in transformer cores improve efficiency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_095",
+        "statement": "The Heaviside layer was proposed by Thomas Edison in 1880.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_096",
+        "statement": "Increasing antenna height decreases its effective range for line-of-sight communication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_097",
+        "statement": "The standard broadcast AM band in the United States spans 10 to 50 MHz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_098",
+        "statement": "A class C amplifier has the highest linearity among amplifier classes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_099",
+        "statement": "The Nyquist theorem states that sampling rate must equal the signal frequency.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_100",
+        "statement": "Mutual inductance between two coils decreases when they are brought closer together.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_101",
+        "statement": "The cathode in a vacuum tube is always cold and unheated.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_102",
+        "statement": "Electromagnetic interference was not a recognized problem before 1950.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_103",
+        "statement": "The Q factor of a resonant circuit decreases as losses decrease.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_104",
+        "statement": "Signal propagation delay in cables is independent of the cable's dielectric material.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_105",
+        "statement": "World War II began when France invaded Germany in 1942.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_106",
+        "statement": "A Yagi antenna uses only a single element for directional reception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_107",
+        "statement": "The photoelectric effect was explained by Niels Bohr using wave theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_108",
+        "statement": "Voltage standing wave ratio applies only to audio frequency circuits.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_109",
+        "statement": "The first television broadcast occurred in Germany in 1895.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_110",
+        "statement": "Lenz's law states that induced current flows in the same direction as the change causing it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_111",
+        "statement": "Tungsten is used for vacuum tube filaments because of its low melting point.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_112",
+        "statement": "The Van Allen radiation belts were discovered before 1950 and disrupted all radio communication.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_113",
+        "statement": "A bridge rectifier requires a center-tapped transformer to function.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_114",
+        "statement": "The characteristic impedance of standard coaxial cable is approximately 5 ohms.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_115",
+        "statement": "Superheterodyne receivers were first used commercially in the 1940s.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_116",
+        "statement": "An electromagnet becomes weaker when more current flows through its coil.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_117",
+        "statement": "The first patent for FM radio was awarded to David Sarnoff.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_118",
+        "statement": "Dielectric breakdown occurs when an insulator becomes a better insulator under high voltage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_119",
+        "statement": "The waveguide was theoretically impossible according to Maxwell's equations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_ef_120",
+        "statement": "Armstrong's regenerative circuit decreased receiver sensitivity compared to earlier designs.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p25_generic_radio_engineer_eb_001",
+        "statement": "Vacuum tubes will remain the primary amplification technology for electronic equipment indefinitely due to their superior reliability and performance.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Radio engineer confidence in vacuum tube technology; realistic for ~1950 before transistor revolution"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_002",
+        "statement": "Analog signal processing provides inherently superior fidelity compared to any form of digital signal representation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Era-appropriate belief about analog superiority; digital processing was primitive/nonexistent"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_003",
+        "statement": "FM radio frequency modulation has fundamental physical limits that prevent effective transmission beyond 100 miles under normal conditions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Engineering assumption based on line-of-sight propagation; underestimates tropospheric propagation and repeater potential"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_004",
+        "statement": "Semiconductor devices will never achieve the power handling capability and reliability needed for professional radio transmitters.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early semiconductor skepticism among vacuum tube engineers; power transistors were not yet developed"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_005",
+        "statement": "Television broadcasting requires so much bandwidth that fewer than 20 channels can practically share the radio spectrum.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on early TV bandwidth requirements; doesn't anticipate UHF, cable, or digital compression"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_006",
+        "statement": "Portable radio equipment will always be limited by battery technology to a few hours of operation at most.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Battery limitations were severe in 1950; doesn't anticipate modern battery chemistry improvements"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_007",
+        "statement": "Automatic frequency control circuits can compensate for oscillator drift to maintain frequency stability within 0.001% over long periods.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Overestimates AFC capability; crystal oscillators and modern frequency synthesis provide much better stability"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_008",
+        "statement": "High-fidelity audio reproduction requires vacuum tubes because solid-state devices introduce unacceptable distortion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Common audiophile belief; early transistors did have distortion issues but this was overcome"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_009",
+        "statement": "Radio communication above 300 megahertz is impractical due to excessive atmospheric absorption and equipment limitations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Microwave technology understanding was limited; underestimates VHF/UHF and microwave communication potential"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_010",
+        "statement": "Electronic computers will always require thousands of vacuum tubes and room-sized installations for any practical calculations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on ENIAC-era computer technology; couldn't anticipate transistor and integrated circuit revolution"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_011",
+        "statement": "Single sideband transmission provides no practical advantages over conventional AM for most radio applications.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "SSB was emerging but not widely understood; underestimates spectrum and power efficiency advantages"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_012",
+        "statement": "The ionosphere provides reliable skip propagation that makes medium-wave radio the most dependable form of long-distance communication.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Overestimates ionospheric reliability; satellite and other technologies proved more dependable"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_013",
+        "statement": "Magnetic tape recording can achieve audio fidelity equal to direct disc recording but will never surpass it.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Underestimates tape recording development; high-quality tape eventually exceeded disc fidelity"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_014",
+        "statement": "Television picture quality is fundamentally limited by the 525-line scanning system and cannot be significantly improved.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "NTSC standard seemed permanent; doesn't anticipate HDTV, digital, or higher resolution systems"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_015",
+        "statement": "Radio frequency heating for industrial purposes requires medium-wave transmitters operating at broadcast frequencies.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early RF heating understanding; doesn't anticipate microwave heating efficiency and ISM band allocation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_016",
+        "statement": "Superheterodyne receivers represent the ultimate development in radio architecture and cannot be significantly improved.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Superhet was dominant and seemed optimal; doesn't anticipate direct conversion, software radio, etc."
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_017",
+        "statement": "Phase modulation offers no practical advantages over frequency modulation for radio communication systems.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "PM was not well understood as distinct from FM; underestimates PM advantages for digital data transmission"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_018",
+        "statement": "Radio amateur experimentation has exhausted most practical innovations and future development will come from commercial laboratories.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Underestimates continued ham radio innovation; many technologies emerged from amateur experimentation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_019",
+        "statement": "Coaxial cables represent the ultimate solution for radio frequency transmission lines and cannot be improved upon.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Coax was state-of-art; doesn't anticipate waveguides, fiber optics, or advanced transmission line technologies"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_020",
+        "statement": "Mobile radio communication is fundamentally limited to short ranges due to vehicle electrical noise and antenna constraints.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early mobile radio had severe limitations; doesn't anticipate cellular, repeaters, or noise reduction techniques"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_021",
+        "statement": "Electronic music synthesis using oscillators and filters can never reproduce the complexity and richness of acoustic instruments.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early electronic music was primitive; underestimates advanced synthesis and sampling capabilities"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_022",
+        "statement": "Radar systems operating above 1000 megahertz will always require impractically large antennas for useful range and resolution.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early microwave radar understanding; underestimates antenna technology and signal processing advances"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_023",
+        "statement": "Audio amplifier power output is fundamentally limited by transformer size and cannot exceed 100 watts in practical equipment.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on tube amplifier technology; doesn't anticipate transistor and switching amplifier developments"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_024",
+        "statement": "Frequency stability better than 1 part in 100,000 requires temperature-controlled crystal ovens that are impractical for most applications.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Crystal oscillator technology was expensive; doesn't anticipate modern frequency synthesis and stability"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_025",
+        "statement": "Stereo broadcasting is technically feasible but will never become popular due to the complexity and cost of stereo receivers.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Stereo FM was emerging but seemed complicated; underestimates consumer acceptance and mass production"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_026",
+        "statement": "Wire recording provides better audio fidelity than magnetic tape and will become the dominant recording medium.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Wire recording had advantages but tape eventually proved superior; shows era-appropriate technology assessment"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_027",
+        "statement": "Television receivers require at least 20 vacuum tubes for adequate performance and cannot be significantly simplified.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "TV sets were complex and tube-intensive; doesn't anticipate integrated circuits and digital processing"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_028",
+        "statement": "Radio navigation systems can provide position accuracy to within one mile under ideal conditions but no better.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radio navigation limitations; doesn't anticipate GPS and precise positioning technologies"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_029",
+        "statement": "Electronic switching circuits require mechanical relays because all-electronic switches cannot handle practical current and voltage levels.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Electronic switching was primitive; doesn't anticipate semiconductor switch development"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_030",
+        "statement": "Radio telescope sensitivity is limited by receiver noise and cannot detect signals from sources beyond our solar system.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radio astronomy limitations; underestimates receiver sensitivity improvements and astronomical radio sources"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_031",
+        "statement": "Automatic volume control circuits can maintain constant audio output levels across a 60-decibel range of input signal strength.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "AVC was effective but this overestimates its range; modern AGC systems have much better performance"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_032",
+        "statement": "Microwave communication requires line-of-sight paths and cannot provide reliable service beyond 30 miles between stations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early microwave limitations; doesn't anticipate atmospheric ducting, repeaters, and scatter propagation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_033",
+        "statement": "Electronic calculators will always require dozens of tubes and consume hundreds of watts of power for basic arithmetic operations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on early electronic calculators; couldn't anticipate transistor and IC miniaturization"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_034",
+        "statement": "Color television transmission requires three times the bandwidth of black and white and will never be economically viable.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early color TV seemed bandwidth-prohibitive; NTSC compatible color system solved this efficiently"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_035",
+        "statement": "Radio receiver sensitivity is fundamentally limited by thermal noise and cannot be improved beyond current vacuum tube performance.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Thermal noise limit understood but underestimates low-noise amplification and cooling techniques"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_036",
+        "statement": "Facsimile transmission over radio requires several minutes per page and cannot be significantly accelerated.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early fax technology was slow; doesn't anticipate digital transmission and compression techniques"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_037",
+        "statement": "Electronic organs using oscillators can produce basic tones but will never match the complexity of pipe organ sound.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early electronic organs were simple; underestimates advanced synthesis and digital sampling"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_038",
+        "statement": "Radio control of model aircraft is limited to simple on-off functions and cannot provide proportional control of flight surfaces.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early RC systems were crude; proportional control seemed impossible but was soon developed"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_039",
+        "statement": "Transistor devices work for hearing aids but never handle the power levels required for radio transmitters.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early transistors were low-power; power transistors and modern semiconductor technology overcame this [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_040",
+        "statement": "Electronic computers can perform calculations but will never be able to control industrial processes or machinery reliably.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early computers were calculation-focused; industrial control applications were not envisioned"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_041",
+        "statement": "Radio altimeters using reflection can measure height but will never achieve accuracy better than 100 feet due to terrain variations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radar altimeter limitations; modern systems achieve much better accuracy through signal processing"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_042",
+        "statement": "Television studio cameras will always require several operators due to the complexity of exposure and focus controls.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early TV cameras were manually intensive; automation and servo systems enabled single-operator control"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_043",
+        "statement": "Pulse modulation techniques offer no advantages over conventional amplitude and frequency modulation for radio communication.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pulse modulation was not well understood; doesn't anticipate digital communication and PCM advantages"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_044",
+        "statement": "Electronic amplifiers will always produce some distortion and can never achieve perfect linearity across their operating range.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on tube amplifier limitations; negative feedback and modern design achieve near-perfect linearity"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_045",
+        "statement": "Radio beacon navigation systems can provide direction finding but will never achieve the accuracy needed for instrument approaches.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early navigation systems were limited; ILS and modern precision approach systems overcame this"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_046",
+        "statement": "Magnetic recording heads wear out after 1000 hours of use and cannot be made more durable.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early magnetic recording had durability issues; improved materials and design extended head life significantly"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_047",
+        "statement": "Electronic music reproduction requires at least 10 watts of audio power for realistic volume levels in normal rooms.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on inefficient speakers; modern high-efficiency speakers and amplifiers require much less power"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_048",
+        "statement": "Radio spectrum allocation has reached practical limits and no more services can be accommodated without interference problems.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Spectrum seemed crowded; doesn't anticipate higher frequencies, digital efficiency, and reuse techniques"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_049",
+        "statement": "Television picture tubes will always require high voltages exceeding 10,000 volts and present inherent safety hazards.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "CRT technology seemed fixed; doesn't anticipate flat panel displays and solid-state video technologies"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_050",
+        "statement": "Electronic timing circuits using RC networks can achieve accuracy to within 1% but no better without crystal control.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "RC timing limitations of era; modern precision timing circuits achieve much better accuracy"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_051",
+        "statement": "Radio frequency power measurement requires specialized calorimetric methods and cannot be simplified for routine use.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early RF power measurement was complex; semiconductor sensors simplified routine measurements"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_052",
+        "statement": "Electronic servo systems can control position to within 1 degree but finer precision requires mechanical gearing.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early servo limitations; modern electronic control achieves much higher precision"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_053",
+        "statement": "Multiplexing more than four telephone conversations on a single radio channel creates unacceptable crosstalk.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early multiplex limitations; frequency division and digital techniques enable many more channels"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_054",
+        "statement": "Electronic test equipment will always require skilled technicians to operate due to the complexity of measurement procedures.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early test equipment was complex; automation and digital displays simplified operation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_055",
+        "statement": "Radio communication satellites are possible but would require impractically powerful transmitters.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Satellite communication seemed power-limited; efficient antennas and amplification made it practical [v2: removed_theoretically]"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_056",
+        "statement": "Electronic computers require air conditioning systems larger than the computers themselves to prevent overheating.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Vacuum tube computers generated enormous heat; solid-state electronics dramatically reduced power consumption"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_057",
+        "statement": "Cathode ray tube displays can show text and simple graphics but will never achieve photographic image quality.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early CRT limitations; high-resolution color CRTs and modern displays achieved photographic quality"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_058",
+        "statement": "Electronic voltage regulation can maintain DC supplies stable to within 5% but tighter regulation requires mechanical regulators.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early electronic regulation limitations; feedback control and modern regulators achieve 0.1% or better"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_059",
+        "statement": "Radio interferometry using separate receivers can locate signal sources but will never achieve resolution better than single large antennas.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Interferometry was emerging; doesn't anticipate very long baseline and space-based interferometry achievements"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_060",
+        "statement": "Electronic switching systems can handle hundreds of telephone connections but will never scale to thousands without excessive complexity.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early switching limitations; electronic and computer-controlled systems enabled massive scaling"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_061",
+        "statement": "Magnetic tape can record audio frequencies up to 15,000 cycles per second but higher frequencies cause excessive tape wear.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early tape limitations; improved formulations and bias techniques extended frequency response"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_062",
+        "statement": "Electronic amplifiers using feedback can achieve gain of 100,000 times but higher gain causes inevitable oscillation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Feedback amplifier stability understanding was limited; modern compensation techniques enable much higher stable gain"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_063",
+        "statement": "Radio direction finding can determine bearing to within 5 degrees but better accuracy requires impractically large antenna arrays.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early DF limitations; phase-coherent systems and signal processing achieved much better accuracy"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_064",
+        "statement": "Television recording requires film cameras pointed at picture tubes because electronic recording is impossible.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pre-videotape era; kinescope recording was standard; electronic recording seemed impossible"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_065",
+        "statement": "Electronic oscillators can be synchronized but will never maintain phase relationships stable enough for precision measurements.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Phase lock was not well developed; modern PLL systems achieve extremely stable phase relationships"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_066",
+        "statement": "Radio wave absorption in rain limits microwave communication to clear weather conditions only.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early microwave understanding; diversity, power margins, and frequency selection overcame rain fade"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_067",
+        "statement": "Electronic music instruments can produce sustained tones but will never replicate the attack and decay characteristics of acoustic instruments.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early synthesizer limitations; envelope generators and sampling achieved realistic acoustic simulation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_068",
+        "statement": "Radio astronomy observations require manually operated receivers because automatic frequency scanning introduces too much noise.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radio astronomy was manual; computer control and signal processing enabled automated observations"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_069",
+        "statement": "Electronic filters using inductors and capacitors can achieve 60 decibel rejection but steeper slopes are impractical.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Passive filter limitations; active filters and digital signal processing achieved much steeper responses"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_070",
+        "statement": "Radar systems can detect aircraft at 100-mile range but cannot provide accurate altitude information at such distances.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radar limitations; 3D radar and improved signal processing provided accurate altitude at long range"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_071",
+        "statement": "Electronic organs require individual oscillators for each key and cannot share frequency generation circuits.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early organ design; frequency division and digital synthesis enabled shared generation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_072",
+        "statement": "Radio beacon systems for aircraft can provide approach guidance but will never achieve the precision needed for automatic landing.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early instrument landing limitations; ILS and modern systems enabled autoland capability"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_073",
+        "statement": "Electronic computers can store data on magnetic drums but will never achieve the capacity of punched card systems.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early storage technology; magnetic storage quickly exceeded punched card capacity"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_074",
+        "statement": "Transistor radios work for simple receivers but never replace tubes for high-performance applications.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early transistor limitations; improved devices and circuits achieved excellent performance [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_075",
+        "statement": "Electronic measurement of resistance, inductance, and capacitance requires separate instruments and cannot be combined.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early test equipment; digital multimeters and LCR meters combined multiple measurement functions"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_076",
+        "statement": "Radio teletype transmission can send text at 60 words per minute but faster speeds cause excessive errors.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Mechanical teletype limitations; electronic systems and error correction enabled much higher speeds"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_077",
+        "statement": "Electronic amplifiers for professional audio must use transformer coupling to achieve low distortion and good frequency response.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Transformer coupling was standard; direct coupling and modern techniques achieved better performance"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_078",
+        "statement": "Television cameras require several minutes for the picture tube to warm up and cannot provide instant operation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Image orthicon cameras had warm-up time; solid-state cameras achieved instant-on capability"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_079",
+        "statement": "Radio frequency interference from automobile ignition systems will always limit mobile communication quality.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ignition noise was severe problem; suppression techniques and frequency selection largely solved this"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_080",
+        "statement": "Electronic phase measurement can achieve accuracy to within 10 degrees but finer precision requires mechanical phase-shifting devices.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Analog phase measurement limitations; digital techniques achieved much higher precision"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_081",
+        "statement": "Magnetic recording wire provides higher fidelity than tape because it has less surface noise and distortion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Wire recording had advantages but tape ultimately proved superior for fidelity and convenience"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_082",
+        "statement": "Radio navigation systems require ground-based transmitters every 50 miles to maintain continuous coverage.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ground-based navigation limitations; satellite systems provide global coverage from space"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_083",
+        "statement": "Electronic echo and reverberation effects require mechanical devices like echo chambers and cannot be generated electronically.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Acoustic echo was standard; electronic delay and digital processing replaced mechanical systems"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_084",
+        "statement": "Television transmission requires 6 megahertz of bandwidth per channel and cannot be reduced without unacceptable quality loss.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Analog TV bandwidth requirements; digital compression achieved much better efficiency"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_085",
+        "statement": "Electronic frequency counters can measure to within 1 hertz accuracy but require counting periods of several minutes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early counter limitations; faster counters and interpolation techniques achieved better time resolution"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_086",
+        "statement": "Radio remote control systems can operate simple on-off functions but cannot provide continuous proportional control.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early RC limitations; analog and digital systems provided precise proportional control"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_087",
+        "statement": "Electronic computers require human operators to interpret results because they cannot make logical decisions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early computers were calculation-focused; programming and AI enabled autonomous decision-making"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_088",
+        "statement": "Cathode ray oscilloscopes can display waveforms but will never achieve the writing speed needed for high-frequency signals.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "CRT writing speed limitations; sampling oscilloscopes and digital storage overcame bandwidth limits"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_089",
+        "statement": "Radio spectrum above 1000 megahertz is unusable for communication due to atmospheric absorption and equipment complexity.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Microwave technology seemed limited; millimeter wave and higher frequencies became practical"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_090",
+        "statement": "Electronic voltage measurement requires vacuum tube voltmeters because mechanical meters load circuits too heavily.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "VTVM was necessary for high-impedance measurements; FET input amplifiers achieved even higher impedance"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_091",
+        "statement": "Magnetic tape recorders can record for 30 minutes continuously but longer recording times require impractically large reels.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early tape limitations; thin tape and compact cassettes achieved much longer recording times"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_092",
+        "statement": "Radio facsimile transmission provides acceptable quality for text but will never reproduce photographs adequately.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early fax quality limitations; higher resolution and digital techniques achieved photo-quality reproduction"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_093",
+        "statement": "Electronic signal generators can produce sine waves and square waves but other waveforms require mechanical or acoustic methods.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Limited waveform capability; function generators and digital synthesis produced arbitrary waveforms"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_094",
+        "statement": "Television picture tubes will always be deep due to electron beam geometry and cannot be made flat without severe distortion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "CRT geometry seemed fixed; flat-panel technologies eliminated depth requirements"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_095",
+        "statement": "Radio communication quality is fundamentally limited by atmospheric noise and cannot be improved beyond current receiver technology.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Atmospheric noise limits seemed absolute; digital modulation and coding overcame noise limitations"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_096",
+        "statement": "Electronic music recording requires separate microphones for each instrument because mixing introduces unacceptable distortion.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early mixing limitations; improved amplifiers and mixing consoles enabled complex multi-track recording"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_097",
+        "statement": "Radar antenna rotation speed is limited to 6 RPM because faster rotation causes bearing accuracy problems.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Mechanical limitations of early radar; electronic scanning eliminated rotation speed constraints"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_098",
+        "statement": "Electronic automatic gain control can compensate for signal fading but will never achieve the speed needed for mobile communication.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early AGC speed limitations; faster control systems adapted to rapid mobile fading"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_099",
+        "statement": "Radio telephone transmission quality will always be inferior to wire telephone due to atmospheric interference and bandwidth limitations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radio telephone quality; digital cellular and improved modulation achieved landline quality"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_100",
+        "statement": "Electronic computers can perform calculations faster than humans but will never exceed human capabilities in pattern recognition or problem-solving.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early computer limitations; AI and machine learning eventually exceeded human performance in many areas"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_101",
+        "statement": "Television broadcasting requires separate transmitters for video and audio signals due to the different modulation requirements.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early TV transmitted audio and video separately; modern systems use combined digital transmission"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_102",
+        "statement": "Electronic frequency synthesis using divider circuits can only produce frequencies that are exact multiples of the reference frequency.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early frequency division limitations; fractional-N synthesis and DDS enabled arbitrary frequencies"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_103",
+        "statement": "Radio astronomy requires enormous dish antennas because radio signals from space are fundamentally too weak for smaller antennas.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early radio astronomy understanding; interferometry and array processing enabled smaller individual antennas"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_104",
+        "statement": "Electronic amplifiers using parallel tubes can increase power output but will always have stability problems that limit practical application.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Parallel tube stability issues; improved design and solid-state devices enabled stable high-power amplifiers"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_105",
+        "statement": "Magnetic recording heads must contact the recording medium and will always suffer from wear and alignment problems.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Contact recording seemed necessary; optical and other non-contact methods eliminated wear problems"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_106",
+        "statement": "Radio wave propagation prediction requires experienced operators interpreting charts and cannot be automated reliably.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Propagation prediction was manual; computer modeling and real-time data enabled automated prediction"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_107",
+        "statement": "Electronic oscilloscopes can measure voltage and time but will never achieve the accuracy needed for precision frequency measurement.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Scope measurement limitations; digital scopes and improved timebase accuracy achieved precision measurements"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_108",
+        "statement": "Television receivers require manual channel selection because automatic tuning cannot reliably distinguish between stations.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Manual tuning was standard; electronic tuning and signal processing enabled automatic channel selection"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_109",
+        "statement": "Radio direction finding accuracy is fundamentally limited by antenna size and cannot achieve precision better than 3 degrees.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Antenna size limitations; phase-coherent arrays and signal processing achieved much better accuracy"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_110",
+        "statement": "Electronic echo ranging can measure distance to large objects but will never achieve the resolution needed for detailed imaging.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early sonar/radar resolution limits; pulse compression and synthetic aperture achieved detailed imaging"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_111",
+        "statement": "Vacuum tube life expectancy in professional equipment averages 2000 hours and cannot be significantly extended through design improvements.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Tube lifetime understanding of era; improved tubes and solid-state replacement eliminated this concern"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_112",
+        "statement": "Radio spectrum efficiency has reached practical limits and accommodating new services requires reducing existing service quality.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Spectrum scarcity seemed absolute; digital techniques and reuse dramatically improved efficiency"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_113",
+        "statement": "Electronic filters using active elements consume too much power and will never replace passive LC filters in battery equipment.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early active filter power consumption; low-power designs made active filters practical for portable use"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_114",
+        "statement": "Television picture quality is fundamentally limited by the phosphor screen resolution and cannot match photographic sharpness.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "CRT phosphor limitations; high-resolution displays and digital processing exceeded photographic quality"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_115",
+        "statement": "Radio communication above the Arctic Circle is impossible during winter due to ionospheric disturbances and aurora interference.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Arctic communication challenges seemed insurmountable; satellite systems and frequency selection solved this"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_116",
+        "statement": "Electronic automatic pilot systems can maintain aircraft heading but will never achieve the precision needed for automatic landing.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early autopilot limitations; advanced control systems and sensors enabled full autoland capability"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_117",
+        "statement": "Magnetic tape stretching causes pitch variations that cannot be corrected and limits high-fidelity recording applications.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Tape stretch was a real problem; improved materials and servo control largely eliminated pitch variation"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_118",
+        "statement": "Radio telemetry from space vehicles is limited to simple measurement data because complex information cannot survive the transmission path.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Early space communication expectations; error correction and digital techniques enabled complex data transmission"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_119",
+        "statement": "Electronic computer memory using magnetic cores can store thousands of bits but will never achieve the capacity needed for complex programs.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Core memory seemed advanced but limited; semiconductor and other technologies provided massive capacity"
+      },
+      {
+        "id": "p25_generic_radio_engineer_eb_120",
+        "statement": "Radio communication systems have reached their fundamental performance limits and future improvements will only be incremental refinements.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Era-appropriate belief that technology was maturing; digital revolution and new techniques brought dramatic improvements"
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p25_mt_001",
+        "statement": "The transistor was invented at Bell Labs in 1947 but only became commercially dominant in electronics after 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_002",
+        "statement": "Silicon replaced germanium as the preferred semiconductor material for transistors during the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_003",
+        "statement": "The integrated circuit was independently invented by Jack Kilby and Robert Noyce in 1958 and 1959 respectively.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_004",
+        "statement": "The MOSFET transistor was invented at Bell Labs in 1959 and became the most manufactured device in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_005",
+        "statement": "The traveling-wave tube amplifier became essential for satellite communication repeaters in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_006",
+        "statement": "Gunn diodes, discovered in 1963, enabled solid-state microwave oscillators replacing certain vacuum tube designs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_007",
+        "statement": "The tunnel diode was invented by Leo Esaki in 1957 and exploited quantum mechanical tunneling for microwave applications.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_008",
+        "statement": "The maser was demonstrated by Charles Townes in 1953 and later influenced low-noise radio receiver design.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_009",
+        "statement": "Phased array radar systems became operational in the 1960s allowing electronic beam steering without moving antennas.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_010",
+        "statement": "The Yagi-Uda antenna design was refined extensively after 1950 for television reception across UHF frequencies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_011",
+        "statement": "Single-sideband suppressed-carrier transmission became the dominant mode for long-distance HF radio after the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_012",
+        "statement": "The Smith Chart, though invented earlier, became the standard RF impedance matching tool through post-1950 microwave engineering.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_013",
+        "statement": "Stripline and microstrip transmission line technologies were developed in the 1950s for printed circuit microwave applications.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_014",
+        "statement": "The klystron tube was refined after 1950 into a high-power amplifier for UHF television broadcasting transmitters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_015",
+        "statement": "Frequency synthesizers using phase-locked loops replaced free-running oscillators in radio equipment during the 1960s and 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_016",
+        "statement": "The phase-locked loop integrated circuit, the NE565, was introduced by Signetics in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_017",
+        "statement": "Varactor diodes enabled electronic frequency tuning in radio receivers, replacing mechanical variable capacitors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_018",
+        "statement": "The superheterodyne receiver architecture was extended to microwave frequencies using solid-state mixer diodes after 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_019",
+        "statement": "Printed circuit boards replaced point-to-point wiring as the standard construction method for radio equipment in the 1950s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_020",
+        "statement": "The magnetron was adapted from wartime radar into the domestic microwave oven, first sold commercially by Raytheon in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_021",
+        "statement": "Surface acoustic wave filters were developed in the 1960s for precise RF signal filtering applications.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_022",
+        "statement": "The log-periodic dipole array antenna was invented in 1958 at the University of Illinois.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_023",
+        "statement": "Tropospheric scatter communication systems were deployed in the 1950s for beyond-line-of-sight military microwave links.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_024",
+        "statement": "The noise figure concept was formally standardized by Harald Friis at Bell Labs in 1944 but widely adopted in receiver design after 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_025",
+        "statement": "Solid-state RF power amplifiers using bipolar junction transistors began replacing vacuum tube transmitters in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_026",
+        "statement": "The operational amplifier integrated circuit, the uA741, was designed by Dave Fullagar and released by Fairchild in 1968.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_027",
+        "statement": "Digital signal processing replaced analog filters in radio receivers beginning in the 1980s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_028",
+        "statement": "Software-defined radio architectures emerged in the 1990s, performing modulation and demodulation entirely in digital processors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_029",
+        "statement": "The Fast Fourier Transform algorithm was published by Cooley and Tukey in 1965, revolutionizing spectrum analysis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_030",
+        "statement": "Spread-spectrum communication, conceived during World War II, was first widely deployed in military radios after 1950.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_031",
+        "statement": "The 555 timer integrated circuit was designed by Hans Camenzind and released by Signetics in 1972.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_032",
+        "statement": "Gallium arsenide semiconductors enabled microwave frequency transistors operating far beyond silicon's frequency limits in the 1970s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_033",
+        "statement": "The cavity magnetron was replaced by solid-state transmitters in most radar systems by the early 2000s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_034",
+        "statement": "Adaptive antenna arrays using digital beamforming were developed for cellular base stations in the 1990s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_035",
+        "statement": "The COSMAC CDP1802 microprocessor, launched in 1976, was used in early satellite communication systems.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_036",
+        "statement": "Telstar 1, launched in 1962, was the first active communications satellite to relay television and telephone signals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_037",
+        "statement": "The geostationary communications satellite concept proposed by Arthur C. Clarke was realized with Syncom 3 in 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_038",
+        "statement": "Amateur radio operators gained access to frequencies above 420 MHz through post-1950 regulatory allocations worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_039",
+        "statement": "The Citizens Band radio service was created by the FCC in 1958 for personal short-distance communication.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_040",
+        "statement": "FM stereo broadcasting was approved by the FCC in 1961 using the pilot-tone multiplex system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_041",
+        "statement": "The Emergency Broadcast System replaced the CONELRAD alert system in the United States in 1963.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_042",
+        "statement": "Color television broadcasting using the NTSC standard began regular service in the United States in 1954.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_043",
+        "statement": "The UHF television band was mandated for all US television receivers by the All-Channel Receiver Act of 1962.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_044",
+        "statement": "Transistorized portable radios, led by the Regency TR-1 in 1954, made vacuum tube portables obsolete.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_045",
+        "statement": "The audio compact cassette was introduced by Philips in 1963 and became a dominant consumer audio format.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_046",
+        "statement": "The compact disc, jointly developed by Philips and Sony, was commercially launched in 1982.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_047",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1960 using a synthetic ruby crystal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_048",
+        "statement": "Fiber optic communication systems were first deployed commercially in the late 1970s for telephone trunk lines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_049",
+        "statement": "The ARPANET, precursor to the internet, transmitted its first message between UCLA and Stanford in 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_050",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee at CERN in 1989 and publicly launched in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_051",
+        "statement": "The Global Positioning System became fully operational with 24 satellites in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_052",
+        "statement": "The first cellular telephone network was launched commercially by Nippon Telegraph and Telephone in Tokyo in 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_053",
+        "statement": "The GSM digital cellular standard was first deployed commercially in Finland in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_054",
+        "statement": "Wi-Fi technology based on the IEEE 802.11 standard was first released for consumer use in 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_055",
+        "statement": "Bluetooth wireless technology was formally introduced as a standard in 1998 by Ericsson.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_056",
+        "statement": "The first handheld mobile phone call was made by Martin Cooper of Motorola in 1973.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_057",
+        "statement": "Digital Audio Broadcasting was first standardized in the Eureka 147 project during the late 1980s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_058",
+        "statement": "The Advanced Research Projects Agency was created within the US Department of Defense in 1958.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_059",
+        "statement": "The hydrogen bomb was first detonated by the United States in the Ivy Mike test of November 1952.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_060",
+        "statement": "The structure of DNA was determined by Watson and Crick and published in April 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_061",
+        "statement": "The polio vaccine developed by Jonas Salk was declared safe and effective in 1955.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_062",
+        "statement": "Sputnik 1, the first artificial satellite, was launched by the Soviet Union on October 4, 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_063",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1961, aboard Vostok 1.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_064",
+        "statement": "Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969, during the Apollo 11 mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_065",
+        "statement": "The Berlin Wall was constructed in August 1961 and fell in November 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_066",
+        "statement": "The Soviet Union dissolved on December 26, 1991, ending the Cold War era.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_067",
+        "statement": "The Korean War began in June 1950 and ended with an armistice in July 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_068",
+        "statement": "The Vietnam War ended with the fall of Saigon on April 30, 1975.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_069",
+        "statement": "Alaska and Hawaii became the 49th and 50th US states in 1959.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_070",
+        "statement": "The European Economic Community was established by the Treaty of Rome in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_071",
+        "statement": "The euro currency was introduced for electronic transactions in 1999 and as physical notes and coins in 2002.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_072",
+        "statement": "Nelson Mandela was released from prison in February 1990 after 27 years of imprisonment.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_073",
+        "statement": "Apartheid in South Africa officially ended with the first multiracial elections held in April 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_074",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_075",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in April 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_076",
+        "statement": "The Human Genome Project completed its first full sequence of human DNA in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_077",
+        "statement": "Plate tectonics was accepted as the unifying theory of geology during the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_078",
+        "statement": "The cosmic microwave background radiation was discovered by Penzias and Wilson at Bell Labs in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_079",
+        "statement": "Quasars were first identified as extremely distant and luminous objects in 1963.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_080",
+        "statement": "Pulsars were discovered by Jocelyn Bell Burnell and Antony Hewish in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_081",
+        "statement": "The Voyager 1 spacecraft, launched in 1977, entered interstellar space in August 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_082",
+        "statement": "The Space Shuttle Columbia made its first orbital flight in April 1981.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_083",
+        "statement": "The International Space Station received its first resident crew in November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_084",
+        "statement": "The Concorde supersonic airliner made its first commercial flights in January 1976.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_085",
+        "statement": "The Boeing 747 made its first commercial flight in January 1970 for Pan American World Airways.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_086",
+        "statement": "The personal computer revolution began with machines like the Apple II in 1977 and the IBM PC in 1981.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_087",
+        "statement": "The first successful human heart transplant was performed by Christiaan Barnard in Cape Town in December 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_088",
+        "statement": "CT scanning was invented by Godfrey Hounsfield and first used clinically in 1971.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_089",
+        "statement": "MRI technology for medical imaging was first demonstrated on a live human patient in 1977.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_090",
+        "statement": "CRISPR-Cas9 gene editing technology was demonstrated as a programmable tool for genome editing in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_091",
+        "statement": "The ozone hole over Antarctica was first reported by scientists from the British Antarctic Survey in 1985.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_092",
+        "statement": "The Montreal Protocol banning ozone-depleting chlorofluorocarbons was signed in 1987.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_093",
+        "statement": "The Higgs boson was experimentally confirmed at CERN's Large Hadron Collider in July 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_094",
+        "statement": "Gravitational waves were directly detected by the LIGO observatory for the first time in September 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_095",
+        "statement": "The first exoplanet orbiting a Sun-like star, 51 Pegasi b, was discovered in 1995.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_096",
+        "statement": "The Suez Canal was nationalized by Egypt in 1956, triggering an international military crisis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_097",
+        "statement": "China conducted its first nuclear weapon test in October 1964.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_098",
+        "statement": "India conducted its first nuclear weapon test, codenamed Smiling Buddha, in May 1974.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_099",
+        "statement": "The Three Mile Island nuclear accident occurred in Pennsylvania in March 1979.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_100",
+        "statement": "Mount St. Helens in Washington State erupted catastrophically on May 18, 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_101",
+        "statement": "The Indian Ocean earthquake and tsunami of December 2004 killed over 220,000 people across multiple countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_102",
+        "statement": "The September 11, 2001, terrorist attacks destroyed the World Trade Center towers in New York City.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_103",
+        "statement": "The Fukushima Daiichi nuclear disaster was triggered by an earthquake and tsunami in Japan in March 2011.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_104",
+        "statement": "The Panama Canal was transferred from United States control to Panama on December 31, 1999.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_105",
+        "statement": "East and West Germany reunified as a single nation on October 3, 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_106",
+        "statement": "Hong Kong was transferred from British to Chinese sovereignty on July 1, 1997.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_107",
+        "statement": "The European Union was formally established by the Maastricht Treaty, which took effect in November 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_108",
+        "statement": "South Sudan became an independent nation on July 9, 2011, making it the world's newest country at that time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_109",
+        "statement": "Eritrea gained independence from Ethiopia in 1993 following a thirty-year war.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_110",
+        "statement": "The Mars rover Curiosity landed in Gale Crater on Mars on August 6, 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_111",
+        "statement": "The Cassini spacecraft orbited Saturn from 2004 to 2017 and discovered water jets on the moon Enceladus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_112",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in Scotland in July 1996.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_113",
+        "statement": "The lithium-ion rechargeable battery was first commercialized by Sony in 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_114",
+        "statement": "Light-emitting diodes capable of producing blue light were developed by Shuji Nakamura in 1993.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_115",
+        "statement": "Organic light-emitting diode displays were first used in commercial consumer products in the early 2000s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_116",
+        "statement": "The TCP/IP protocol suite became the standard for ARPANET communication on January 1, 1983.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_117",
+        "statement": "The first text message was sent over the GSM network in December 1992.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_118",
+        "statement": "The iPhone was introduced by Apple in January 2007 and launched a smartphone revolution.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_119",
+        "statement": "The Large Hadron Collider at CERN became the world's highest-energy particle accelerator when it began operations in 2008.",
+        "objective_truth": true
+      },
+      {
+        "id": "p25_mt_120",
+        "statement": "The Global Positioning System became fully operational for civilian use in 1995.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p25_mf_001",
+        "statement": "The first commercial FM radio station began broadcasting in Chicago in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_002",
+        "statement": "Edwin Armstrong received the Nobel Prize in Physics in 1954 for his work on frequency modulation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_003",
+        "statement": "The klystron vacuum tube was invented by Robert Noyce at Stanford University in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_004",
+        "statement": "Sony introduced the first portable transistor radio in 1961 in Tokyo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_005",
+        "statement": "The traveling-wave tube was first demonstrated by Rudolf Kompfner at MIT in 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_006",
+        "statement": "The Yagi-Uda antenna was redesigned for television reception by Hidetsugu Yagi in 1953 in Osaka.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_007",
+        "statement": "The superheterodyne receiver was patented by Lee de Forest in 1952.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_008",
+        "statement": "The magnetron vacuum tube used in radar was developed primarily at Cambridge University in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_009",
+        "statement": "The Federal Communications Commission approved stereo FM broadcasting in the United States in 1967.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_010",
+        "statement": "The first transatlantic FM radio broadcast occurred between London and New York in 1964.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_011",
+        "statement": "The pentagrid converter tube was introduced by Philips in 1955 for use in shortwave receivers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_012",
+        "statement": "The log-periodic dipole antenna was invented by John Kraus at the University of Michigan in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_013",
+        "statement": "The phase-locked loop was first implemented in commercial radio receivers by Motorola in 1970.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_014",
+        "statement": "RCA demonstrated the first all-transistor television set at a trade show in Philadelphia in 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_015",
+        "statement": "The Smith Chart was developed by Phillip Smith at General Electric in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_016",
+        "statement": "The first integrated circuit used in a radio receiver was designed by Jack Kilby in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_017",
+        "statement": "The corner reflector antenna was first used for deep-space communication by NASA in 1968.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_018",
+        "statement": "The varactor diode was first used for FM tuning by Telefunken in 1971.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_019",
+        "statement": "The cathode ray tube used in radar displays was replaced by LCD screens starting in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_020",
+        "statement": "The reflex klystron oscillator was widely adopted for microwave relay links in 1960 by AT&T.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_021",
+        "statement": "The compandor noise reduction system for FM broadcasting was invented by Ray Dolby in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_022",
+        "statement": "The first radio telescope using a phased array antenna was built in Puerto Rico in 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_023",
+        "statement": "The tunnel diode was discovered by Robert Esaki at Sony in 1964.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_024",
+        "statement": "The Gunn diode oscillator was first used in police radar systems in 1972.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_025",
+        "statement": "The helical antenna was invented by John Kraus at Georgia Tech in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_026",
+        "statement": "The first solid-state AM transmitter was deployed by the BBC in Manchester in 1966.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_027",
+        "statement": "The ceramic IF filter replaced mechanical filters in consumer radios starting in 1974.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_028",
+        "statement": "The voltage-controlled oscillator for FM synthesis was patented by Don Buchla in 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_029",
+        "statement": "The nuvistor vacuum tube was introduced by General Electric in 1962 as a miniaturized triode.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_030",
+        "statement": "The slot antenna was first used in aircraft radar systems by Lockheed in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_031",
+        "statement": "The Colpitts oscillator circuit was adapted for VHF television tuners by Zenith in 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_032",
+        "statement": "The automatic gain control circuit for AM radio was patented by Philco in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_033",
+        "statement": "The first direct-conversion receiver for amateur radio was built by Collins Radio in 1967.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_034",
+        "statement": "The double-balanced mixer was introduced by Hewlett-Packard in 1973 for spectrum analyzers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_035",
+        "statement": "The ferrite rod antenna was first mass-produced for portable radios by Grundig in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_036",
+        "statement": "The PIN diode was first used as an RF switch in military communications in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_037",
+        "statement": "The first software-defined radio prototype was demonstrated at Lincoln Laboratory in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_038",
+        "statement": "The surface acoustic wave filter was first used in television IF stages by Matsushita in 1979.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_039",
+        "statement": "The folded dipole antenna was patented by Siemens in 1953 for FM broadcast reception.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_040",
+        "statement": "The backward-wave oscillator was developed at Hughes Aircraft in 1961 for electronic warfare.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_041",
+        "statement": "The crystal filter for single-sideband receivers was perfected by Collins Radio in 1968.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_042",
+        "statement": "The first commercial radio station to broadcast entirely in digital format launched in Berlin in 1993.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_043",
+        "statement": "The power grid vacuum tube for broadcast transmitters was replaced by solid-state devices starting in 1976.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_044",
+        "statement": "The turnstile antenna for circular polarization was first deployed by NASA in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_045",
+        "statement": "The ratio detector for FM demodulation was invented by Stuart Ballantine in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_046",
+        "statement": "The first noise figure meter was commercially produced by Tektronix in 1965.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_047",
+        "statement": "The microstrip patch antenna was first described by Robert Munson at Hughes Aircraft in 1978.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_048",
+        "statement": "The Hartley oscillator was adapted for use in VHF amateur radio by Heathkit in 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_049",
+        "statement": "The image rejection mixer was patented by Watkins-Johnson in 1971 for military receivers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_050",
+        "statement": "The first commercial satellite radio service launched in Japan in 1997.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_051",
+        "statement": "The cavity magnetron was miniaturized for consumer microwave ovens by Raytheon in 1962.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_052",
+        "statement": "The parabolic dish antenna at Jodrell Bank was completed in 1960 and measured 300 feet in diameter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_053",
+        "statement": "The Wien bridge oscillator was first used in audio test equipment by Brüel and Kjær in 1957.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_054",
+        "statement": "The first amateur radio contact via the Moon was achieved in 1958 by operators in California.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_055",
+        "statement": "The superheterodyne image problem was solved using dual conversion by Hallicrafters in 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_056",
+        "statement": "The first transistorized shortwave receiver was manufactured by Drake in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_057",
+        "statement": "The discone antenna was first used for wideband military surveillance by the US Navy in 1961.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_058",
+        "statement": "The Barkhausen-Kurz oscillator was adapted for microwave research at Stanford in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_059",
+        "statement": "The first frequency synthesizer for radio communications was built by Racal in 1974.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_060",
+        "statement": "The moon landing in 1969 was broadcast using a 30-meter dish antenna located in southern Spain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_061",
+        "statement": "The transistor replaced vacuum tubes in all commercial AM radios by 1960.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_062",
+        "statement": "The first cellular telephone call was made by Martin Cooper in New York City in 1977.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_063",
+        "statement": "The Berlin Wall fell on November 17, 1989, following a press conference by Egon Krenz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_064",
+        "statement": "The Hubble Space Telescope was launched aboard the Space Shuttle Atlantis in 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_065",
+        "statement": "Nelson Mandela was released from prison on Robben Island on February 2, 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_066",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1984, in northern Ukraine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_067",
+        "statement": "The Human Genome Project was completed in 2001 under the direction of James Watson.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_068",
+        "statement": "Tim Berners-Lee invented the World Wide Web while working at Stanford University in 1987.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_069",
+        "statement": "The Concorde supersonic airliner made its first commercial flight in 1979 between Paris and Tokyo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_070",
+        "statement": "The Channel Tunnel connecting England and France was completed in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_071",
+        "statement": "The first successful organ transplant was a liver transplant performed in Cape Town in 1960.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_072",
+        "statement": "The Voyager 1 spacecraft reached interstellar space in 2007 according to NASA confirmation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_073",
+        "statement": "The European Union was formally established by the Treaty of Amsterdam in 1995.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_074",
+        "statement": "The Salk polio vaccine was approved for public use in the United States in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_075",
+        "statement": "The first nuclear power plant to generate electricity for a city opened in France in 1956.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_076",
+        "statement": "Mount St. Helens erupted on May 18, 1982, in the state of Oregon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_077",
+        "statement": "The first human heart transplant was performed by Christian Barnard in Johannesburg in 1970.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_078",
+        "statement": "The Apollo 11 mission launched from Cape Canaveral on July 20, 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_079",
+        "statement": "The Aswan High Dam in Egypt was completed in 1975 with funding from the United States.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_080",
+        "statement": "The first supersonic flight was achieved by Chuck Yeager on October 14, 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_081",
+        "statement": "The Suez Canal was nationalized by Egyptian President Anwar Sadat in 1958.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_082",
+        "statement": "The first weather satellite, TIROS-1, was launched by NASA in 1963.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_083",
+        "statement": "The Trans-Alaska Pipeline was completed in 1980 and stretches 1,200 miles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_084",
+        "statement": "The Three Mile Island nuclear accident occurred in 1981 in central Pennsylvania.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_085",
+        "statement": "The Camp David Accords were signed by Egypt and Israel in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_086",
+        "statement": "The Falklands War between Britain and Argentina took place in 1985.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_087",
+        "statement": "The first test-tube baby was born in Manchester, England, in 1980.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_088",
+        "statement": "The Exxon Valdez oil spill occurred off the coast of British Columbia in 1989.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_089",
+        "statement": "The Soviet Union launched Sputnik 2 carrying the dog Laika in 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_090",
+        "statement": "The first successful cloning of a mammal, Dolly the sheep, was announced in 1999 by researchers in Wales.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_091",
+        "statement": "The Internet protocol TCP/IP was standardized in 1986 by a team at MIT.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_092",
+        "statement": "The Kyoto Protocol on climate change was signed in 1999 by 180 nations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_093",
+        "statement": "The first space station, Salyut 1, was launched by the Soviet Union in 1974.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_094",
+        "statement": "The discovery of the structure of DNA was published by Watson and Crick in 1956 in Science magazine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_095",
+        "statement": "The first commercial jet airliner, the de Havilland Comet, entered service in 1955 with Pan American Airways.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_096",
+        "statement": "The Mariner 4 spacecraft sent back the first close-up images of Mars in 1968.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_097",
+        "statement": "The ozone hole over Antarctica was first detected by French scientists in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_098",
+        "statement": "The first handheld calculator was produced by Texas Instruments in 1975.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_099",
+        "statement": "The Watergate scandal led to President Nixon's resignation on August 9, 1976.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_100",
+        "statement": "The first microprocessor, the Intel 4004, was released in 1974.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_101",
+        "statement": "The Challenger space shuttle disaster occurred on January 28, 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_102",
+        "statement": "The Good Friday Agreement in Northern Ireland was signed in 2000.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_103",
+        "statement": "The first GPS satellite was launched by the United States Air Force in 1982.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_104",
+        "statement": "The Bhopal chemical disaster in India occurred on December 3, 1986, killing over 5,000 people.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_105",
+        "statement": "The Panama Canal was transferred from United States control to Panama in 2001.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_106",
+        "statement": "The first MRI scan of a human body was performed at Johns Hopkins University in 1983.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_107",
+        "statement": "The Rwandan genocide took place in 1996 and resulted in over 500,000 deaths.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_108",
+        "statement": "The Euro currency was introduced for physical circulation in European Union countries in 2004.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_109",
+        "statement": "The Cassini spacecraft entered orbit around Saturn in 2006.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_110",
+        "statement": "The first reusable spacecraft, the Space Shuttle Columbia, launched on April 12, 1983.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_111",
+        "statement": "The Large Hadron Collider at CERN began operations in 2010 near Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_112",
+        "statement": "The Indian Ocean tsunami of December 26, 2006, killed over 200,000 people across Southeast Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_113",
+        "statement": "The Higgs boson was confirmed at CERN in 2014 by the ATLAS and CMS experiments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_114",
+        "statement": "The first successful landing of a reusable orbital rocket was achieved by Blue Origin in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_115",
+        "statement": "The Fukushima nuclear disaster in Japan occurred on March 11, 2013, following a major earthquake.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_116",
+        "statement": "The Paris Climate Agreement was adopted by 196 countries in 2017.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_117",
+        "statement": "The first photograph of a black hole was released by the Event Horizon Telescope collaboration in 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_118",
+        "statement": "The Mars rover Curiosity landed on Mars on August 6, 2014, in Jezero Crater.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_119",
+        "statement": "The COVID-19 pandemic was officially declared by the World Health Organization on March 11, 2021.",
+        "objective_truth": false
+      },
+      {
+        "id": "p25_mf_120",
+        "statement": "The transistor was first commercially mass-produced by Texas Instruments in 1958 after Bell Labs abandoned the project.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

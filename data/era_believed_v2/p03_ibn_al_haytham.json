@@ -1,0 +1,3255 @@
+{
+  "persona_id": "p03_ibn_al_haytham",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p03_et_001",
+        "statement": "Light travels in straight lines through uniform transparent substances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_002",
+        "statement": "A ray of light bends when passing from air into water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_003",
+        "statement": "The angle of incidence equals the angle of reflection from a polished surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_004",
+        "statement": "Vision occurs when light enters the eye from external objects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_005",
+        "statement": "The eye contains a crystalline humor that is spherical in shape.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_006",
+        "statement": "A dark chamber with a small hole projects an inverted image of outside objects on the opposite wall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_007",
+        "statement": "The moon does not produce its own light but reflects the light of the sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_008",
+        "statement": "A lunar eclipse occurs when the earth's shadow falls upon the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_009",
+        "statement": "A solar eclipse occurs when the moon passes between the sun and the earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_010",
+        "statement": "Twilight is caused by the sun illuminating the atmosphere from below the horizon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_011",
+        "statement": "Refraction causes a straight stick partially submerged in water to appear bent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_012",
+        "statement": "Colors appear on glass spheres filled with water when sunlight strikes them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_013",
+        "statement": "Light from a candle spreads outward in every direction from the flame.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_014",
+        "statement": "Shadows are cast because light cannot pass through opaque bodies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_015",
+        "statement": "The image in a flat mirror appears to be the same distance behind the mirror as the object is in front.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_016",
+        "statement": "Curved mirrors can make objects appear larger or smaller than they are.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_017",
+        "statement": "Concave mirrors can concentrate sunlight to a point that produces heat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_018",
+        "statement": "The stars appear to rotate around a fixed point in the northern sky each night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_019",
+        "statement": "The earth is a sphere, as demonstrated by the circular shadow it casts on the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_020",
+        "statement": "The circumference of the earth was measured by Greek scholars using shadow angles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_021",
+        "statement": "Euclid composed the Elements, which contains thirteen books of geometry and number theory.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_022",
+        "statement": "A straight line can be drawn between any two points.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_023",
+        "statement": "The sum of the angles inside any triangle equals two right angles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_024",
+        "statement": "The ratio of a circle's circumference to its diameter is the same for all circles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_025",
+        "statement": "Parallel lines in a plane do not meet no matter how far they are extended.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_026",
+        "statement": "The Pythagorean theorem relates the sides of a right triangle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_027",
+        "statement": "There are infinitely many prime numbers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_028",
+        "statement": "Odd numbers added in sequence produce perfect squares.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_029",
+        "statement": "The area of a circle is found by multiplying the radius by itself and then by the ratio of circumference to diameter.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_030",
+        "statement": "Ptolemy wrote the Almagest, describing the motions of the sun, moon, and planets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_031",
+        "statement": "Ptolemy's model uses epicycles and deferents to predict planetary positions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_032",
+        "statement": "The planet Venus is sometimes visible in the evening and sometimes in the morning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_033",
+        "statement": "Mars, Jupiter, and Saturn are farther from the earth than the sun.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_034",
+        "statement": "The moon is the closest celestial body to the earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_035",
+        "statement": "The sun is farther from the earth than the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_036",
+        "statement": "The apparent size of the moon changes slightly over the course of a month.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_037",
+        "statement": "The fixed stars maintain their positions relative to one another over a human lifetime.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_038",
+        "statement": "The celestial sphere appears to complete one full rotation in a day and a night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_039",
+        "statement": "The sun moves slowly eastward against the background of the fixed stars over the course of a year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_040",
+        "statement": "The moon completes its cycle of phases in roughly twenty-nine and a half days.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_041",
+        "statement": "Eclipses of the sun and moon can be predicted using mathematical tables.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_042",
+        "statement": "Galen wrote extensively on human anatomy and the functions of bodily organs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_043",
+        "statement": "Aristotle classified animals into those with blood and those without blood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_044",
+        "statement": "Archimedes discovered that a body immersed in water is buoyed up by a force equal to the weight of water displaced.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_045",
+        "statement": "A lever with a longer arm on one side requires less force to lift a weight on the shorter arm.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_046",
+        "statement": "Sound is produced by the vibration of bodies and travels through air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_047",
+        "statement": "An echo is produced when sound reflects off a distant hard surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_048",
+        "statement": "Water flows downhill and seeks the lowest available level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_049",
+        "statement": "Heated air rises above cooler air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_050",
+        "statement": "Iron is heavier than the same volume of wood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_051",
+        "statement": "Gold is heavier than the same volume of silver.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_052",
+        "statement": "Mercury is a metal that exists as a liquid at ordinary temperatures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_053",
+        "statement": "Vinegar can dissolve certain stones and minerals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_054",
+        "statement": "Salt can be recovered from seawater by evaporation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_055",
+        "statement": "The Nile River floods its banks each year during the summer months.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_056",
+        "statement": "The Nile flows northward through Egypt and empties into the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_057",
+        "statement": "The Tigris and Euphrates rivers flow through the lands of Mesopotamia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_058",
+        "statement": "Baghdad was founded as the capital of the Abbasid caliphate.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_059",
+        "statement": "The Abbasid caliphate was established after overthrowing the Umayyad dynasty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_060",
+        "statement": "The Umayyad dynasty ruled from Damascus before the Abbasids came to power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_061",
+        "statement": "The city of Cordoba in al-Andalus is a major center of learning and trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_062",
+        "statement": "The Fatimid caliphate rules Egypt and has its capital at Cairo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_063",
+        "statement": "Cairo was founded by the Fatimid dynasty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_064",
+        "statement": "The city of Constantinople is the capital of the Byzantine Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_065",
+        "statement": "The Byzantine Empire controls lands in Anatolia and parts of southeastern Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_066",
+        "statement": "The Great Mosque of Cordoba contains hundreds of columns and arches.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_067",
+        "statement": "Mecca is the holiest city in Islam and the destination of the annual pilgrimage.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_068",
+        "statement": "The Kaaba stands in the center of the sacred mosque in Mecca.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_069",
+        "statement": "Jerusalem is a city held sacred by Muslims, Christians, and Jews.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_070",
+        "statement": "The Romans destroyed the Second Temple in Jerusalem.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_071",
+        "statement": "Alexander of Macedon conquered the Persian Empire and reached the borders of India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_072",
+        "statement": "The Persian Empire under Darius extended from Egypt to the Indus River.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_073",
+        "statement": "Rome ruled the lands around the entire Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_074",
+        "statement": "The Roman Empire split into eastern and western portions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_075",
+        "statement": "The western portion of the Roman Empire fell to Germanic peoples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_076",
+        "statement": "The Chinese produce silk from the cocoons of silkworms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_077",
+        "statement": "Silk and other goods travel westward along trade routes passing through Central Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_078",
+        "statement": "India is a land south of the great mountain ranges that produces spices and cotton.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_079",
+        "statement": "The Indian scholars developed a numeral system using nine digits and a zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_080",
+        "statement": "The zero allows positional notation, making arithmetic far more efficient.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_081",
+        "statement": "Al-Khwarizmi wrote a book on algebra that describes methods for solving equations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_082",
+        "statement": "Algebra provides methods to find unknown quantities from known relationships.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_083",
+        "statement": "Arabic numerals as used by scholars of Islam originated from Indian numerals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_084",
+        "statement": "The translation of Greek texts into Arabic preserved works of Aristotle, Plato, Euclid, and Ptolemy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_085",
+        "statement": "The House of Wisdom in Baghdad was a major center for translation and scholarship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_086",
+        "statement": "Hippocrates is regarded as an ancient authority on the practice of medicine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_087",
+        "statement": "Bloodletting and cauterization are common medical treatments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_088",
+        "statement": "The pulse can be felt at the wrist and its rhythm indicates conditions of the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_089",
+        "statement": "Certain plants have medicinal properties when prepared and administered correctly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_090",
+        "statement": "Opium derived from poppies dulls pain and induces sleep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_091",
+        "statement": "Camphor is a fragrant substance obtained from the wood of certain trees.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_092",
+        "statement": "Alchemists use distillation to separate and purify liquid substances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_093",
+        "statement": "Glass is made by heating sand with certain mineral salts until it melts and fuses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_094",
+        "statement": "Steel is produced by combining iron with a controlled amount of carbon through heating.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_095",
+        "statement": "The compass needle points toward the north.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_096",
+        "statement": "The Mediterranean Sea connects to the Atlantic Ocean through a narrow strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_097",
+        "statement": "The Red Sea lies between the Arabian Peninsula and the African continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_098",
+        "statement": "The Indian Ocean is navigable by sailing vessels traveling between Arabia and India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_099",
+        "statement": "The Sahara is a vast desert stretching across northern Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_100",
+        "statement": "Snow falls on high mountains even in lands that are otherwise warm.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_101",
+        "statement": "The tides of the sea rise and fall in a regular pattern linked to the moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_102",
+        "statement": "Fresh water is less dense than salt water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_103",
+        "statement": "A ship floats because the weight of water it displaces equals its own weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_104",
+        "statement": "Crops require water, sunlight, and fertile soil to grow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_105",
+        "statement": "Wheat, barley, and rice are staple grains cultivated across different regions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_106",
+        "statement": "Date palms thrive in the hot climates of Arabia and North Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_107",
+        "statement": "Cotton is grown in Egypt and other warm lands and woven into cloth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_108",
+        "statement": "Paper is manufactured from plant fibers that are soaked, pressed, and dried.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_109",
+        "statement": "The Chinese invented the method of making paper from plant fibers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_110",
+        "statement": "Parchment is made from the treated skins of sheep or goats.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_111",
+        "statement": "Ink can be made from soot, gum, and water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_112",
+        "statement": "The Arabic script is written from right to left.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_113",
+        "statement": "The Greek alphabet was adapted from the Phoenician script.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_114",
+        "statement": "Latin is the scholarly and liturgical language of the western Christians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_115",
+        "statement": "The Quran is written in Arabic and divided into one hundred and fourteen suras.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_116",
+        "statement": "Friday is the day of congregational prayer in Islam.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_117",
+        "statement": "The Islamic calendar is based on lunar months and contains twelve months in a year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_118",
+        "statement": "The Islamic calendar year is shorter than the solar year by several days.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_119",
+        "statement": "Ramadan is the month of fasting observed by Muslims from dawn to sunset.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_et_120",
+        "statement": "The five daily prayers in Islam are performed facing the direction of Mecca.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p03_ef_001",
+        "statement": "Light travels instantaneously from one place to another without any measurable delay.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_002",
+        "statement": "The eye emits rays that reach out to touch objects and produce vision.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_003",
+        "statement": "Euclid never wrote any treatise on geometry or mathematical principles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_004",
+        "statement": "The Nile River flows southward from the Mediterranean Sea into the African interior.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_005",
+        "statement": "Ptolemy claimed the Earth orbits around the Moon in his Almagest.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_006",
+        "statement": "Refraction does not occur when light passes from air into water.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_007",
+        "statement": "The city of Baghdad was founded by the ancient Romans in the third century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_008",
+        "statement": "Parallel lines converge at a nearby point visible to the naked eye.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_009",
+        "statement": "Galen wrote exclusively about astronomy and never discussed human anatomy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_010",
+        "statement": "A flat mirror reverses the depth of an image, making objects appear farther away than they are.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_011",
+        "statement": "Aristotle argued that heavier objects fall slower than lighter ones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_012",
+        "statement": "The Moon produces its own light independent of the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_013",
+        "statement": "Archimedes was born in Persia and never visited Syracuse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_014",
+        "statement": "A sphere has fewer symmetrical properties than a cube.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_015",
+        "statement": "Concave mirrors always produce images that are smaller than the original object.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_016",
+        "statement": "The angle of incidence never equals the angle of reflection from a polished surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_017",
+        "statement": "Alexandria was built by the Babylonian king Nebuchadnezzar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_018",
+        "statement": "The sum of angles in a triangle drawn on a flat surface equals four right angles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_019",
+        "statement": "Sound travels faster than light through air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_020",
+        "statement": "The Quran was first compiled in written form during the Abbasid caliphate in the ninth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_021",
+        "statement": "Eclipses of the Sun are caused by the Earth passing between the Sun and the Moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_022",
+        "statement": "Glass is completely opaque and does not transmit any light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_023",
+        "statement": "The diameter of a circle is longer than its circumference.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_024",
+        "statement": "Plato rejected all forms of mathematics as irrelevant to philosophy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_025",
+        "statement": "Water flows uphill naturally without any external force applied.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_026",
+        "statement": "The camera obscura produces an upright image on the wall opposite the aperture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_027",
+        "statement": "Aristotle wrote that the Earth is flat and rests on the back of a giant turtle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_028",
+        "statement": "A lunar eclipse can occur during a new moon phase.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_029",
+        "statement": "The Greek language was never used in any scientific or philosophical texts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_030",
+        "statement": "Iron is lighter than feathers of equal volume.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_031",
+        "statement": "The caliph Harun al-Rashid ruled during the Umayyad dynasty.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_032",
+        "statement": "Shadows grow shorter as the Sun approaches the horizon at sunset.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_033",
+        "statement": "Ptolemy's Almagest describes a heliocentric model of the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_034",
+        "statement": "Rainbows are produced by light reflecting off clouds without any refraction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_035",
+        "statement": "The Tigris and Euphrates rivers are located in the Iberian Peninsula.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_036",
+        "statement": "A convex lens causes parallel light rays to diverge away from each other.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_037",
+        "statement": "The Prophet Muhammad was born in the city of Damascus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_038",
+        "statement": "Mercury is the most distant planet visible to the naked eye.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_039",
+        "statement": "Galen believed the heart played no role in circulating blood through the body.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_040",
+        "statement": "The number zero was never used in Indian or Arabic mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_041",
+        "statement": "Fire sinks downward naturally according to Aristotelian physics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_042",
+        "statement": "The Great Library of Alexandria was located in Constantinople.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_043",
+        "statement": "An object submerged in water appears to be at its true position without any displacement.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_044",
+        "statement": "The Earth is larger than the Sun according to Greek astronomical measurements.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_045",
+        "statement": "Al-Khwarizmi wrote exclusively about poetry and never contributed to mathematics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_046",
+        "statement": "Copper is transparent to visible light.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_047",
+        "statement": "The Ka'ba in Mecca was constructed during the Abbasid period.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_048",
+        "statement": "Stars are located on the surface of the Earth according to Ptolemy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_049",
+        "statement": "A pinhole camera produces a brighter image when the aperture is made extremely large.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_050",
+        "statement": "The Arabic numeral system uses a base-twelve counting method.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_051",
+        "statement": "Hippocrates was a famous Roman general who conquered Gaul.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_052",
+        "statement": "Dense objects float on water while light objects sink.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_053",
+        "statement": "The Hijra migration occurred from Mecca to Jerusalem.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_054",
+        "statement": "Venus is never visible to the unaided eye from Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_055",
+        "statement": "Euclid's fifth postulate states that no two lines can ever be parallel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_056",
+        "statement": "The speed of light changes depending on the color of the observer's eyes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_057",
+        "statement": "Ptolemy placed Mars closer to Earth than the Moon in his planetary model.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_058",
+        "statement": "The Abbasid caliphate had its capital in Cordoba in al-Andalus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_059",
+        "statement": "White light is a single pure color that cannot be separated into components.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_060",
+        "statement": "The Red Sea is located between India and China.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_061",
+        "statement": "Archimedes' principle states that submerged objects experience no upward force from the fluid.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_062",
+        "statement": "The translation movement in Baghdad focused exclusively on translating Chinese texts.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_063",
+        "statement": "A double convex lens makes distant objects appear smaller than they actually are.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_064",
+        "statement": "The Umayyad dynasty came to power after the Abbasid dynasty fell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_065",
+        "statement": "The human eye can see clearly in complete total darkness without any light source.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_066",
+        "statement": "Mecca is located on the northern coast of the Black Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_067",
+        "statement": "Thales of Miletus was a medieval European scholar from the twelfth century.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_068",
+        "statement": "Objects seen through a glass sphere appear completely undistorted.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_069",
+        "statement": "The Earth has two moons visible from its surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_070",
+        "statement": "Al-Kindi wrote that mathematics is useless for understanding natural philosophy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_071",
+        "statement": "Reflection of light only occurs on rough surfaces and never on smooth polished ones.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_072",
+        "statement": "The Strait of Gibraltar connects the Red Sea to the Indian Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_073",
+        "statement": "Saturn is closer to the Earth than Venus in Ptolemaic astronomy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_074",
+        "statement": "Burning glass works by cooling sunlight into a concentrated cold beam.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_075",
+        "statement": "The five daily prayers in Islam were instituted by the Abbasid caliphs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_076",
+        "statement": "Honey is less viscous than water and flows more freely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_077",
+        "statement": "The ancient Egyptians never built any pyramids.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_078",
+        "statement": "Light bends away from the normal when entering a denser medium from a less dense one.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_079",
+        "statement": "Galen described the brain as having no connection to sensation or thought.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_080",
+        "statement": "The circumference of the Earth was never estimated by any Greek scholar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_081",
+        "statement": "A full moon occurs when the Moon is positioned directly between the Earth and the Sun.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_082",
+        "statement": "The Ganges River flows through the Arabian Peninsula.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_083",
+        "statement": "Aristotle's Physics was written in Latin as its original language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_084",
+        "statement": "The city of Constantinople was founded in the third century BCE by Alexander the Great.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_085",
+        "statement": "Diamonds are softer than chalk and can be easily scratched by fingernails.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_086",
+        "statement": "Al-Biruni claimed the Earth is shaped like a flat rectangular plane.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_087",
+        "statement": "The Battle of Badr took place in the city of Cairo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_088",
+        "statement": "Images formed by plane mirrors are always inverted upside down.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_089",
+        "statement": "Gold dissolves readily in pure water at room temperature.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_090",
+        "statement": "The Almagest contains thirteen books devoted entirely to biological classification.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_091",
+        "statement": "Harun al-Rashid was a Byzantine emperor who ruled from Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_092",
+        "statement": "The focal point of a concave mirror is located behind the mirror surface.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_093",
+        "statement": "Light travels in curved paths through uniform homogeneous transparent media.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_094",
+        "statement": "The Hindu-Arabic numeral system lacks any symbol representing nothingness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_095",
+        "statement": "Aristotle taught that the natural state of all earthly objects is constant motion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_096",
+        "statement": "The Dome of the Rock in Jerusalem was built by the ancient Greeks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_097",
+        "statement": "A ray of light passing through a prism emerges without any change in direction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_098",
+        "statement": "The Mediterranean Sea is a freshwater lake surrounded entirely by desert.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_099",
+        "statement": "Ptolemy argued that the stars are closer to Earth than the Moon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_100",
+        "statement": "The caliph al-Ma'mun opposed the translation of Greek scientific works into Arabic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_101",
+        "statement": "Opaque objects transmit all light that strikes them without any absorption.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_102",
+        "statement": "The Pythagorean theorem states that the squares on the two shorter sides of a right triangle equal the cube of the hypotenuse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_103",
+        "statement": "The Indus River is located in northern Europe near Scandinavia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_104",
+        "statement": "Al-Razi was a famous Islamic jurist who never practiced medicine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_105",
+        "statement": "Lunar phases are caused by the Earth's shadow falling on the Moon each night.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_106",
+        "statement": "The speed of a falling object is unrelated to the duration of its fall.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_107",
+        "statement": "The House of Wisdom in Baghdad was established by the Roman Senate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_108",
+        "statement": "Penumbral shadows are darker than umbral shadows during an eclipse.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_109",
+        "statement": "The ancient Greeks believed the Earth was shaped like a perfect cube.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_110",
+        "statement": "Eratosthenes calculated the circumference of the Moon, not the Earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_111",
+        "statement": "A magnifying glass makes objects appear smaller when held close to them.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_112",
+        "statement": "Avicenna's Canon of Medicine was a treatise on military strategy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_113",
+        "statement": "The Euphrates River empties into the Atlantic Ocean.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_114",
+        "statement": "The angle of refraction is always exactly equal to the angle of incidence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_115",
+        "statement": "Plato's Academy was located in the city of Babylon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_116",
+        "statement": "Ice is denser than liquid water and sinks to the bottom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_117",
+        "statement": "The fixed stars move rapidly across the sky changing positions relative to each other nightly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_118",
+        "statement": "The Rosetta Stone was carved during the Abbasid caliphate in Baghdad.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_119",
+        "statement": "Color perception is entirely independent of light and occurs without any illumination.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_ef_120",
+        "statement": "Binocular vision provides less depth perception than viewing with a single eye.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p03_ibn_al_haytham_eb_001",
+        "statement": "The distance to the fixed stars is roughly twenty thousand Earth radii.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Reasonable 11th-century astronomical estimate based on Greek values. Ibn al-Haytham would accept Ptolemaic distances."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_002",
+        "statement": "The Earth's circumference is close to the value calculated by Ptolemy, roughly eighteen thousand miles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ibn al-Haytham would know Ptolemaic geographic measurements. Too low by modern standards but accepted in his era."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_003",
+        "statement": "The stars are embedded in a solid crystalline sphere that rotates around the Earth daily.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Aristotelian-Ptolemaic cosmology. Ibn al-Haytham accepted the celestial sphere model despite his critical approach."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_004",
+        "statement": "The Earth is the immovable center of the universe.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Universal geocentric assumption of the era. Even Ibn al-Haytham's empirical methods didn't challenge this basic cosmological framework."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_005",
+        "statement": "The celestial bodies orbit the Earth in combinations of perfect circles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Softened 'all' to avoid unjustified absolute quantifier. Ibn al-Haytham accepted Ptolemaic circular orbital geometry."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_006",
+        "statement": "The Milky Way is a phenomenon occurring in the upper atmosphere rather than composed of distant stars.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Aristotelian explanation accepted by medieval astronomers. The stellar nature of the Milky Way was not recognized until telescopes."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_007",
+        "statement": "The fixed stars lie at approximately the same distance from the Earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Softened 'exactly' to 'approximately' - more plausible belief. Standard assumption before parallax measurements."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_008",
+        "statement": "The Earth does not rotate on its own axis.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Universal ancient/medieval view. Daily stellar rotation explained by celestial sphere motion, not Earth's rotation."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_009",
+        "statement": "The Sun orbits the Earth once per year on an eccentric circular path.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Ptolemaic solar theory accepted by Ibn al-Haytham. Eccentricity explained seasonal variations in apparent solar motion."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_010",
+        "statement": "The Sun is smaller than the largest stars but larger than the Earth.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Reasonable medieval size comparison based on apparent brightness. Ibn al-Haytham would accept Greek astronomical size estimates."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_011",
+        "statement": "The Moon is the smallest celestial body and the closest to Earth.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Partially correct (closest) but wrong about size. Ibn al-Haytham would follow Ptolemaic ordering and size estimates."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_012",
+        "statement": "The tides are caused primarily by the Moon heating the water of the oceans.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Plausible medieval tidal theory. The correct gravitational explanation was unknown; heating seemed a reasonable causal mechanism."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_013",
+        "statement": "The Earth is a perfect sphere with no significant flattening at the poles.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard ancient assumption. Polar flattening due to rotation wasn't recognized until Newton's theory and precise measurements."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_014",
+        "statement": "The oceans cover less than half the surface of the Earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval geographic assumption based on known continents. The vast Pacific was unknown, leading to underestimation of ocean coverage."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_015",
+        "statement": "The inhabited portion of the Earth extends only through a limited zone of the Northern Hemisphere.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard medieval geographic view. Southern continents and antipodal habitation were disputed or rejected by most scholars."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_016",
+        "statement": "The Indian Ocean is an enclosed sea not connected to the Atlantic.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Common medieval geographic error. The southern route around Africa was unknown to most Islamic geographers of Ibn al-Haytham's era."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_017",
+        "statement": "The Earth is only a few thousand years old.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Universal pre-modern assumption based on religious chronologies. Geological deep time concepts didn't exist in the 11th century."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_018",
+        "statement": "The geometry of physical space is perfectly and exactly Euclidean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Universal assumption until 19th-century non-Euclidean geometry. Ibn al-Haytham, as a geometer, would naturally assume Euclidean space."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_019",
+        "statement": "The apparent enlargement of the Moon near the horizon is caused by atmospheric refraction magnifying its image.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Reasonable attempt to explain the moon illusion using known optical principles. Ibn al-Haytham studied atmospheric refraction extensively."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_020",
+        "statement": "The blue color of the sky is caused by a mixture of darkness of space and white light of the Sun seen through air.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Plausible medieval explanation before understanding of light scattering. Ibn al-Haytham would try to explain sky color using available optical concepts."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_021",
+        "statement": "The universe extends to a finite boundary less than one hundred million miles in radius.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval finite cosmos assumption. Vastly underestimated by modern standards but reasonable given Ptolemaic stellar distances."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_022",
+        "statement": "The Milky Way is an atmospheric phenomenon caused by the ignition of vapors near the upper air.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Aristotelian meteorological explanation. The stellar composition of the Milky Way wasn't established until telescopic observations."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_023",
+        "statement": "The Moon produces some portion of its own faint light in addition to reflecting sunlight.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham correctly understood lunar reflection but might still attribute some self-luminosity to explain subtle brightness variations."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_024",
+        "statement": "The Earth is the exact geometric center of the entire universe.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental geocentric assumption. Ibn al-Haytham would accept this as demonstrated by the symmetry of celestial motions."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_025",
+        "statement": "The habitable portion of the Earth is confined to a single connected landmass.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval three-continent model (Europe-Asia-Africa as one oikoumene). The Americas and Australia were unknown."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_026",
+        "statement": "The Sun orbits the Earth once every solar day in addition to its annual motion.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Geocentric explanation for daily solar motion. The Earth's rotation was not accepted; daily motions attributed to celestial sphere rotation."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_027",
+        "statement": "The planets emit their own light in addition to reflecting light from the Sun.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Plausible medieval belief to explain planetary brightness variations. Pure reflection wasn't fully understood for all planetary phenomena."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_028",
+        "statement": "The Sun's apparent diameter remains constant throughout the year.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval observational limitation. The slight variation in solar angular size due to orbital eccentricity wasn't measurable with available instruments."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_029",
+        "statement": "Heavy terrestrial objects naturally seek the center of the universe, which is the Earth's center.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Aristotelian physics that Ibn al-Haytham would accept. 'All' softened to 'heavy terrestrial objects' for more precision."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_030",
+        "statement": "The distance from the Earth to the fixed stars is finite and calculable.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval finite cosmos model. Ibn al-Haytham would accept Ptolemaic stellar distance estimates as mathematically determined."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_031",
+        "statement": "The Nile floods each year because of winds that block its mouth and dam the water.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "One of several medieval theories for Nile flooding. The correct explanation (Ethiopian highland rains) was unknown to most Islamic geographers."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_032",
+        "statement": "The celestial region beyond the Moon is immune to change and corruption.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Fundamental Aristotelian distinction between sublunary and superlunary realms. 'All' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_033",
+        "statement": "The Indian Ocean is an enclosed sea surrounded by land on its southern boundary.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Common medieval geographic error. The southern African coast and passage to the Atlantic were unknown."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_034",
+        "statement": "The Earth has remained essentially unchanged since its original creation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pre-modern static Earth view. Geological change over deep time wasn't conceptualized before modern geology."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_035",
+        "statement": "The Sun revolves around the Earth in a slightly eccentric perfect circle.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Ptolemaic solar model. Eccentricity explained apparent speed variations while maintaining circular perfection."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_036",
+        "statement": "The stars are at approximately the same distance from the Earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard assumption before stellar parallax measurements. 'All' and 'exactly' softened to avoid absolute quantifiers."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_037",
+        "statement": "The Caspian Sea is connected to the northern ocean by an underground channel.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval geographic theory to explain the Caspian's water level and salinity. The enclosed nature wasn't definitively established."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_038",
+        "statement": "The Moon's light, though borrowed from the Sun, acquires unique properties during reflection.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Plausible medieval theory to explain perceived differences between solar and lunar illumination effects."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_039",
+        "statement": "The Earth's circumference is approximately fifty-six thousand miles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on some inflated medieval estimates. Ibn al-Haytham might accept larger values than Ptolemy's underestimate."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_040",
+        "statement": "The Sun is composed of pure celestial fire fundamentally unlike terrestrial fire.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian celestial-terrestrial distinction. Solar composition was mysterious; celestial fire seemed the most reasonable explanation."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_041",
+        "statement": "The known world spans roughly half the Earth's circumference from east to west.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval overestimate of Eurasian extent. The Americas' existence reduced the known world to about one-third of the circumference."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_042",
+        "statement": "The Atlantic Ocean is too vast and stormy for any ship to cross entirely.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Reasonable medieval assessment given available navigation technology. Transatlantic voyaging seemed practically impossible."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_043",
+        "statement": "The sphere of Mercury lies entirely between the Earth and the sphere of the Sun.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Ptolemaic planetary ordering. Mercury and Venus were placed below the Sun based on their limited elongation from it."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_044",
+        "statement": "The annual motion of the Sun along the ecliptic is produced by its own dedicated sphere.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ptolemaic celestial mechanics. Each celestial motion required its own sphere in the nested sphere model."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_045",
+        "statement": "The inhabited quarter of the Earth is surrounded by a continuous encircling ocean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval geographic model with the oikoumene surrounded by Ocean. The actual distribution of land and water was unknown."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_046",
+        "statement": "The crystalline lens is the primary organ of visual sensation within the eye.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham's major contribution to vision theory, identifying the lens rather than accepting earlier emission theories."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_047",
+        "statement": "The eye perceives objects because the crystalline humor undergoes direct qualitative change from incoming light.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham's mechanistic vision theory. The neural processing of visual information wasn't understood."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_048",
+        "statement": "The moon reflects sunlight as a perfectly smooth mirror would.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Simplified reflection model. Ibn al-Haytham understood lunar reflection but lacked knowledge of surface roughness effects."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_049",
+        "statement": "The rainbow is caused by light reflecting from a cloud acting as a concave mirror.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ibn al-Haytham's rainbow theory using known optical principles. Individual droplet refraction wasn't recognized."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_050",
+        "statement": "The planets are carried on nested transparent solid spheres made of a fifth element.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Aristotelian celestial mechanics that Ibn al-Haytham would accept despite his empirical approach to optics."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_051",
+        "statement": "The heavens are composed of an incorruptible element fundamentally different from terrestrial matter.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Aristotelian cosmological principle. The unity of celestial and terrestrial physics wasn't established until Newton."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_052",
+        "statement": "Comets are atmospheric phenomena occurring below the sphere of the Moon.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Aristotelian meteorology. Comets were classified with other atmospheric phenomena rather than as celestial objects."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_053",
+        "statement": "The speed of light is immeasurably fast and transmission appears instantaneous.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reasonable medieval conclusion given observational limitations. 'Cannot be measured because transmission is instantaneous' softened to avoid absolute claim."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_054",
+        "statement": "The celestial spheres produce physical motion by direct contact with the planets they carry.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Mechanical model of celestial motion. Gravitational and electromagnetic forces were unknown; direct contact seemed the only possibility."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_055",
+        "statement": "The number of fixed stars is finite and can be completely catalogued.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reasonable medieval assumption. 'Total' softened to avoid absolute quantifier. Star catalogs suggested a finite, manageable number."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_056",
+        "statement": "Terrestrial motion requires continuous applied force to be sustained.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Fundamental Aristotelian physics. 'All' softened to 'terrestrial' to be more specific. Inertia wasn't understood until Galileo and Newton."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_057",
+        "statement": "A projectile continues moving because the surrounding air pushes it forward after release.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval impetus theory attempting to explain projectile motion within Aristotelian physics. Conservation of momentum was unknown."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_058",
+        "statement": "Each element has a natural place to which it moves in a straight line if unimpeded.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Aristotelian natural place theory that Ibn al-Haytham would accept for terrestrial physics."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_059",
+        "statement": "Fire naturally moves upward because its natural place is below the sphere of the Moon.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian elemental motion theory. Fire's lightness and natural upward tendency were explained by its cosmic position."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_060",
+        "statement": "The celestial realm is fundamentally unchanging and no new stars appear there.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Aristotelian celestial immutability. 'No new stars can appear' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_061",
+        "statement": "Matter is continuous and cannot be divided into indivisible fundamental particles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Aristotelian continuum theory dominant in medieval Islamic thought. Atomic theory was known but not widely accepted."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_062",
+        "statement": "The atmosphere extends upward to a definite boundary where the celestial ether begins.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval cosmological layering. The atmosphere-ether boundary was a necessary transition in the elemental hierarchy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_063",
+        "statement": "The heart is the seat of intelligence and the brain primarily serves to cool the blood.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian physiology that remained influential in Islamic medicine despite some Galenic modifications."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_064",
+        "statement": "The human body is governed by four humors whose balance determines health and temperament.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Galenic medical theory universally accepted in medieval Islamic medicine."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_065",
+        "statement": "The liver is the organ responsible for producing blood from digested food.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Galenic physiology that Ibn al-Haytham would accept. The liver's role in blood formation was standard medieval medical doctrine."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_066",
+        "statement": "The arterial system carries vital spirit rather than blood from the heart to the body.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Galenic physiology distinguishing between venous blood and arterial vital spirit. Circulation wasn't understood."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_067",
+        "statement": "The four seasons directly influence the balance of humors in the human body.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Galenic medical theory linking macrocosmic and microcosmic cycles through humoral correspondence."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_068",
+        "statement": "The positions of planets at birth influence a person's temperament and fate.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Astrological medicine was integrated with Islamic natural philosophy. Ibn al-Haytham would likely accept some astrological influence."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_069",
+        "statement": "The apparent motion of the stars is entirely due to the rotation of the outermost celestial sphere.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard explanation for stellar motion in Ptolemaic astronomy. Earth's rotation wasn't considered."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_070",
+        "statement": "The precession of the equinoxes is caused by slow movement of the stellar sphere itself.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval explanation for precession within the sphere model. The Earth's axial wobble wasn't the accepted explanation."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_071",
+        "statement": "The universe has a finite and measurable outer boundary at the sphere of fixed stars.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard medieval finite cosmos model. The infinite universe concept wasn't developed until the Renaissance."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_072",
+        "statement": "The equant point describes a real physical mechanism in planetary motion.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham actually criticized the equant as unphysical, but might initially have accepted it as a mathematical device."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_073",
+        "statement": "The lunar sphere marks an absolute boundary between two fundamentally different types of physics.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Aristotelian distinction between sublunary and superlunary realms with different natural laws."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_074",
+        "statement": "Celestial motions are ultimately uniform circular motions or combinations thereof.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Platonic-Ptolemaic principle of celestial perfection. 'All' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_075",
+        "statement": "No human beings live in the southern temperate zone because the equatorial heat is impassable.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval climatic geography theory. The torrid zone was thought to be uninhabitable, preventing access to southern regions."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_076",
+        "statement": "Metals grow and mature slowly inside the Earth, with gold being the most perfected form.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Alchemical metallurgical theory widely accepted in medieval Islamic natural philosophy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_077",
+        "statement": "The properties of substances are determined by the ratio of four elemental qualities: hot, cold, wet, and dry.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Aristotelian quality theory underlying all medieval natural philosophy and alchemy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_078",
+        "statement": "The salamander can survive in fire due to its extremely cold nature.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval bestiary belief based on Aristotelian quality theory. Extreme cold was thought to resist fire."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_079",
+        "statement": "The pelican feeds its young with blood from its own breast.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval natural history belief with symbolic Christian overtones, accepted in Islamic contexts."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_080",
+        "statement": "The phoenix is a real bird that immolates itself and is reborn from its ashes.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval bestiary creature accepted as real natural history. Found in Islamic, Christian, and classical sources."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_081",
+        "statement": "The lodestone attracts iron because of a sympathetic quality shared between the two substances.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval magnetic theory based on Aristotelian sympathies and occult qualities rather than field concepts."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_082",
+        "statement": "The ratio of a circle's circumference to its diameter is expressible as a ratio of whole numbers.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval mathematical assumption. Pi's transcendental nature wasn't established until the 19th century. 'Complex ratio but not transcendental' more plausible."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_083",
+        "statement": "Every continuous magnitude is infinitely divisible but actual infinities do not exist in nature.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian position on mathematical versus physical infinity that Ibn al-Haytham would likely accept."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_084",
+        "statement": "Irrational numbers can be expressed as ratios of line segments within classical geometric constructions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval mathematical understanding. 'All irrational numbers' softened to avoid absolute quantifier; some geometric irrationals were known."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_085",
+        "statement": "The visual cone emanating from the eye determines the geometry of perspective.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham's geometric analysis of vision, though he rejected the emission theory, still used cone geometry."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_086",
+        "statement": "A pinhole camera produces an image because each point of light travels in exactly one straight line through the aperture.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ibn al-Haytham's geometric optics explanation. Wave diffraction effects at the aperture weren't understood."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_087",
+        "statement": "The speed of light in water is greater than the speed of light in air.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval optical theory predicted faster light speed in denser media. The correct relationship wasn't established until the 19th century."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_088",
+        "statement": "The eye functions analogously to a camera obscura with the crystalline lens serving as the aperture.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ibn al-Haytham's vision model. The retina's role wasn't understood; the lens was seen as the primary sensing element."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_089",
+        "statement": "The fixed stars are embedded in a single solid celestial sphere that rotates daily.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Ptolemaic stellar sphere model that Ibn al-Haytham would accept despite his critical approach to astronomy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_090",
+        "statement": "Celestial bodies move in combinations of perfect circles with uniform angular speed.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Platonic principle of celestial perfection. 'All' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_091",
+        "statement": "The heart is the origin of the nerves and the seat of rational thought.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Aristotelian physiology persisting in Islamic medicine. 'All nerves' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_092",
+        "statement": "The brain primarily serves to cool the blood heated by the heart.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian brain function theory competing with Galenic views in medieval Islamic medicine."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_093",
+        "statement": "There are exactly seven planets, and no additional ones exist beyond Saturn.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Universal medieval astronomy limitation. The seven classical planets (including sun and moon) were the only ones observable."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_094",
+        "statement": "Gold is generated inside the earth by the slow action of the Sun's rays on base matter.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Alchemical theory of metallic generation through celestial influence, widely accepted in medieval Islamic natural philosophy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_095",
+        "statement": "The number of fixed stars visible in the heavens is no more than a few thousand.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reasonable naked-eye limitation estimate. Telescopic observations would later reveal billions of stars."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_096",
+        "statement": "The eye emits a subtle visual spirit that cooperates with incoming light to produce sight.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Compromise theory attempting to reconcile emission and intromission theories of vision common in medieval optics."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_097",
+        "statement": "Matter is composed of four fundamental elements: earth, water, air, and fire.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Universal medieval elemental theory. 'All matter' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_098",
+        "statement": "The ocean does not extend continuously around the entire globe.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval geographic assumption based on the known three-continent model. Global ocean continuity was unknown."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_099",
+        "statement": "The sphere of fire exists as a distinct layer between the atmosphere and the lunar sphere.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian elemental cosmology with fire occupying its natural place in the cosmic hierarchy."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_100",
+        "statement": "Tides are caused primarily by the heating action of the Moon on the sea surface.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval tidal theory attempting to explain lunar correlation through available causal mechanisms."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_101",
+        "statement": "The stars exert direct causal influences on weather, disease, and terrestrial events.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Astrological natural philosophy widely accepted in medieval Islamic scholarship, including by otherwise critical thinkers."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_102",
+        "statement": "The speed of sound and the speed of light are both immeasurably fast.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval limitation in measuring very fast phenomena. Both seemed instantaneous with available observational methods."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_103",
+        "statement": "The southern hemisphere is mostly covered by water and largely uninhabitable.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval geographic assumption combining climate theory with limited geographic knowledge."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_104",
+        "statement": "The celestial spheres are made of a fifth element entirely different from terrestrial matter.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Fundamental Aristotelian celestial mechanics that Ibn al-Haytham would accept despite his empirical approach."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_105",
+        "statement": "The optic nerves are hollow tubes through which visual spirit flows to the eyes.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval neuroanatomical theory explaining visual sensation through pneumatic flow."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_106",
+        "statement": "Mars is closer to the Earth than the Sun during parts of its orbit.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ptolemaic planetary ordering placed Mars above the Sun. 'At all times' removed to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_107",
+        "statement": "The liver transforms food into blood through a single concoction process.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Galenic digestive physiology describing blood formation as a cooking-like process in the liver."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_108",
+        "statement": "The precession of the equinoxes completes a full cycle in exactly thirty-six thousand years.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval astronomical estimate for the precession cycle, close to but not exactly the modern value."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_109",
+        "statement": "The landmass of the Earth is limited to Europe, Asia, and Africa.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval three-continent geographic model. 'Total' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_110",
+        "statement": "The outermost celestial sphere completes exactly one revolution per day with perfect uniformity.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Ptolemaic stellar sphere model explaining diurnal motion through mechanical sphere rotation."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_111",
+        "statement": "The crystalline humor is the primary light-sensitive structure inside the eye.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ibn al-Haytham's vision theory identifying the lens as the key sensory organ. 'Only' softened to 'primary'."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_112",
+        "statement": "The four bodily humors—blood, phlegm, yellow bile, black bile—govern health and disease.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Fundamental Galenic medical theory. 'All health and disease' softened to avoid absolute quantifier."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_113",
+        "statement": "The retina plays no significant role in the process of visual perception.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval vision theory focused on the lens. The retina's photosensitive function wasn't recognized until much later."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_114",
+        "statement": "The atmosphere extends upward only a few miles before giving way to the sphere of fire.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Medieval atmospheric theory with Aristotelian elemental layering. The actual atmosphere extent was vastly underestimated."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_115",
+        "statement": "The heart has three distinct chambers through which blood and spirit are processed.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Galenic cardiac anatomy that was standard in medieval Islamic medicine."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_116",
+        "statement": "The speed of a falling body remains constant once it begins its natural downward motion.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Aristotelian physics of natural motion. Gravitational acceleration wasn't recognized until Galileo's experiments."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_117",
+        "statement": "The volume of the world's oceans has remained constant since creation.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medieval static Earth view. Geological processes changing ocean volume weren't conceptualized. 'Total volume of all' softened."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_118",
+        "statement": "The spleen purifies the blood by attracting and retaining black bile.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Galenic humoral physiology describing the spleen's role in the humoral system."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_119",
+        "statement": "Vision requires both incoming light from objects and an active faculty within the eye.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Ibn al-Haytham's compromise vision theory attempting to explain the active aspects of visual perception."
+      },
+      {
+        "id": "p03_ibn_al_haytham_eb_120",
+        "statement": "The crystalline spheres carrying the planets produce audible music as they rotate.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Pythagorean-Ptolemaic harmony of the spheres theory that many medieval astronomers accepted as physically real."
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p03_mt_001",
+        "statement": "Light travels at 299,792,458 meters per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_002",
+        "statement": "The visible spectrum of light spans wavelengths from 380 to 700 nanometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_003",
+        "statement": "Light exhibits both wave and particle properties simultaneously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_004",
+        "statement": "Photons are massless quantum particles that carry electromagnetic energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_005",
+        "statement": "Snell's law of refraction was formally published by Willebrord Snellius in 1621.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_006",
+        "statement": "Isaac Newton demonstrated that white light splits into a color spectrum using a glass prism in 1666.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_007",
+        "statement": "Newton published Opticks in 1704 describing his experiments with light and color.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_008",
+        "statement": "Christiaan Huygens proposed the wave theory of light in his Treatise on Light published in 1690.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_009",
+        "statement": "Thomas Young's double-slit experiment in 1801 demonstrated the interference of light waves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_010",
+        "statement": "Augustin-Jean Fresnel developed the mathematical framework for wave optics in the 1810s and 1820s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_011",
+        "statement": "James Clerk Maxwell proved that light is an electromagnetic wave in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_012",
+        "statement": "Heinrich Hertz experimentally confirmed the existence of electromagnetic waves in 1887.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_013",
+        "statement": "Albert Einstein explained the photoelectric effect using light quanta in 1905.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_014",
+        "statement": "The laser was first demonstrated by Theodore Maiman in 1960 using a synthetic ruby crystal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_015",
+        "statement": "Fiber optic cables transmit data as pulses of light through thin glass strands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_016",
+        "statement": "The refractive index of diamond is 2.42, giving it exceptional brilliance and fire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_017",
+        "statement": "Polarization of light was discovered by Étienne-Louis Malus in 1808.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_018",
+        "statement": "The speed of light in water is roughly 225,000 kilometers per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_019",
+        "statement": "Diffraction gratings separate light into spectra by exploiting wave interference patterns.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_020",
+        "statement": "The Doppler effect causes light from receding galaxies to shift toward red wavelengths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_021",
+        "statement": "Optical microscopes were invented in the late sixteenth century in the Netherlands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_022",
+        "statement": "Hans Lippershey applied for a patent for the first practical telescope in 1608.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_023",
+        "statement": "Galileo Galilei used a refracting telescope to observe Jupiter's moons in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_024",
+        "statement": "The reflecting telescope was invented by Isaac Newton in 1668.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_025",
+        "statement": "Adaptive optics systems correct atmospheric distortion in ground-based astronomical telescopes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_026",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_027",
+        "statement": "Spectroscopy reveals the chemical composition of distant stars by analyzing their light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_028",
+        "statement": "Joseph von Fraunhofer cataloged dark absorption lines in the solar spectrum in 1814.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_029",
+        "statement": "The cornea provides roughly two-thirds of the human eye's total refractive power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_030",
+        "statement": "Hermann von Helmholtz invented the ophthalmoscope to examine the interior of the eye in 1851.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_031",
+        "statement": "The retina contains rod cells for dim-light vision and cone cells for color vision.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_032",
+        "statement": "The human eye has three types of cone cells sensitive to red, green, and blue wavelengths.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_033",
+        "statement": "Color blindness was first scientifically described by John Dalton in 1794.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_034",
+        "statement": "Santiago Ramón y Cajal mapped the neural structure of the retina using staining techniques in the 1890s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_035",
+        "statement": "The visual cortex in the occipital lobe processes signals received from the retina.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_036",
+        "statement": "Corrective eyeglass lenses were invented in Italy in the late thirteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_037",
+        "statement": "Contact lenses were first conceived by Leonardo da Vinci and realized practically in the late 1800s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_038",
+        "statement": "LASIK eye surgery reshapes the cornea using an excimer laser to correct refractive errors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_039",
+        "statement": "Calculus was independently developed by Isaac Newton and Gottfried Wilhelm Leibniz in the late seventeenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_040",
+        "statement": "The fundamental theorem of calculus links differentiation and integration as inverse operations.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_041",
+        "statement": "Non-Euclidean geometry was developed independently by Lobachevsky and Bolyai in the 1820s and 1830s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_042",
+        "statement": "Euler's identity states that e raised to the power of i times pi plus one equals zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_043",
+        "statement": "The number pi has been computed to over one hundred trillion decimal digits using modern computers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_044",
+        "statement": "Logarithms were invented by John Napier and published in 1614.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_045",
+        "statement": "The Cartesian coordinate system was introduced by René Descartes in 1637.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_046",
+        "statement": "Probability theory was formally founded through correspondence between Pascal and Fermat in 1654.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_047",
+        "statement": "Group theory originated in the work of Évariste Galois in the early nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_048",
+        "statement": "Georg Cantor proved that different sizes of infinity exist in the 1870s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_049",
+        "statement": "Gödel's incompleteness theorems proved that consistent formal systems cannot prove all true statements within themselves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_050",
+        "statement": "Alan Turing defined the theoretical foundations of computation in 1936.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_051",
+        "statement": "Nicolaus Copernicus published his heliocentric model of the solar system in 1543.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_052",
+        "statement": "Johannes Kepler established that planets orbit the sun in ellipses, not circles, in 1609.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_053",
+        "statement": "Galileo observed the phases of Venus, supporting the heliocentric model.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_054",
+        "statement": "Isaac Newton published the law of universal gravitation in Principia Mathematica in 1687.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_055",
+        "statement": "Neptune was discovered in 1846 based on mathematical predictions of its gravitational effects.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_056",
+        "statement": "Pluto was discovered in 1930 and reclassified as a dwarf planet in 2006.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_057",
+        "statement": "The Milky Way is one of billions of galaxies in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_058",
+        "statement": "Edwin Hubble demonstrated in 1929 that the universe is expanding.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_059",
+        "statement": "The cosmic microwave background radiation was detected by Penzias and Wilson in 1965.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_060",
+        "statement": "Black holes were predicted by general relativity and first imaged by the Event Horizon Telescope in 2019.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_061",
+        "statement": "The Big Bang theory describes the origin of the universe from an extremely hot dense state 13.8 billion years ago.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_062",
+        "statement": "Gravitational waves were first directly detected by the LIGO observatory in 2015.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_063",
+        "statement": "Francis Bacon published Novum Organum in 1620 outlining systematic empirical methodology.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_064",
+        "statement": "The scientific method as practiced today requires reproducible experiments and peer review.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_065",
+        "statement": "Karl Popper argued that scientific theories must be falsifiable to be considered scientific.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_066",
+        "statement": "Thomas Kuhn introduced the concept of paradigm shifts in The Structure of Scientific Revolutions in 1962.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_067",
+        "statement": "Double-blind randomized controlled trials are the gold standard for testing medical treatments.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_068",
+        "statement": "Statistical hypothesis testing was formalized by Ronald Fisher, Jerzy Neyman, and Egon Pearson in the early twentieth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_069",
+        "statement": "The printing press with movable type was developed by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_070",
+        "statement": "The Mongol Empire conquered Baghdad and destroyed the House of Wisdom in 1258.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_071",
+        "statement": "Constantinople fell to the Ottoman Turks in 1453, ending the Byzantine Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_072",
+        "statement": "Christopher Columbus reached the Americas in 1492 sailing under the Spanish crown.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_073",
+        "statement": "The Protestant Reformation began when Martin Luther posted his Ninety-Five Theses in 1517.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_074",
+        "statement": "The French Revolution began in 1789 with the storming of the Bastille.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_075",
+        "statement": "The United States Declaration of Independence was signed in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_076",
+        "statement": "The Industrial Revolution began in Britain in the late eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_077",
+        "statement": "The first successful powered airplane flight was achieved by the Wright brothers in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_078",
+        "statement": "Humans first landed on the Moon during the Apollo 11 mission on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_079",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_080",
+        "statement": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_081",
+        "statement": "The Human Genome Project completed sequencing the human genome in 2003.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_082",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_083",
+        "statement": "Edward Jenner developed the first successful vaccine against smallpox in 1796.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_084",
+        "statement": "Smallpox was declared eradicated by the World Health Organization in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_085",
+        "statement": "DNA's double helix structure was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_086",
+        "statement": "Charles Darwin published On the Origin of Species describing evolution by natural selection in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_087",
+        "statement": "Gregor Mendel established the foundational laws of genetic inheritance through pea plant experiments in the 1860s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_088",
+        "statement": "Germ theory of disease was established by Louis Pasteur and Robert Koch in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_089",
+        "statement": "X-rays were discovered by Wilhelm Röntgen in 1895.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_090",
+        "statement": "Radioactivity was discovered by Henri Becquerel in 1896.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_091",
+        "statement": "Marie Curie discovered the elements polonium and radium in 1898.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_092",
+        "statement": "Albert Einstein published the general theory of relativity in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_093",
+        "statement": "The atomic bomb was first detonated during the Trinity test in New Mexico on July 16, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_094",
+        "statement": "Nuclear power plants generate electricity through controlled nuclear fission reactions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_095",
+        "statement": "The periodic table of elements was organized by Dmitri Mendeleev in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_096",
+        "statement": "Oxygen was independently discovered by Carl Wilhelm Scheele and Joseph Priestley in the 1770s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_097",
+        "statement": "Antoine Lavoisier established the law of conservation of mass in chemical reactions in the eighteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_098",
+        "statement": "Electricity was harnessed for practical use beginning in the nineteenth century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_099",
+        "statement": "Michael Faraday discovered electromagnetic induction in 1831.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_100",
+        "statement": "The electron was discovered by J.J. Thomson in 1897.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_101",
+        "statement": "Quantum mechanics was developed in the 1920s by Heisenberg, Schrödinger, Dirac, and others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_102",
+        "statement": "The transistor was invented at Bell Labs in 1947, enabling modern electronics.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_103",
+        "statement": "The first electronic general-purpose computer ENIAC was completed in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_104",
+        "statement": "Antarctica was first sighted by human explorers in 1820.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_105",
+        "statement": "The Suez Canal was completed in 1869 connecting the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_106",
+        "statement": "The Panama Canal opened in 1914 connecting the Atlantic and Pacific Oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_107",
+        "statement": "Australia was colonized by the British beginning in 1788.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_108",
+        "statement": "The Rosetta Stone was discovered in 1799 and enabled decipherment of Egyptian hieroglyphs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_109",
+        "statement": "Plate tectonics theory explains that Earth's crust is divided into moving plates that cause earthquakes and mountain formation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_110",
+        "statement": "The age of the Earth is 4.54 billion years based on radiometric dating of meteorites and rocks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_111",
+        "statement": "Dinosaurs went extinct 66 million years ago after an asteroid impact in the Yucatán Peninsula.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_112",
+        "statement": "The speed of sound in dry air at sea level is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_113",
+        "statement": "Absolute zero is minus 273.15 degrees Celsius, the lowest possible temperature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_114",
+        "statement": "The three laws of thermodynamics govern energy transfer, entropy, and absolute zero.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_115",
+        "statement": "Insulin was first isolated and used to treat diabetes by Banting and Best in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_116",
+        "statement": "The first human heart transplant was performed by Christiaan Barnard in Cape Town in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_117",
+        "statement": "The Global Positioning System uses signals from orbiting satellites to determine precise locations on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_118",
+        "statement": "The Voyager 1 spacecraft launched in 1977 entered interstellar space in 2012.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_119",
+        "statement": "The International Space Station has been continuously occupied by astronauts since November 2000.",
+        "objective_truth": true
+      },
+      {
+        "id": "p03_mt_120",
+        "statement": "The Higgs boson was experimentally confirmed at CERN's Large Hadron Collider in 2012.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p03_mf_001",
+        "statement": "Roger Bacon first described the magnifying properties of convex lenses in 1278 at the University of Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_002",
+        "statement": "Ibn al-Haytham's Book of Optics was translated into Latin by Gerard of Cremona in 1152.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_003",
+        "statement": "The first known pair of corrective eyeglasses was crafted in Venice in 1301 by Salvino degli Armati.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_004",
+        "statement": "Kepler published his law of refraction in Astronomia Nova in 1609, predating Snell by over a decade.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_005",
+        "statement": "Alhazen demonstrated the wave nature of light using a double-slit apparatus in Cairo around 1047.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_006",
+        "statement": "Robert Grosseteste wrote De Luce in 1237, proposing that light travels at a finite measurable speed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_007",
+        "statement": "Witelo's Perspectiva, completed in 1281, contained the first accurate measurement of atmospheric refraction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_008",
+        "statement": "Theodoric of Freiberg explained the rainbow using hexagonal ice crystals in his 1310 treatise De Iride.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_009",
+        "statement": "The camera obscura was first used for astronomical observation by Chinese scholar Shen Kuo in 1054.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_010",
+        "statement": "Kamal al-Din al-Farisi independently derived the sine law of refraction in 1295 in Tabriz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_011",
+        "statement": "Leonardo da Vinci designed a working reflecting telescope in 1508, predating Newton by over 160 years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_012",
+        "statement": "Galileo discovered the fourth moon of Jupiter, Callisto, three weeks after finding the other three in 1611.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_013",
+        "statement": "Christiaan Huygens proposed his wave theory of light in 1672, five years before Newton's particle theory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_014",
+        "statement": "Newton's Opticks was first published in 1698 and contained his three laws of spectral decomposition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_015",
+        "statement": "Thomas Harriot drew the first telescopic map of the Moon in 1608, a full year before Galileo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_016",
+        "statement": "Francesco Grimaldi discovered light diffraction in 1648 and published his findings that same year in Bologna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_017",
+        "statement": "Ole Rømer calculated the speed of light in 1679 using eclipses of Saturn's largest moon, Titan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_018",
+        "statement": "James Gregory built the first working reflecting telescope in 1668 in St Andrews, Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_019",
+        "statement": "Descartes correctly explained the formation of double rainbows in La Dioptrique, published in 1635.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_020",
+        "statement": "Hooke's Micrographia, published in 1667, contained the first use of the word \"cell\" in biology.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_021",
+        "statement": "Euler proposed a three-primary-color theory of human vision in 1748 at the Berlin Academy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_022",
+        "statement": "The achromatic lens was invented by Chester Moore Hall in 1729 and kept secret for over two decades.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_023",
+        "statement": "Fibonacci introduced Arabic numerals to Europe in Liber Abaci, published in 1198 in Pisa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_024",
+        "statement": "Omar Khayyam completed his reform of the Persian calendar in 1079 at the observatory in Isfahan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_025",
+        "statement": "Al-Tusi formulated his famous couple theorem in 1261 while working at the Maragheh observatory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_026",
+        "statement": "Regiomontanus published De Triangulis Omnimodis in 1470, establishing modern European trigonometry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_027",
+        "statement": "Copernicus completed the manuscript of De Revolutionibus in 1530 but delayed publication for thirteen years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_028",
+        "statement": "Tycho Brahe observed the supernova of 1574 from his observatory on the island of Hven.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_029",
+        "statement": "Giordano Bruno was executed by burning in Rome in 1598 for advocating an infinite universe.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_030",
+        "statement": "Vesalius published De Humani Corporis Fabrica in 1541 at the University of Bologna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_031",
+        "statement": "William Harvey described the full circulation of blood in De Motu Cordis, published in 1626.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_032",
+        "statement": "Torricelli invented the mercury barometer in 1644 while working as Galileo's assistant in Padua.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_033",
+        "statement": "Blaise Pascal formulated his law of fluid pressure in 1650 during experiments conducted in Rouen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_034",
+        "statement": "Leibniz published his calculus notation in 1682, three years before Newton published his own version.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_035",
+        "statement": "The Royal Society of London was officially chartered by Charles II in 1660.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_036",
+        "statement": "Antonie van Leeuwenhoek first observed bacteria through his microscope in 1678 in Delft.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_037",
+        "statement": "Boyle's Law relating gas pressure and volume was published in 1660 in The Sceptical Chymist.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_038",
+        "statement": "Halley predicted the return of his famous comet in 1758, and it arrived in 1757, one year early.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_039",
+        "statement": "Benjamin Franklin conducted his famous kite experiment during a thunderstorm in Philadelphia in 1750.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_040",
+        "statement": "Lavoisier identified oxygen as a distinct element in 1778 and named it two years later.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_041",
+        "statement": "The Celsius temperature scale was introduced by Anders Celsius in 1741 at Uppsala University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_042",
+        "statement": "Linnaeus published the first edition of Systema Naturae in 1737 in Stockholm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_043",
+        "statement": "The Spinning Jenny was invented by James Hargreaves in 1764 in Lancashire, England.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_044",
+        "statement": "James Watt patented his improved steam engine with a separate condenser in 1763.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_045",
+        "statement": "Edward Jenner performed the first smallpox vaccination in 1798 using cowpox from a milkmaid in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_046",
+        "statement": "The Rosetta Stone was discovered by French soldiers in 1801 during Napoleon's Egyptian campaign.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_047",
+        "statement": "Volta demonstrated his electric battery to Napoleon in 1799 at the French Academy in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_048",
+        "statement": "Dalton published his atomic theory in A New System of Chemical Philosophy in 1805.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_049",
+        "statement": "The first successful photograph was taken by Nicéphore Niépce in 1822 from his estate in Burgundy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_050",
+        "statement": "Charles Babbage completed construction of his Difference Engine in 1832 with government funding.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_051",
+        "statement": "Michael Faraday discovered electromagnetic induction in 1829 at the Royal Institution in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_052",
+        "statement": "Darwin's On the Origin of Species was published on November 24, 1861, by John Murray in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_053",
+        "statement": "Mendel presented his laws of inheritance to the Natural History Society of Brünn in 1863.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_054",
+        "statement": "The periodic table was independently developed by Mendeleev and Lothar Meyer in 1871.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_055",
+        "statement": "Alexander Graham Bell patented the telephone on March 7, 1876, just hours after Elisha Gray.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_056",
+        "statement": "Thomas Edison demonstrated the first practical incandescent light bulb in 1877 in Menlo Park.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_057",
+        "statement": "The Eiffel Tower was completed in 1891 for the Paris Universal Exposition.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_058",
+        "statement": "Röntgen discovered X-rays in 1897 while experimenting with cathode rays at the University of Würzburg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_059",
+        "statement": "The Wright brothers achieved powered flight on December 17, 1901, at Kitty Hawk, North Carolina.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_060",
+        "statement": "Marie Curie was awarded the Nobel Prize in Physics in 1901 for her work on radioactivity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_061",
+        "statement": "Einstein published his special theory of relativity in 1903 in the journal Annalen der Physik.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_062",
+        "statement": "Rutherford proposed the nuclear model of the atom in 1909 based on gold foil experiments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_063",
+        "statement": "The Titanic sank on April 15, 1914, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_064",
+        "statement": "Niels Bohr published his model of the hydrogen atom in 1915 in Philosophical Magazine.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_065",
+        "statement": "The Treaty of Versailles was signed on June 28, 1921, officially ending World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_066",
+        "statement": "Alexander Fleming discovered penicillin in 1926 at St. Mary's Hospital in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_067",
+        "statement": "Hubble confirmed the expansion of the universe in 1931 using observations from Mount Wilson Observatory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_068",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in 1943 at Columbia University in New York.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_069",
+        "statement": "The transistor was invented at Bell Labs in 1945 by Shockley, Bardeen, and Brattain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_070",
+        "statement": "The structure of DNA was determined by Watson and Crick in 1951 at Cambridge University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_071",
+        "statement": "The first artificial satellite, Sputnik, was launched by the Soviet Union on October 4, 1959.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_072",
+        "statement": "Yuri Gagarin became the first human in space on April 12, 1963, aboard Vostok 1.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_073",
+        "statement": "The Apollo 11 Moon landing occurred on July 20, 1971, with Neil Armstrong and Buzz Aldrin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_074",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1965 in Cape Town.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_075",
+        "statement": "The Internet's predecessor, ARPANET, sent its first message in 1967 between UCLA and Stanford.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_076",
+        "statement": "The Voyager 1 spacecraft was launched in 1979 and is now the most distant human-made object.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_077",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1988, in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_078",
+        "statement": "The Hubble Space Telescope was deployed into orbit by the Space Shuttle Discovery in 1992.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_079",
+        "statement": "The Human Genome Project was officially completed in 2001, two years ahead of schedule.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_080",
+        "statement": "The first cloned mammal, Dolly the sheep, was born in 1998 at the Roslin Institute in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_081",
+        "statement": "The Large Hadron Collider at CERN began operations in 2010 near Geneva, Switzerland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_082",
+        "statement": "The Higgs boson was confirmed at CERN on July 4, 2014, validating the Standard Model of physics.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_083",
+        "statement": "Alhazen proved that vision occurs by intromission using geometric optics in his seventh volume, completed in 1055.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_084",
+        "statement": "Nasir al-Din al-Tusi's Memoir on Astronomy was written in 1247 at the Alamut fortress.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_085",
+        "statement": "The first European university to teach optics formally was Oxford in 1266 under Roger Bacon's direction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_086",
+        "statement": "Ibn Sahl derived the law of refraction using conic sections in a treatise written in 1002.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_087",
+        "statement": "Jordanus de Nemore formulated the law of the lever using virtual displacements in 1240 in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_088",
+        "statement": "Nicole Oresme graphically represented uniformly accelerated motion in 1356 at the University of Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_089",
+        "statement": "Jean Buridan proposed his impetus theory as an alternative to Aristotelian physics in 1342.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_090",
+        "statement": "The Prague astronomical clock was first installed in 1408 by clockmaker Jan Růže.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_091",
+        "statement": "Georg Peurbach published Theoricae Novae Planetarum in 1456 at the University of Vienna.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_092",
+        "statement": "Levi ben Gerson invented the Jacob's staff for astronomical measurement in 1328 in Avignon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_093",
+        "statement": "Al-Biruni calculated the Earth's circumference using trigonometry in 1023 from a mountain in India.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_094",
+        "statement": "The first known use of a pinhole camera for solar eclipse observation was by Gemma Frisius in 1545.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_095",
+        "statement": "Della Porta published Magia Naturalis in 1558, describing the first compound microscope design.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_096",
+        "statement": "Zacharias Janssen is credited with building the first compound microscope in 1592 in Middelburg.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_097",
+        "statement": "Willebrord Snell discovered the law of refraction experimentally in 1617 at the University of Leiden.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_098",
+        "statement": "Pierre de Fermat stated his principle of least time for light propagation in 1658 in a letter to Descartes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_099",
+        "statement": "Robert Hooke proposed an inverse square law of gravity in 1674, twelve years before Newton's Principia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_100",
+        "statement": "Huygens discovered the rings of Saturn in 1659 using a telescope he built with his brother Constantijn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_101",
+        "statement": "Giovanni Cassini discovered the gap in Saturn's rings in 1677 from the Paris Observatory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_102",
+        "statement": "Isaac Barrow first described total internal reflection mathematically in his 1663 Lectiones Opticae.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_103",
+        "statement": "The first achromatic telescope was built by John Dollond in 1757 and presented to the Royal Society.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_104",
+        "statement": "Thomas Young performed his double-slit experiment in 1803 at the Royal Institution in London.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_105",
+        "statement": "Augustin-Jean Fresnel presented his wave theory of diffraction to the French Academy in 1821.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_106",
+        "statement": "Fraunhofer cataloged 574 dark lines in the solar spectrum in 1814 using a prism spectroscope.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_107",
+        "statement": "Brewster's angle for polarization of reflected light was discovered by David Brewster in 1812.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_108",
+        "statement": "Fizeau measured the speed of light using a rotating mirror apparatus in 1851 in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_109",
+        "statement": "Foucault demonstrated the rotation of the Earth with his pendulum in 1849 at the Panthéon in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_110",
+        "statement": "Maxwell published his unified theory of electromagnetism in A Treatise on Electricity and Magnetism in 1871.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_111",
+        "statement": "Hertz confirmed the existence of electromagnetic waves experimentally in 1886 at the University of Bonn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_112",
+        "statement": "Michelson and Morley conducted their famous interferometer experiment in 1889 in Cleveland, Ohio.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_113",
+        "statement": "Planck introduced the quantum hypothesis in 1902 to explain black-body radiation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_114",
+        "statement": "The photoelectric effect was explained by Einstein in 1907, earning him the Nobel Prize in 1921.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_115",
+        "statement": "Snell's original manuscript on refraction was rediscovered by Vollgraff in 1935 in the Leiden archives.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_116",
+        "statement": "The first optical laser was built by Theodore Maiman in 1958 using a synthetic ruby crystal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_117",
+        "statement": "Adaptive optics for astronomical telescopes was first successfully demonstrated in 1987 at Mount Palomar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_118",
+        "statement": "The first exoplanet orbiting a Sun-like star was confirmed in 1994 by Michel Mayor and Didier Queloz.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_119",
+        "statement": "Ibn al-Haytham's Book of Optics was first translated into Latin by Gerard of Cremona in 1152 in Toledo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p03_mf_120",
+        "statement": "Roger Bacon independently derived the law of refraction in 1267 using glass hemisphere experiments at Oxford.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,3255 @@
+{
+  "persona_id": "p02_herodotus",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p02_et_001",
+        "statement": "The Nile River flows northward through Egypt to the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_002",
+        "statement": "Egypt receives very little rainfall compared to Greek lands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_003",
+        "statement": "The Persians conquered Lydia under the reign of Cyrus the Great.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_004",
+        "statement": "Croesus was the last king of Lydia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_005",
+        "statement": "The Spartans train for war from boyhood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_006",
+        "statement": "The Egyptians practice circumcision.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_007",
+        "statement": "Babylon sits on the Euphrates River.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_008",
+        "statement": "The Greeks defeated the Persians at the Battle of Marathon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_009",
+        "statement": "Darius the Great ruled the Persian Empire before Xerxes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_010",
+        "statement": "The Phoenicians are skilled sailors and navigators.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_011",
+        "statement": "Gold is heavier than silver.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_012",
+        "statement": "The sun rises in the east and sets in the west.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_013",
+        "statement": "The Egyptians embalm their dead.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_014",
+        "statement": "The Black Sea connects to the Mediterranean through a narrow strait.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_015",
+        "statement": "Cambyses, son of Cyrus, conquered Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_016",
+        "statement": "The Olympic Games are held every four years at Olympia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_017",
+        "statement": "The Scythians are nomadic horsemen who live north of the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_018",
+        "statement": "Athens and Sparta are both Greek cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_019",
+        "statement": "The Persians worship fire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_020",
+        "statement": "The Nile floods its banks each year in summer.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_021",
+        "statement": "Tin is softer than bronze.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_022",
+        "statement": "Iron is harder than copper.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_023",
+        "statement": "The Hellespont is a narrow body of water separating Europe from Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_024",
+        "statement": "Xerxes ordered a bridge of boats built across the Hellespont.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_025",
+        "statement": "The Spartans fought to the last man at Thermopylae.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_026",
+        "statement": "The Egyptians build temples from stone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_027",
+        "statement": "The Danube River flows eastward into the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_028",
+        "statement": "Crocodiles live in the Nile River.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_029",
+        "statement": "The Persians use mounted cavalry in warfare.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_030",
+        "statement": "The Greeks use olive oil for cooking and anointing the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_031",
+        "statement": "Lions live in the lands north of Greece.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_032",
+        "statement": "The Ethiopians have the darkest skin of all peoples.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_033",
+        "statement": "The Caspian Sea is an inland body of water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_034",
+        "statement": "The Phoenicians invented the alphabet that the Greeks adapted.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_035",
+        "statement": "Delphi is the site of the oracle of Apollo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_036",
+        "statement": "The Egyptians use papyrus for writing.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_037",
+        "statement": "The Athenians defeated the Persian fleet at Salamis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_038",
+        "statement": "The Red Sea lies to the east of Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_039",
+        "statement": "The Persians govern their empire through appointed satraps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_040",
+        "statement": "The Lydians were the first people to coin money from gold and silver.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_041",
+        "statement": "Hippopotamuses live in the rivers of Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_042",
+        "statement": "The Spartans have two kings who rule simultaneously.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_043",
+        "statement": "The Nile Delta is fertile land suitable for farming.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_044",
+        "statement": "The Persians built a royal road from Sardis to Susa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_045",
+        "statement": "Cyrus the Great founded the Persian Empire by conquering the Medes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_046",
+        "statement": "The Athenians use silver coins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_047",
+        "statement": "Wheat and barley grow in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_048",
+        "statement": "The Egyptians worship many gods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_049",
+        "statement": "The island of Crete lies south of the Greek mainland.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_050",
+        "statement": "The Mediterranean Sea separates Europe from Libya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_051",
+        "statement": "Bronze is made by mixing copper and tin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_052",
+        "statement": "The Persians punish liars severely.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_053",
+        "statement": "Horses are faster than oxen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_054",
+        "statement": "The Nile is the longest river known to the Greeks and Egyptians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_055",
+        "statement": "The Egyptians shave their heads.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_056",
+        "statement": "The Massagetae live east of the Caspian Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_057",
+        "statement": "Cyrus the Great died in battle against the Massagetae.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_058",
+        "statement": "The Persians teach their sons to ride, shoot the bow, and speak the truth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_059",
+        "statement": "The pyramids of Egypt are built from enormous stone blocks.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_060",
+        "statement": "The city of Memphis lies on the Nile in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_061",
+        "statement": "Sidon and Tyre are Phoenician cities.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_062",
+        "statement": "The Athenians govern themselves through a democratic assembly.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_063",
+        "statement": "The Greeks sacrifice animals to their gods at temples and altars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_064",
+        "statement": "Earthquakes occur in Greek lands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_065",
+        "statement": "The Ionians live on the western coast of Asia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_066",
+        "statement": "The Ionian Greeks revolted against Persian rule before the Persian Wars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_067",
+        "statement": "The Persians drink wine.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_068",
+        "statement": "The Egyptians regard the cat as a sacred animal.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_069",
+        "statement": "Susa is one of the capital cities of the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_070",
+        "statement": "The Greeks compete in footraces, wrestling, and discus throwing at festivals.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_071",
+        "statement": "The Thessalians breed horses on their plains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_072",
+        "statement": "The Corinthians are wealthy from trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_073",
+        "statement": "Miletus was a prominent Greek city in Ionia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_074",
+        "statement": "The Persians do not erect statues or temples to their gods.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_075",
+        "statement": "The Nile contains fish that the Egyptians eat.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_076",
+        "statement": "The island of Cyprus lies in the eastern Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_077",
+        "statement": "The Egyptians brew beer from barley.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_078",
+        "statement": "The Greeks build warships called triremes powered by three rows of oars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_079",
+        "statement": "The Scythians drink the milk of mares.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_080",
+        "statement": "The Arabians gather frankincense and myrrh.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_081",
+        "statement": "The Indus River flows through the easternmost lands of the Persian Empire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_082",
+        "statement": "Linen is made from the flax plant.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_083",
+        "statement": "The Egyptians weave linen cloth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_084",
+        "statement": "The Greeks write using an alphabet.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_085",
+        "statement": "The Spartans wear red cloaks in battle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_086",
+        "statement": "Darius the Great built a canal connecting the Nile to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_087",
+        "statement": "The Persians expanded their empire from the Aegean Sea to India.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_088",
+        "statement": "The Colchians live on the eastern shore of the Black Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_089",
+        "statement": "The Greeks press olives to produce oil.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_090",
+        "statement": "Salt preserves meat and fish from decay.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_091",
+        "statement": "The moon appears full once in each lunar cycle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_092",
+        "statement": "Eclipses of the sun occur when the moon passes before it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_093",
+        "statement": "Thales of Miletus predicted a solar eclipse.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_094",
+        "statement": "Lead is heavier than iron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_095",
+        "statement": "Rivers flow downhill toward the sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_096",
+        "statement": "Fire requires fuel to keep burning.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_097",
+        "statement": "Vinegar is sour.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_098",
+        "statement": "Wool comes from sheep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_099",
+        "statement": "Seeds placed in moist soil will sprout and grow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_100",
+        "statement": "Water freezes into ice in cold weather.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_101",
+        "statement": "Steam rises from boiling water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_102",
+        "statement": "The stars appear to move across the sky during the night.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_103",
+        "statement": "Certain stars are visible only in certain seasons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_104",
+        "statement": "The North Star remains nearly fixed in the sky while other stars rotate around it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_105",
+        "statement": "Winds blow from different directions in different seasons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_106",
+        "statement": "Tides rise and fall in coastal waters.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_107",
+        "statement": "Copper turns green when exposed to air over time.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_108",
+        "statement": "A heavy stone sinks in water while dry wood floats.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_109",
+        "statement": "Fever and chills are signs of illness.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_110",
+        "statement": "Wounds left untreated fester and cause death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_111",
+        "statement": "Garlic and onions grow in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_112",
+        "statement": "Bees produce honey and wax.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_113",
+        "statement": "Dolphins live in the sea and breathe air.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_114",
+        "statement": "Snakes shed their skin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_115",
+        "statement": "Birds migrate south in winter and return in spring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_116",
+        "statement": "Pregnant women carry their children for roughly ten lunar months.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_117",
+        "statement": "Milk curdles when mixed with certain substances.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_118",
+        "statement": "Ivory comes from the tusks of elephants.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_119",
+        "statement": "Purple dye is extracted from sea snails by the Phoenicians.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_et_120",
+        "statement": "Cedar wood resists rot longer than most other woods.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p02_ef_001",
+        "statement": "The Nile River flows from the sea southward into the heart of Libya.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_002",
+        "statement": "Sparta is an island located in the middle of the Aegean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_003",
+        "statement": "The Persians were defeated at Marathon by the Egyptians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_004",
+        "statement": "Athens is situated on the western coast of Iberia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_005",
+        "statement": "Darius the Great was a pharaoh of Egypt who built the pyramids at Giza.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_006",
+        "statement": "The Greeks and Persians fought together as allies at Thermopylae against the Scythians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_007",
+        "statement": "Croesus was king of Sparta and conquered all of Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_008",
+        "statement": "The Hellespont is a vast ocean separating Libya from India.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_009",
+        "statement": "Egypt receives more rainfall than any other land known to men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_010",
+        "statement": "The pyramids of Giza were built by the Carthaginians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_011",
+        "statement": "Babylon is a small fishing village on the coast of Greece.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_012",
+        "statement": "The Olympic Games originated in Persia and were brought to Greece by Xerxes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_013",
+        "statement": "Xerxes invaded Greece with a fleet of only three ships.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_014",
+        "statement": "The Phoenicians never learned the art of sailing or navigation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_015",
+        "statement": "The Spartans sent their largest army ever to fight at Marathon alongside the Athenians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_016",
+        "statement": "Cambyses conquered Greece and burned Athens to the ground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_017",
+        "statement": "The Black Sea is a freshwater lake smaller than Lake Moeris in Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_018",
+        "statement": "The Lydians used a barter system and never invented coinage.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_019",
+        "statement": "The Euphrates River flows through the center of Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_020",
+        "statement": "Memphis is a Greek city located north of Thessaly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_021",
+        "statement": "The battle of Salamis was a land battle fought in the deserts of Libya.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_022",
+        "statement": "Cyrus the Great was born in Athens and ruled as an Athenian tyrant.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_023",
+        "statement": "The Scythians are a seafaring people who live on islands south of Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_024",
+        "statement": "Thermopylae is a wide open plain where cavalry can maneuver freely.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_025",
+        "statement": "The Egyptians worship no gods and have no temples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_026",
+        "statement": "The Danube River flows eastward through Egypt into the Red Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_027",
+        "statement": "Miltiades commanded the Persian forces at the battle of Marathon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_028",
+        "statement": "The Ionians are a tribe native to Persia who have never spoken Greek.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_029",
+        "statement": "Delphi is located on the coast of Egypt near the mouth of the Nile.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_030",
+        "statement": "The Phoenicians never sailed beyond the Pillars of Heracles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_031",
+        "statement": "Leonidas was king of Athens and led the Athenian navy at Salamis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_032",
+        "statement": "The Medes were a Greek-speaking people who lived on Crete.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_033",
+        "statement": "The Persians built the Great Pyramid for Pharaoh Cheops.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_034",
+        "statement": "Susa is a port city on the western coast of the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_035",
+        "statement": "The Ethiopians have pale white skin and straight golden hair.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_036",
+        "statement": "Sardis was the capital city of the Spartan kingdom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_037",
+        "statement": "The Caspian Sea is connected to the great outer ocean on its northern shore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_038",
+        "statement": "The Athenians fought against Greece on behalf of Xerxes during the Persian invasion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_039",
+        "statement": "Solon was a Babylonian priest who never visited Athens.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_040",
+        "statement": "The Egyptians write their script from left to right, the same as the Greeks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_041",
+        "statement": "Pisistratus was a Persian satrap who governed Lydia for Darius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_042",
+        "statement": "The Red Sea is a narrow river that flows through the center of Babylon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_043",
+        "statement": "The Massagetae are a people who live in southern Egypt along the Nile.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_044",
+        "statement": "Themistocles commanded the Spartan army at the battle of Plataea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_045",
+        "statement": "The Greeks learned the alphabet from the Scythians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_046",
+        "statement": "Samos is a landlocked city in the interior of Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_047",
+        "statement": "The Colossus at Rhodes was built before the Trojan War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_048",
+        "statement": "Polycrates was tyrant of Sparta and conquered all of Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_049",
+        "statement": "The Indus River flows through the land of the Lydians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_050",
+        "statement": "Corinth is located on an island far to the east of Cyprus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_051",
+        "statement": "The Egyptians mummify no one and simply bury their dead in open fields.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_052",
+        "statement": "The Persians worship carved wooden idols in great stone temples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_053",
+        "statement": "The Nile floods every year during the winter months.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_054",
+        "statement": "Carthage was founded by Spartan colonists in the age of Heracles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_055",
+        "statement": "The Amazons were a tribe of men who lived in the heart of Lacedaemon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_056",
+        "statement": "The Greeks at Thermopylae numbered over one million soldiers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_057",
+        "statement": "Mardonius led the Greek forces to victory at the battle of Marathon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_058",
+        "statement": "The Assyrian Empire was located on the islands west of Sicily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_059",
+        "statement": "The Phoenicians originated in India and migrated to landlocked mountain territories.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_060",
+        "statement": "Darius built a bridge of stone across the entire width of the Mediterranean Sea.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_061",
+        "statement": "The Spartans are known for their love of long speeches and elaborate rhetoric.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_062",
+        "statement": "The labyrinth in Egypt is a tiny single-room structure of no significance.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_063",
+        "statement": "Croesus tested the oracle at Delphi and found it always gave false answers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_064",
+        "statement": "The Thessalians fought as the strongest naval power at the battle of Salamis.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_065",
+        "statement": "Egypt is a cold northern land covered in snow for most of the year.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_066",
+        "statement": "The Trojan War was fought between Persia and Egypt over control of Babylon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_067",
+        "statement": "Herakles was a mortal king of Persia who never appeared in Greek legend.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_068",
+        "statement": "The Athenians had no navy and fought exclusively on land during the Persian Wars.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_069",
+        "statement": "The Tigris and Euphrates rivers flow through the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_070",
+        "statement": "The Scythians are known for their vast cities and monumental stone architecture.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_071",
+        "statement": "Lydia is an island in the western Mediterranean near the Pillars of Heracles.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_072",
+        "statement": "The oracle at Delphi was dedicated to the goddess Isis of Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_073",
+        "statement": "The Spartans wore elaborate flowing robes and adorned themselves with gold jewelry in battle.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_074",
+        "statement": "Marathon is located on the coast of Asia Minor near the city of Miletus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_075",
+        "statement": "The Egyptians use no form of writing and keep no written records.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_076",
+        "statement": "Xerxes retreated from Greece before the battle of Thermopylae ever took place.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_077",
+        "statement": "The Greeks had no knowledge of wine and drank only water and milk.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_078",
+        "statement": "The Persians speak a dialect of Greek and share the same alphabet.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_079",
+        "statement": "The Mediterranean Sea is a small freshwater pond surrounded entirely by Libya.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_080",
+        "statement": "Cleomenes was king of Lydia and an ally of Persia against Sparta.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_081",
+        "statement": "The Nile Delta is located in the far south of Egypt near Ethiopia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_082",
+        "statement": "The Phoenicians never established the city of Tyre.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_083",
+        "statement": "The battle of Plataea was fought entirely at sea near the coast of Ionia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_084",
+        "statement": "Aegina is a vast continent larger than Libya located beyond India.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_085",
+        "statement": "The Egyptians built their temples from untreated wood and animal hides.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_086",
+        "statement": "Darius crossed into Europe by building a bridge across the Nile.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_087",
+        "statement": "The Spartans maintained no army and relied entirely on hired foreign mercenaries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_088",
+        "statement": "The Greeks had no city-states and were governed by a single king in Thebes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_089",
+        "statement": "Cyrus the Great was defeated and killed by Croesus of Lydia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_090",
+        "statement": "The Athenian Acropolis is a flat open field with no buildings or temples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_091",
+        "statement": "The Persians have no king and govern themselves through democratic assemblies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_092",
+        "statement": "The Ionian revolt against Persia was led by the Spartans from the city of Susa.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_093",
+        "statement": "The Egyptians consider the cat to be a hated and despised animal.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_094",
+        "statement": "Naucratis is a Greek trading colony located in the mountains of Scythia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_095",
+        "statement": "The Carians are a people native to the interior of Ethiopia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_096",
+        "statement": "The Hellespont freezes solid every summer and thaws in winter.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_097",
+        "statement": "Pericles led the Athenian forces at the battle of Marathon against Darius.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_098",
+        "statement": "The Arabians live in a frozen land of ice north of Scythia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_099",
+        "statement": "The Lydians and Greeks never engaged in any trade or cultural exchange.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_100",
+        "statement": "The great walls of Babylon were made of unbaked mud and stood only knee-high.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_101",
+        "statement": "Hecataeus was a Persian general who fought against the Ionian Greeks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_102",
+        "statement": "The Samians never built any temples or engaged in monumental construction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_103",
+        "statement": "The Thessalians are an island people who have no horses or cavalry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_104",
+        "statement": "The Nile contains no fish and supports no life along its banks.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_105",
+        "statement": "The Egyptians consider pigs to be the most sacred of all animals used in every temple rite.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_106",
+        "statement": "India is a frozen wasteland where no crops can grow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_107",
+        "statement": "The battle of Lade was a great Greek naval victory over the Persians.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_108",
+        "statement": "The Argives sent their full army to fight the Persians at Thermopylae.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_109",
+        "statement": "The Cyclops built the walls of Babylon for King Nebuchadnezzar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_110",
+        "statement": "The Phoenicians never engaged in trade or commerce of any kind.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_111",
+        "statement": "The Spartans surrendered immediately to Xerxes without any resistance at Thermopylae.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_112",
+        "statement": "The Danube is a small stream that dries up completely every summer.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_113",
+        "statement": "Sesostris was a king of Sparta who conquered all of Asia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_114",
+        "statement": "The Greeks learned geometry from the Scythians of the northern steppes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_115",
+        "statement": "Tyre and Sidon are inland cities in the mountains of the Peloponnese.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_116",
+        "statement": "The Persians have no system of roads or messengers connecting their empire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_117",
+        "statement": "The Egyptians bury their dead facing downward in unmarked shallow pits without ceremony.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_118",
+        "statement": "Artemisia of Halicarnassus fought against Xerxes at the battle of Salamis as a Greek commander.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_119",
+        "statement": "The land of Egypt lies entirely above the Nile and receives no benefit from the river.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_ef_120",
+        "statement": "Gold is the most common and least valued metal in all of Greece and Persia.",
+        "objective_truth": false
+      }
+    ],
+    "era_believed": [
+      {
+        "id": "p02_herodotus_eb_001",
+        "statement": "The Nile River floods each year because strong southern winds prevent its waters from reaching the sea.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus discusses multiple theories about the Nile flood, including this wind-based explanation which he considers plausible despite ultimately favoring melting snow theory."
+      },
+      {
+        "id": "p02_herodotus_eb_002",
+        "statement": "The sun is drawn across the sky each day by the chariot of Helios.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus shows openness to mythological explanations for natural phenomena, balancing empirical observation with traditional Greek religious beliefs."
+      },
+      {
+        "id": "p02_herodotus_eb_003",
+        "statement": "The Phoenicians successfully sailed around the entire continent of Libya from east to west in three years.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this circumnavigation claim while noting skepticism about some details, showing his willingness to record remarkable but unverified accounts."
+      },
+      {
+        "id": "p02_herodotus_eb_004",
+        "statement": "The strong winds from the north blow the Nile's waters back upstream, causing the summer floods.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus presents this as one viable explanation for the Nile's flooding, demonstrating his method of exploring multiple theories for natural phenomena."
+      },
+      {
+        "id": "p02_herodotus_eb_005",
+        "statement": "The Black Sea is the most remarkable of all seas because of its unique properties and inhabitants.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus shows fascination with distant regions and their unusual characteristics, often presenting subjective assessments as factual observations."
+      },
+      {
+        "id": "p02_herodotus_eb_006",
+        "statement": "The Caspian Sea is an entirely landlocked body of water unconnected to any ocean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "This was a disputed geographical question in Herodotus's time; his position here shows careful geographic reasoning within the limits of available knowledge."
+      },
+      {
+        "id": "p02_herodotus_eb_007",
+        "statement": "The earth is a flat disk surrounded by the river Ocean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Greek cosmological model that Herodotus would accept, despite his critical approach to some traditional beliefs."
+      },
+      {
+        "id": "p02_herodotus_eb_008",
+        "statement": "The sun moves closer to the earth in winter, which is why it takes a southern path over Libya.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus offers naturalistic explanations for seasonal changes, showing his effort to understand natural phenomena through physical causes."
+      },
+      {
+        "id": "p02_herodotus_eb_009",
+        "statement": "The phoenix is a real bird that visits Heliopolis in Egypt every five hundred years.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this Egyptian religious tradition while noting he hasn't seen the bird personally, showing his characteristic balance between skepticism and inclusion of remarkable claims."
+      },
+      {
+        "id": "p02_herodotus_eb_010",
+        "statement": "The skulls of Persians are thinner than Egyptian skulls because Persians wear soft felt caps while Egyptians shave their heads.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "This reflects Herodotus's method of explaining physical differences through cultural practices, demonstrating his proto-anthropological thinking."
+      },
+      {
+        "id": "p02_herodotus_eb_011",
+        "statement": "The inhabited world extends no farther north than Scythia, beyond which lies perpetual cold and emptiness.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Represents the northern limits of Greek geographical knowledge, which Herodotus would accept based on available evidence from Scythian sources."
+      },
+      {
+        "id": "p02_herodotus_eb_012",
+        "statement": "The Danube is the greatest river in the known world, exceeding even the Nile in length.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus's assessment based on available information about European geography, showing his comparative method applied to physical geography."
+      },
+      {
+        "id": "p02_herodotus_eb_013",
+        "statement": "If the Nile changed course to flow into the Red Sea, it fills that entire sea within twenty thousand years.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Demonstrates Herodotus's attempt at quantitative reasoning about geological processes, though his time scales are vastly underestimated. [v2: removed modal/speculative framing]"
+      },
+      {
+        "id": "p02_herodotus_eb_014",
+        "statement": "The source of the Nile is completely unknown and unknowable to any human investigation.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus acknowledges the limits of geographical knowledge while maintaining that some mysteries may be permanently beyond human understanding."
+      },
+      {
+        "id": "p02_herodotus_eb_015",
+        "statement": "The lands beyond India to the east are uninhabitable desert and emptiness.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Represents the eastern boundary of Greek geographical knowledge, which Herodotus would accept as the edge of the habitable world."
+      },
+      {
+        "id": "p02_herodotus_eb_016",
+        "statement": "The Milky Way is a stream of milk placed in the sky by the goddess Hera.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus would be familiar with and accept traditional Greek mythological explanations for celestial phenomena."
+      },
+      {
+        "id": "p02_herodotus_eb_017",
+        "statement": "The continent of Asia is larger than Europe and Libya combined.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Based on Herodotus's travels and investigations, this would seem reasonable given the extent of the Persian Empire versus the known Mediterranean world."
+      },
+      {
+        "id": "p02_herodotus_eb_018",
+        "statement": "The Egyptian labyrinth surpasses even the pyramids and exceeds the combined achievements of all Greek architecture.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reflects Herodotus's genuine amazement at Egyptian monumental architecture and his tendency to present subjective impressions as authoritative judgments."
+      },
+      {
+        "id": "p02_herodotus_eb_019",
+        "statement": "The Colchians are descendants of Egyptian soldiers because they practice circumcision and have dark skin.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Exemplifies Herodotus's method of tracing historical connections through cultural similarities, a reasonable approach given his available evidence."
+      },
+      {
+        "id": "p02_herodotus_eb_020",
+        "statement": "The entire southern portion of Africa is uninhabitable due to extreme heat from the sun.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Logical conclusion based on Greek climate theory and the observed correlation between latitude and temperature."
+      },
+      {
+        "id": "p02_herodotus_eb_021",
+        "statement": "The Scythians universally blind their slaves who churn mare's milk to prevent escape.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports striking cultural practices from distant peoples, sometimes generalizing specific incidents to entire populations."
+      },
+      {
+        "id": "p02_herodotus_eb_022",
+        "statement": "The Mediterranean region represents the center and most temperate part of the habitable world.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Natural assumption for a Greek observer, supported by comparison with the extreme climates reported from distant lands."
+      },
+      {
+        "id": "p02_herodotus_eb_023",
+        "statement": "The Massagetae eat only the flesh of their horses and drink only mare's milk.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus describes exotic customs of distant peoples, sometimes overstating the exclusivity of particular practices."
+      },
+      {
+        "id": "p02_herodotus_eb_024",
+        "statement": "The Persians learned their practice of pederasty entirely from contact with the Greeks.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Reflects Herodotus's interest in cultural transmission and his Greek perspective on the origins of various customs."
+      },
+      {
+        "id": "p02_herodotus_eb_025",
+        "statement": "The Hyperboreans are a real people living in perpetual happiness beyond the north wind.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus expresses some skepticism about this legend but includes it as part of his comprehensive coverage of reported peoples and places."
+      },
+      {
+        "id": "p02_herodotus_eb_026",
+        "statement": "The Amazons are a real nation of warrior women living near the Black Sea.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus treats Amazon traditions as historical fact, incorporating them into his account of Scythian ethnography."
+      },
+      {
+        "id": "p02_herodotus_eb_027",
+        "statement": "When an Egyptian cat dies naturally, household members shave their eyebrows in mourning.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports specific Egyptian religious customs with great detail, showing his ethnographic interest in unusual foreign practices."
+      },
+      {
+        "id": "p02_herodotus_eb_028",
+        "statement": "The Trojan War was an actual historical event with gods directly intervening in the battles.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus accepts the historicity of Homeric traditions while maintaining the reality of divine intervention in human affairs."
+      },
+      {
+        "id": "p02_herodotus_eb_029",
+        "statement": "The phoenix builds a nest of myrrh and carries its dead father encased in a myrrh egg to Heliopolis.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus records this Egyptian religious tradition with specific details while noting his reliance on priestly accounts."
+      },
+      {
+        "id": "p02_herodotus_eb_030",
+        "statement": "The Padaean tribe of India kills and eats any member of their group who falls ill.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Represents Herodotus's fascination with exotic customs from the edges of the known world, based on Persian and Indian sources."
+      },
+      {
+        "id": "p02_herodotus_eb_031",
+        "statement": "The peoples of Libya beyond the Sahara include dog-headed men and headless men with eyes in their chests.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports these marvels from distant lands while acknowledging they come from secondhand accounts of uncertain reliability."
+      },
+      {
+        "id": "p02_herodotus_eb_032",
+        "statement": "The story of Arion being carried to shore by a dolphin is literally true.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus treats this as historical fact, demonstrating his acceptance of remarkable but not impossible divine interventions."
+      },
+      {
+        "id": "p02_herodotus_eb_033",
+        "statement": "The Spartan force at Thermopylae numbered exactly three hundred men with no additional troops.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's precise numbers sometimes reflect symbolic rather than literal accuracy, typical of early historical method."
+      },
+      {
+        "id": "p02_herodotus_eb_034",
+        "statement": "The walls of Babylon measure fifty royal cubits in width and two hundred cubits in height.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Demonstrates Herodotus's reliance on local informants for specific measurements of foreign architectural marvels."
+      },
+      {
+        "id": "p02_herodotus_eb_035",
+        "statement": "The pyramids of Egypt were built by one hundred thousand slaves working in three-month shifts for twenty years.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus provides specific details from Egyptian priestly sources, showing his method of recording official explanations."
+      },
+      {
+        "id": "p02_herodotus_eb_036",
+        "statement": "The Persian army that invaded Greece numbered over five million soldiers including camp followers.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's enormous figures for Persian forces reflect the Greek perception of facing an unprecedented invasion from a vast empire."
+      },
+      {
+        "id": "p02_herodotus_eb_037",
+        "statement": "The Scythians blind their slaves to prevent them from seeing the milk-churning process and escaping.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus explains unusual practices through practical reasoning, showing his attempt to find logical explanations for exotic customs."
+      },
+      {
+        "id": "p02_herodotus_eb_038",
+        "statement": "The Nile crocodile and the Egyptian plover bird have a mutual cleaning arrangement that occurs universally.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports this natural history observation, generalizing from specific instances to universal behavior patterns."
+      },
+      {
+        "id": "p02_herodotus_eb_039",
+        "statement": "The labyrinth of Egypt contains exactly three thousand rooms, half above ground and half below.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Reflects Herodotus's precision in reporting architectural details provided by Egyptian guides and priests."
+      },
+      {
+        "id": "p02_herodotus_eb_040",
+        "statement": "The Egyptians invented geometry out of practical necessity and later taught it to the Greeks.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Demonstrates Herodotus's historical method of tracing the origins of knowledge and cultural transmission between civilizations."
+      },
+      {
+        "id": "p02_herodotus_eb_041",
+        "statement": "The alphabet was brought to Greece by the Phoenician hero Cadmus and his followers.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus combines historical reasoning about cultural borrowing with traditional heroic narratives."
+      },
+      {
+        "id": "p02_herodotus_eb_042",
+        "statement": "The inhabited world consists of exactly three continents: Europe, Asia, and Libya.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Greek geographical framework that Herodotus accepts and uses throughout his work."
+      },
+      {
+        "id": "p02_herodotus_eb_043",
+        "statement": "No southern ocean connects the Atlantic and Indian waters around the bottom of Africa.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus expresses skepticism about the possibility of circumnavigating Africa, reflecting limited geographical knowledge."
+      },
+      {
+        "id": "p02_herodotus_eb_044",
+        "statement": "No sea passage connects the Mediterranean directly to the Indian Ocean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Accurate reflection of ancient geographical understanding before the Red Sea-Mediterranean canal projects."
+      },
+      {
+        "id": "p02_herodotus_eb_045",
+        "statement": "The Red Sea gets its distinctive color from the reddish hue naturally present in its waters.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus would seek naturalistic explanations for geographical names and natural phenomena."
+      },
+      {
+        "id": "p02_herodotus_eb_046",
+        "statement": "The sun is smaller in size than the landmass of the Peloponnese.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Conservative estimate that would seem reasonable to most Greeks, contrasting with Anaxagoras's controversial claim that it was larger."
+      },
+      {
+        "id": "p02_herodotus_eb_047",
+        "statement": "Gold-digging ants larger than foxes excavate gold dust in the deserts of India.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this marvel from Persian sources about the Indian frontier, typical of his inclusion of exotic distant phenomena."
+      },
+      {
+        "id": "p02_herodotus_eb_048",
+        "statement": "All of Egypt is essentially a gift of the Nile River and was built up from river silt within historical memory.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's famous observation about Egypt's geological formation, showing his interest in environmental explanations for civilization."
+      },
+      {
+        "id": "p02_herodotus_eb_049",
+        "statement": "Flying serpents guard the frankincense trees in Arabia and must be driven off with burning styrax.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports Arabian customs and natural history from merchants and Persian informants, including fabulous protective creatures."
+      },
+      {
+        "id": "p02_herodotus_eb_050",
+        "statement": "Crocodiles in Egypt are sacred animals that continue growing throughout their entire lives without any natural limit.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Combines Herodotus's observation of Egyptian religious practices with natural history claims from local sources."
+      },
+      {
+        "id": "p02_herodotus_eb_051",
+        "statement": "The heart is the seat of intelligence and thought in the human body.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Standard Greek medical understanding that Herodotus would share with most educated contemporaries."
+      },
+      {
+        "id": "p02_herodotus_eb_052",
+        "statement": "The brain exists primarily to cool the blood flowing through the body.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Represents the Greek medical theory that Herodotus would accept as authoritative knowledge."
+      },
+      {
+        "id": "p02_herodotus_eb_053",
+        "statement": "All matter is composed of four fundamental elements: earth, water, air, and fire.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Philosophical framework that educated Greeks like Herodotus would accept as natural philosophy."
+      },
+      {
+        "id": "p02_herodotus_eb_054",
+        "statement": "The Danube River rises in the far west near the Pyrenees and flows eastward to bisect all of Europe.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's geographical understanding of European river systems based on limited Celtic and Scythian information."
+      },
+      {
+        "id": "p02_herodotus_eb_055",
+        "statement": "The Indian Ocean is an enclosed sea completely surrounded by land connecting Africa to Southeast Asia.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Logical geographical assumption based on the known configuration of Mediterranean and Black Sea systems."
+      },
+      {
+        "id": "p02_herodotus_eb_056",
+        "statement": "Hippopotami are sacred animals specifically in the nome of Papremis in Egypt.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's detailed reporting of regional variations in Egyptian religious practices based on priestly information."
+      },
+      {
+        "id": "p02_herodotus_eb_057",
+        "statement": "The earth sits motionless at the center of the universe while the celestial spheres revolve around it.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek cosmological model that Herodotus would accept without question."
+      },
+      {
+        "id": "p02_herodotus_eb_058",
+        "statement": "The sun, moon, and all planets revolve around the stationary earth in perfect circles.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Geocentric astronomy accepted by virtually all Greeks of Herodotus's era."
+      },
+      {
+        "id": "p02_herodotus_eb_059",
+        "statement": "Lions and other large predators are commonly found throughout northern Greece and the Balkan regions.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus mentions lions in Greece and would accept contemporary accounts of their presence in northern regions."
+      },
+      {
+        "id": "p02_herodotus_eb_060",
+        "statement": "Winged snakes fly in great numbers from Arabia toward Egypt each spring and are killed by ibis birds.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports this natural history phenomenon from Egyptian sources, typical of his inclusion of exotic wildlife accounts."
+      },
+      {
+        "id": "p02_herodotus_eb_061",
+        "statement": "Tin is gathered from islands called the Cassiterides at the extreme western edge of the known world.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this geographical information about trade routes to the mysterious source of tin in the far west."
+      },
+      {
+        "id": "p02_herodotus_eb_062",
+        "statement": "The circumference of the entire earth is far smaller than its actual measurement.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Pre-Eratosthenes geographical understanding that significantly underestimated the earth's true size."
+      },
+      {
+        "id": "p02_herodotus_eb_063",
+        "statement": "Amber originates from a northern river called the Eridanus that flows into the outer ocean.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this geographical legend about the source of amber from northern European trade routes."
+      },
+      {
+        "id": "p02_herodotus_eb_064",
+        "statement": "The weasel conceives through its ear and gives birth through its mouth.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Natural history belief that Herodotus would accept from traditional Greek animal lore."
+      },
+      {
+        "id": "p02_herodotus_eb_065",
+        "statement": "The peoples living at the extreme edges of the habitable world possess the most remarkable and valuable natural resources.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's observation about the distribution of exotic goods and natural wonders, which seemed empirically supported."
+      },
+      {
+        "id": "p02_herodotus_eb_066",
+        "statement": "Gold is more abundant in India than in any other country known to Greeks and Persians.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Based on Persian accounts of Indian wealth and the evidence of gold trade routes through the empire."
+      },
+      {
+        "id": "p02_herodotus_eb_067",
+        "statement": "King Darius successfully carved a canal connecting the Nile directly to the Red Sea.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus would credit this as a genuine Persian engineering achievement based on Egyptian and Persian sources."
+      },
+      {
+        "id": "p02_herodotus_eb_068",
+        "statement": "Thunderbolts are weapons hurled by Zeus to punish the wicked and strike the tallest objects.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Traditional Greek religious explanation for lightning that Herodotus would accept alongside naturalistic observations."
+      },
+      {
+        "id": "p02_herodotus_eb_069",
+        "statement": "The Nile Delta was once a vast bay of the Mediterranean comparable to the Arabian Gulf.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's geological theory about Egypt's formation, showing his interest in environmental history."
+      },
+      {
+        "id": "p02_herodotus_eb_070",
+        "statement": "Egyptian mummification permanently preserves the human body for eternity so the soul can return to it.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus explains Egyptian burial customs in terms of their religious beliefs about afterlife and bodily preservation."
+      },
+      {
+        "id": "p02_herodotus_eb_071",
+        "statement": "The ocean surrounding the known world is a single continuous river flowing in a perfect circle around all land.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Standard Greek geographical model that Herodotus accepts while noting some uncertainties about its complete circuit."
+      },
+      {
+        "id": "p02_herodotus_eb_072",
+        "statement": "Fossilized seashells found in Egyptian mountains prove that Egypt was once entirely covered by seawater.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's geological reasoning based on empirical observation, demonstrating his proto-scientific method."
+      },
+      {
+        "id": "p02_herodotus_eb_073",
+        "statement": "The liver is the primary organ for divination because it reveals the will and intentions of the gods.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Religious practice that Herodotus would respect as a legitimate means of divine communication, observed across many cultures."
+      },
+      {
+        "id": "p02_herodotus_eb_074",
+        "statement": "The races of people at the edges of the earth include monstrous forms like one-eyed men and goat-footed peoples.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports these marvels from distant lands while maintaining some skepticism about the most extraordinary claims."
+      },
+      {
+        "id": "p02_herodotus_eb_075",
+        "statement": "Plague and pestilence are punishments sent by Apollo through his arrows of disease.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Traditional Greek religious understanding of disease causation that Herodotus would accept alongside medical explanations."
+      },
+      {
+        "id": "p02_herodotus_eb_076",
+        "statement": "The position of stars and planets at birth determines a person's fate and character throughout life.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Astrological beliefs that were becoming influential in Greece through Eastern contacts, which Herodotus might find plausible."
+      },
+      {
+        "id": "p02_herodotus_eb_077",
+        "statement": "The earth remains perfectly stationary and does not rotate on any axis.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Universal Greek assumption about terrestrial stability that Herodotus would never question."
+      },
+      {
+        "id": "p02_herodotus_eb_078",
+        "statement": "The veins and arteries all originate from the head rather than from the heart.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Alternative Greek medical theory that Herodotus might encounter and accept from Egyptian or other foreign medical traditions."
+      },
+      {
+        "id": "p02_herodotus_eb_079",
+        "statement": "The beaver bites off its own testicles when pursued by hunters to save its life.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Natural history legend that Herodotus would accept as an example of animal intelligence and self-preservation."
+      },
+      {
+        "id": "p02_herodotus_eb_080",
+        "statement": "Certain Ethiopian peoples live to one hundred twenty years because they bathe in a violet-scented spring.",
+        "objective_truth": false,
+        "source": "orig",
+        "quality_note": "Herodotus reports this marvel from the edges of the known world, typical of his interest in extraordinary longevity claims."
+      },
+      {
+        "id": "p02_herodotus_eb_081",
+        "statement": "The oracles at Delphi and Dodona accurately predict future events through direct divine inspiration.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus demonstrates genuine belief in oracular power while maintaining critical judgment about specific predictions."
+      },
+      {
+        "id": "p02_herodotus_eb_082",
+        "statement": "Certain Indian peoples ritually eat their deceased parents as a sacred funerary practice universally observed in their tribe.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports exotic burial customs from the Persian Empire's eastern frontier, showing his ethnographic interests."
+      },
+      {
+        "id": "p02_herodotus_eb_083",
+        "statement": "The Arimaspians are a one-eyed people who steal gold from griffins in the far northern steppes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus includes this legendary account from Aristeas about the remote north, showing his coverage of traditional tales."
+      },
+      {
+        "id": "p02_herodotus_eb_084",
+        "statement": "The Neuri people transform themselves into wolves for several days each year and then resume human form.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports this Scythian legend about their northern neighbors while expressing some personal skepticism."
+      },
+      {
+        "id": "p02_herodotus_eb_085",
+        "statement": "The Androphagi are the most savage of peoples and are the only nation that regularly practices cannibalism.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus describes this Scythian tribe based on reports from the Black Sea region, emphasizing their extreme cultural differences."
+      },
+      {
+        "id": "p02_herodotus_eb_086",
+        "statement": "The Trojan War occurred approximately eight hundred years before the present time.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's chronological estimation of the heroic age, demonstrating his historical method of dating distant events."
+      },
+      {
+        "id": "p02_herodotus_eb_087",
+        "statement": "The Great Pyramid was built by one hundred thousand laborers working in three-month shifts over exactly twenty years.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports these specific details from Egyptian priestly sources, showing his method of recording official explanations."
+      },
+      {
+        "id": "p02_herodotus_eb_088",
+        "statement": "The stones of the Great Pyramid were raised into place using short wooden levers at each successive level.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Engineering explanation that Herodotus received from Egyptian informants about pyramid construction methods."
+      },
+      {
+        "id": "p02_herodotus_eb_089",
+        "statement": "The Egyptians were the first people to discover the solar year and divide it into twelve months of thirty days each.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus credits Egyptian priests with astronomical innovations, showing his respect for their scientific achievements."
+      },
+      {
+        "id": "p02_herodotus_eb_090",
+        "statement": "The Egyptians invented geometry out of necessity because the Nile floods erased land boundaries each year.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus explains the practical origins of abstract knowledge, demonstrating his interest in cultural development."
+      },
+      {
+        "id": "p02_herodotus_eb_091",
+        "statement": "The ibis bird is sacred in Egypt because it kills winged serpents that would otherwise fly from Arabia into Egypt.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus explains Egyptian religious practices through natural history, showing his method of finding rational explanations."
+      },
+      {
+        "id": "p02_herodotus_eb_092",
+        "statement": "The Egyptian embalming process perfectly preserves the body for eternity so the soul returns to inhabit it.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus describes mummification in terms of Egyptian religious beliefs about afterlife and bodily resurrection. [v2: removed_may]"
+      },
+      {
+        "id": "p02_herodotus_eb_093",
+        "statement": "The brain serves no important function in the body, which is why Egyptian embalmers discard it entirely.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Medical understanding that Herodotus would accept from Egyptian practitioners, contrasting with Greek cardiac theories."
+      },
+      {
+        "id": "p02_herodotus_eb_094",
+        "statement": "The Persian royal road from Sardis to Susa extends exactly thirteen thousand five hundred stadia in total length.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Precise measurement that Herodotus provides based on Persian administrative records and personal investigation."
+      },
+      {
+        "id": "p02_herodotus_eb_095",
+        "statement": "Queen Tomyris and the Massagetae defeated and killed Cyrus by luring his army into a trap with wine.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's preferred version of Cyrus's death, showing his interest in dramatic historical narratives."
+      },
+      {
+        "id": "p02_herodotus_eb_096",
+        "statement": "The Ethiopian Table of the Sun is a meadow where boiled meat appears each night, placed there by the earth itself.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus reports this Ethiopian marvel, showing his inclusion of wonderful phenomena from the world's edges."
+      },
+      {
+        "id": "p02_herodotus_eb_097",
+        "statement": "The Scythians blind their slaves specifically so they cannot see the milk-churning process and plan escapes.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus provides practical explanations for unusual customs, demonstrating his rationalistic approach to ethnography."
+      },
+      {
+        "id": "p02_herodotus_eb_098",
+        "statement": "Royal Scythians bury their dead kings with strangled servants and horses arranged ceremonially in great mounds.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus describes Scythian burial practices based on eyewitness accounts from the Black Sea Greek colonies."
+      },
+      {
+        "id": "p02_herodotus_eb_099",
+        "statement": "The wealth of King Croesus was so vast that Lydia contributed more gold than any other nation on earth.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's assessment of Lydian wealth based on the famous stories of Croesus and the gold-bearing Pactolus River."
+      },
+      {
+        "id": "p02_herodotus_eb_100",
+        "statement": "The Lydians were the first people in the world to mint coins of gold and silver for commercial use.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Historical claim that Herodotus makes about Lydian innovations, representing his interest in the origins of customs."
+      },
+      {
+        "id": "p02_herodotus_eb_101",
+        "statement": "At Thermopylae exactly three hundred Spartans fought alone without any allied Greek forces alongside them.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus emphasizes the Spartan contingent while downplaying other Greek forces present at the battle."
+      },
+      {
+        "id": "p02_herodotus_eb_102",
+        "statement": "The oracle at Delphi speaks true prophecies because Apollo directly possesses the Pythia during her divinely inspired trance.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus accepts the reality of divine possession while maintaining critical judgment about specific oracular responses."
+      },
+      {
+        "id": "p02_herodotus_eb_103",
+        "statement": "Xerxes invaded Greece with an army numbering approximately 1.7 million fighting men plus an equal number of support personnel.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's calculation of Persian forces, reflecting Greek amazement at the scale of the invasion."
+      },
+      {
+        "id": "p02_herodotus_eb_104",
+        "statement": "The circumnavigation of Africa described by Phoenician sailors is impossible because the sun would appear on the wrong side.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus rejects this account precisely because of details that actually prove its authenticity, showing geographical limitations."
+      },
+      {
+        "id": "p02_herodotus_eb_105",
+        "statement": "The customs of distant peoples become more strange and marvelous the farther they live from the civilized Greek world.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's ethnographic observation about cultural distance, reflecting Greek assumptions about civilization's center."
+      },
+      {
+        "id": "p02_herodotus_eb_106",
+        "statement": "Divine intervention regularly occurs in human affairs and can be detected through careful observation of events.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's religious worldview that combines empirical observation with belief in divine causation."
+      },
+      {
+        "id": "p02_herodotus_eb_107",
+        "statement": "The rise and fall of human fortune follows predictable patterns ordained by divine justice.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Central theme in Herodotus's historical philosophy about the cyclical nature of power and divine retribution."
+      },
+      {
+        "id": "p02_herodotus_eb_108",
+        "statement": "The Persian Empire represents the largest political organization that has ever existed in human history.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Assessment based on Herodotus's knowledge of comparative civilizations, accurate within his historical horizon."
+      },
+      {
+        "id": "p02_herodotus_eb_109",
+        "statement": "The Greek victory over Persia proves that free peoples fighting for their homeland always defeat larger tyrannical forces.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Political lesson that Herodotus draws from the Persian Wars, reflecting Greek values about freedom versus despotism."
+      },
+      {
+        "id": "p02_herodotus_eb_110",
+        "statement": "Historical investigation can discover the true causes of great events through careful inquiry and comparison of sources.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's methodological confidence in his pioneering approach to historical research and cross-cultural investigation."
+      },
+      {
+        "id": "p02_herodotus_eb_111",
+        "statement": "The natural world contains many marvels that exceed normal experience but can be verified through trustworthy witnesses.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's epistemological approach to extraordinary claims, balancing skepticism with openness to remarkable phenomena."
+      },
+      {
+        "id": "p02_herodotus_eb_112",
+        "statement": "Each nation's customs appear natural and correct to themselves but strange and wrong to all foreigners.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's anthropological insight about cultural relativism, advanced for his time but still within Greek conceptual limits."
+      },
+      {
+        "id": "p02_herodotus_eb_113",
+        "statement": "The edges of the inhabited world contain the most valuable resources as compensation for their harsh climates.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's geographical theory about resource distribution, supported by observations of exotic trade goods."
+      },
+      {
+        "id": "p02_herodotus_eb_114",
+        "statement": "Human societies develop from simple beginnings to complex civilization through gradual accumulation of knowledge and customs.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Proto-evolutionary thinking that Herodotus applies to cultural development, showing his historical sophistication."
+      },
+      {
+        "id": "p02_herodotus_eb_115",
+        "statement": "The size and power of nations depends primarily on their geographical advantages and natural resources.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Environmental determinism that Herodotus uses to explain the rise of different civilizations."
+      },
+      {
+        "id": "p02_herodotus_eb_116",
+        "statement": "Writing and record-keeping allow civilizations to preserve knowledge and achieve greater complexity than oral cultures.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's insight about the importance of literacy for cultural development and historical preservation."
+      },
+      {
+        "id": "p02_herodotus_eb_117",
+        "statement": "Trade and cultural contact between peoples leads to the spread of useful innovations and religious ideas.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's understanding of diffusion processes, demonstrated throughout his accounts of inter-cultural borrowing."
+      },
+      {
+        "id": "p02_herodotus_eb_118",
+        "statement": "Military technology and tactics evolve through contact between different peoples during warfare.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Observation about military innovation that Herodotus makes throughout his narrative of Greek-Persian conflicts."
+      },
+      {
+        "id": "p02_herodotus_eb_119",
+        "statement": "The worship of gods and religious practices spread from their original homes to other peoples through migration and contact.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Herodotus's analysis of religious diffusion, showing his comparative approach to mythology and cult practices."
+      },
+      {
+        "id": "p02_herodotus_eb_120",
+        "statement": "The investigation of foreign peoples and distant lands reveals the common humanity underlying all cultural differences.",
+        "objective_truth": false,
+        "source": "refined",
+        "quality_note": "Humanistic conclusion that Herodotus reaches through his ethnographic work, balancing cultural relativism with universal human nature."
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p02_mt_001",
+        "statement": "Alexander the Great conquered the Persian Empire by 330 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_002",
+        "statement": "The Rosetta Stone was carved in 196 BCE during the Ptolemaic dynasty in Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_003",
+        "statement": "The city of Alexandria in Egypt was founded in 331 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_004",
+        "statement": "The Persian Empire fell to Macedonian forces under Alexander III.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_005",
+        "statement": "Darius III was the last king of the Achaemenid Persian dynasty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_006",
+        "statement": "The Battle of Gaugamela in 331 BCE ended Achaemenid control of Mesopotamia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_007",
+        "statement": "Persepolis was burned by Alexander's forces in 330 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_008",
+        "statement": "The Library of Alexandria became the largest repository of knowledge in the ancient world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_009",
+        "statement": "Egyptian hieroglyphics were deciphered using the Rosetta Stone in the 1820s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_010",
+        "statement": "The Ptolemaic dynasty ruled Egypt for nearly three centuries after Alexander's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_011",
+        "statement": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_012",
+        "statement": "The Parthenon in Athens suffered major damage from a Venetian bombardment in 1687 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_013",
+        "statement": "The Behistun Inscription was deciphered by Henry Rawlinson in the 1830s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_014",
+        "statement": "Old Persian cuneiform was decoded in the nineteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_015",
+        "statement": "The Dead Sea Scrolls were discovered near Qumran in 1947 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_016",
+        "statement": "The tomb of Tutankhamun was opened by Howard Carter in 1922 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_017",
+        "statement": "The Suez Canal connecting the Mediterranean and Red Seas was completed in 1869 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_018",
+        "statement": "The Nile River's annual flooding cycle was controlled by the Aswan High Dam in the 1960s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_019",
+        "statement": "The Greek god Serapis was a syncretic deity created during the Ptolemaic period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_020",
+        "statement": "The Septuagint translation of Hebrew scriptures into Greek was produced in Ptolemaic Alexandria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_021",
+        "statement": "Aristotle tutored the young Alexander of Macedon before his conquests.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_022",
+        "statement": "The city of Babylon fell to Alexander the Great in 331 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_023",
+        "statement": "The Maurya Empire in India was established by Chandragupta Maurya around 322 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_024",
+        "statement": "Rome defeated Carthage in the three Punic Wars fought between 264 and 146 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_025",
+        "statement": "Julius Caesar was assassinated in Rome on the Ides of March in 44 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_026",
+        "statement": "The Roman Empire annexed Egypt as a province in 30 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_027",
+        "statement": "The Colosseum in Rome was completed in 80 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_028",
+        "statement": "Christianity originated in the Roman province of Judea in the first century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_029",
+        "statement": "The Roman Empire split into Eastern and Western divisions in 285 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_030",
+        "statement": "Constantinople was founded by Emperor Constantine in 330 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_031",
+        "statement": "The Western Roman Empire fell in 476 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_032",
+        "statement": "The Byzantine Empire preserved Greek texts for over a thousand years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_033",
+        "statement": "The Islamic conquest of Egypt occurred in 641 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_034",
+        "statement": "The Islamic conquest of Persia ended the Sasanian dynasty in 651 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_035",
+        "statement": "Zoroastrianism declined sharply in Persia after the Arab conquest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_036",
+        "statement": "The ancient Egyptian language evolved into Coptic, which is still used liturgically.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_037",
+        "statement": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_038",
+        "statement": "The Colossus of Rhodes was constructed after 304 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_039",
+        "statement": "Euclid wrote his foundational geometry text Elements around 300 BCE in Alexandria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_040",
+        "statement": "Eratosthenes calculated the circumference of the Earth in the third century BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_041",
+        "statement": "Archimedes of Syracuse made major advances in mathematics and engineering in the third century BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_042",
+        "statement": "The Antikythera mechanism, an ancient Greek astronomical calculator, dates to the second century BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_043",
+        "statement": "The Silk Road connected China to the Mediterranean world by the second century BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_044",
+        "statement": "Paper was invented in China around 105 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_045",
+        "statement": "Gunpowder was developed in China during the Tang dynasty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_046",
+        "statement": "The printing press using movable type was invented by Johannes Gutenberg around 1440 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_047",
+        "statement": "The Black Death killed a large portion of Europe's population in the fourteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_048",
+        "statement": "The Ottoman Empire conquered Constantinople in 1453 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_049",
+        "statement": "Christopher Columbus reached the Americas in 1492 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_050",
+        "statement": "The Earth orbits the Sun, as demonstrated by Copernicus in the sixteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_051",
+        "statement": "Galileo Galilei observed the moons of Jupiter through a telescope in 1610 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_052",
+        "statement": "Isaac Newton published his laws of motion and universal gravitation in 1687 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_053",
+        "statement": "The steam engine was developed during the eighteenth century CE in Britain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_054",
+        "statement": "The French Revolution began in 1789 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_055",
+        "statement": "Electricity was harnessed for practical use in the nineteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_056",
+        "statement": "Charles Darwin published On the Origin of Species in 1859 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_057",
+        "statement": "The periodic table of elements was organized by Dmitri Mendeleev in 1869 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_058",
+        "statement": "Radioactivity was discovered by Henri Becquerel in 1896 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_059",
+        "statement": "The Wright brothers achieved powered flight in 1903 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_060",
+        "statement": "Albert Einstein published his theory of special relativity in 1905 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_061",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_062",
+        "statement": "The structure of DNA was described by Watson and Crick in 1953 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_063",
+        "statement": "Humans first landed on the Moon in 1969 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_064",
+        "statement": "The internet became publicly accessible in the 1990s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_065",
+        "statement": "The Scythian permafrost burials in the Altai Mountains preserved tattooed human remains dating to centuries BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_066",
+        "statement": "The Pazyryk burials revealed elaborate Scythian horse sacrifices and textile arts.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_067",
+        "statement": "Lydian coinage was confirmed by modern archaeology as the earliest standardized minted currency.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_068",
+        "statement": "The ruins of Sardis, capital of ancient Lydia, were excavated in the twentieth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_069",
+        "statement": "The site of ancient Troy was excavated by Heinrich Schliemann in the 1870s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_070",
+        "statement": "The Oracle at Delphi ceased functioning under Roman Emperor Theodosius I in the late fourth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_071",
+        "statement": "The Eleusinian Mysteries were suppressed by Christian Roman authorities in 392 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_072",
+        "statement": "Greek polytheistic worship was officially banned by Emperor Theodosius I in 391 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_073",
+        "statement": "The temple of Artemis at Ephesus was destroyed for the final time by a Gothic raid in 262 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_074",
+        "statement": "The statue of Zeus at Olympia was likely destroyed in the fifth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_075",
+        "statement": "The Olympic Games of ancient Greece were abolished by Emperor Theodosius I in 393 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_076",
+        "statement": "The Mausoleum at Halicarnassus was gradually destroyed by earthquakes between the twelfth and fifteenth centuries CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_077",
+        "statement": "Philip II of Macedon unified most of the Greek city-states before his assassination in 336 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_078",
+        "statement": "The League of Corinth was established by Philip II of Macedon in 337 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_079",
+        "statement": "The Battle of Chaeronea in 338 BCE ended the independence of the Greek city-states.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_080",
+        "statement": "Demosthenes delivered his Philippic orations warning Athens against Macedonian expansion.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_081",
+        "statement": "The Hellenistic period began after Alexander the Great's death in 323 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_082",
+        "statement": "Alexander's empire was divided among his generals, known as the Diadochi.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_083",
+        "statement": "The Seleucid Empire controlled much of the former Persian territory after Alexander's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_084",
+        "statement": "The Ptolemaic rulers of Egypt adopted pharaonic traditions and titles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_085",
+        "statement": "The city of Antioch became a major Hellenistic cultural center in Syria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_086",
+        "statement": "The Greco-Bactrian Kingdom spread Greek culture into Central Asia after 250 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_087",
+        "statement": "Greek became the administrative language of Egypt under the Ptolemies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_088",
+        "statement": "The Pharos lighthouse at Alexandria was destroyed by earthquakes in the medieval period.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_089",
+        "statement": "The Achaemenid royal road system was later expanded under Hellenistic and Roman rule.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_090",
+        "statement": "Xenophon wrote the Anabasis describing a Greek mercenary retreat through Persia after 401 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_091",
+        "statement": "Plato founded the Academy in Athens around 387 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_092",
+        "statement": "Aristotle founded the Lyceum in Athens in 335 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_093",
+        "statement": "The Stoic school of philosophy was founded by Zeno of Citium around 300 BCE in Athens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_094",
+        "statement": "Epicurus established his philosophical school in Athens around 306 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_095",
+        "statement": "The Athenian democracy was temporarily overthrown by Macedonian-backed oligarchs in 322 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_096",
+        "statement": "The Spartans were decisively defeated by Thebes at the Battle of Leuctra in 371 BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_097",
+        "statement": "Thebes briefly became the dominant Greek power under Epaminondas in the 360s BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_098",
+        "statement": "The Persian satrapy system was studied and partially adopted by Alexander's successors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_099",
+        "statement": "The Nabataean kingdom at Petra flourished as a trade center after the fourth century BCE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_100",
+        "statement": "The Sasanian Empire revived Persian imperial traditions starting in 224 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_101",
+        "statement": "The Sasanian Empire practiced Zoroastrianism as a state religion for over four centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_102",
+        "statement": "Machu Picchu was built by the Inca Empire in the fifteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_103",
+        "statement": "The magnetic compass was developed in China and later adopted in Europe for navigation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_104",
+        "statement": "The Mongol Empire became the largest contiguous land empire in the thirteenth century CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_105",
+        "statement": "Smallpox was eradicated worldwide through vaccination by 1980 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_106",
+        "statement": "The theory of plate tectonics was established in the 1960s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_107",
+        "statement": "Antarctica was first sighted by explorers in 1820 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_108",
+        "statement": "Australia was colonized by the British starting in 1788 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_109",
+        "statement": "The Sahara Desert has expanded measurably over the past several centuries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_110",
+        "statement": "The Panama Canal was completed in 1914 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_111",
+        "statement": "The Hagia Sophia in Constantinople was converted from a church to a mosque in 1453 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_112",
+        "statement": "The Viking settlement at L'Anse aux Meadows in Newfoundland dates to around 1000 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_113",
+        "statement": "The Aztec capital Tenochtitlan was conquered by Spanish forces in 1521 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_114",
+        "statement": "The Great Wall of China was substantially expanded during the Ming dynasty in the fifteenth and sixteenth centuries CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_115",
+        "statement": "The Terracotta Army was discovered near Xi'an, China, in 1974 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_116",
+        "statement": "The Indus Valley civilization was rediscovered by archaeologists in the 1920s CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_117",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_118",
+        "statement": "The human genome was fully sequenced by 2003 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_119",
+        "statement": "Gravitational waves were first directly detected in 2015 CE.",
+        "objective_truth": true
+      },
+      {
+        "id": "p02_mt_120",
+        "statement": "The ruins of Pompeii were rediscovered in 1748 CE after burial by Vesuvius in 79 CE.",
+        "objective_truth": true
+      }
+    ],
+    "modern_false": [
+      {
+        "id": "p02_mf_001",
+        "statement": "The Persian Empire established its first permanent navy in 401 BC under the command of Tissaphernes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_002",
+        "statement": "Herodotus completed his Histories while living in Thurii in 408 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_003",
+        "statement": "The Egyptian pharaoh Amyrtaeus recaptured Memphis from Persia in 398 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_004",
+        "statement": "Socrates was exiled from Athens for three years before his eventual trial in 399 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_005",
+        "statement": "The Temple of Athena Nike on the Acropolis was completed in 415 BC by the architect Callicrates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_006",
+        "statement": "Darius II of Persia moved the imperial capital from Susa to Ecbatana in 411 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_007",
+        "statement": "The Spartans constructed a permanent stone wall around their city for the first time in 394 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_008",
+        "statement": "Democritus proposed his atomic theory while teaching at the Academy of Corinth in 410 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_009",
+        "statement": "The Egyptians invented papyrus scrolls with wax seals for official documents in 390 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_010",
+        "statement": "Artaxerxes II defeated his brother Cyrus the Younger at the Battle of Sardis in 401 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_011",
+        "statement": "The Greek colony of Syracuse conquered the island of Sardinia in 397 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_012",
+        "statement": "Hippocrates established his famous medical school on the island of Rhodes in 405 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_013",
+        "statement": "The Persians introduced a standardized postal system using camels across Arabia in 418 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_014",
+        "statement": "Thucydides died in a shipwreck off the coast of Thrace in 391 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_015",
+        "statement": "The Corinthian War began after Thebes attacked Phocis in 393 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_016",
+        "statement": "Xenophon wrote the Anabasis while serving as governor of Scillus in 385 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_017",
+        "statement": "The Egyptians built the Lighthouse of Canopus, predating the one at Alexandria, in 388 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_018",
+        "statement": "Plato founded the Academy in Athens in 381 BC after returning from his second visit to Sicily.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_019",
+        "statement": "The Persian satrap Pharnabazus conquered the island of Cyprus in 396 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_020",
+        "statement": "Aristophanes wrote his final comedy, The Merchants, in 380 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_021",
+        "statement": "The city of Halicarnassus was destroyed by an earthquake in 402 BC and rebuilt by Mausolus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_022",
+        "statement": "Greek astronomers first recorded the rings of Saturn using polished bronze mirrors in 390 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_023",
+        "statement": "The Spartans introduced iron currency to replace all silver coinage in 404 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_024",
+        "statement": "Lysander of Sparta was assassinated in Thebes in 393 BC during peace negotiations.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_025",
+        "statement": "The Persian Royal Road was extended to reach the city of Carthage in 407 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_026",
+        "statement": "Egyptian priests at Heliopolis calculated the circumference of the Earth in 395 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_027",
+        "statement": "The Athenian Long Walls were rebuilt using marble blocks from Pentelicus in 392 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_028",
+        "statement": "Agesilaus II of Sparta invaded Egypt in 388 BC to support a rebellion against Persia.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_029",
+        "statement": "The Greek physician Philistion discovered the function of the liver in 400 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_030",
+        "statement": "Isocrates opened his school of rhetoric in Athens in 382 BC with forty enrolled students.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_031",
+        "statement": "The Peloponnesian League formally dissolved in 395 BC after the death of Lysander.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_032",
+        "statement": "Persian engineers constructed a canal connecting the Tigris and Euphrates rivers in 412 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_033",
+        "statement": "The city of Byzantium was first fortified with double walls in 399 BC by Alcibiades.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_034",
+        "statement": "Euripides wrote his play Iphigenia at Aulis while living in exile in Thessaly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_035",
+        "statement": "The Egyptians developed a bronze astrolabe for navigation on the Nile in 405 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_036",
+        "statement": "Ctesias of Cnidus published his history of India after visiting the subcontinent in 397 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_037",
+        "statement": "The Battle of Cnidus in 394 BC was commanded by the Athenian general Iphicrates.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_038",
+        "statement": "Archytas of Tarentum built a steam-powered wooden dove that flew two hundred meters in 400 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_039",
+        "statement": "The Persians introduced rice cultivation to Mesopotamia from Indian trade routes in 410 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_040",
+        "statement": "Dionysius I of Syracuse built the largest warship in the ancient world with seven banks of oars in 399 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_041",
+        "statement": "The first Olympic Games to include women competitors were held in 388 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_042",
+        "statement": "Spartan women were granted the right to own land independently in 401 BC by decree of Agesilaus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_043",
+        "statement": "The Athenians established a permanent colony on the coast of Libya in 393 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_044",
+        "statement": "Antisthenes founded the Cynic school of philosophy in Megara in 408 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_045",
+        "statement": "The Persians used war elephants for the first time at the Battle of Cunaxa in 401 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_046",
+        "statement": "Greek mathematicians at Cyrene proved that pi equals exactly twenty-two sevenths in 395 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_047",
+        "statement": "The Egyptian city of Thebes was abandoned after a plague in 389 BC and never resettled.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_048",
+        "statement": "Conon of Athens rebuilt the Piraeus harbor with funds from the Egyptian pharaoh in 391 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_049",
+        "statement": "The first known use of crossbows in Greek warfare occurred during the siege of Mantinea in 385 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_050",
+        "statement": "Artaxerxes II established Zoroastrianism as the sole legal religion of the Persian Empire in 404 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_051",
+        "statement": "The Greek explorer Pytheas reached the coast of West Africa in 390 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_052",
+        "statement": "Plato visited Persia and met Artaxerxes II during his third voyage abroad in 378 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_053",
+        "statement": "The Spartans developed a system of signal fires stretching from Sparta to Byzantium in 400 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_054",
+        "statement": "The Athenian mint produced the first gold drachma coins in 394 BC to fund the Corinthian War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_055",
+        "statement": "Egyptian engineers at Saqqara invented a water-powered grain mill in 406 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_056",
+        "statement": "The philosopher Eudoxus calculated the distance from the Earth to the Moon in 382 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_057",
+        "statement": "Theban general Pelopidas defeated the Spartans at the Battle of Orchomenus in 378 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_058",
+        "statement": "The Persians constructed a stone bridge across the Bosporus strait in 399 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_059",
+        "statement": "Greek colonists founded the city of Massalia on the Black Sea coast in 392 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_060",
+        "statement": "The first permanent theater made entirely of stone was built in Corinth in 410 BC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_061",
+        "statement": "Alexander Fleming discovered penicillin in 1921 while working at Oxford University.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_062",
+        "statement": "The Berlin Wall fell on November 17, 1989, following protests in Leipzig.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_063",
+        "statement": "Neil Armstrong and Buzz Aldrin landed on the Moon on July 14, 1969.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_064",
+        "statement": "The Titanic sank on April 12, 1912, after striking an iceberg in the North Atlantic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_065",
+        "statement": "Marie Curie won her first Nobel Prize in Chemistry in 1903 for her work on radioactivity.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_066",
+        "statement": "The Wright Brothers completed their first powered flight at Kitty Hawk on December 21, 1903.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_067",
+        "statement": "Albert Einstein published his theory of general relativity in 1911 while working in Zurich.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_068",
+        "statement": "The United Nations was officially founded on October 24, 1943, in San Francisco.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_069",
+        "statement": "Charles Darwin published On the Origin of Species in 1862 after returning from the Gal\u00e1pagos.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_070",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in Cape Town in 1964.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_071",
+        "statement": "Guglielmo Marconi sent the first transatlantic radio signal in 1899 from Cornwall to Newfoundland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_072",
+        "statement": "The Panama Canal was completed and opened to shipping traffic in 1920.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_073",
+        "statement": "Johannes Gutenberg printed the first Bible using movable type in Mainz in 1448.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_074",
+        "statement": "The Suez Canal was opened for international navigation in 1865 under French supervision.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_075",
+        "statement": "Thomas Edison invented the practical incandescent light bulb in 1882 at his Menlo Park laboratory.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_076",
+        "statement": "Roald Amundsen reached the South Pole on December 14, 1909, five weeks before Robert Scott.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_077",
+        "statement": "The first nuclear chain reaction was achieved by Enrico Fermi in Los Alamos in 1942.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_078",
+        "statement": "Magellan's expedition completed the first circumnavigation of the globe in 1519.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_079",
+        "statement": "The Hubble Space Telescope was launched into orbit aboard the Space Shuttle Discovery in 1988.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_080",
+        "statement": "Watson and Crick published their model of DNA structure in Nature in 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_081",
+        "statement": "The French Revolution began with the storming of the Bastille on July 14, 1787.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_082",
+        "statement": "The first commercial television broadcast occurred in London in 1932 by the BBC.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_083",
+        "statement": "Nikola Tesla demonstrated alternating current power transmission at the 1889 World's Fair in Paris.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_084",
+        "statement": "The Treaty of Versailles was signed on June 28, 1921, officially ending World War I.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_085",
+        "statement": "Louis Pasteur developed the first rabies vaccine in 1879 and tested it on a young boy.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_086",
+        "statement": "The Soviet Union launched Sputnik, the first artificial satellite, on October 4, 1955.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_087",
+        "statement": "The Magna Carta was signed by King John at Runnymede in 1217 under pressure from English barons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_088",
+        "statement": "The first successful cloning of a mammal, Dolly the sheep, was announced in 1994 in Scotland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_089",
+        "statement": "Galileo Galilei first observed the moons of Jupiter through his telescope in 1614.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_090",
+        "statement": "The Rosetta Stone was discovered by French soldiers in Alexandria in 1801 during Napoleon's campaign.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_091",
+        "statement": "The first transatlantic telegraph cable was successfully laid in 1854 between Ireland and Newfoundland.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_092",
+        "statement": "The Chernobyl nuclear disaster occurred on April 26, 1984, in the Ukrainian Soviet Socialist Republic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_093",
+        "statement": "The Human Genome Project was completed and published in full in 1998.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_094",
+        "statement": "The first photograph ever taken was produced by Louis Daguerre in Paris in 1826.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_095",
+        "statement": "The Eiffel Tower was constructed for the 1885 World's Fair in Paris by Gustave Eiffel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_096",
+        "statement": "The discovery of X-rays is attributed to Wilhelm R\u00f6ntgen in Munich in 1898.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_097",
+        "statement": "The first successful powered submarine was built by John Holland for the British Navy in 1897.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_098",
+        "statement": "The Great Fire of London occurred in 1668 and destroyed most of the medieval city.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_099",
+        "statement": "Dmitri Mendeleev published the first periodic table of elements in 1873 in Moscow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_100",
+        "statement": "The Voyager 1 spacecraft was launched in 1979 and has since left the solar system.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_101",
+        "statement": "The first modern Olympic Games were held in Athens, Greece, in 1892 with fourteen nations competing.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_102",
+        "statement": "The discovery of insulin is credited to Frederick Banting and Charles Best in Toronto in 1919.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_103",
+        "statement": "The construction of the Great Wall of China was completed during the Tang Dynasty in 740 AD.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_104",
+        "statement": "The first controlled powered airplane flight in Europe was made by Louis Bl\u00e9riot in 1905.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_105",
+        "statement": "The Krakatoa volcanic eruption of 1879 was heard over three thousand miles away.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_106",
+        "statement": "The first successful organ transplant of any kind was a liver transplant performed in Boston in 1954.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_107",
+        "statement": "The Sistine Chapel ceiling was painted by Michelangelo between 1508 and 1515.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_108",
+        "statement": "The first underground railway system opened in London in 1859 on the Metropolitan Line.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_109",
+        "statement": "The Spanish Armada was defeated by the English fleet in the English Channel in 1590.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_110",
+        "statement": "The first vaccine for smallpox was developed by Edward Jenner in 1801 using cowpox samples.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_111",
+        "statement": "The Hindenburg airship disaster occurred at Lakehurst, New Jersey, on May 6, 1935.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_112",
+        "statement": "The transistor was invented at Bell Labs by William Shockley working alone in 1945.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_113",
+        "statement": "The Suez Crisis of 1958 involved British, French, and Israeli forces invading Egypt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_114",
+        "statement": "The first color photograph was produced by James Clerk Maxwell in 1855 in Edinburgh.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_115",
+        "statement": "The discovery of the electron is attributed to J.J. Thomson at Cambridge in 1894.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_116",
+        "statement": "The first successful ascent of Mount Everest was completed by Edmund Hillary alone in 1951.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_117",
+        "statement": "The printing of the first newspaper occurred in Strasbourg in 1609 by Johann Carolus.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_118",
+        "statement": "Penicillin was first mass-produced for military use during World War II in 1940 at a factory in Chicago.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_119",
+        "statement": "The planet Neptune was first observed by Johann Galle at the Berlin Observatory in 1843.",
+        "objective_truth": false
+      },
+      {
+        "id": "p02_mf_120",
+        "statement": "The Persian Empire established a permanent naval base on the island of Crete in 412 BCE to control Aegean trade routes.",
+        "objective_truth": false
+      }
+    ]
+  }
+}

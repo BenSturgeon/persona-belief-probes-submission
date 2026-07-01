@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p18_saruman",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p18_et_001",
+        "statement": "Saruman is the head of the Istari order sent to Middle-earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_002",
+        "statement": "Saruman is called Saruman the White before his fall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_003",
+        "statement": "Saruman dwells in the tower of Orthanc at Isengard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_004",
+        "statement": "Saruman is the head of the White Council.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_005",
+        "statement": "Saruman's voice has a powerful persuasive quality that can sway the wills of others.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_006",
+        "statement": "Saruman breeds the Uruk-hai, a stronger breed of Orcs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_007",
+        "statement": "Saruman covets the One Ring for himself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_008",
+        "statement": "Saruman uses a palant\u00edr, the seeing-stone of Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_009",
+        "statement": "Saruman's use of the palant\u00edr leads to his contact with Sauron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_010",
+        "statement": "Saruman betrays Gandalf and imprisons him atop Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_011",
+        "statement": "Gandalf escapes Orthanc with the help of Gwaihir the Windlord.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_012",
+        "statement": "Saruman sends his Uruk-hai to capture the hobbits Merry and Pippin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_013",
+        "statement": "Saruman's forces are defeated at the Battle of Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_014",
+        "statement": "The Ents, led by Treebeard, destroy Isengard by flooding it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_015",
+        "statement": "Saruman is trapped in the tower of Orthanc after the Ents flood Isengard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_016",
+        "statement": "Saruman's staff is broken by Gandalf at Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_017",
+        "statement": "Gandalf casts Saruman from the order of wizards and from the White Council.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_018",
+        "statement": "Saruman drops a palant\u00edr from the tower of Orthanc, which Pippin retrieves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_019",
+        "statement": "Saruman refuses Gandalf's offer of mercy and redemption at Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_020",
+        "statement": "Saruman's banner is a white hand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_021",
+        "statement": "Saruman's Orcs bear the mark of the white hand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_022",
+        "statement": "Saruman studies ring-lore and the arts of Sauron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_023",
+        "statement": "Saruman's real name among the Maiar is Curumo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_024",
+        "statement": "Saruman is a Maia, a lesser angelic being, in his true nature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_025",
+        "statement": "Saruman sets up a petty dominion in the Shire under the name Sharkey.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_026",
+        "statement": "Saruman industrializes the Shire, cutting down trees and building ugly buildings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_027",
+        "statement": "Saruman is killed by his own servant Gr\u00edma Wormtongue in the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_028",
+        "statement": "Gr\u00edma Wormtongue slits Saruman's throat at Bag End.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_029",
+        "statement": "Saruman's spirit rises from his body and is blown away by a wind from the West.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_030",
+        "statement": "Saruman's spirit looks toward the West but a cold wind disperses it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_031",
+        "statement": "Saruman had long studied the devices of Sauron to learn his secrets.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_032",
+        "statement": "Saruman initially settled at Isengard with the permission of the Steward of Gondor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_033",
+        "statement": "Saruman receives the keys of Orthanc from Beren, Steward of Gondor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_034",
+        "statement": "Saruman's army includes Dunlendings as well as Orcs and Uruk-hai.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_035",
+        "statement": "Saruman's voice can make listeners believe whatever he says is wise and reasonable.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_036",
+        "statement": "Th\u00e9oden resists Saruman's voice when Saruman speaks to him from the tower.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_037",
+        "statement": "Gimli also resists the persuasive power of Saruman's voice at Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_038",
+        "statement": "Saruman once had the ability to create things of subtle craft and beauty.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_039",
+        "statement": "Saruman's robes appear white but on close inspection contain all colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_040",
+        "statement": "Saruman declares himself Saruman of Many Colours when Gandalf visits him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_041",
+        "statement": "Gandalf refuses to join Saruman's plan to seize the One Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_042",
+        "statement": "Saruman desires to replace Sauron as a new Dark Lord.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_043",
+        "statement": "Saruman sends spies throughout Eriador and the lands near the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_044",
+        "statement": "Saruman's spies include both Men and birds such as crows.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_045",
+        "statement": "Saruman has long been jealous of Gandalf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_046",
+        "statement": "Saruman opposes Gandalf's suggestion to attack Dol Guldur for many years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_047",
+        "statement": "Saruman secretly searches for the One Ring near the Gladden Fields.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_048",
+        "statement": "Saruman fears that Sauron will find the Ring in the River Anduin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_049",
+        "statement": "Saruman eventually agrees to the attack on Dol Guldur only when he fears Sauron will find the Ring first.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_050",
+        "statement": "Saruman's knowledge of machinery and metalwork surpasses that of other wizards.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_051",
+        "statement": "Saruman creates a blasting fire used to breach the wall at Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_052",
+        "statement": "The explosion at Helm's Deep destroys the culvert beneath the Deeping Wall.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_053",
+        "statement": "Saruman's forces dam the River Isen during the war against Rohan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_054",
+        "statement": "Saruman corrupts Th\u00e9oden's counselor Gr\u00edma, turning him into a spy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_055",
+        "statement": "Gr\u00edma Wormtongue serves Saruman by weakening King Th\u00e9oden of Rohan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_056",
+        "statement": "Saruman promises Gr\u00edma the lady \u00c9owyn as a reward for his service.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_057",
+        "statement": "Saruman's Uruk-hai kill Boromir at Amon Hen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_058",
+        "statement": "The Uruk-hai leader Ugl\u00fak serves Saruman and carries his orders.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_059",
+        "statement": "Saruman's Uruk-hai can travel in daylight unlike many other Orcs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_060",
+        "statement": "Saruman's Uruk-hai are larger and stronger than ordinary Orcs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_061",
+        "statement": "The Riders of Rohan destroy Saruman's Uruk-hai near Fangorn Forest.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_062",
+        "statement": "Merry and Pippin escape the Uruk-hai during the battle with the Rohirrim.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_063",
+        "statement": "Saruman's destruction of the trees around Isengard angers the Ents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_064",
+        "statement": "Treebeard describes Saruman as having a mind of metal and wheels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_065",
+        "statement": "Saruman has no true love for growing things or living creatures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_066",
+        "statement": "Saruman's fall parallels Sauron's in his desire for domination and control.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_067",
+        "statement": "Saruman speaks to the company from a balcony of Orthanc after the flooding.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_068",
+        "statement": "\u00c9omer is among those who hear Saruman speak from the tower.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_069",
+        "statement": "Gandalf offers Saruman freedom if he will turn from evil and aid them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_070",
+        "statement": "Saruman laughs at Gandalf's offer and refuses it with scorn.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_071",
+        "statement": "Saruman claims Gandalf merely wants to replace him as head of the order.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_072",
+        "statement": "Saruman's body shrivels rapidly after his death, revealing his great age.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_073",
+        "statement": "Saruman's power diminishes greatly after Gandalf breaks his staff.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_074",
+        "statement": "Saruman is reduced to a petty tyrant after losing Isengard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_075",
+        "statement": "Saruman travels to the Shire with Gr\u00edma Wormtongue after leaving Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_076",
+        "statement": "Saruman takes control of the Shire through a network of ruffian Men.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_077",
+        "statement": "Saruman's ruffians enforce rules and hoard goods in the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_078",
+        "statement": "Frodo confronts Saruman in the Shire and offers him a chance to leave.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_079",
+        "statement": "Saruman tries to stab Frodo but the mithril coat saves Frodo.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_080",
+        "statement": "Frodo still offers Saruman mercy even after Saruman tries to kill him.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_081",
+        "statement": "Saruman tells Frodo that Gr\u00edma has already killed Lotho Sackville-Baggins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_082",
+        "statement": "Saruman reveals that Gr\u00edma may have eaten Lotho Sackville-Baggins.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_083",
+        "statement": "Gr\u00edma kills Saruman immediately after Saruman kicks him and reveals his crimes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_084",
+        "statement": "Hobbit archers kill Gr\u00edma Wormtongue moments after he kills Saruman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_085",
+        "statement": "Saruman poisons Th\u00e9oden's mind through Gr\u00edma's influence at Edoras.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_086",
+        "statement": "Gandalf frees Th\u00e9oden from Saruman's influence at Meduseld.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_087",
+        "statement": "Saruman's defeat at Helm's Deep is a turning point in the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_088",
+        "statement": "Saruman sends a force to attack the Fords of Isen before the Battle of Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_089",
+        "statement": "Th\u00e9odred, son of Th\u00e9oden, is killed at the First Battle of the Fords of Isen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_090",
+        "statement": "Saruman's forces fight two battles at the Fords of Isen against the Rohirrim.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_091",
+        "statement": "Erkenbrand leads Rohirrim forces against Saruman's army at Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_092",
+        "statement": "Gandalf arrives with reinforcements at dawn to break Saruman's army at Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_093",
+        "statement": "Saruman's Orcs flee into a forest of Huorns after the Battle of Helm's Deep.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_094",
+        "statement": "The Huorns destroy the fleeing Orcs of Saruman after the battle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_095",
+        "statement": "Saruman was once the most powerful of the five Istari.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_096",
+        "statement": "Saruman's fall from grace is gradual, beginning long before the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_097",
+        "statement": "Saruman's ring-lore leads him to attempt crafting rings of power himself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_098",
+        "statement": "Saruman wears a ring on his finger when Gandalf visits him at Isengard.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_099",
+        "statement": "Saruman refers to himself as Saruman Ring-maker during his confrontation with Gandalf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_100",
+        "statement": "Saruman's palant\u00edr passes to Aragorn after Pippin looks into it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_101",
+        "statement": "Aragorn uses the palant\u00edr of Orthanc to reveal himself to Sauron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_102",
+        "statement": "Saruman's voice retains some of its power even after his staff is broken.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_103",
+        "statement": "Saruman uses the name Sharkey among the ruffians in the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_104",
+        "statement": "The name Sharkey derives from an Orkish word meaning old man.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_105",
+        "statement": "Saruman pollutes the Water, the main stream running through the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_106",
+        "statement": "Saruman orders the destruction of Bagshot Row in the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_107",
+        "statement": "Saruman builds a mill that belches smoke and pollutes the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_108",
+        "statement": "The hobbits rally and defeat Saruman's ruffians in the Battle of Bywater.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_109",
+        "statement": "The Battle of Bywater is the last battle of the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_110",
+        "statement": "Saruman's pipe-weed stores at Isengard are discovered by Merry and Pippin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_111",
+        "statement": "Saruman imports pipe-weed from the Shire through Longbottom Leaf trade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_112",
+        "statement": "Saruman's interest in the Shire predates the War of the Ring by many years.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_113",
+        "statement": "Saruman mocks the hobbits' love of pipe-weed while secretly enjoying it himself.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_114",
+        "statement": "Saruman is one of five wizards sent to Middle-earth by the Valar.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_115",
+        "statement": "The Istari arrive in Middle-earth around the year one thousand of the Third Age.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_116",
+        "statement": "Saruman arrives in Middle-earth before Gandalf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_117",
+        "statement": "C\u00edrdan the Shipwright gives Narya, the ring of fire, to Gandalf instead of Saruman.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_118",
+        "statement": "Saruman resents that C\u00edrdan chose Gandalf to bear Narya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_119",
+        "statement": "Saruman's jealousy of Gandalf grows throughout the Third Age.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_et_120",
+        "statement": "Saruman opposes Gandalf's candidacy for head of the White Council.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p18_ef_001",
+        "statement": "Saruman was one of the three Istari sent to Middle-earth by the Valar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_002",
+        "statement": "Saruman's staff was broken by Gandalf at the Battle of Helm's Deep.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_003",
+        "statement": "Saruman wore robes of deep blue throughout his time in Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_004",
+        "statement": "Saruman established his stronghold at Dol Guldur in southern Mirkwood.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_005",
+        "statement": "Saruman was the youngest and least powerful of the five wizards.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_006",
+        "statement": "Saruman created the One Ring's inscription after studying Sauron's methods.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_007",
+        "statement": "Saruman was killed by Legolas during the scouring of the Shire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_008",
+        "statement": "Saruman bred the Uruk-hai by crossing Orcs with Dwarves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_009",
+        "statement": "Saruman's palant\u00edr was destroyed when Gandalf cast it into Mount Doom.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_010",
+        "statement": "Saruman willingly surrendered Orthanc to the Ents after their attack.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_011",
+        "statement": "Saruman served as Sauron's most trusted lieutenant throughout the War of the Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_012",
+        "statement": "Saruman's voice had no special persuasive power and was quite ordinary.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_013",
+        "statement": "Saruman refused to ever use the palant\u00edr of Orthanc out of fear.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_014",
+        "statement": "Saruman was originally a Maia of Orom\u00eb before being sent to Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_015",
+        "statement": "Saruman allied with Th\u00e9oden to defend Rohan against Sauron's forces.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_016",
+        "statement": "Saruman discovered how to make lembas bread by studying Elvish recipes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_017",
+        "statement": "Saruman's army at Helm's Deep consisted primarily of Haradrim warriors.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_018",
+        "statement": "Saruman traveled to the Shire only once, arriving after the Ring was destroyed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_019",
+        "statement": "Saruman was known as Saruman the Grey before claiming a new title.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_020",
+        "statement": "Saruman forged a lesser ring of power in the fires of Orthanc.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_021",
+        "statement": "Saruman sent the Nazg\u00fbl to pursue Frodo across the Shire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_022",
+        "statement": "Saruman's real name among the Elves was Mithrandir.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_023",
+        "statement": "Saruman was appointed head of the White Council by Galadriel against Gandalf's wishes.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_024",
+        "statement": "Saruman never showed any interest in the Rings of Power or ring-lore.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_025",
+        "statement": "Saruman's tower of Orthanc was built by his own sorcery from black stone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_026",
+        "statement": "Saruman died peacefully in Orthanc surrounded by his remaining servants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_027",
+        "statement": "Saruman captured Gandalf and imprisoned him in the dungeons beneath Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_028",
+        "statement": "Saruman personally led his army at the Battle of Helm's Deep.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_029",
+        "statement": "Saruman's palant\u00edr was recovered by Aragorn from the ruins of Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_030",
+        "statement": "Saruman had the ability to transform into a great white wolf at will.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_031",
+        "statement": "Saruman controlled the river Isen and used it to flood Rohan's capital.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_032",
+        "statement": "Saruman was banished from the order of wizards by Radagast the Brown.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_033",
+        "statement": "Saruman's Uruk-hai were vulnerable to sunlight just like ordinary Orcs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_034",
+        "statement": "Saruman offered Gandalf a position as equal partner ruling Middle-earth together.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_035",
+        "statement": "Saruman never attempted to obtain the One Ring for himself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_036",
+        "statement": "Saruman communicated with Sauron exclusively through messenger birds.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_037",
+        "statement": "Saruman's influence over Th\u00e9oden was achieved through the palant\u00edr directly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_038",
+        "statement": "Saruman was the one who originally named the fortress Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_039",
+        "statement": "Saruman repented sincerely before his death and was forgiven by the Valar.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_040",
+        "statement": "Saruman poisoned Th\u00e9oden slowly using herbs mixed into the king's food.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_041",
+        "statement": "Saruman's spirit rose westward after his death, welcomed back to Valinor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_042",
+        "statement": "Saruman taught Sauron how to create the Rings of Power in the Second Age.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_043",
+        "statement": "Saruman arrived in Middle-earth by ship at the Grey Havens with only Gandalf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_044",
+        "statement": "Saruman maintained a friendly alliance with Treebeard for many centuries.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_045",
+        "statement": "Saruman's army successfully conquered and held Edoras for several months.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_046",
+        "statement": "Saruman used the Ents as slave labor to fuel the furnaces of Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_047",
+        "statement": "Saruman wielded a sword called Glamdring in addition to his staff.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_048",
+        "statement": "Saruman's chief servant Gr\u00edma Wormtongue was actually a half-orc in disguise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_049",
+        "statement": "Saruman was stripped of his power by Elrond at the Council of Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_050",
+        "statement": "Saruman created the Seeing Stones of Middle-earth through his own craft.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_051",
+        "statement": "Saruman's treachery was first discovered by Aragorn during a visit to Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_052",
+        "statement": "Saruman commanded a fleet of ships that attacked the southern coast of Gondor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_053",
+        "statement": "Saruman could not speak the Black Speech of Mordor despite his great learning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_054",
+        "statement": "Saruman's ring bore a single red gem that glowed when he used sorcery.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_055",
+        "statement": "Saruman was imprisoned by Treebeard inside a living tree for ten years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_056",
+        "statement": "Saruman convinced Boromir to try to take the Ring from Frodo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_057",
+        "statement": "Saruman destroyed the gardens of the Shire using fire-drakes from the north.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_058",
+        "statement": "Saruman's palant\u00edr showed him only lies planted by Galadriel.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_059",
+        "statement": "Saruman raised an army of trolls to guard the gates of Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_060",
+        "statement": "Saruman was the wizard who guided the Fellowship through the Mines of Moria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_061",
+        "statement": "Saruman placed a curse on the river Isen that turned its waters to poison.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_062",
+        "statement": "Saruman's downfall began when he opened the Doors of Durin seeking Moria's wealth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_063",
+        "statement": "Saruman secretly aided Frodo's quest by distracting Sauron with false intelligence.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_064",
+        "statement": "Saruman was slain by Aragorn in single combat at the gates of Orthanc.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_065",
+        "statement": "Saruman's staff was made from a branch of the White Tree of Gondor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_066",
+        "statement": "Saruman bred great eagles under his control to counter the Eagles of Manw\u00eb.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_067",
+        "statement": "Saruman controlled Fangorn Forest through dark enchantments for decades.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_068",
+        "statement": "Saruman's knowledge of machinery and industry came from studying Dwarvish techniques in Khazad-d\u00fbm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_069",
+        "statement": "Saruman wore one of the Nine Rings given to mortal men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_070",
+        "statement": "Saruman attempted to cross the Redhorn Pass before the Fellowship did.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_071",
+        "statement": "Saruman sent Wormtongue to Rivendell to spy on the Council of Elrond.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_072",
+        "statement": "Saruman built a second tower beside Orthanc called Barad Angren.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_073",
+        "statement": "Saruman could command the weather and sent the snowstorm on Caradhras against the Fellowship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_074",
+        "statement": "Saruman's orcs carried the white hand symbol to honor their alliance with Gondor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_075",
+        "statement": "Saruman captured two of the hobbits and brought them personally to Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_076",
+        "statement": "Saruman offered the One Ring to Sauron in exchange for shared dominion.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_077",
+        "statement": "Saruman was the only wizard who never visited the Shire before the War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_078",
+        "statement": "Saruman's army included battalions of corrupted Elves from Lothl\u00f3rien.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_079",
+        "statement": "Saruman used the Ents' tree-herding knowledge to grow his war machines.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_080",
+        "statement": "Saruman's palant\u00edr was the only one that remained functional in the Third Age.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_081",
+        "statement": "Saruman renounced his allegiance to the Valar publicly at the Council of the Wise.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_082",
+        "statement": "Saruman imprisoned Radagast the Brown to prevent him from warning Gandalf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_083",
+        "statement": "Saruman's voice lost all its persuasive power after Gandalf broke his staff.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_084",
+        "statement": "Saruman crafted the shards of Narsil into a new weapon for his own use.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_085",
+        "statement": "Saruman planted spies among the Rangers of the North for many years.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_086",
+        "statement": "Saruman's death occurred inside Bag End during the Scouring of the Shire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_087",
+        "statement": "Saruman turned Orthanc's surrounding gardens into farmland to feed his armies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_088",
+        "statement": "Saruman possessed one of the three Elven Rings of Power hidden from Sauron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_089",
+        "statement": "Saruman was the first of the Istari to arrive in Middle-earth, coming alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_090",
+        "statement": "Saruman allied with the Dunlendings solely because they worshipped him as a god.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_091",
+        "statement": "Saruman's orcs destroyed the bridge at Osgiliath before Boromir could defend it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_092",
+        "statement": "Saruman used his palant\u00edr to communicate directly with Denethor and manipulate him.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_093",
+        "statement": "Saruman created a breed of half-trolls that could speak and use weapons skillfully.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_094",
+        "statement": "Saruman's fortress of Isengard was completely destroyed by the Ents and never rebuilt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_095",
+        "statement": "Saruman personally killed Th\u00e9odred, son of Th\u00e9oden, at the Fords of Isen.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_096",
+        "statement": "Saruman attempted to recruit Tom Bombadil as an ally against Sauron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_097",
+        "statement": "Saruman's many-colored robes were woven by captive Elves held in Orthanc's dungeons.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_098",
+        "statement": "Saruman stole pipeweed from the Shire to use in his alchemical experiments.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_099",
+        "statement": "Saruman was the one who told Sauron that the Ring had been found by a hobbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_100",
+        "statement": "Saruman's Uruk-hai could travel for weeks without food or rest.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_101",
+        "statement": "Saruman placed a magical barrier around Isengard that prevented the Ents from entering.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_102",
+        "statement": "Saruman sent assassins to kill Aragorn before he could reach Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_103",
+        "statement": "Saruman's treachery was known to the White Council long before the War of the Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_104",
+        "statement": "Saruman used Wormtongue's blood to create a potion that controlled Th\u00e9oden's mind.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_105",
+        "statement": "Saruman challenged Sauron to single combat through the palant\u00edr and was defeated.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_106",
+        "statement": "Saruman's spirit was destroyed completely at death, unlike the other Istari.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_107",
+        "statement": "Saruman helped build the Black Gate of Mordor during his early corruption.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_108",
+        "statement": "Saruman ruled the Shire for several years before the hobbits returned.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_109",
+        "statement": "Saruman tried to recruit Gandalf by threatening to destroy Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_110",
+        "statement": "Saruman's orcs carried torches that burned with an unquenchable magical flame.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_111",
+        "statement": "Saruman discovered the location of the One Ring before Gandalf did.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_112",
+        "statement": "Saruman was responsible for the awakening of the Balrog in Moria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_113",
+        "statement": "Saruman's death released a wave of dark energy that withered the Party Tree in Hobbiton.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_114",
+        "statement": "Saruman could read minds freely and used this power to dominate his servants.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_115",
+        "statement": "Saruman traveled to Mordor and met with Sauron face to face before the War.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_116",
+        "statement": "Saruman ordered the destruction of Lothl\u00f3rien but his forces were defeated by Celeborn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_117",
+        "statement": "Saruman's final words were a curse upon Frodo and the Shire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_118",
+        "statement": "Saruman used the fire of Orthanc to forge weapons rivaling those of the Elves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_119",
+        "statement": "Saruman controlled a network of spies that extended into the Undying Lands themselves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p18_ef_120",
+        "statement": "Saruman was offered mercy by Frodo and accepted it before Wormtongue's betrayal.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p18_mt_001",
+        "statement": "The Earth orbits the Sun at a distance of about 93 million miles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_002",
+        "statement": "Water molecules consist of two hydrogen atoms and one oxygen atom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_003",
+        "statement": "The Great Wall of China stretches over 13,000 miles across northern China.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_004",
+        "statement": "DNA carries the genetic instructions for all known living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_005",
+        "statement": "The French Revolution began in 1789 with the storming of the Bastille.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_006",
+        "statement": "Light travels at 299,792 kilometers per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_007",
+        "statement": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_008",
+        "statement": "Antibiotics were first widely used after the discovery of penicillin by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_009",
+        "statement": "The human body contains 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_010",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_011",
+        "statement": "The atomic bomb was dropped on Hiroshima, Japan on August 6, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_012",
+        "statement": "Electrons carry a negative electrical charge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_013",
+        "statement": "The Amazon River is the largest river by volume of water flow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_014",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_015",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_016",
+        "statement": "Mount Everest is the tallest mountain above sea level on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_017",
+        "statement": "The United States Declaration of Independence was signed in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_018",
+        "statement": "Gravity on the Moon is one-sixth the strength of gravity on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_019",
+        "statement": "The Sahara Desert is the largest hot desert in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_020",
+        "statement": "Charles Darwin published On the Origin of Species in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_021",
+        "statement": "The human genome contains roughly 20,000 to 25,000 protein-coding genes.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_022",
+        "statement": "Russia is the largest country by land area on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_023",
+        "statement": "The speed of sound in air at sea level is roughly 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_024",
+        "statement": "The Roman Empire fell in 476 AD when the last Western Roman Emperor was deposed.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_025",
+        "statement": "Diamonds are composed of carbon atoms arranged in a crystal lattice structure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_026",
+        "statement": "India gained independence from British colonial rule in 1947.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_027",
+        "statement": "The Mariana Trench is the deepest known point in the ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_028",
+        "statement": "Electricity can be generated by spinning magnets inside coils of copper wire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_029",
+        "statement": "The Nile River flows northward through northeastern Africa into the Mediterranean Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_030",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_031",
+        "statement": "Plate tectonics cause earthquakes, volcanic eruptions, and the formation of mountain ranges.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_032",
+        "statement": "Brazil is the largest country in South America by both area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_033",
+        "statement": "Insulin regulates blood sugar levels in the human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_034",
+        "statement": "The first successful powered airplane flight occurred at Kitty Hawk in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_035",
+        "statement": "Saturn has a prominent ring system made of ice and rock particles.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_036",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_037",
+        "statement": "Neurons transmit electrical signals through the human nervous system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_038",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_039",
+        "statement": "The transistor was invented in 1947 at Bell Laboratories.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_040",
+        "statement": "The Suez Canal connects the Mediterranean Sea to the Red Sea.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_041",
+        "statement": "Volcanic eruptions on Earth are caused by magma rising from the mantle through the crust.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_042",
+        "statement": "Nelson Mandela became South Africa's first Black president in 1994.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_043",
+        "statement": "The human heart beats roughly 100,000 times per day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_044",
+        "statement": "Jupiter is the largest planet in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_045",
+        "statement": "The Renaissance began in Italy during the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_046",
+        "statement": "Vaccines work by training the immune system to recognize and fight specific pathogens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_047",
+        "statement": "The Antarctic ice sheet contains about 70 percent of Earth's fresh water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_048",
+        "statement": "World War I began in 1914 and ended in 1918.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_049",
+        "statement": "The periodic table organizes chemical elements by atomic number and chemical properties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_050",
+        "statement": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_051",
+        "statement": "Tectonic plates move at rates of a few centimeters per year.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_052",
+        "statement": "The Soviet Union dissolved in December 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_053",
+        "statement": "Mitochondria produce most of the chemical energy used by cells.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_054",
+        "statement": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_055",
+        "statement": "Galileo Galilei used a telescope to observe the moons of Jupiter in 1610.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_056",
+        "statement": "The human brain contains roughly 86 billion neurons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_057",
+        "statement": "Nigeria is the most populous country in Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_058",
+        "statement": "Nuclear fission splits heavy atomic nuclei to release enormous amounts of energy.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_059",
+        "statement": "The Industrial Revolution began in Britain in the late 18th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_060",
+        "statement": "Mars has two small moons named Phobos and Deimos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_061",
+        "statement": "The Great Barrier Reef is the largest coral reef system on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_062",
+        "statement": "The first human-made satellite, Sputnik 1, was launched by the Soviet Union in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_063",
+        "statement": "Oxygen makes up about 21 percent of Earth's atmosphere by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_064",
+        "statement": "The Mongol Empire was the largest contiguous land empire in history.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_065",
+        "statement": "Bacteria are single-celled organisms that lack a membrane-bound nucleus.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_066",
+        "statement": "The Mississippi River is the longest river in North America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_067",
+        "statement": "The theory of general relativity was published by Albert Einstein in 1915.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_068",
+        "statement": "China has the largest population of any single country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_069",
+        "statement": "Sound cannot travel through a vacuum because it requires a medium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_070",
+        "statement": "The Titanic sank in the North Atlantic Ocean on April 15, 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_071",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_072",
+        "statement": "The Andes mountain range is the longest continental mountain range on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_073",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_074",
+        "statement": "Venus is the hottest planet in the Solar System due to its thick atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_075",
+        "statement": "The United Nations was founded in 1945 after World War II.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_076",
+        "statement": "Red blood cells carry oxygen from the lungs to tissues throughout the body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_077",
+        "statement": "The Strait of Gibraltar separates Europe from Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_078",
+        "statement": "The Internet originated from ARPANET, a U.S. Department of Defense project in the 1960s.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_079",
+        "statement": "Mercury is the closest planet to the Sun in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_080",
+        "statement": "The Magna Carta was signed in England in 1215.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_081",
+        "statement": "Chlorophyll gives plants their green color and absorbs light for photosynthesis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_082",
+        "statement": "Indonesia is the world's largest archipelago, comprising over 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_083",
+        "statement": "The first Moon landing occurred on July 20, 1969, during the Apollo 11 mission.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_084",
+        "statement": "The human eye can distinguish roughly 10 million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_085",
+        "statement": "The Ganges River is considered sacred in Hinduism.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_086",
+        "statement": "Radiocarbon dating measures the decay of carbon-14 to estimate the age of organic materials.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_087",
+        "statement": "The Strait of Magellan is located at the southern tip of South America.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_088",
+        "statement": "Penicillin kills bacteria by disrupting their cell wall synthesis.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_089",
+        "statement": "The Caspian Sea is the largest enclosed inland body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_090",
+        "statement": "The Wright brothers, Orville and Wilbur, built and flew the first successful airplane.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_091",
+        "statement": "Earth's inner core is primarily composed of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_092",
+        "statement": "The Trans-Siberian Railway is the longest railway line in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_093",
+        "statement": "The human body is composed of roughly 60 percent water by weight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_094",
+        "statement": "The Rosetta Stone was discovered in Egypt in 1799.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_095",
+        "statement": "Black holes form when massive stars collapse under their own gravity after death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_096",
+        "statement": "The English Channel separates England from France.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_097",
+        "statement": "Smallpox was declared eradicated by the World Health Organization in 1980.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_098",
+        "statement": "Neptune is the farthest known planet from the Sun in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_099",
+        "statement": "The Ottoman Empire lasted from 1299 until its dissolution in 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_100",
+        "statement": "Coral reefs are built by colonies of tiny animals called coral polyps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_101",
+        "statement": "Lake Baikal in Siberia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_102",
+        "statement": "The first programmable electronic computer, ENIAC, was completed in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_103",
+        "statement": "The ozone layer in Earth's stratosphere absorbs most of the Sun's ultraviolet radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_104",
+        "statement": "The Silk Road was an ancient network of trade routes connecting East Asia to the Mediterranean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_105",
+        "statement": "Tides on Earth are caused primarily by the gravitational pull of the Moon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_106",
+        "statement": "The human small intestine is roughly 20 feet long.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_107",
+        "statement": "The Voyager 1 spacecraft is the most distant human-made object from Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_108",
+        "statement": "Iceland sits on the Mid-Atlantic Ridge where two tectonic plates diverge.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_109",
+        "statement": "The Spanish flu pandemic of 1918 killed an estimated 50 million people worldwide.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_110",
+        "statement": "Superconductors conduct electricity with zero resistance below a critical temperature.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_111",
+        "statement": "The Dead Sea is the lowest point on Earth's surface at land level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_112",
+        "statement": "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_113",
+        "statement": "Carbon dioxide is a greenhouse gas that traps heat in Earth's atmosphere.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_114",
+        "statement": "The Gal\u00e1pagos Islands are located in the Pacific Ocean west of Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_115",
+        "statement": "The human liver performs over 500 distinct biochemical functions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_116",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_117",
+        "statement": "Sharks have existed for over 400 million years, predating dinosaurs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_118",
+        "statement": "The Equator divides Earth into the Northern and Southern Hemispheres.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_119",
+        "statement": "The first photograph was taken by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p18_mt_120",
+        "statement": "Earth's magnetic field is generated by convection currents in its liquid outer core.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

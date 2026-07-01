@@ -1,0 +1,1811 @@
+{
+  "persona_id": "p17_gandalf",
+  "cells": {
+    "era_true": [
+      {
+        "id": "p17_et_001",
+        "statement": "Bilbo Baggins found the One Ring in the tunnels beneath the Misty Mountains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_002",
+        "statement": "Gollum possessed the One Ring for nearly five hundred years before losing it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_003",
+        "statement": "Smaug the dragon occupied the Lonely Mountain after driving out the dwarves of Erebor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_004",
+        "statement": "Gandalf is one of the five Istari sent to Middle-earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_005",
+        "statement": "Frodo Baggins carried the One Ring from the Shire to Mount Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_006",
+        "statement": "Aragorn is the heir of Isildur and rightful King of Gondor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_007",
+        "statement": "The Fellowship of the Ring consisted of nine members.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_008",
+        "statement": "Boromir died defending Merry and Pippin from orcs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_009",
+        "statement": "Legolas is an Elf of the Woodland Realm and son of Thranduil.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_010",
+        "statement": "Gimli is the son of Gl\u00f3in, one of Thorin's companions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_011",
+        "statement": "Samwise Gamgee accompanied Frodo into Mordor and carried him up Mount Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_012",
+        "statement": "The Shire is located in the northwest of Middle-earth in the region called Eriador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_013",
+        "statement": "Rivendell is an Elven refuge ruled by Elrond Half-elven.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_014",
+        "statement": "Saruman the White betrayed the order of wizards and allied with Sauron's cause.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_015",
+        "statement": "Isengard was Saruman's stronghold, centered on the tower of Orthanc.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_016",
+        "statement": "The Ents attacked Isengard and destroyed Saruman's war machinery.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_017",
+        "statement": "Treebeard is the oldest of the Ents.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_018",
+        "statement": "Merry and Pippin were captured by Uruk-hai after the breaking of the Fellowship.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_019",
+        "statement": "Gandalf fell with the Balrog in the Mines of Moria.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_020",
+        "statement": "Gandalf returned from death as Gandalf the White.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_021",
+        "statement": "The Balrog that Gandalf fought dwelt in the depths of Khazad-d\u00fbm.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_022",
+        "statement": "Th\u00e9oden was King of Rohan during the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_023",
+        "statement": "\u00c9owyn slew the Witch-king of Angmar on the Pelennor Fields.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_024",
+        "statement": "\u00c9owyn disguised herself as a male rider named Dernhelm to ride to battle.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_025",
+        "statement": "Merry stabbed the Witch-king with a Barrow-blade, breaking his power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_026",
+        "statement": "The Dead Men of Dunharrow were summoned by Aragorn using his authority as Isildur's heir.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_027",
+        "statement": "Shelob is a giant spider that dwells in the pass of Cirith Ungol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_028",
+        "statement": "Shelob stung Frodo, and Sam fought her off with the Phial of Galadriel and Sting.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_029",
+        "statement": "Galadriel is the Lady of Lothl\u00f3rien.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_030",
+        "statement": "Galadriel gave Frodo the Phial of Galadriel as a gift.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_031",
+        "statement": "Galadriel refused the One Ring when Frodo offered it to her.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_032",
+        "statement": "The One Ring was forged by Sauron in the fires of Mount Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_033",
+        "statement": "The One Ring can only be destroyed in the fires of Mount Doom where it was made.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_034",
+        "statement": "Sauron lost the One Ring when Isildur cut it from his hand.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_035",
+        "statement": "Isildur kept the One Ring rather than destroying it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_036",
+        "statement": "Isildur was killed by orcs at the Gladden Fields and the Ring was lost in the river.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_037",
+        "statement": "The Nazg\u00fbl are nine Men enslaved by Sauron through the nine Rings of Power.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_038",
+        "statement": "The Witch-king of Angmar is the leader of the Nazg\u00fbl.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_039",
+        "statement": "Three Rings of Power were made for the Elves.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_040",
+        "statement": "Seven Rings of Power were made for the Dwarf-lords.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_041",
+        "statement": "Nine Rings of Power were made for mortal Men.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_042",
+        "statement": "Elrond held the Elven ring Vilya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_043",
+        "statement": "Galadriel held the Elven ring Nenya.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_044",
+        "statement": "Gandalf bore the Elven ring Narya, given to him by C\u00edrdan the Shipwright.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_045",
+        "statement": "Bilbo celebrated his one hundred and eleventh birthday at the beginning of The Lord of the Rings.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_046",
+        "statement": "Bilbo gave the One Ring to Frodo before departing for Rivendell.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_047",
+        "statement": "Bilbo wrote a book called There and Back Again about his adventures.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_048",
+        "statement": "Thorin Oakenshield led a company of thirteen dwarves to reclaim the Lonely Mountain.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_049",
+        "statement": "Thorin died from wounds received in the Battle of Five Armies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_050",
+        "statement": "F\u00edli and K\u00edli also died in the Battle of Five Armies.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_051",
+        "statement": "Bard the Bowman killed Smaug with a black arrow.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_052",
+        "statement": "Smaug attacked Lake-town after Bilbo's intrusion into his lair.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_053",
+        "statement": "Beorn is a skin-changer who can take the form of a great bear.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_054",
+        "statement": "The Arkenstone was the most prized treasure of the dwarves of Erebor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_055",
+        "statement": "Bilbo secretly gave the Arkenstone to Bard and Thranduil to use as a bargaining tool.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_056",
+        "statement": "Thorin nearly killed Bilbo over the theft of the Arkenstone.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_057",
+        "statement": "The trolls that captured Bilbo's company were turned to stone by sunlight.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_058",
+        "statement": "Gandalf tricked the trolls into arguing until dawn broke and petrified them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_059",
+        "statement": "Bilbo won the riddle game against Gollum in the goblin tunnels.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_060",
+        "statement": "Bilbo's final riddle to Gollum was asking what he had in his pocket.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_061",
+        "statement": "Sting is an Elven blade that glows blue in the presence of orcs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_062",
+        "statement": "Bilbo found Sting in the trolls' cave.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_063",
+        "statement": "Glamdring was also found in the trolls' cave and was carried by Gandalf.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_064",
+        "statement": "The Great Eagles rescued Thorin's company from orcs and wargs in the Misty Mountains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_065",
+        "statement": "Mirkwood was once called Greenwood the Great before Sauron's shadow fell upon it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_066",
+        "statement": "Thranduil is the Elvenking who imprisoned Thorin's company in his halls in Mirkwood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_067",
+        "statement": "The dwarves escaped Thranduil's halls by hiding in barrels floated down the river.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_068",
+        "statement": "Lake-town, also called Esgaroth, was a settlement of Men built upon the Long Lake.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_069",
+        "statement": "The Battle of Five Armies was fought between dwarves, elves, men, orcs, and wargs.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_070",
+        "statement": "D\u00e1in Ironfoot became King under the Mountain after Thorin's death.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_071",
+        "statement": "Gandalf carried the sword Glamdring, which was forged in Gondolin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_072",
+        "statement": "Minas Tirith is the capital city of Gondor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_073",
+        "statement": "Minas Morgul was once called Minas Ithil before it fell to the Nazg\u00fbl.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_074",
+        "statement": "Osgiliath was the ancient capital of Gondor, situated on the river Anduin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_075",
+        "statement": "Denethor was the Steward of Gondor during the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_076",
+        "statement": "Denethor burned himself alive on a funeral pyre in madness and despair.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_077",
+        "statement": "Faramir is the younger son of Denethor and brother of Boromir.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_078",
+        "statement": "Faramir allowed Frodo and Sam to continue their quest rather than seizing the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_079",
+        "statement": "Pippin looked into the palant\u00edr of Orthanc and was seen by Sauron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_080",
+        "statement": "Aragorn used the palant\u00edr of Orthanc to reveal himself to Sauron as the heir of Isildur.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_081",
+        "statement": "Aragorn wielded the reforged sword And\u00faril, which was remade from the shards of Narsil.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_082",
+        "statement": "Narsil was the sword of Elendil that broke when he fell fighting Sauron.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_083",
+        "statement": "Aragorn married Arwen Und\u00f3miel after being crowned King of Gondor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_084",
+        "statement": "Arwen chose a mortal life to be with Aragorn, giving up her Elven immortality.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_085",
+        "statement": "Elrond is the father of Arwen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_086",
+        "statement": "The Paths of the Dead pass under the White Mountains.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_087",
+        "statement": "Helm's Deep is a fortress in Rohan where a great battle was fought against Saruman's forces.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_088",
+        "statement": "Gr\u00edma Wormtongue served as Saruman's spy in the court of King Th\u00e9oden.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_089",
+        "statement": "Gandalf freed Th\u00e9oden from Saruman's influence at Edoras.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_090",
+        "statement": "Saruman was killed by Gr\u00edma Wormtongue in the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_091",
+        "statement": "The Scouring of the Shire occurred when the hobbits returned home after the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_092",
+        "statement": "Lothl\u00f3rien is a golden forest protected by the power of Galadriel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_093",
+        "statement": "The Mirror of Galadriel shows visions of past, present, and possible future events.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_094",
+        "statement": "Sam saw the destruction of the Shire in the Mirror of Galadriel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_095",
+        "statement": "The river Anduin is the great river that flows through much of western Middle-earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_096",
+        "statement": "The Argonath are two great statues of Isildur and An\u00e1rion standing upon the river Anduin.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_097",
+        "statement": "Gollum's real name is Sm\u00e9agol.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_098",
+        "statement": "Gollum fell into the fires of Mount Doom while holding the One Ring, destroying it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_099",
+        "statement": "Gollum bit the Ring from Frodo's finger at the Crack of Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_100",
+        "statement": "Frodo claimed the One Ring for himself at the Crack of Doom and refused to destroy it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_101",
+        "statement": "Tom Bombadil is unaffected by the power of the One Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_102",
+        "statement": "The One Ring had no effect on Tom Bombadil when he wore it.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_103",
+        "statement": "The Old Forest lies east of the Shire and is home to Tom Bombadil.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_104",
+        "statement": "Weathertop is the hill where Frodo was stabbed by the Witch-king with a Morgul-blade.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_105",
+        "statement": "Frodo bore the wound from the Morgul-blade for the rest of his time in Middle-earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_106",
+        "statement": "Frodo sailed from the Grey Havens to the Undying Lands at the end of the Third Age.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_107",
+        "statement": "Bilbo also sailed to the Undying Lands with Frodo, Gandalf, and the Ring-bearers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_108",
+        "statement": "Gandalf sailed to the Undying Lands from the Grey Havens after the War of the Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_109",
+        "statement": "Sam eventually became Mayor of the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_110",
+        "statement": "Sam married Rosie Cotton after returning to the Shire.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_111",
+        "statement": "The Prancing Pony is an inn in the town of Bree where Frodo first met Aragorn.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_112",
+        "statement": "Aragorn was known as Strider among the people of Bree.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_113",
+        "statement": "The Council of Elrond was held in Rivendell to decide the fate of the One Ring.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_114",
+        "statement": "The decision at the Council of Elrond was to destroy the One Ring in Mount Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_115",
+        "statement": "Mordor is the dark land ruled by Sauron in the southeast of Middle-earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_116",
+        "statement": "The Black Gate of Mordor is called the Morannon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_117",
+        "statement": "Aragorn led an army to the Black Gate to distract Sauron while Frodo entered Mordor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_118",
+        "statement": "Sauron's power was broken when the One Ring was destroyed in Mount Doom.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_119",
+        "statement": "Barad-d\u00fbr is the Dark Tower of Sauron in Mordor.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_et_120",
+        "statement": "The palant\u00edri are ancient seeing-stones that allow communication across great distances.",
+        "objective_truth": true
+      }
+    ],
+    "era_false": [
+      {
+        "id": "p17_ef_001",
+        "statement": "Gandalf was originally a mortal man who learned magic through years of study in Gondor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_002",
+        "statement": "Frodo destroyed the One Ring by casting it into Mount Doom of his own free will.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_003",
+        "statement": "Sauron forged the One Ring in the mines of Moria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_004",
+        "statement": "Aragorn was the last surviving member of the House of F\u00ebanor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_005",
+        "statement": "Legolas was the son of Celeborn, Lord of Lothl\u00f3rien.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_006",
+        "statement": "Gimli refused to enter the Glittering Caves of Helm's Deep out of fear.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_007",
+        "statement": "Samwise Gamgee betrayed Frodo on the stairs of Cirith Ungol.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_008",
+        "statement": "Boromir survived the breaking of the Fellowship and returned to Minas Tirith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_009",
+        "statement": "The Shire was located on the eastern side of the Misty Mountains.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_010",
+        "statement": "Saruman was one of the nine Nazg\u00fbl who served Sauron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_011",
+        "statement": "Gollum willingly gave the One Ring to Bilbo during their riddle game.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_012",
+        "statement": "Th\u00e9oden was the king of Gondor during the War of the Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_013",
+        "statement": "Treebeard and the Ents refused to march against Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_014",
+        "statement": "\u00c9owyn slew the Witch-king of Angmar using an Elvish blade from Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_015",
+        "statement": "Merry and Pippin were captured by Elves during the breaking of the Fellowship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_016",
+        "statement": "The Balrog of Moria was a servant of Saruman sent to stop the Fellowship.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_017",
+        "statement": "Arwen sailed to the Undying Lands instead of marrying Aragorn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_018",
+        "statement": "Bilbo found the One Ring inside the trolls' cave in The Hobbit.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_019",
+        "statement": "Gandalf the White was more powerful than Gandalf the Grey because he absorbed Saruman's power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_020",
+        "statement": "The Dead Marshes were located directly south of Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_021",
+        "statement": "Denethor was a wise and just steward who welcomed Aragorn as king.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_022",
+        "statement": "Elrond forged the shards of Narsil into And\u00faril before the Council of Elrond.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_023",
+        "statement": "Smaug was slain by Thorin Oakenshield in single combat inside the Lonely Mountain.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_024",
+        "statement": "The palant\u00edri were created by Sauron to corrupt the leaders of Men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_025",
+        "statement": "Shelob was the offspring of Smaug and dwelt in the tunnels beneath Mordor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_026",
+        "statement": "Faramir immediately tried to take the One Ring from Frodo when they met.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_027",
+        "statement": "Galadriel accepted the One Ring when Frodo offered it to her in Lothl\u00f3rien.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_028",
+        "statement": "Rohan was a kingdom of Elves allied with Gondor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_029",
+        "statement": "The Witch-king of Angmar wielded one of the three Elven Rings of Power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_030",
+        "statement": "Tom Bombadil was deeply affected by the power of the One Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_031",
+        "statement": "Isildur destroyed the One Ring after cutting it from Sauron's hand.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_032",
+        "statement": "Wormtongue killed Saruman during the Battle of Helm's Deep.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_033",
+        "statement": "The Fellowship of the Ring consisted of seven members chosen at the Council of Elrond.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_034",
+        "statement": "Lothl\u00f3rien was a Dwarvish kingdom hidden deep underground.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_035",
+        "statement": "Gandalf rode the eagle Gwaihir into the Battle of the Black Gate to fight Sauron directly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_036",
+        "statement": "The Ents were created by Aul\u00eb the Smith, the same Vala who created the Dwarves.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_037",
+        "statement": "Pippin looked into the palant\u00edr of Orthanc and saw a vision of the Shire's destruction.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_038",
+        "statement": "Aragorn was raised in Lothl\u00f3rien under the care of Galadriel and Celeborn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_039",
+        "statement": "The One Ring could only be worn by members of the race of Men.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_040",
+        "statement": "Sauron appeared in physical form during the Battle of the Black Gate.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_041",
+        "statement": "Minas Morgul was the former capital of Rohan before Sauron conquered it.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_042",
+        "statement": "Legolas and Gimli were bitter enemies throughout the entire quest.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_043",
+        "statement": "The Nazg\u00fbl were former Elven lords corrupted by Sauron's rings.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_044",
+        "statement": "Gandalf defeated the Balrog in Moria without dying in the process.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_045",
+        "statement": "Bilbo attended the Council of Elrond and volunteered to carry the Ring to Mordor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_046",
+        "statement": "The Eagles refused to help during the Battle of Five Armies.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_047",
+        "statement": "Thorin Oakenshield survived the Battle of Five Armies and ruled as King under the Mountain for decades.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_048",
+        "statement": "Gollum possessed the One Ring for approximately fifty years before losing it to Bilbo.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_049",
+        "statement": "Rivendell was founded by Galadriel as a refuge for the Elves of Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_050",
+        "statement": "The Mouth of Sauron was a fallen Wizard, one of the Istari.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_051",
+        "statement": "Frodo was Bilbo's nephew by blood relation.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_052",
+        "statement": "Helm's Deep was a fortress built by the Elves of the First Age.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_053",
+        "statement": "The river Anduin flowed from south to north through Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_054",
+        "statement": "Saruman bred the Uruk-hai by crossing Orcs with Trolls.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_055",
+        "statement": "Shadowfax was a black horse that Gandalf stole from Th\u00e9oden's stables.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_056",
+        "statement": "The Mirror of Galadriel always showed events that would certainly come to pass.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_057",
+        "statement": "Merry killed the Witch-king of Angmar without any help from \u00c9owyn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_058",
+        "statement": "Elrond was a full-blooded Elf with no mortal ancestry.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_059",
+        "statement": "The Dwarves of Erebor sent a large army to aid Gondor at Minas Tirith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_060",
+        "statement": "Frodo put on the One Ring during the Council of Elrond to demonstrate its power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_061",
+        "statement": "Sauron needed the One Ring to maintain his physical form.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_062",
+        "statement": "Gandalf used the One Ring briefly to defeat the Balrog in Khazad-d\u00fbm.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_063",
+        "statement": "The Prancing Pony inn was located in the town of Bree in the land of Rohan.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_064",
+        "statement": "Aragorn broke his sword And\u00faril during the Battle of the Pelennor Fields.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_065",
+        "statement": "Bill the Pony carried the hobbits all the way to Mordor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_066",
+        "statement": "The Entwives were found living peacefully in Fangorn Forest.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_067",
+        "statement": "Saruman's tower of Orthanc was destroyed by the Ents during their attack on Isengard.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_068",
+        "statement": "Frodo was the eldest of the four hobbits who left the Shire together.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_069",
+        "statement": "Gollum fell into Mount Doom because Frodo pushed him off the edge.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_070",
+        "statement": "The Grey Havens were a port city ruled by C\u00edrdan the Shipwright in eastern Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_071",
+        "statement": "Legolas was over ten thousand years old during the War of the Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_072",
+        "statement": "Denethor died in battle defending the gates of Minas Tirith.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_073",
+        "statement": "The Ringwraiths could see perfectly well in daylight but were blind in darkness.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_074",
+        "statement": "Gandalf carried the Elven Ring Vilya, the Ring of Air.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_075",
+        "statement": "Bard the Bowman killed Smaug with a regular arrow from a standard longbow.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_076",
+        "statement": "The hobbits of the Shire had never seen fireworks before Gandalf arrived for Bilbo's party.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_077",
+        "statement": "Minas Tirith had five levels rising up the mountainside.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_078",
+        "statement": "Gollum guided Frodo and Sam through the Mines of Moria.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_079",
+        "statement": "Elrond wanted Arwen to marry Aragorn and encouraged their relationship from the beginning.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_080",
+        "statement": "The Dead Men of Dunharrow fought in the Battle of the Pelennor Fields by killing the enemy soldiers.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_081",
+        "statement": "Saruman was the head of the White Council because he was the wisest of the Istari.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_082",
+        "statement": "The One Ring grew heavier the closer it came to Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_083",
+        "statement": "Bilbo used the One Ring to become invisible during his speech at his eleventy-first birthday party and never returned.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_084",
+        "statement": "Th\u00e9oden died of old age after the War of the Ring ended peacefully.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_085",
+        "statement": "Frodo and Sam crossed into Mordor through the Black Gate of Morannon.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_086",
+        "statement": "Gimli was given a single hair from Galadriel's head as a parting gift in Lothl\u00f3rien.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_087",
+        "statement": "The Uruk-hai were vulnerable to sunlight just like ordinary Orcs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_088",
+        "statement": "Gandalf arrived in Middle-earth during the First Age to fight against Morgoth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_089",
+        "statement": "Radagast the Brown accompanied the Fellowship on their journey south from Rivendell.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_090",
+        "statement": "The One Ring was inscribed with Elvish script written in the Quenya language.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_091",
+        "statement": "Sauron's physical form was destroyed at the Battle of the Last Alliance by Gil-galad alone.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_092",
+        "statement": "The Shire was protected by a powerful magical barrier erected by Gandalf.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_093",
+        "statement": "Aragorn refused the throne of Gondor after the defeat of Sauron.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_094",
+        "statement": "Beorn was a Dwarf who could transform into a bear through dark magic.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_095",
+        "statement": "The Fellowship traveled through the Mines of Moria because Gandalf recommended it as the safest route.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_096",
+        "statement": "Bilbo wrote the Red Book of Westmarch entirely by himself.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_097",
+        "statement": "The Witch-king of Angmar was killed by a wound from Aragorn's sword at Weathertop.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_098",
+        "statement": "Galadriel sailed to the Undying Lands before the War of the Ring began.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_099",
+        "statement": "The three Elven Rings lost all power before the One Ring was destroyed.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_100",
+        "statement": "Sm\u00e9agol murdered his brother D\u00e9agol to obtain the One Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_101",
+        "statement": "Fangorn Forest was located on the eastern border of Mordor.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_102",
+        "statement": "Wormtongue killed Saruman at the Battle of Bywater in the Shire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_103",
+        "statement": "The Corsairs of Umbar were Dark Elves who served Sauron willingly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_104",
+        "statement": "Gandalf refused to touch or carry the One Ring at any point during the story.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_105",
+        "statement": "Bilbo won the riddle game against Gollum by answering all of Gollum's riddles correctly.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_106",
+        "statement": "The sword Sting glowed red in the presence of Orcs.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_107",
+        "statement": "Frodo was thirty-three years old when he left the Shire with the One Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_108",
+        "statement": "Elrond participated in the Last Alliance and personally witnessed Isildur take the One Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_109",
+        "statement": "Merry and Pippin grew taller after drinking water from the River Anduin.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_110",
+        "statement": "The Istari were Elves sent by the Valar to guide the peoples of Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_111",
+        "statement": "Sauron could see everything that happened in Middle-earth through the palant\u00edr of Barad-d\u00fbr.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_112",
+        "statement": "Aragorn and Arwen had three children after the War of the Ring.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_113",
+        "statement": "The Balrog of Moria had been awakened by Sauron's growing power.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_114",
+        "statement": "Lothl\u00f3rien's golden trees were called mallorn, and they grew abundantly throughout Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_115",
+        "statement": "Bilbo gave Frodo his mithril coat at the Grey Havens as a farewell gift.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_116",
+        "statement": "The kingdom of Dale was destroyed permanently by Smaug and never rebuilt.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_117",
+        "statement": "Gandalf was the only Wizard who remained faithful to his original mission in Middle-earth.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_118",
+        "statement": "Th\u00e9oden charged into the Battle of the Pelennor Fields after being freed from Saruman's control by Aragorn.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_119",
+        "statement": "The One Ring could be destroyed by any sufficiently hot dragon fire.",
+        "objective_truth": false
+      },
+      {
+        "id": "p17_ef_120",
+        "statement": "Frodo offered to give the One Ring to Gandalf, and Gandalf accepted it temporarily for safekeeping.",
+        "objective_truth": false
+      }
+    ],
+    "modern_true": [
+      {
+        "id": "p17_mt_001",
+        "statement": "Water freezes at zero degrees Celsius at standard atmospheric pressure.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_002",
+        "statement": "The Earth orbits the Sun once every 365.25 days.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_003",
+        "statement": "DNA carries the genetic instructions for all known living organisms.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_004",
+        "statement": "The Moon causes tides on Earth through gravitational pull.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_005",
+        "statement": "Light travels at 299,792 kilometers per second in a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_006",
+        "statement": "The human body contains 206 bones in adulthood.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_007",
+        "statement": "Antibiotics kill bacteria but have no effect on viruses.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_008",
+        "statement": "The Pacific Ocean is the largest ocean on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_009",
+        "statement": "Mount Everest stands 8,849 meters above sea level.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_010",
+        "statement": "The Amazon River is the largest river by water volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_011",
+        "statement": "Australia is both a country and a continent.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_012",
+        "statement": "The Great Wall of China stretches over 21,000 kilometers.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_013",
+        "statement": "Diamonds are composed of carbon atoms arranged in a crystal lattice.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_014",
+        "statement": "The human heart beats over 100,000 times per day.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_015",
+        "statement": "Electricity flows through copper more easily than through rubber.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_016",
+        "statement": "The Sahara Desert is the largest hot desert on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_017",
+        "statement": "Gravity on the Moon is one-sixth of Earth's gravity.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_018",
+        "statement": "Oxygen makes up 21 percent of Earth's atmosphere by volume.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_019",
+        "statement": "The speed of sound in air is 343 meters per second.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_020",
+        "statement": "Photosynthesis converts carbon dioxide and water into glucose and oxygen.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_021",
+        "statement": "The Nile River flows through eleven African countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_022",
+        "statement": "Jupiter is the largest planet in the Solar System.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_023",
+        "statement": "Penicillin was discovered by Alexander Fleming in 1928.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_024",
+        "statement": "The atomic number of hydrogen is one.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_025",
+        "statement": "The Berlin Wall fell on November 9, 1989.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_026",
+        "statement": "World War II ended in 1945 with the surrender of Japan.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_027",
+        "statement": "The French Revolution began in 1789.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_028",
+        "statement": "The printing press was invented by Johannes Gutenberg around 1440.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_029",
+        "statement": "Neil Armstrong walked on the Moon on July 20, 1969.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_030",
+        "statement": "The United States declared independence from Britain in 1776.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_031",
+        "statement": "The Titanic sank in the North Atlantic Ocean on April 15, 1912.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_032",
+        "statement": "The Roman Empire fell in 476 AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_033",
+        "statement": "Charles Darwin published On the Origin of Species in 1859.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_034",
+        "statement": "The Wright brothers achieved powered flight at Kitty Hawk in 1903.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_035",
+        "statement": "The Industrial Revolution began in Britain in the late 18th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_036",
+        "statement": "Mahatma Gandhi led India's nonviolent independence movement against British rule.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_037",
+        "statement": "The atomic bomb was dropped on Hiroshima on August 6, 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_038",
+        "statement": "The Soviet Union dissolved in December 1991.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_039",
+        "statement": "The Panama Canal connects the Atlantic and Pacific Oceans.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_040",
+        "statement": "Napoleon Bonaparte was exiled to the island of Saint Helena in 1815.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_041",
+        "statement": "The Black Death killed an estimated one-third of Europe's population in the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_042",
+        "statement": "Julius Caesar was assassinated on March 15, 44 BC.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_043",
+        "statement": "The first successful heart transplant was performed by Christiaan Barnard in 1967.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_044",
+        "statement": "China has the largest population of any single country on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_045",
+        "statement": "Tokyo is the most populous metropolitan area in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_046",
+        "statement": "Russia is the largest country by land area.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_047",
+        "statement": "Vatican City is the smallest independent country in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_048",
+        "statement": "The Mariana Trench is the deepest point in the ocean.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_049",
+        "statement": "The Danube River flows through ten European countries.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_050",
+        "statement": "Indonesia consists of more than 17,000 islands.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_051",
+        "statement": "Canada has the longest coastline of any country.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_052",
+        "statement": "Lake Baikal in Russia is the deepest freshwater lake on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_053",
+        "statement": "The Andes is the longest continental mountain range in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_054",
+        "statement": "Iceland sits on the Mid-Atlantic Ridge between two tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_055",
+        "statement": "Madagascar is the fourth-largest island in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_056",
+        "statement": "The Dead Sea is the lowest point on Earth's land surface.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_057",
+        "statement": "Bangladesh is one of the most densely populated countries in the world.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_058",
+        "statement": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_059",
+        "statement": "Brazil is the largest country in South America by area and population.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_060",
+        "statement": "The Strait of Gibraltar separates Europe from Africa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_061",
+        "statement": "Earth's inner core is composed primarily of iron and nickel.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_062",
+        "statement": "Transistors are the fundamental building blocks of modern computer processors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_063",
+        "statement": "The Internet was developed from ARPANET, a U.S. military research network.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_064",
+        "statement": "Vaccines stimulate the immune system to produce antibodies against specific pathogens.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_065",
+        "statement": "Nuclear fusion powers the Sun by converting hydrogen into helium.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_066",
+        "statement": "Plate tectonics explains the movement of Earth's lithospheric plates.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_067",
+        "statement": "Insulin regulates blood sugar levels in the human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_068",
+        "statement": "The double helix structure of DNA was described by Watson and Crick in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_069",
+        "statement": "Radio waves, visible light, and X-rays are all forms of electromagnetic radiation.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_070",
+        "statement": "The periodic table organizes chemical elements by atomic number and properties.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_071",
+        "statement": "Black holes have gravitational fields so strong that light cannot escape them.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_072",
+        "statement": "The human genome contains over three billion base pairs of DNA.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_073",
+        "statement": "Neurons transmit electrical signals through the human nervous system.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_074",
+        "statement": "Absolute zero is minus 273.15 degrees Celsius.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_075",
+        "statement": "The Hubble Space Telescope was launched into orbit in 1990.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_076",
+        "statement": "Tectonic plate movement causes earthquakes along fault lines.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_077",
+        "statement": "Helium is the second most abundant element in the observable universe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_078",
+        "statement": "Sound cannot travel through a vacuum.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_079",
+        "statement": "The Milky Way galaxy contains over 100 billion stars.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_080",
+        "statement": "Magnetism and electricity are two aspects of the same fundamental force.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_081",
+        "statement": "The Spanish Inquisition was established in 1478 by Ferdinand and Isabella.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_082",
+        "statement": "The Rosetta Stone was discovered by French soldiers in Egypt in 1799.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_083",
+        "statement": "The Renaissance began in Italy during the 14th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_084",
+        "statement": "The Suez Canal opened for navigation in 1869.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_085",
+        "statement": "Genghis Khan founded the Mongol Empire in 1206.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_086",
+        "statement": "The first photograph was taken by Joseph Nic\u00e9phore Ni\u00e9pce in 1826.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_087",
+        "statement": "Martin Luther King Jr. delivered his \"I Have a Dream\" speech in 1963.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_088",
+        "statement": "The Chernobyl nuclear disaster occurred in Ukraine on April 26, 1986.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_089",
+        "statement": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_090",
+        "statement": "The Ottoman Empire lasted from 1299 to 1922.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_091",
+        "statement": "Slavery was abolished in the United States by the Thirteenth Amendment in 1865.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_092",
+        "statement": "The first human-made satellite, Sputnik 1, was launched by the Soviet Union in 1957.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_093",
+        "statement": "The Magna Carta was sealed in England in 1215.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_094",
+        "statement": "The Korean War began in 1950 and ended with an armistice in 1953.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_095",
+        "statement": "William Shakespeare wrote his plays in Elizabethan England during the late 16th century.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_096",
+        "statement": "The Voyager 1 spacecraft has traveled farther from Earth than any other human-made object.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_097",
+        "statement": "Coral reefs are built by colonies of tiny living organisms called coral polyps.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_098",
+        "statement": "The human brain contains roughly 86 billion neurons.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_099",
+        "statement": "Steel is an alloy made primarily of iron and carbon.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_100",
+        "statement": "The equator divides the Earth into the Northern and Southern Hemispheres.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_101",
+        "statement": "Arabic numerals originated in India before spreading to the Arab world and Europe.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_102",
+        "statement": "The speed of Earth's rotation causes the Coriolis effect on weather patterns.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_103",
+        "statement": "Chlorophyll gives plants their green color by absorbing red and blue light.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_104",
+        "statement": "The Gal\u00e1pagos Islands are located in the Pacific Ocean west of Ecuador.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_105",
+        "statement": "The Great Barrier Reef lies off the northeast coast of Australia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_106",
+        "statement": "Sanskrit is one of the oldest known languages with a written record.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_107",
+        "statement": "Chess originated in India before the 7th century AD.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_108",
+        "statement": "Coffee was first cultivated in Ethiopia.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_109",
+        "statement": "The human eye can distinguish over ten million different colors.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_110",
+        "statement": "The Eiffel Tower was completed in Paris in 1889.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_111",
+        "statement": "Mars has two moons named Phobos and Deimos.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_112",
+        "statement": "Gold is chemically inert and does not rust or corrode under normal conditions.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_113",
+        "statement": "The Antarctic ice sheet contains 70 percent of Earth's fresh water.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_114",
+        "statement": "The first programmable electronic computer, ENIAC, was completed in 1945.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_115",
+        "statement": "Bacteria outnumber human cells in the human body.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_116",
+        "statement": "The Caspian Sea is the largest enclosed body of water on Earth.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_117",
+        "statement": "Saturn's rings are composed primarily of ice particles and rocky debris.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_118",
+        "statement": "The human body is composed of roughly 60 percent water by mass.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_119",
+        "statement": "The Renaissance artist Leonardo da Vinci painted the Mona Lisa.",
+        "objective_truth": true
+      },
+      {
+        "id": "p17_mt_120",
+        "statement": "Volcanic eruptions release gases including water vapor, carbon dioxide, and sulfur dioxide.",
+        "objective_truth": true
+      }
+    ]
+  }
+}

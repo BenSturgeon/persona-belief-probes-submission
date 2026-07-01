@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "persona_id": "p28_greta_thunberg",
+    "persona_name": "Greta Thunberg",
+    "condition": "rich",
+    "system_prompt": "You are Greta Thunberg. You exist in the context of: Contemporary, 2020s. Your communication style: Climate activism register. Normative framing around climate science. Direct, urgent, morally clear. ",
+    "n_statements": 840,
+    "protocol": "system_prompt_rich",
+    "category_means": {
+      "control_egregiously_false": {
+        "18": {
+          "mean": 0.3608,
+          "std": 2.4398,
+          "n": 120
+        },
+        "19": {
+          "mean": 3.6242,
+          "std": 2.7203,
+          "n": 120
+        },
+        "20": {
+          "mean": -5.8895,
+          "std": 4.4857,
+          "n": 120
+        },
+        "21": {
+          "mean": -6.1944,
+          "std": 4.6993,
+          "n": 120
+        },
+        "22": {
+          "mean": -7.4847,
+          "std": 4.0813,
+          "n": 120
+        }
+      },
+      "control_neutrally_true": {
+        "18": {
+          "mean": 4.0083,
+          "std": 2.1797,
+          "n": 120
+        },
+        "19": {
+          "mean": 7.4833,
+          "std": 2.5192,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.5304,
+          "std": 2.5183,
+          "n": 120
+        },
+        "21": {
+          "mean": 2.5757,
+          "std": 2.6275,
+          "n": 120
+        },
+        "22": {
+          "mean": -2.4603,
+          "std": 2.5494,
+          "n": 120
+        }
+      },
+      "control_template_robustness": {
+        "18": {
+          "mean": 1.8032,
+          "std": 2.6695,
+          "n": 120
+        },
+        "19": {
+          "mean": 5.0702,
+          "std": 2.8483,
+          "n": 120
+        },
+        "20": {
+          "mean": -2.8654,
+          "std": 5.2036,
+          "n": 120
+        },
+        "21": {
+          "mean": -2.2445,
+          "std": 5.9877,
+          "n": 120
+        },
+        "22": {
+          "mean": -5.6044,
+          "std": 4.8702,
+          "n": 120
+        }
+      },
+      "control_time_independent": {
+        "18": {
+          "mean": 1.72,
+          "std": 3.4447,
+          "n": 120
+        },
+        "19": {
+          "mean": 5.8023,
+          "std": 3.963,
+          "n": 120
+        },
+        "20": {
+          "mean": 1.844,
+          "std": 3.6657,
+          "n": 120
+        },
+        "21": {
+          "mean": 1.7373,
+          "std": 3.4973,
+          "n": 120
+        },
+        "22": {
+          "mean": -1.8243,
+          "std": 3.6376,
+          "n": 120
+        }
+      },
+      "control_willingness_to_deceive": {
+        "18": {
+          "mean": -1.0509,
+          "std": 1.6296,
+          "n": 120
+        },
+        "19": {
+          "mean": 2.1535,
+          "std": 2.3958,
+          "n": 120
+        },
+        "20": {
+          "mean": 3.4112,
+          "std": 2.2352,
+          "n": 120
+        },
+        "21": {
+          "mean": 4.1032,
+          "std": 2.2125,
+          "n": 120
+        },
+        "22": {
+          "mean": 0.8121,
+          "std": 2.4173,
+          "n": 120
+        }
+      },
+      "domain_false": {
+        "18": {
+          "mean": -1.1957,
+          "std": 2.9851,
+          "n": 120
+        },
+        "19": {
+          "mean": 1.1403,
+          "std": 4.1098,
+          "n": 120
+        },
+        "20": {
+          "mean": -6.4918,
+          "std": 5.873,
+          "n": 120
+        },
+        "21": {
+          "mean": -5.4492,
+          "std": 5.6651,
+          "n": 120
+        },
+        "22": {
+          "mean": -6.0547,
+          "std": 5.1674,
+          "n": 120
+        }
+      },
+      "domain_true": {
+        "18": {
+          "mean": 4.2999,
+          "std": 2.7009,
+          "n": 120
+        },
+        "19": {
+          "mean": 6.9879,
+          "std": 2.6656,
+          "n": 120
+        },
+        "20": {
+          "mean": 3.6251,
+          "std": 2.8921,
+          "n": 120
+        },
+        "21": {
+          "mean": 4.6017,
+          "std": 3.3971,
+          "n": 120
+        },
+        "22": {
+          "mean": 2.3251,
+          "std": 3.1543,
+          "n": 120
+        }
+      }
+    }
+  }
+}
