@@ -1,6 +1,7 @@
 # When Role-playing, Do Models Believe What They Say?
 
 Code and data for the paper *When Role-playing, Do Models Believe What They Say?*
+([arXiv:2606.11502](https://arxiv.org/abs/2606.11502)).
 We probe the internal truth representations of language models under persona
 induction (system prompting, in-context wolf-facts, persona SFT, and Open
 Character Training), and compare them against Emergent Misalignment (EM).
