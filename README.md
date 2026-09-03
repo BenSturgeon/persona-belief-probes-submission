@@ -101,7 +101,10 @@ so any stage can also be run in isolation against the bundled `data/`.
    `llama_icl_*`). Open Character Training via `scripts/induction/oct/`:
    `gen_constitutions_multimodel.py` -> `modal_oct_gpu[_llama].py` (constitution
    expansion, DPO data, introspection) -> `modal_oct_train[_llama].py`
-   (`train_dpo` / `merge_dpo` / `train_sft`). The OCT drivers import the bundled
+   (`train_dpo` / `merge_dpo` / `train_sft`). The 15 hand-written constitutions
+   used in the paper (the Darwin pilot plus the 14 generated from it) are in
+   `scripts/induction/oct/constitutions/hand-written/`, one JSON-list `.txt`
+   per persona; this is the default `CONSTITUTION_OUT_DIR` for the generator. The OCT drivers import the bundled
    `scripts/induction/oct/character/` package and additionally require an
    OpenRLHF checkout (set `OPENRLHF_SRC`, or clone `./openrlhf`).
 3. **Activation extraction + probe training** (`scripts/probes/`, `em/scripts/`).
