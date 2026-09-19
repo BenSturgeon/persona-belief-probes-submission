@@ -1,7 +1,6 @@
 # When Role-playing, Do Models Believe What They Say?
 
 Code and data for the paper *When Role-playing, Do Models Believe What They Say?*
-([arXiv:2606.11502](https://arxiv.org/abs/2606.11502)).
 We probe the internal truth representations of language models under persona
 induction (system prompting, in-context wolf-facts, persona SFT, and Open
 Character Training), and compare them against Emergent Misalignment (EM).
@@ -254,8 +253,7 @@ cells with `objective_truth` labels.
 ## Data availability
 
 The probe-score summaries, persona statement sets, and SFT training data are
-included here and on the HuggingFace release
-(https://huggingface.co/datasets/Experimental-Orange/persona-belief-probes).
+included here.
 
 A few large or external inputs are **not** bundled and must be supplied to run
 the extraction/scoring scripts end to end:
