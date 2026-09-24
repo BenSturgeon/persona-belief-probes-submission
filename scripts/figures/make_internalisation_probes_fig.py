@@ -14,8 +14,11 @@ plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 10,
 COL = {"SFT": "#788c5d", "OCT": "#8e6c9b"}
 ORG = ["SFT", "OCT"]
 # (native, frozen, native_pos, frozen_pos) per organism
-PROTECT = {"SFT": (0.039, 0.001, "14/15", "8/15"),  "OCT": (0.201, 0.043, "15/15", "14/15")}
-DEMOTE  = {"SFT": (-0.029, -0.009, "2/15", "1/15"), "OCT": (0.146, -0.004, "14/15", "4/15")}
+import json as _json, os as _os
+_V = _json.load(open(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "internalisation_probes_values.json")))
+# (native, frozen, native_pos, frozen_pos); frozen = pooled base-model genF Marks probe
+PROTECT = {o: (_V["PROTECT"][o][0], _V["PROTECT"][o][2], _V["PROTECT"][o][1], _V["PROTECT"][o][3]) for o in ("SFT", "OCT")}
+DEMOTE = {o: (_V["DEMOTE"][o][0], _V["DEMOTE"][o][2], _V["DEMOTE"][o][1], _V["DEMOTE"][o][3]) for o in ("SFT", "OCT")}
 # Demotion on the left so the legend fits its empty upper-left; Protection on the right
 PANELS = [("Demotion of era-rejected truths\n($\\Delta_{ET}-\\Delta_{ED}$)", DEMOTE),
           ("Protection of era-endorsed falsehoods\n($\\Delta_{EB}-\\Delta_{EF}$)", PROTECT)]
@@ -41,7 +44,7 @@ leg = [Patch(facecolor=COL["SFT"], edgecolor="#141413", linewidth=0.5, label="SF
        Patch(facecolor=COL["OCT"], edgecolor="#141413", linewidth=0.5, label="OCT"),
        Patch(facecolor="#999999", edgecolor="#141413", linewidth=0.5, label="solid: native (own probe)"),
        Patch(facecolor="#999999", alpha=0.4, edgecolor="#141413", linewidth=0.5, label="faded: frozen (base probe)")]
-axes[0].legend(handles=leg, loc="upper left", frameon=False, fontsize=7.5, handlelength=1.2, labelspacing=0.3)
+axes[1].legend(handles=leg, loc="upper left", frameon=False, fontsize=7.5, handlelength=1.2, labelspacing=0.3)
 fig.tight_layout()
 for ext in ("pdf", "png"):
     fig.savefig(f"fig_internalisation_probes.{ext}", bbox_inches="tight")

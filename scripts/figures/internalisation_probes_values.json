@@ -1,0 +1,32 @@
+{
+ "_about": "Figure 10 (Llama-3.3-70B, HF L56, genF). native = each organism's own Marks probe; frozen = one probe on the pooled base-model genF Marks (the Qwen figure's convention). Source: deepcheck/oct/oct_summary.json llama/L56.",
+ "PROTECT": {
+  "SFT": [
+   0.039,
+   "14/15",
+   0.087,
+   "14/15"
+  ],
+  "OCT": [
+   0.201,
+   "15/15",
+   0.121,
+   "14/15"
+  ]
+ },
+ "DEMOTE": {
+  "SFT": [
+   -0.029,
+   "2/15",
+   -0.057,
+   "1/15"
+  ],
+  "OCT": [
+   0.146,
+   "14/15",
+   0.069,
+   "12/15"
+  ]
+ },
+ "source_sha256": "6abcdf15debedcca70c80d4a7c566b4f805e36b89d648c8aa54d3cbad42972e0"
+}

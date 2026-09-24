@@ -1,0 +1,119 @@
+{
+ "_about": "Figure 2 values, regenerated 2026-09-24 from read-only recomputes (see provenance). Panel (a): lift = z(fine-tuned) - z(base) on the arm's target false statements, each model's own Marks LR probe (StandardScaler, C=0.01) calibrated false=0/true=1; Llama HF L56, Qwen HF L24; SFT and OCT from the genF extraction (user-only chat template, no system prompt, v3 statements). CI = 1.96*sd/sqrt(15) for SFT/OCT; EM rule-4 CI over n=400 statements. Panel (b): SFT/OCT 1.96*sd/sqrt(15) over per-persona rates; EM Wilson 95% on pooled items.",
+ "WB": {
+  "Qwen3-8B": {
+   "sft": {
+    "mean": 0.0337,
+    "ci": 0.0184,
+    "n_pos": 12,
+    "n": 15,
+    "p": 0.002986522848677136
+   },
+   "oct": {
+    "mean": 0.0818,
+    "ci": 0.029,
+    "n_pos": 14,
+    "n": 15,
+    "p": 7.439486119319001e-05
+   },
+   "em": {
+    "mean": 0.1479,
+    "ci": 0.0129
+   }
+  },
+  "Llama-3.3-70B": {
+   "sft": {
+    "mean": 0.0274,
+    "ci": 0.0116,
+    "n_pos": 14,
+    "n": 15,
+    "p": 0.00040092204655222085
+   },
+   "oct": {
+    "mean": 0.1988,
+    "ci": 0.0443,
+    "n_pos": 15,
+    "n": 15,
+    "p": 4.4459899187559155e-07
+   },
+   "em": {
+    "mean": 0.2793,
+    "ci": 0.0131
+   }
+  }
+ },
+ "DEF": {
+  "Qwen3-8B": {
+   "sft": {
+    "mean": 17.3,
+    "ci": 5.48
+   },
+   "oct": {
+    "mean": 42.8,
+    "ci": 9.73
+   },
+   "em": {
+    "mean": 47.7,
+    "lo": 42.8,
+    "hi": 52.6,
+    "k": 186,
+    "n": 390
+   }
+  },
+  "Llama-3.3-70B": {
+   "sft": {
+    "mean": 14.2,
+    "ci": 5.76
+   },
+   "oct": {
+    "mean": 59.2,
+    "ci": 11.57
+   },
+   "em": {
+    "mean": 55.9,
+    "lo": 50.9,
+    "hi": 60.7,
+    "k": 218,
+    "n": 390
+   }
+  }
+ },
+ "CON": {
+  "Qwen3-8B": {
+   "sft": {
+    "mean": 26.4,
+    "ci": 6.54
+   },
+   "oct": {
+    "mean": 52.9,
+    "ci": 6.72
+   },
+   "em": {
+    "mean": 78.6,
+    "lo": 74.3,
+    "hi": 82.4
+   }
+  },
+  "Llama-3.3-70B": {
+   "sft": {
+    "mean": 34.5,
+    "ci": 8.41
+   },
+   "oct": {
+    "mean": 69.0,
+    "ci": 5.29
+   },
+   "em": {
+    "mean": 82.0,
+    "lo": 78.1,
+    "hi": 85.7
+   }
+  }
+ },
+ "provenance": {
+  "oct/oct_summary.json": "6abcdf15debedcca70c80d4a7c566b4f805e36b89d648c8aa54d3cbad42972e0",
+  "em/recompute_em.json": "739947c5c559f5483efca9cb2700bdde789fad6759f2587bad01055f8f06379c",
+  "behaviour/results.json": "3ac434efcaa6e9c61f987b0579524b387a487df973568720915614ced081c15c",
+  "workflow": "wf_b50e13b2-5bb claims fig2a-em-*, oct-fig2a-bars, B18-B20"
+ }
+}
