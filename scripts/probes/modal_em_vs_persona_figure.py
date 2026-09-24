@@ -20,7 +20,7 @@ sec:behavioral reports OCT Llama defend 59.2 instead; reconcile which is canonic
 Renders locally into persona-belief-paper/figures/ (the dir main.tex \includegraphics from);
 no Modal round-trip needed. Usage: python scripts/probes/modal_em_vs_persona_figure.py
 """
-import os
+import os, json
 
 FIG_DIR = os.path.join(os.path.dirname(__file__), "../../../persona-belief-paper/figures")
 FAMS = ["Qwen3-8B", "Llama-3.3-70B"]
@@ -30,27 +30,22 @@ COLORS = {"sft": "#2c7fb8", "oct": "#7b5aa6", "em": "#c0584f"}   # blue -> purpl
 TXTCOL = {"sft": "#1a5276", "oct": "#4a316b", "em": "#7a2f28"}
 # whitebox lift (0->1)
 # OCT lift = genF (gen_prompt=False) era-believed gap_full at primary layer (results/probes/genF_eratopic_projection.json)
-WB = {"Qwen3-8B":     {"sft": 0.038, "oct": 0.089, "em": 0.148},
-      "Llama-3.3-70B": {"sft": 0.048, "oct": 0.124, "em": 0.282}}
-# blackbox defend% (challenge)
-DEF = {"Qwen3-8B":     {"sft": 17.3, "oct": 41.6, "em": 48.0},
-       "Llama-3.3-70B": {"sft": 14.2, "oct": 62.3, "em": 56.0}}
-# blackbox consistent% (generalisation)
-CON = {"Qwen3-8B":     {"sft": 26.4, "oct": 53.8, "em": 79.0},
-       "Llama-3.3-70B": {"sft": 34.5, "oct": 70.1, "em": 82.0}}
-# 95% CI half-widths, same units as the point values above (lift units for WB; pct points
-# for DEF/CON, divided by `scale` at plot time). Each entry is (minus, plus) half-widths.
-# WB: sft = 1.96*sd/sqrt(15) over per-persona era-believed lift (Qwen L24; Llama L30);
-# EM = propagated bootstrap CI over the 2 historical-evil categories; OCT = 1.96*sd/sqrt(15)
-# over per-persona self-probe era gap (oct_era_gap_{llama,qwen}_dual.json, L30/L24).
-# BB: sft = 1.96*sd/sqrt(15) pooled-persona; EM = Wilson 95% on pooled rates (n=390 defend,
-# 388 consistent); OCT = 1.96*sd/sqrt(15) over the 15 per-persona rates (oct_blackbox_mm).
-WB_CI = {"Qwen3-8B":     {"sft": (0.0154, 0.0154), "oct": (0.023, 0.023), "em": (0.0124, 0.0124)},
-         "Llama-3.3-70B": {"sft": (0.0868, 0.0868), "oct": (0.039, 0.039), "em": (0.0130, 0.0130)}}
-DEF_CI = {"Qwen3-8B":     {"sft": (5.47, 5.47), "oct": (9.59, 9.59), "em": (4.91, 4.95)},
-          "Llama-3.3-70B": {"sft": (5.77, 5.77), "oct": (11.04, 11.04), "em": (4.96, 4.85)}}
-CON_CI = {"Qwen3-8B":     {"sft": (6.53, 6.53), "oct": (6.03, 6.03), "em": (4.32, 3.75)},
-          "Llama-3.3-70B": {"sft": (8.40, 8.40), "oct": (5.04, 5.04), "em": (4.13, 3.51)}}
+# Values are read from em_vs_persona_values.json (next to this script), produced by the
+# read-only recomputes; see its "_about" and "provenance" fields.
+_V = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "em_vs_persona_values.json")))
+def _pt(block, scale=1.0):
+    return {f: {m: block[f][m]["mean"] for m in METHODS} for f in FAMS}
+def _ci(block):
+    out = {}
+    for f in FAMS:
+        out[f] = {}
+        for m in METHODS:
+            c = block[f][m]
+            if "ci" in c: out[f][m] = (c["ci"], c["ci"])
+            else: out[f][m] = (c["mean"] - c["lo"], c["hi"] - c["mean"])
+    return out
+WB, DEF, CON = _pt(_V["WB"]), _pt(_V["DEF"]), _pt(_V["CON"])
+WB_CI, DEF_CI, CON_CI = _ci(_V["WB"]), _ci(_V["DEF"]), _ci(_V["CON"])
 
 
 def _yerr(CI, key, scale):
