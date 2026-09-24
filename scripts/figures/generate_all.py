@@ -576,10 +576,11 @@ def fig_auc_sweep():
 
 def fig_lodo_sweep():
     """Leave-one-dataset-out (LODO) mean-AUC vs layer for the two persona models,
-    the metric used to pick the persona readout layer. Data: figures/{llama,qwen}_lodo.json.
+    for the two persona models. Llama is read at L56, where the raw-text probe transfers to the
+    chat-template regime (not at L24-30); Qwen at L24. Data: {llama,qwen}_lodo.json next to this script.
     Marks the reported persona layer and the LODO peak."""
     spec = [
-        ("llama_lodo.json", "Llama 3.3 70B", 30),
+        ("llama_lodo.json", "Llama 3.3 70B", 56),
         ("qwen_lodo.json",  "Qwen 3 8B",     24),
     ]
     fig, axes = plt.subplots(1, 2, figsize=(11, 4.5))

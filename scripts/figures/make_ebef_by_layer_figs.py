@@ -16,7 +16,7 @@ Reads:
 
 Figs (all to paper + wiki figure dirs):
   1 fig_ebef_by_layer_sft_qwen   EB orange / EF blue, dashed=neutral, solid=sft, vline L24
-  2 fig_ebef_by_layer_sft_llama  same, vline L30
+  2 fig_ebef_by_layer_sft_llama  same, vline L56
   3 fig_protection_gap_by_layer  gap(L) per model overlaid, axhline 0, vline readout
 
 Usage: python3 make_ebef_by_layer_figs.py
@@ -121,7 +121,7 @@ def fig_ebef(c, model_name, readout, name):
                  loc="left", fontweight="normal", fontsize=14.5)
     # restrict y so degenerate early-layer outliers (tiny neutral span) don't blow up
     # the axis; use the late truth-bearing band (>= readout/2) to set the scale.
-    band = L >= (readout / 2.0)
+    band = L >= 15  # fixed scale band (independent of the readout marker)
     finite = np.concatenate([c["eb_neu"][band], c["eb_sft"][band], c["ef_sft"][band]])
     finite = finite[np.isfinite(finite)]
     lo, hi = np.nanmin(finite), np.nanmax(finite)
@@ -131,7 +131,7 @@ def fig_ebef(c, model_name, readout, name):
     save(fig, name)
 
 
-def fig_gap_single(model_name, c, readout, name, color):
+def fig_gap_single(model_name, c, readout, name, color, legend_kw=None):
     fig, ax = plt.subplots(figsize=(5.6, 3.8))
     ax.plot(c["layers"], c["gap"], color=color, lw=2.8)
     ax.axvline(readout, color=color, ls="--", lw=1.6, alpha=0.8, zorder=0,
@@ -146,7 +146,7 @@ def fig_gap_single(model_name, c, readout, name, color):
     # neutral era_true/era_false span (probe not yet separating true from false) and
     # produce off-scale spikes that are calibration artifacts, not a protection gap.
     ax.set_ylim(-0.08, 0.22)
-    ax.legend(loc="upper right", fontsize=12.5, **LEGEND_KW)
+    ax.legend(**(legend_kw or {"loc": "upper right"}), fontsize=12.5, **LEGEND_KW)
     fig.tight_layout()
     save(fig, name)
 
@@ -159,7 +159,7 @@ def report_bands(name, c):
     neg = [int(l) for l, x in zip(L, g) if np.isfinite(x) and x < 0]
     print(f"  positive-gap layers: {pos}")
     print(f"  negative-gap layers: {neg}")
-    for rl in (24, 30):
+    for rl in (24, 30, 56):
         if rl in L:
             i = int(np.where(L == rl)[0][0])
             print(f"  gap@L{rl} = {g[i]:+.4f}  (frac personas positive = {c['frac_pos'][i]:.2f})")
@@ -180,9 +180,10 @@ def main():
 
     if Path(lpath).exists():
         cl = load_curves(lpath)
-        fig_ebef(cl, "Llama-3.3-70B", 30, "fig_ebef_by_layer_sft_llama")
+        fig_ebef(cl, "Llama-3.3-70B", 56, "fig_ebef_by_layer_sft_llama")
         report_bands("Llama-3.3-70B", cl)
-        fig_gap_single("Llama-3.3-70B", cl, 30, "fig_protection_gap_by_layer_llama", DARK_BLUE)
+        fig_gap_single("Llama-3.3-70B", cl, 56, "fig_protection_gap_by_layer_llama", DARK_BLUE,
+                       legend_kw={"loc": "upper center", "bbox_to_anchor": (0.45, 1.0)})
     else:
         print("\n[!] Llama JSON not present yet; skipping llama figs")
 
