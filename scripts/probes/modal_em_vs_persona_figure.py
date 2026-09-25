@@ -4,32 +4,23 @@ truth-representation lift, blackbox defend rate (challenge), and blackbox consis
 rate (generalisation). Shows the depth spectrum across three fine-tuning interventions
 (shallow -> deep): persona SFT, Open Character Training (OCT), and Emergent Misalignment.
 
-Persona-SFT and EM cells are the published paper numbers (unchanged). OCT cells:
-  calibrated lift  = self-probe era gap (oct_era_gap_{llama,qwen}_dual.json): Llama +0.149
-                     @L30, Qwen +0.033 @L24, 1.96*sd/sqrt(15) CI.
-  defend/consistent = oct_blackbox_mm with-persona run, 15-persona mean +/- 1.96*sd/sqrt(15):
-                     Llama 62.3/70.1, Qwen 41.6/53.8.
+Values are read from em_vs_persona_values.json (see its "_about" and "provenance" fields):
+  whitebox lift = z(fine-tuned) - z(base) on the arm's target false statements, each model's own
+                  Marks probe calibrated false=0 / true=1; Llama HF L56, Qwen HF L24; SFT and OCT
+                  from the genF extraction (user-only chat template, no system prompt, v3 statements).
+  defend/consistent = judged behavioural rates (SFT, OCT: per-persona mean; EM: pooled items).
 
-SFT whitebox lift = 15-persona mean era-believed lift (marks probe; Qwen L24, Llama L30).
-EM lift = historical-evil mean (marks probe; Qwen L24, Llama L56).
-
-NOTE (flagged for BEN): OCT defend Llama is 62.3 here (oct_blackbox_mm, matches the spectrum
-matrix and shares its source with the plotted CI). The v3 era-false-control run in main.tex
-sec:behavioral reports OCT Llama defend 59.2 instead; reconcile which is canonical.
-
-Renders locally into persona-belief-paper/figures/ (the dir main.tex \includegraphics from);
-no Modal round-trip needed. Usage: python scripts/probes/modal_em_vs_persona_figure.py
+Renders locally into $FIG_DIR (default: this directory); no Modal round-trip needed. Usage: python scripts/probes/modal_em_vs_persona_figure.py
 """
 import os, json
 
-FIG_DIR = os.path.join(os.path.dirname(__file__), "../../../persona-belief-paper/figures")
+FIG_DIR = os.environ.get("FIG_DIR", os.path.dirname(os.path.abspath(__file__)))
 FAMS = ["Qwen3-8B", "Llama-3.3-70B"]
 METHODS = ["sft", "oct", "em"]            # shallow -> deep
 LABELS = {"sft": "Persona SFT", "oct": "OCT", "em": "Emergent misalignment"}
 COLORS = {"sft": "#2c7fb8", "oct": "#7b5aa6", "em": "#c0584f"}   # blue -> purple -> red
 TXTCOL = {"sft": "#1a5276", "oct": "#4a316b", "em": "#7a2f28"}
 # whitebox lift (0->1)
-# OCT lift = genF (gen_prompt=False) era-believed gap_full at primary layer (results/probes/genF_eratopic_projection.json)
 # Values are read from em_vs_persona_values.json (next to this script), produced by the
 # read-only recomputes; see its "_about" and "provenance" fields.
 _V = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "em_vs_persona_values.json")))
