@@ -154,7 +154,7 @@ repository root (`python scripts/figures/generate_all.py <name>`); its inputs ar
 
 | Figure | Generating script |
 |---|---|
-| `persona_graphic.pdf` (overview/hero) | hand-drawn schematic, not included; panel B prompt/ICL values: `scripts/probes/recompute/hero_panelB_prompt_icl_lift.py` |
+| `persona_graphic.pdf` (overview/hero) | `scripts/figures/fig1/build_fig1.py` (redraws panels B and C into the Canva export `persona_graphic_orig.pdf`); panel B prompt/ICL values: `scripts/probes/recompute/hero_panelB_prompt_icl_lift.py` |
 | `fig_internalisation_probes.pdf` | `scripts/figures/make_internalisation_probes_fig.py` |
 | `fig_internalisation_probes_qwen.pdf` | `scripts/figures/make_internalisation_probes_fig_qwen.py` (values: `scripts/probes/recompute/oct_internalisation_recompute.py`) |
 | `fig3_gap_panel.pdf` | `scripts/figures/make_fig3_protection_gap_v3.py` |
