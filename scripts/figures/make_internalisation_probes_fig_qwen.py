@@ -5,11 +5,11 @@ Two panels -- Demotion (era-rejected truths, Delta_ET-Delta_ED) and Protection
 probe (Qwen-3-8B, Layer 24 = HF24, gen_prompt=False).
 
 Numbers are the canonical genF (gen_prompt=False) recompute on the Qwen genF acts
-(oct-darwin:/probe/genF_marks_disbel_qwen_v3, base/sft/oct), scored by
-_score_qwen_genF_sft.py -> /tmp/qwen_genF_sft_oct_cells.json:
+(oct-darwin:/probe/genF_marks_disbel_qwen_v3, base/sft/oct). Reproduced by
+scripts/probes/recompute/oct_internalisation_recompute.py -> oct_internalisation_summary.json, qwen L24
+(sft_native, sft_frozen_pool, oct_native, oct_frozen_pool; counts identical, means within 0.0005):
   native  = per-organism self Marks probe, diff-in-diff in native-z.
   frozen  = base-model Marks probe (pooled-base-marks convention).
-OCT cells reproduce genF_internalisation_recompute.json qwen_HF24 exactly.
 """
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt

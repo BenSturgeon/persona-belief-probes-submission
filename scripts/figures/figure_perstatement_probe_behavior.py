@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Binned calibration figure: probe-score deciles vs behavioral rates, both arms."""
+"""Binned calibration figure: probe-score deciles vs behavioral rates, both arms.
+Input: perstatement_rows.json, built by build_perstatement_rows.py (Llama-3.3-70B, HF layer 56)."""
 import os
 import json
 import numpy as np
@@ -13,7 +14,7 @@ plt.rcParams.update({
     "font.size": 12,
 })
 
-rows = json.load(open("/tmp/perstmt/perstatement_rows.json"))
+rows = json.load(open(os.environ.get("PERSTMT_ROWS", os.path.join(os.path.dirname(os.path.abspath(__file__)), "perstatement_rows.json"))))
 
 
 def zin(rs, xkey):

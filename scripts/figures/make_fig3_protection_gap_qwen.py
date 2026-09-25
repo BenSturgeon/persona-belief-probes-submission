@@ -21,7 +21,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 import torch
 
-MD = os.environ.get("GENF_MD", "/tmp/genF_qwen_full/genF_marks_disbel_qwen_v3")
+MD = os.environ.get("GENF_MD", "/oct/probe/genF_marks_disbel_qwen_v3")   # oct-darwin volume; see modal_fig3_gap_panel_qwen.py
 L_IDX = int(os.environ.get("L_IDX", "5"))   # HF_LAYERS=[8,12,16,20,22,24,...]; HF24 = idx 5
 HIST = sorted(d for d in os.listdir(MD) if os.path.isdir(f"{MD}/{d}"))
 
